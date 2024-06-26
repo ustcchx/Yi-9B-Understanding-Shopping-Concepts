@@ -52,7 +52,7 @@
     <td class="tg-0pky">---</td>
     <td class="tg-0pky">13.03</td>
     <td class="tg-0pky">10.55</td>
-    <td class="tg-0pky">34.659%</td>
+    <td class="tg-0pky">34.66%</td>
     <td class="tg-0pky">1.028</td>
   </tr>
   <tr>
