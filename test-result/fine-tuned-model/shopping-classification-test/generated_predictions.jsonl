@@ -1,0 +1,64 @@
+{"label": "Average\n\n", "predict": "Struggles to pick up pet hair"}
+{"label": "Positive", "predict": "Positive"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "negative", "predict": "negative"}
+{"label": "mixed", "predict": "Positive"}
+{"label": ": Positive", "predict": "Positive"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "Yes\n\n", "predict": "Yes"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "Mixed\n\n", "predict": "Positive"}
+{"label": ": 4\n\n", "predict": "4"}
+{"label": "Positive", "predict": "Positive"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "No", "predict": "\"No, I would not recommend it to a friend who prioritizes quiet operation.\""}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "Electronics", "predict": "Home & Kitchen"}
+{"label": "Clothing\n\n", "predict": "Clothing"}
+{"label": "Yes\n\n", "predict": "Yes"}
+{"label": "Sentiment: Mixed (Positive for camera, battery, design; Negative for software lag)", "predict": "Positive"}
+{"label": "Neutral", "predict": "Positive"}
+{"label": "Battery Life", "predict": "battery life"}
+{"label": "Beauty\n\n", "predict": "Beauty"}
+{"label": "Casual Summer Shirt", "predict": "Linen Summer Dress"}
+{"label": "Positive", "predict": "5"}
+{"label": "Negative\n\n", "predict": "Negative"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "Yes", "predict": "Yes"}
+{"label": "1", "predict": "3"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": ": 5\n\n", "predict": "4"}
+{"label": "beauty\n\n", "predict": "beauty"}
+{"label": "a) Yes\n\n", "predict": "a"}
+{"label": "Electronics", "predict": "Home & Kitchen"}
+{"label": "Negative\n\n", "predict": "Negative"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "Mixed\n\n", "predict": "Positive"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "2) Electronic Device, 3) Kitchen Utensil", "predict": "1"}
+{"label": "positive\n\n", "predict": "positive"}
+{"label": "Positive", "predict": "Positive"}
+{"label": "Electronics\n\n", "predict": "Electronics"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "Laptop 1", "predict": "Laptop 1"}
+{"label": "2\n\n", "predict": "2"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "Coffee Maker\n\n", "predict": "Coffee Maker"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "Electronics", "predict": "Electronics"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "Coffee Maker", "predict": "Home Appliances"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "\"Electronics: 2, 4\nClothing: 1, 3\"", "predict": "Electronics: 2, 4\nClothing: 1, 3"}
+{"label": "Sports Equipment\n\n", "predict": "Clothing"}
+{"label": "Skincare\n", "predict": "Skincare"}
+{"label": "Average\n\n", "predict": "Struggles to pick up pet hair"}
+{"label": "Positive", "predict": "Positive"}
+{"label": "Positive\n\n", "predict": "Positive"}
+{"label": "negative", "predict": "negative"}
+{"label": "mixed", "predict": "positive"}
+{"label": ": Positive", "predict": "Positive"}

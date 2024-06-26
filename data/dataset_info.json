@@ -1,0 +1,78 @@
+{
+  "post-pre-train-data": {
+    "file_name": "post-pre-train-data.json",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "SFT-shopping-data": {
+    "file_name": "SFT-shopping-data.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "query": "input",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "shopping-classification-test": {
+    "file_name": "shopping-classification-test.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "query": "input",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "shopping-multiple_choice-test": {
+    "file_name": "shopping-multiple_choice-test.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "query": "input",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "shopping-named_entity_recognition-test": {
+    "file_name": "shopping-named_entity_recognition-test.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "query": "input",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "shopping-ranking-test": {
+    "file_name": "shopping-ranking-test.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "query": "input",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "shopping-retrieval-test": {
+    "file_name": "shopping-retrieval-test.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "query": "input",
+      "system": "system",
+      "history": "history"
+    }
+  },
+  "shopping-generation-test": {
+    "file_name": "shopping-generation-test.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "query": "input",
+      "system": "system",
+      "history": "history"
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{"label": "1", "predict": "1"}
+{"label": "2", "predict": "2"}
+{"label": "2", "predict": "1"}
+{"label": "0\n\n", "predict": "0"}
+{"label": "3", "predict": "3"}
+{"label": "0, 1\n\n", "predict": "1"}
+{"label": "A) Kitchen Appliances\n\n", "predict": "A"}
+{"label": "1\n\n", "predict": "1"}
+{"label": "D. Very Satisfied", "predict": "D"}
+{"label": "1\n\n", "predict": "1"}
+{"label": "2", "predict": "2"}
+{"label": "2", "predict": "2"}
+{"label": "1\n\n", "predict": "1"}
+{"label": "1\n\n", "predict": "1"}
+{"label": "2", "predict": "2"}
+{"label": "1", "predict": "0"}
+{"label": "A. Yes", "predict": "A"}
+{"label": "Home & Kitchen", "predict": "Refrigerator Organizers"}
+{"label": "1", "predict": "1"}
+{"label": "0", "predict": "0"}
+{"label": "A\n\n", "predict": "A"}
+{"label": "0", "predict": "0"}
+{"label": "2\n\n", "predict": "2"}
+{"label": "0", "predict": "0"}
+{"label": "3", "predict": "2"}
+{"label": "2\n\n", "predict": "2"}
+{"label": "1", "predict": "1"}
+{"label": "1", "predict": "1"}
+{"label": "1\n\n", "predict": "1"}
+{"label": "2", "predict": "2"}
+{"label": "1", "predict": "1"}
+{"label": "1\n\n", "predict": "1"}
+{"label": "1\n\n", "predict": "1"}
+{"label": "2. Men's Clothing\n\n", "predict": "2"}
+{"label": "1, 3", "predict": "3"}
+{"label": "B\n\n", "predict": "B"}
+{"label": "1", "predict": "1"}
+{"label": "1\n\n", "predict": "1"}
+{"label": "2\n\n", "predict": "2"}
+{"label": "1, 3", "predict": "1"}
+{"label": "3", "predict": "3"}
+{"label": "2\n\n", "predict": "2"}
+{"label": "B) a backpack\n\n", "predict": "B"}
+{"label": "3", "predict": "3"}
+{"label": "C. Gardening tools\n\n", "predict": "C"}
+{"label": "Item A", "predict": "Item A"}
+{"label": "1\n\n", "predict": "2"}
+{"label": "1\n\nPlease note that for the retrieval and ranking tasks, the output would typically include a list of items or a ranked list, respectively, but since the actual inventory or review scores are not provided, the output fields are left blank. The named entity recognition task for the search query would extract the brand ('Nike') and product type ('running shoes'), but as per the instructions, only the entities are to be listed without explanations. The generation task requires the model to create a persuasive description, which is left open-ended for the model to generate.", "predict": "1"}
+{"label": "'2'", "predict": "2"}
+{"label": "3\n\n", "predict": "4"}
+{"label": "3", "predict": "3"}
+{"label": "3\n", "predict": "3"}
+{"label": "1", "predict": "1"}
+{"label": "\"C. Bose QuietComfort Earbuds\"\n\n", "predict": "C"}
+{"label": "2", "predict": "0"}
+{"label": "4", "predict": "4"}
+{"label": "1\n\n", "predict": "1"}
+{"label": "1", "predict": "2"}
+{"label": "2\n", "predict": "1"}
+{"label": "1", "predict": "1"}
+{"label": "1", "predict": "1"}
+{"label": "\"2\"", "predict": "2"}
+{"label": "1\n", "predict": "1"}
+{"label": "3. Large", "predict": "4"}
+{"label": "1\n\n", "predict": "1"}
+{"label": "2\n\n", "predict": "2"}
+{"label": "1\n\n", "predict": "Compact size"}
+{"label": "\"0\"\n\n", "predict": "1"}
+{"label": "2", "predict": "2"}
+{"label": "2\n", "predict": "2"}
+{"label": "3. Sports & Fitness\n\n", "predict": "3"}
+{"label": "B", "predict": "A"}
+{"label": "1\n", "predict": "1"}
+{"label": "4\n\n", "predict": "4"}
+{"label": "0", "predict": "0"}
+{"label": ": 4. Color of the Mouse", "predict": "4"}
+{"label": "warm", "predict": "\nwarm"}
+{"label": "3", "predict": "3"}
+{"label": "3", "predict": "3"}
+{"label": "3\n \n\nPlease note, for the tasks that require output, I have left the output fields blank, as the GPT model will be expected to complete these based on the input provided.", "predict": "3"}
+{"label": ": 0\n\n", "predict": "0"}
+{"label": "3\n", "predict": "0"}
+{"label": "4\n\n", "predict": "4"}
+{"label": "1\n", "predict": "1"}
+{"label": "4", "predict": "1"}
+{"label": "4. Outdoor Gear\n\n", "predict": "4. Outdoor Gear"}
+{"label": "1\n", "predict": "1"}
+{"label": "2\n\n", "predict": "3"}
+{"label": "3", "predict": "3"}
+{"label": "\"3.\"\n\n", "predict": "3"}
+{"label": "2", "predict": "2"}
+{"label": "0", "predict": "0"}
+{"label": "2\n\n", "predict": "2"}
+{"label": "2\n", "predict": "2"}
+{"label": "3\n\n", "predict": "3"}
+{"label": "3. An educational toy", "predict": "3"}
+{"label": "0", "predict": "1"}
+{"label": "1", "predict": "1"}
+{"label": "1\n", "predict": "1"}
+{"label": "1\n", "predict": "1"}
+{"label": "0", "predict": "0"}
+{"label": "2", "predict": "2"}
+{"label": "3\n\n", "predict": "3"}
+{"label": "A", "predict": "A"}
+{"label": "3", "predict": "4"}
+{"label": "1\n", "predict": "1"}
+{"label": "1", "predict": "1"}
+{"label": "1", "predict": "1"}
+{"label": "3", "predict": "3"}
+{"label": "1\n\n", "predict": "1"}
+{"label": "2\nChoices:\n1. Electronics\n2. Health and Beauty\n3. Home Goods\n4. Produce", "predict": "Health and Beauty"}
+{"label": "\"2\"", "predict": "2"}
+{"label": "5\n\n", "predict": "5"}
+{"label": "5\n\n", "predict": "4"}
+{"label": "B", "predict": "B"}
+{"label": "1", "predict": "2"}
+{"label": "1\n", "predict": "1"}
+{"label": "1", "predict": "1"}
+{"label": "0", "predict": "0"}
+{"label": "\"3\"", "predict": "3"}
+{"label": "B", "predict": "B"}
+{"label": "2", "predict": "2"}
+{"label": "2\n\n", "predict": "3"}
+{"label": "3", "predict": "3"}
+{"label": ": 0\n", "predict": "3"}
+{"label": "1\n\n", "predict": "1"}
+{"label": "\"0\"", "predict": "0"}
+{"label": "1", "predict": "1"}
+{"label": "1", "predict": "1"}
+{"label": "1", "predict": "1"}
+{"label": "\"1\"", "predict": "1"}
+{"label": "1", "predict": "1"}
+{"label": "2\n", "predict": "2"}
+{"label": "3", "predict": "3"}
+{"label": "2", "predict": "2"}
+{"label": "\"3\"", "predict": "3"}
+{"label": "3\n", "predict": "3"}
+{"label": "2\n\n", "predict": "2"}
+{"label": "1. Electronics", "predict": "1. Electronics"}
+{"label": "1", "predict": "1"}
+{"label": "1", "predict": "1"}
+{"label": "2", "predict": "2"}
+{"label": "3\n\n", "predict": "3"}
+{"label": "1", "predict": "3"}
+{"label": "1", "predict": "3"}
+{"label": "2\n\n", "predict": "2"}
+{"label": "3\n\n", "predict": "2"}
+{"label": "2\n\n", "predict": "2"}
+{"label": ": 1\n\n", "predict": "1"}
+{"label": "3. Sports & Outdoors", "predict": "3"}
+{"label": "1\n\n", "predict": "1"}
+{"label": "2", "predict": "2"}
+{"label": "1\n\nNote: The rankings and choices provided in the output fields are based on general assumptions and may vary depending on specific contexts or user preferences.", "predict": "3"}
+{"label": "2", "predict": "1"}
+{"label": "1", "predict": "2"}
+{"label": "1", "predict": "1"}
+{"label": "1", "predict": "1"}
+{"label": "4", "predict": "4"}
+{"label": "2", "predict": "2"}
+{"label": "4\n\n", "predict": "2"}
+{"label": "0\n\n", "predict": "0"}
+{"label": "1", "predict": "1"}
+{"label": "\"2\"", "predict": "1"}
+{"label": "[1]\n\n", "predict": "1"}
+{"label": "\"2\"", "predict": "0"}
+{"label": "1", "predict": "1"}
+{"label": "4\n\n", "predict": "4"}
+{"label": "2\n", "predict": "2"}
+{"label": "2\n\n", "predict": "2"}
+{"label": "0", "predict": "0"}
+{"label": "1", "predict": "1"}
+{"label": "1", "predict": "1"}
+{"label": "2", "predict": "2"}
+{"label": "2", "predict": "1"}
+{"label": "0\n\n", "predict": "0"}
+{"label": "3", "predict": "3"}

@@ -1,0 +1,1986 @@
+[
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following laptops based on their suitability for gaming: \n1. Dell XPS 15 - Intel Core i7, NVIDIA GeForce GTX 1650 Ti, 16GB RAM\n2. HP Pavilion Gaming Laptop - Intel Core i5, NVIDIA GeForce GTX 1660 Ti, 8GB RAM\n3. Lenovo IdeaPad 3 - AMD Ryzen 5, Vega 8 Graphics, 8GB RAM\n4. ASUS ROG Zephyrus G14 - AMD Ryzen 9, NVIDIA GeForce RTX 3060, 16GB RAM",
+        "output": "4, 2, 1, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Rank the following product options based on their suitability for a person who wants a comfortable, breathable, and lightweight running shoe for daily usage.\nCandidate Shoes:\n1. Shoe A - Lightweight, mesh upper for breathability, foam sole for comfort\n2. Shoe B - Heavy, leather material, good for formal wear\n3. Shoe C - Breathable, lightweight, designed for running, with shock absorption\n4. Shoe D - Comfortable, but not suitable for sports, intended for casual wear\n5. Shoe E - Ultra-lightweight, designed for marathon runners, excellent ventilation\nAnswer: ",
+        "output": "1. Shoe E\n2. Shoe C\n3. Shoe A\n4. Shoe D\n5. Shoe B\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the following requirement 'Find the most suitable shoes for a marathon runner based on comfort and durability', and the candidate shoes: ['Nike Air Zoom Pegasus 38', 'Adidas Ultra Boost 21', 'Brooks Ghost 14', 'Saucony Ride 14', 'New Balance Fresh Foam 1080v12']. \nOutput: ",
+        "output": "1. Adidas Ultra Boost 21, 2. Brooks Ghost 14, 3. Nike Air Zoom Pegasus 38, 4. Saucony Ride 14, 5. New Balance Fresh Foam 1080v12\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Requirement: Find the best-suited dress for a formal evening event, from the following options: Dress A (Satin, Long, Red), Dress B (Cotton, Short, Blue), Dress C (Chiffon, Maxi, Gold), Dress D (Velvet, Midi, Black). Rank them in descending order of suitability.\nOutput:",
+        "output": "Dress C, Dress A, Dress D, Dress B\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Requirement: Rank these product reviews based on their overall sentiment from most positive to most negative. Reviews:\n1) This blender exceeded my expectations, works perfectly!\n2) The TV stand was easy to assemble but the finish scratches easily.\n3) The coffee maker stopped working after a month.\n4) The sofa looks great, but the cushions are uncomfortable.\n5) Absolutely love the colors and quality of the painting!\nOutput: ",
+        "output": "[5, 1, 2, 4, 3]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "You are presented with a list of laptops and their specifications. Your task is to rank these laptops based on the user's preference for a device that has a long battery life and a high-resolution display. The laptops are:\n1. Dell XPS 13 - Battery Life: 12 hours, Display Resolution: 4K\n2. MacBook Pro - Battery Life: 10 hours, Display Resolution: 1680x1050\n3. Lenovo ThinkPad X1 Carbon - Battery Life: 18 hours, Display Resolution: 2560x1440\n4. HP Spectre x360 - Battery Life: 8 hours, Display Resolution: 3840x2160\n5. ASUS ZenBook UX425 - Battery Life: 11 hours, Display Resolution: 1920x1080\nOutput: \n",
+        "output": ": 3 (Lenovo ThinkPad X1 Carbon), 1 (Dell XPS 13), 5 (ASUS ZenBook UX425), 2 (MacBook Pro), 4 (HP Spectre x360)",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following products based on their suitability as a gift for a 7-year-old girl's birthday:\n1. Chemistry set\n2. Stuffed animal\n3. Art supplies\n4. Skateboard\n5. Children's cookbook\nOutput: ",
+        "output": "2, 5, 3, 1, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Requirement: Rank the following coffee makers based on their ease of cleaning: \n1. Ninja Coffee Bar System\n2. Breville Grind Control Coffee Maker\n3. Keurig K-Elite Single Serve Coffee Maker\n4. Cuisinart DCC-3200P1 Perfect Temp Coffee Maker\nCandidate Items: \n1. Ninja Coffee Bar System\n2. Breville Grind Control Coffee Maker\n3. Keurig K-Elite Single Serve Coffee Maker\n4. Cuisinart DCC-3200P1 Perfect Temp Coffee Maker\nOutput: ",
+        "output": "4, 1, 3, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "A customer is looking for a new pair of running shoes. They've provided the following options along with their features. Rank these shoes in terms of their suitability for marathon training, with '1' being the most suitable and '5' being the least suitable.\n1. Shoe A - Lightweight, breathable mesh, excellent shock absorption, designed for long-distance runs\n2. Shoe B - Durable, supportive, suitable for cross-training but not specifically designed for running\n3. Shoe C - Breathable, moderate cushioning, good for short to medium distance runs\n4. Shoe D - High-cushioned, designed for ultramarathons, great energy return\n5. Shoe E - Minimalist design, low profile, not recommended for long-distance running\nOutput: ",
+        "output": "1, 4, 3, 2, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Given a list of product descriptions, rank them based on their relevance to a user who is searching for a \"waterproof phone case\". Here are the descriptions:\n1. \"Protects your phone from accidental drops.\"\n2. \"Sleek design with military-grade protection.\"\n3. \"Features a shock-absorbing inner layer.\"\n4. \"IP68 rated, water-resistant and dustproof.\"\n5. \"Transparent case, allowing full access to buttons.\"\n\nOutput: \n",
+        "output": "4, 1, 2, 5, 3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the following customer review snippets for a smartphone, rank them from most positive to least positive sentiment: \n\n1. \"The battery life is terrible, I can barely use it for a few hours.\"\n2. \"This phone has amazing camera quality, I love capturing moments with it.\"\n3. \"The phone's design is sleek but the software updates are slow.\"\n4. \"I've had issues with the phone restarting randomly, very frustrating.\"\n5. \"The sound quality during calls is crystal clear, no complaints there.\"\n\nOutput (rank the numbers in ascending order of sentiment positivity):",
+        "output": "2, 5, 3, 1, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following products based on their suitability for a summer picnic, considering factors such as portability, ease of use, and weather resistance.\nCandidate Items:\n1. Product Name: 'Collapsible Cooler Bag'\n   Description: Lightweight, waterproof, and foldable\n2. Product Name: 'Glass Wine Glasses'\n   Description: Classic design, not suitable for outdoor use\n3. Product Name: 'Solar-Powered Bluetooth Speaker'\n   Description: Weather-resistant, connects to devices wirelessly\n4. Product Name: 'Folding Picnic Table with Benches'\n   Description: Heavy, but provides seating and surface area\n5. Product Name: 'Waxed Canvas Umbrella'\n   Description: Provides shade, but not easily portable\nOutput:\n",
+        "output": ": 1, 3, 5, 4, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following laptops based on their performance for video editing, considering factors like processor speed, graphics card, and RAM. \n1. Dell XPS 15 - Intel Core i7, NVIDIA GeForce GTX 1650 Ti, 16GB RAM\n2. MacBook Pro 16-inch - M1 Pro Chip, Apple GPU, 16GB RAM\n3. ASUS ROG Zephyrus G14 - AMD Ryzen 9, NVIDIA GeForce RTX 3060, 16GB RAM",
+        "output": "[2, 3, 1]",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given a list of customer reviews for a blender, rank them from most positive to most negative sentiment. Please number the reviews from 1 (most positive) to 5 (most negative).\nReview 1: This blender is amazing! It blends everything so smoothly, I use it every day.\nReview 2: The blender works fine but could be a bit stronger. Not the best I've had.\nReview 3: I'm disappointed. It leaks and doesn't blend ice well.\nReview 4: Terrible customer service, had to return it twice due to defects.\nReview 5: It broke down after just two weeks. Total waste of money.",
+        "output": "1, 2, 3, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Based on the customer's preference for a quiet coffee maker, rank the following products from most suitable to least suitable: \n1. Product A: \"Quietest coffee maker on the market, barely makes a sound\"\n2. Product B: \"Has a loud buzzing noise during brewing\"\n3. Product C: \"Moderately quiet, some noise during operation\"\n4. Product D: \"Noisy, might disturb others in the morning\"\nOutput:\n",
+        "output": ": 1. Product A 2. Product C 3. Product B 4. Product D\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following vacuum cleaners in terms of their suitability for cleaning pet hair on hardwood floors, from most suitable to least suitable.\nVacuum Cleaner List:\n1. Shark Navigator Lift-Away Professional NV356E\n2. Bissell Pet Hair Eraser 1650A\n3. Miele Classic C1 Pure Suction Canister Vacuum\n4. Hoover WindTunnel 3 High Performance UH70120\n5. Dyson V11 Absolute Cordless Vacuum\nOutput: ",
+        "output": "2, 5, 1, 4, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following customer complaints about a blender in order of severity, from 1 (least severe) to 3 (most severe). \n1. The blender leaks from the base.\n2. The blades are too sharp, causing difficulty cleaning.\n3. The blender motor overheats after a few uses.\nOutput:",
+        "output": "2, 1, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Given these customer reviews for a camera product: \n1. \"The battery life is impressive.\"\n2. \"The camera's image stabilization is lacking.\"\n3. \"I love the compact size and portability.\"\n4. \"The autofocus system is slow.\"\n5. \"The color accuracy is spot on.\" \nRank the reviews in terms of positive to negative sentiment.\nOutput: ",
+        "output": "1, 5, 3, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Given a list of product descriptions for smartphones, rank them based on their battery life (from highest to lowest). Here are the descriptions:\n1. Phone A: Features a 5000mAh battery that lasts all day.\n2. Phone B: Offers a 4000mAh battery, suitable for moderate usage.\n3. Phone C: Packed with a powerful 6000mAh battery, perfect for heavy users.\n4. Phone D: Boasts a compact 3500mAh battery, ideal for light users.\n\nAnswer: \n",
+        "output": "3, 1, 2, 4",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following headphones based on their noise cancellation feature, from best to worst:\n1. Sony WH-1000XM4\n2. Bose QuietComfort 35 II\n3. Sennheiser Momentum 3 Wireless\n4. Apple AirPods Pro\nOutput: ",
+        "output": "1. Sony WH-1000XM4, 2. Bose QuietComfort 35 II, 3. Sennheiser Momentum 3 Wireless, 4. Apple AirPods Pro\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Rank the following products in terms of their suitability as a gift for a coffee lover, considering factors like uniqueness, usefulness, and appeal.\nProduct List: \n1. Coffee beans from a rare blend\n2. A classic French press\n3. A plain ceramic mug\n4. A coffee-themed board game\n5. A subscription to a monthly coffee sampler\nOutput: \n",
+        "output": ": [5, 1, 4, 2, 3]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "You have been given a list of customer reviews for a blender. Please rank the following reviews in terms of their sentiment from most positive to most negative. \n\nReview 1: This blender exceeded my expectations, blending everything smoothly and easily.\nReview 2: The blender works okay, but it's not as powerful as I hoped.\nReview 3: I'm disappointed - it broke after only a few uses.\nReview 4: The design is sleek, but it struggles with thicker blends.",
+        "output": "1, 2, 4, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following products based on their suitability for a summer picnic: \n1. Insulated Cooler Tote Bag\n2. Heavy Winter Coat\n3. Portable Bluetooth Speaker\n4. Sunscreen Lotion SPF 50\n5. Foldable Outdoor Umbrella",
+        "output": "4, 1, 3, 5, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the customer review snippets for the following laptops, rank them from most likely to purchase (1) to least likely to purchase (5):\n1. \"The battery life on this laptop is incredible, lasting me all day without needing a charge.\"\n2. \"I experienced frequent crashes and performance issues with this laptop, highly disappointing.\"\n3. \"Great value for the price, performs well for everyday tasks.\"\n4. \"The design is sleek, but the screen quality leaves something to be desired.\"\n5. \"It takes forever to boot up and the fan noise is unbearable.\"",
+        "output": "1, 3, 4, 5, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank these products based on their suitability for a small kitchen: \n1. Large Counter-Depth Refrigerator\n2. Compact Dishwasher\n3. Oversized Microwave\n4. Mini Fridge with Freezer\n5. Two-Slice Toaster\n6. Full-Size Stove\nOutput: ",
+        "output": "1. Mini Fridge with Freezer, 2. Compact Dishwasher, 3. Two-Slice Toaster, 4. Large Counter-Depth Refrigerator, 5. Oversized Microwave, 6. Full-Size Stove\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following products based on their suitability as a gift for a coffee lover. \n1. Espresso Machine\n2. Coffee Table Book about Coffee\n3. Coffee Mug with a Personalized Message\n4. Bag of Gourmet Coffee Beans\n5. Coffee Warmer",
+        "output": "1, 4, 3, 2, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following products based on their suitability for a camping trip, considering factors like portability, durability, and functionality.\n1) Portable Solar Charger\n2) Heavy-Duty Tent with Built-In Lights\n3) Rechargeable Hand Warmer\n4) Cast-Iron Skillet\n5) Lightweight Sleeping Bag",
+        "output": "1) Lightweight Sleeping Bag, 2) Portable Solar Charger, 3) Rechargeable Hand Warmer, 4) Cast-Iron Skillet, 5) Heavy-Duty Tent with Built-In Lights\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the customer reviews for the following headphones, rank them in order from most likely to least likely to cause discomfort during extended use.\n1. \"These headphones are so comfortable, I forget I'm wearing them.\"\n2. \"After an hour, my ears start to hurt.\"\n3. \"I can wear these all day without any issues.\"\n4. \"They're okay, but I wouldn't want to use them for more than 30 minutes straight.\"\n5. \"The padding is too hard, and it causes discomfort after a while.\"\nAnswer: \n",
+        "output": "1. \"These headphones are so comfortable, I forget I'm wearing them.\"\n3. \"I can wear these all day without any issues.\"\n4. \"They're okay, but I wouldn't want to use them for more than 30 minutes straight.\"\n2. \"After an hour, my ears start to hurt.\"\n5. \"The padding is too hard, and it causes discomfort after a while.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the following customer reviews for a blender, rank them from most positive to least positive. Output the number of the review in ascending order of positivity.\n1. Review 1: This blender is terrible, it broke after just one use.\n2. Review 2: The blender works well, but it's quite noisy.\n3. Review 3: Absolutely love this blender! It blends smoothly and is easy to clean.\n4. Review 4: Mediocre performance, nothing exceptional.\n5. Review 5: Best blender I've ever owned, worth every penny!\n",
+        "output": "3, 5, 2, 4, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "The user is looking for a 'comfortable office chair with lumbar support'. Please rank the following chairs based on their relevance to the query:\n1. Secretlab Omega Series 2020 SoftWeave Plus - Gaming Chair\n2. Herman Miller Aeron Chair - Adjustable PostureFit SL Lumbar Support\n3. HON Ignition 2.0 High-Back Mesh Task Chair\n4. Furmax Office Desk Leather Gaming Chair\n5. Steelcase Gesture Chair with Adjustable LiveBack Technology\nOutput: ",
+        "output": "[2, 1, 3, 5, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following products based on their suitability as a gift for a book lover.\nProduct List: \n1. Kindle Paperwhite (2021 release), 6\" Display, 8 GB, Now with a glare-free, adjustable warm light\n2. Bose QuietComfort Earbuds, True Wireless Earphones, Noise Cancelling, StayHear Max Tips, Bluetooth, Built-in Microphone, Black\n3. Leuchtturm1917 Hardcover Notebook, Alphanumeric Page Numbers, 80 gsm Paper, 249 Sheets, 5.75 x 8.25 inches, Black\n4. Amazon Fire HD 10 Tablet, 10.1\" 1080p Full HD, 32 GB, Black, 2021 Release\n5. Scented candles gift set, 12 pack, various scents",
+        "output": "3, 1, 4, 5, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rankings",
+        "instruction": "A customer is searching for a lightweight and durable backpack suitable for hiking. They have specifically mentioned wanting a backpack with a hydration system and a capacity between 30-40 liters. Consider the following list of backpacks, ranked according to the customer's preferences:\n1. Osprey Atmos AG 65 Backpack - 65 liters, lightweight, includes hydration system\n2. Deuter Speed Lite 30+ Backpack - 35 liters, lightweight, no hydration system\n3. Patagonia Black Hole 35 Backpack - 35 liters, durable, optional hydration compatibility\n4. Gregory Optic 36 Backpack - 36 liters, lightweight, built-in hydration system\n5. The North Face Surge 20 Backpack - 20 liters, compact, hydration-compatible\nRank the backpacks from most to least relevant to the customer's search, with a higher number indicating better relevance.\n\nOutput: ",
+        "output": "[4, 1, 3, 2, 5]",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "You are presented with customer reviews for different coffee makers. Rank the following coffee makers from best to worst based on the customer satisfaction expressed in the reviews: \n1. Coffee Maker A - \"Absolutely love it! The coffee tastes amazing and it's so easy to clean.\"\n2. Coffee Maker B - \"It's okay, but sometimes the coffee doesn't heat up enough for my liking.\"\n3. Coffee Maker C - \"Terrible experience, broke down after a week of use.\"\n4. Coffee Maker D - \"Great machine, but the noise level is unbearable in the morning.\"\nOutput: ",
+        "output": "1, 4, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Rank the following products in terms of their suitability as a gift for a coffee lover, from most suitable to least suitable. \n1. Stainless Steel Coffee Thermos\n2. Coffee Bean Subscription Service\n3. Coffee Mug with a Built-In Coffee Warmer\n4. Blender for Smoothies\n5. Tea Infuser Set\nOutput: ",
+        "output": "2, 1, 3, 5, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Requirement: Sort these products based on their customer satisfaction, from highest to lowest. \nProduct List: \n1. Product A - Customer rating: 4.9/5\n2. Product B - Customer rating: 4.5/5\n3. Product C - Customer rating: 4.7/5\nOutput: ",
+        "output": "[1, 3, 2]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "A customer is looking for a new laptop and has a preference for long battery life. They've provided a list of laptops with their respective battery life. Rank these laptops in descending order based on their battery life, meaning the laptop with the longest battery life should be ranked 1st, and so on. \nLaptop List: \n1. Laptop X - 10 hours\n2. Laptop Y - 12 hours\n3. Laptop Z - 8 hours\n4. Laptop A - 15 hours\n5. Laptop B - 7 hours\nOutput: ",
+        "output": "[4, 2, 1, 3, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rankings",
+        "instruction": "Task: Identify the top 3 most relevant product features for a smart home security camera based on customer reviews. Consider factors such as image quality, night vision, and ease of installation.",
+        "output": "Reviews for \"Wyze Cam v3 - 1080p HD Indoor Home Security Camera, 24/7 Cloud Storage, 3-Month Indefinite Recording, Motion Detection, Night Vision, and Easy Installation\":\n1. \"Great value for the price, excellent night vision.\"\n2. \"Superb image quality during both day and night.\"\n3. \"Installation was a breeze, even for a tech novice.\"\n4. \"Impressive motion detection sensitivity.\"\n5. \"Battery life could be better.\"\n6. \"Lacks some advanced features compared to competitors.\"\n7. \"Easy setup via smartphone app.\"\n\nOutput:\n1. High Image Quality\n2. Night Vision\n3. Easy Installation\nExplanation: These features were mentioned frequently in positive reviews and are crucial for a smart home security camera.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Based on customer preferences for eco-friendly materials, rank these reusable water bottles from most preferred to least preferred:\n1. Stainless Steel Water Bottle - Insulated, BPA-free, made from recycled materials\n2. Glass Water Bottle - Non-toxic, but fragile and not insulated\n3. Plastic Water Bottle - Lightweight, but not recyclable and may contain BPA\n4. Aluminum Water Bottle - Recyclable, but not insulated and can dent easily",
+        "output": "1, 4, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "A customer is looking for a new laptop for gaming. They have shortlisted the following laptops: Laptop A - High-end processor, powerful graphics card, 16GB RAM, 1TB SSD, but heavy and expensive. Laptop B - Mid-range processor, decent graphics card, 8GB RAM, 512GB SSD, lightweight and affordable. Laptop C - Entry-level processor, integrated graphics, 4GB RAM, 256GB HDD, very affordable but not suitable for gaming. Rank these laptops from most suitable for gaming to least suitable.\nOutput:",
+        "output": "1. Laptop A, 2. Laptop B, 3. Laptop C\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "You are presented with customer reviews for a blender. Rank these reviews in terms of their overall satisfaction, from most satisfied to least satisfied. \n1. Terrible, broke after two uses.\n2. Good for smoothies but struggles with ice.\n3. Amazing! Blends everything smoothly, worth the price.\n4. Average performance, nothing special.\n5. Satisfied, but wish it had more speed settings.",
+        "output": "3, 5, 2, 4, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "You are asked to rank the following products based on their suitability for a camping trip, assuming the user is looking for lightweight and portable options: \n1. Portable Solar Panel\n2. Heavy Duty Tent Stakes\n3. Foldable Camping Chair\n4. Cast Iron Dutch Oven\n5. Lightweight Sleeping Bag",
+        "output": "[1, 3, 5, 2, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the user preference 'I am looking for a camera with high zoom capabilities and good low-light performance.', please rank the following cameras in order of preference:\n1) 'Sony RX100 VII: 20.1 MP, 24-200mm f/2.8-4.5 Lens, 3\" LCD, 4K Video'\n2) 'Canon PowerShot SX70 HS: 20.3 MP, 24-1800mm f/3.4-6.5, 3\" LCD, 4K'\n3) 'Nikon COOLPIX P1000: 16 MP, 24-3000mm f/2.8-8, 3.2\" LCD, 4K'\n4) 'Panasonic Lumix FZ1000 II: 20.1 MP, 25-400mm f/2.8-4.0, 3\" LCD, 4K'\nOutput: ",
+        "output": "3, 2, 4, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Consider the following customer reviews for a coffee maker:\n1) \"The coffee tastes bitter, not impressed.\"\n2) \"Great value for the price, easy to clean.\"\n3) \"Fast brewing time, but sometimes leaks.\"\n4) \"Love the programmable feature, perfect cup every time.\"\n\nRank these reviews in terms of overall customer satisfaction from highest to lowest.\nCandidate Items:\n1) Review 1\n2) Review 2\n3) Review 3\n4) Review 4\nOutput: ",
+        "output": "4, 2, 3, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "You are presented with a list of customer reviews for a blender. Rank these reviews from most positive to least positive. \n\n1. \"This blender is amazing! It can blend anything I throw at it, and the cleanup is so easy.\"\n2. \"The blender works fine, but the blades aren't as sharp as I'd hoped. It struggles with thicker mixes.\"\n3. \"I'm disappointed. It broke down after only a few uses. Not worth the money.\"\n4. \"Great for smoothies, but not powerful enough for making nut butter.\"\n5. \"It's a decent blender for the price. Could be quieter, though.\"\n\nOutput (rank the reviews from 1 to 5, starting with the most positive):",
+        "output": "1, 5, 4, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the following customer preferences for a new coffee maker: programmable, automatic grind, large capacity, and easy to clean. Rank these four coffee makers in terms of how well they meet the customer's requirements:\n1. Coffee Maker A: Programmable, 12-cup capacity, no grinder\n2. Coffee Maker B: Automatic grind, 10-cup capacity, easy to clean\n3. Coffee Maker C: Programmable, automatic grind, 14-cup capacity, difficult to clean\n4. Coffee Maker D: Automatic grind, 12-cup capacity, easy to clean\nOutput (rank the coffee makers from best to worst fit, separated by commas):",
+        "output": "4, 3, 1, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Based on the user's interest in \"Organic Cotton T-shirts\", rank the following clothing items from most relevant to least relevant:\n1. 100% Organic Cotton Hoodie\n2. Polyester Running Shorts\n3. Eco-Friendly Bamboo Socks\n4. Organic Cotton Crew Neck T-Shirt\n5. Recycled Nylon Swimsuit\nOutput: ",
+        "output": "1, 4, 3, 2, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following products based on their suitability for a customer who wants a noise-cancelling headset for working from home: \n1. Sony WH-1000XM4 headphones (Noise cancellation, comfortable, expensive)\n2. JBL Tune 750BTNC headphones (Budget-friendly, decent noise cancellation, less comfortable)\n3. Bose QuietComfort 35 II headphones (Excellent noise cancellation, comfortable, mid-range price)",
+        "output": "[3, 1, 2]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following laptops based on their suitability for gaming, given their specifications:\n1. Laptop A: NVIDIA GeForce RTX 3060, Intel Core i7-11800H, 16GB RAM\n2. Laptop B: AMD Radeon RX 5600M, AMD Ryzen 7 4800H, 12GB RAM\n3. Laptop C: Intel Iris Xe Graphics, Intel Core i5-1135G7, 8GB RAM",
+        "output": "1, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "You are given a list of customer reviews for different product categories. Rank the reviews from most positive to least positive regarding the 'customer service' experience.\n1. \"Customer service was terrible, never got a response to my issue.\"\n2. \"The product was good, but customer service could be better.\"\n3. \"Customer service went above and beyond, resolving my problem promptly.\"\n4. \"Average service, nothing to write home about.\"\n5. \"I was pleasantly surprised by the quick and friendly assistance I received.\"",
+        "output": "3, 5, 2, 4, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "A customer is looking for a new pair of running shoes with good shock absorption. They have provided a list of options below. Rank the shoes from best to worst in terms of their suitability for this purpose.\n1. Adidas Ultraboost 21 Running Shoes\n2. New Balance Fresh Foam 1080v11\n3. ASICS Gel-Nimbus 23\n4. Nike React Infinity Run Flyknit 2\n5. Skechers Go Run Maxcool 5\nOutput: ",
+        "output": "1, 2, 3, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "You're helping a customer choose between two different blenders for smoothies. Here are their descriptions:\n Blender A: \"Powerful 1200-watt motor, 6-point stainless steel blade, 72 oz pitcher, easy-clean control panel\"\nBlender B: \"800-watt motor, 4-point blade, 56 oz pitcher, touchpad controls, compact design\"\nThe customer prefers a blender with a stronger motor and larger capacity. Rank these blenders from best to worst based on the customer's preferences.\nOutput: ",
+        "output": "Blender A, Blender B\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following laptops in descending order based on their suitability for gaming performance: \n1. Dell XPS 13 - Ultra Thin Laptop\n2. ASUS ROG Zephyrus G14 - Gaming Laptop\n3. Apple MacBook Air - M1 Chip\n4. Lenovo Legion 5 - Gaming Laptop\n5. HP Pavilion Gaming Laptop\nOutput:",
+        "output": "2, 4, 5, 1, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following products based on their suitability as a gift for a coffee lover, given the customer's previous purchase history which includes a coffee machine and various coffee beans.\nProducts: \n1. Coffee Mug Set\n2. Espresso Maker\n3. Coffee Gift Basket\n4. Coffee Table Book about Coffee\n5. Coffee Bean Storage Container\nOutput: ",
+        "output": "3, 1, 4, 5, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Given these product options for a camping trip: 1) Sleeping Bag - Lightweight and Waterproof, 2) Portable Stove - Quick Heating, 3) LED Lantern - Long-lasting Battery, 4) Solar Panel Charger - Fast Charging, 5) Camping Chair - Extra Comfortable. Rank them in terms of priority for a rainy camping trip.\nOutput: ",
+        "output": "1) Sleeping Bag - Lightweight and Waterproof, 2) Portable Stove - Quick Heating, 3) LED Lantern - Long-lasting Battery, 4) Camping Chair - Extra Comfortable, 5) Solar Panel Charger - Fast Charging\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the customer review \"The laptop case is stylish and fits my device perfectly, but the handle is a bit flimsy\", rank the following laptop cases from most to least likely to be preferred by the customer based on their review:\n1. Durable Handle and Stylish Design Laptop Case\n2. Slim Fit Laptop Sleeve with No Handle\n3. Flimsy Handle and Basic Style Laptop Bag\n4. Fashionable Laptop Tote with Sturdy Handle\n5. Lightweight Case with Detachable Wrist Strap\nOutput: ",
+        "output": "4, 1, 2, 5, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "A user is searching for a 'running shoes' with good cushioning. Please rank the following shoes based on their suitability for the search query.\nShoe List: \n1. Nike Men's Air Zoom Pegasus 38 Running Shoes\n2. ASICS Men's Gel-Venture 7 Running Shoes\n3. New Balance Men's Fresh Foam 1080v11 Running Shoes\n4. Adidas Men's Ultraboost 21 Running Shoes\n5. Under Armour Men's HOVR Phantom 2 Running Shoes",
+        "output": "4, 3, 1, 5, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Requirement: Sort these products based on their customer satisfaction rating, from highest to lowest. \nCandidate Products:\n1. Product A: Rating - 4.8/5\n2. Product B: Rating - 4.5/5\n3. Product C: Rating - 4.2/5\n4. Product D: Rating - 4.9/5\n5. Product E: Rating - 4.6/5\nOutput: \n",
+        "output": ": D, A, E, B, C\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the query 'best running shoes for women with flat feet', rank the following shoe options in terms of their suitability:\n1. ASICS Women's Gel-Venture 7 Running Shoes\n2. Nike Women's Air Zoom Pegasus 38 Running Shoe\n3. New Balance Women's Fresh Foam 1080v11 Running Shoe\n4. Adidas Women's Cloudfoam Pure Running Shoe\n5. Brooks Women's Ghost 14 Running Shoes\nOutput: ",
+        "output": "[5, 1, 3, 2, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Rank the following vacuum cleaners based on their energy efficiency, given a customer prefers a low-energy option. Vacuum Cleaners: \n1. Dyson V11 Absolute Cordless Vacuum Cleaner \n2. Shark ION F80 Lightweight Cordless Stick Vacuum \n3. Miele Complete C3 Cat & Dog PowerLine Canister Vacuum \nOutput: ",
+        "output": "[2, 3, 1]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "A customer is searching for a comfortable office chair with good back support. Rank the following chairs in descending order of suitability: \n1. Ergonomic Mesh Chair with Lumbar Support\n2. Swivel Leather Executive Chair without Armrests\n3. Reclining Fabric Task Chair with Adjustable Headrest\n4. Plastic Stool with No Backrest\nOutput:",
+        "output": "1, 3, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Task: Rank the listed smartwatches based on their battery life, from longest to shortest.",
+        "output": "Criteria: Battery Life\nCandidate Products:\n1. Apple Watch Series 7 - 18 hours\n2. Fitbit Versa 3 - 6 days\n3. Samsung Galaxy Watch 4 - 2-3 days\n4. Garmin Venu Sq Music Edition - 6 days\n5. TicWatch Pro 3 - 2 days\nOutput: \n2. Fitbit Versa 3 - 6 days\n4. Garmin Venu Sq Music Edition - 6 days\n1. Apple Watch Series 7 - 18 hours\n5. TicWatch Pro 3 - 2 days\n3. Samsung Galaxy Watch 4 - 2-3 days\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Please rank the following products based on their suitability as a gift for a 7-year-old girl who loves art: \n1. Watercolor paint set\n2. Heavy-duty power drill\n3. Children's book about famous artists\n4. Advanced calligraphy set\n5. DIY jewelry making kit",
+        "output": "[3, 1, 5, 4, 2]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Requirement: Rank the following products based on their suitability for outdoor activities, considering water resistance. List of candidate items:\n1. Product A - Water-resistant smartwatch\n2. Product B - Waterproof hiking boots\n3. Product C - Non-waterproof canvas backpack\n4. Product D - Water-repellent jacket\n5. Product E - Regular cotton t-shirt\nOutput:",
+        "output": "2, 4, 1, 5, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Instructions: Rank the products based on their relevance to the topic 'Home Gym Equipment'.\nCandidate Products:\n1. Dumbbells Set of 2\n2. Yoga Mat\n3. Treadmill\n4. Blender for Smoothies\n5. Fitness Tracker\nOutput:",
+        "output": "3, 1, 2, 5, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "A customer is looking for a comfortable office chair. They have shortlisted the following chairs based on style and ergonomics. Rank these chairs from most to least comfortable.\n1. Ergonomic Executive Chair with Memory Foam Seat\n2. Modern Minimalist Swivel Chair\n3. Mesh Task Chair with Adjustable Lumbar Support\n4. Leather Reclining Office Chair\n5. Plastic Stackable Drafting Stool",
+        "output": "[1, 4, 3, 2, 5]",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Based on the customer's need for a durable and lightweight suitcase for frequent travel, rank the following luggage options from most suitable to least suitable: \n1. Samsonite Omni PC Hardside Spinner, 20\"\n2. Away The Carry-On, Polycarbonate\n3. Travelpro Maxlite 5 Softside Expandable Spinner, 21\"\n4. Rockland Melbourne Hardside Expandable Spinner, 20\"\n5. Briggs & Riley Baseline Domestic Carry-On Expandable Spinner, 21\"\nOutput:",
+        "output": "1. Briggs & Riley Baseline Domestic Carry-On Expandable Spinner, 21\"\n2. Away The Carry-On, Polycarbonate\n3. Samsonite Omni PC Hardside Spinner, 20\"\n4. Travelpro Maxlite 5 Softside Expandable Spinner, 21\"\n5. Rockland Melbourne Hardside Expandable Spinner, 20\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the customer preference for a \"portable, powerful, and durable\" Blender, rank the following blenders in descending order of suitability:\n1. Blender X - Portable, Low Power, Durable\n2. Blender Y - Portable, High Power, Average Durability\n3. Blender Z - Non-Portable, High Power, Durable",
+        "output": "1. Blender Y\n2. Blender X\n3. Blender Z\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Requirement: Find the most suitable product for a camping trip from the following options, considering factors like usability, weather resistance, and portability.\nCandidate List: \n1. Solar-powered lantern\n2. Heavy-duty tent with built-in air conditioning\n3. Portable Bluetooth speaker\n4. Electric cooler\n5. Insulated stainless steel water bottle\n6. Large 4-person hammock\n7. Rainproof backpack cover\n8. Inflatable hot tub\nOutput: ",
+        "output": "[1, 5, 7]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rankings",
+        "instruction": "You are browsing a home decor store and looking for a new coffee table. Here are five options with their features and ratings:\n\n1. \"Modern Minimalist Coffee Table\" - Made of solid wood, sleek design, 4-star rating\n2. \"Industrial Rustic Coffee Table\" - Metal frame, distressed wood top, 4.5-star rating\n3. \"Glass and Marble Coffee Table\" - Glass tabletop with marble accents, 4-star rating\n4. \"Mid-century Inspired Coffee Table\" - Teak wood, minimalist design, 4.2-star rating\n5. \"Eco-Friendly Bamboo Coffee Table\" - Sustainable bamboo material, contemporary style, 4.7-star rating\n\nRank these tables based on your preference for durability and aesthetics, with 1 being the highest priority.\n\nOutput: ",
+        "output": "5, 1, 4, 2, 3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Requirement: Rank the following products based on their suitability for a vegetarian customer. Products: 1) 'Beyond Meat Beyond Burger, Plant-Based Meat, 4 Patties, 12 oz' 2) 'Kosher Certified Chicken Broth, Organic, Low Sodium' 3) 'Organic Extra Virgin Olive Oil, Cold Pressed'\nOutput: ",
+        "output": "1) Beyond Meat Beyond Burger, Plant-Based Meat, 4 Patties, 12 oz 2) Organic Extra Virgin Olive Oil, Cold Pressed 3) Kosher Certified Chicken Broth, Organic, Low Sodium\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "You are presented with a list of customer reviews for a coffee maker. Your task is to rank these reviews based on their usefulness, where '1' is the most useful and '5' is the least useful. \n1. This coffee maker broke after just one week of use. Very disappointing.\n2. Love the sleek design and how easy it is to clean. Coffee tastes great too!\n3. I don't know much about coffee makers, but it makes coffee, so I guess it works?\n4. Excellent product! Highly recommended for those who enjoy a strong brew.\n5. The auto-shutoff feature is a lifesaver, but sometimes it turns off too soon.\nOutput: ",
+        "output": "1, 4, 2, 5, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "A user is searching for a comfortable running shoe for women. Here are five options, ranked from most to least relevant to the search:\n1. Nike Women's Air Zoom Pegasus 38 Running Shoes\n2. Adidas Women's Cloudfoam Pure Running Shoe\n3. New Balance Women's Fresh Foam Arishi V3 Running Shoes\n4. Reebok Women's Nano X1 Training Shoe\n5. ASICS Women's Gel-Venture 8 Running Shoes\nOutput: ",
+        "output": "[1, 3, 2, 5, 4]",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the customer's recent purchase of a 'Samsung Galaxy S21 Ultra', rank the following accessories in terms of their relevance to the customer's next potential purchase, from highest to lowest priority: \n1. Samsung Fast Wireless Charger\n2. tempered glass screen protector\n3. Samsung Galaxy Buds Pro\n4. Samsung DeX Station\n5. Phone Case",
+        "output": "2, 5, 3, 1, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "A customer is looking for a new pair of running shoes. They prefer shoes with good cushioning, breathability, and lightweight design. You have a list of 5 shoe options. Rank these shoes from the most suitable to the least suitable for the customer's preferences.\n1. Nike Air Zoom Pegasus 38 - Lightweight, breathable mesh upper, responsive cushioning\n2. ASICS Gel-Nimbus 23 - plush cushioning, engineered mesh upper, designed for comfort\n3. New Balance Fresh Foam 1080v11 - ultra-cushioned, breathable knit upper, lightweight\n4. Hoka One One Clifton 8 - highly cushioned, breathable mesh, lightweight construction\n5. Adidas UltraBoost 21 - boost\u2122 midsole, breathable Primeblue upper, lightweight\nOutput:",
+        "output": "4, 3, 2, 5, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Rank the following products based on their relevance to the search term 'outdoor furniture': \n1. Sunbrella Outdoor Pillow \n2. Winter Jacket \n3. Patio Dining Set \n4. Portable Bluetooth Speaker \n5. Garden Hose Reel\nOutput:",
+        "output": "3, 1, 5, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are tasked with ranking the following blenders based on their power (from highest to lowest). \n1. Blender A - 1200 watts\n2. Blender B - 900 watts\n3. Blender C - 1500 watts\n4. Blender D - 800 watts\nOutput: ",
+        "output": "Blender C, Blender A, Blender B, Blender D\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the following candidate products: ['Apple iPhone 13 Pro Max', 'Samsung Galaxy S21 Ultra', 'Google Pixel 6 Pro', 'OnePlus 9 Pro', 'Huawei P40 Pro'], rank them based on their camera performance from highest to lowest.\nOutput:",
+        "output": "1. Apple iPhone 13 Pro Max, 2. Samsung Galaxy S21 Ultra, 3. Google Pixel 6 Pro, 4. OnePlus 9 Pro, 5. Huawei P40 Pro\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given a customer review \"The sound quality is amazing, but the battery life could be better.\", rank the following headphones in terms of customer satisfaction from highest to lowest:\n1. Headphones X - Known for great sound quality, average battery life\n2. Headphones Y - Excellent battery life, average sound quality\n3. Headphones Z - Top-notch sound quality, exceptional battery life\nOutput: ",
+        "output": "3, 1, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "A customer searches for \"best running shoes for women\". Rank the following shoes based on their relevance to the search query:\n1. Nike Women's Air Zoom Pegasus 38 Running Shoes\n2. Adidas Women's Cloudfoam Pure Running Shoe\n3. Clarks Women's Leisa Upshot Sneaker\n4. Skechers Women's Go Walk 5-15483 Slip-On Sneaker\n5. ASICS Women's Gel-Venture 8 Running Shoes",
+        "output": "[1, 2, 5, 4, 3]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Given the following customer reviews for a product, rank them in terms of their overall sentiment from most positive to most negative: \n1) \"This product exceeded my expectations. It's amazing!\" \n2) \"I'm quite satisfied with the purchase.\" \n3) \"It's okay but nothing special.\" \n4) \"I had higher hopes, it's just average.\" \n5) \"Disappointed, it broke after a week.\"\nOutput: ",
+        "output": "1, 2, 3, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Requirement: Rank the following products based on their suitability as a gift for a book lover. \nCandidate Products: \n1. Kindle Paperwhite E-Reader\n2. Bluetooth Speaker\n3. Personalized Bookmarks Set\n4. Coffee Mug with Literary Quotes\n5. Wireless Headphones\nOutput: ",
+        "output": "1, 3, 4, 2, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Given the following customer reviews, rank them from most positive to least positive for a product in the category 'Home Decor':  \n1. Review: \"Absolutely love the design, fits perfectly in my living room.\"  \n2. Review: \"It was okay, nothing special.\"  \n3. Review: \"Arrived damaged, couldn't use it.\"  \n4. Review: \"Beautiful piece, exceeded my expectations.\"  \n5. Review: \"Bit overpriced but looks nice.\"  \nOutput: ",
+        "output": "[4, 1, 5, 2, 3]  \n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Given a list of laptops: MacBook Pro, Dell XPS, Lenovo ThinkPad, and HP Spectre, rank them based on the user preference for long battery life. Assume the following battery life ratings: MacBook Pro - 12 hours, Dell XPS - 10 hours, Lenovo ThinkPad - 15 hours, HP Spectre - 8 hours.\nAnswer: ",
+        "output": "1. Lenovo ThinkPad\n2. MacBook Pro\n3. Dell XPS\n4. HP Spectre\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the following product attributes for blenders: 1. Power: 1200W, 2. Capacity: 50oz, 3. Blade Material: Stainless Steel, 4. Noise Level: Low, 5. Color: Red, 6. Automatic Shutoff, 7. Price: $150. Rank these attributes from most important to least important for a customer looking for a quiet blender for their smoothies.\nCandidate Attributes: \n1. Power\n2. Noise Level\n3. Capacity\n4. Blade Material\n5. Color\n6. Automatic Shutoff\n7. Price",
+        "output": "Output the rankings as a comma-separated list: \n\nOutput: 2, 4, 3, 1, 6, 5, 7\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the customer's search for 'best noise-cancelling headphones', please rank the following headphones based on their noise cancellation feature:\n1. Sony WH-1000XM4 Wireless Headphones\n2. Bose QuietComfort 35 II Wireless Bluetooth Headphones\n3. JBL Tune 750BTNC Wireless Headphones\n4. Anker Soundcore Life Q30 Hybrid Active Noise Cancelling Headphones\n5. Sennheiser HD 4.50 BTNC Wireless Headphone",
+        "output": "1, 2, 4, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Based on the following customer preferences, rank the following shoes in descending order of suitability: comfortable, suitable for running, and available in size 9.\nCandidate Shoes:\n1. Nike Air Zoom Running Shoes, Size 9\n2. Adidas Casual Slip-Ons, Size 10\n3. New Balance Cushioned Running Shoes, Size 9\n4. ASICS Gel Walking Shoes, Size 8.5\nOutput: ",
+        "output": "1. Nike Air Zoom Running Shoes, Size 9, 3. New Balance Cushioned Running Shoes, Size 9, 4. ASICS Gel Walking Shoes, Size 8.5, 2. Adidas Casual Slip-Ons, Size 10\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the following customer review for a blender, rank the following features in terms of their importance to the customer, from most important (1) to least important (5). \nReview: \"This blender exceeded my expectations. The powerful motor blended ice cubes effortlessly, and the easy-to-clean design makes cleanup a breeze. However, the noise level was quite high.\"\n\nFeatures:\n1. Motor power\n2. Ease of cleaning\n3. Noise level\n4. Durability\n5. Design aesthetics\nOutput: ",
+        "output": "1, 2, 3, 5, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the customer review \"The blender is amazing! It blends smoothly and is very easy to clean.\" Rank the following blenders in terms of customer satisfaction, from highest to lowest: Blender A, Blender B, Blender C.\nAnswer: ",
+        "output": "Blender A, Blender B, Blender C\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Requirement: Rank the following products based on their suitability as a gift for a coffee lover. List the products in descending order (1 being the most suitable).\nCandidate Items: \n1. Espresso Machine\n2. Coffee Mug Set\n3. Bluetooth Speaker\n4. Coffee Beans Subscription\n5. Coffee Table Book about Coffee",
+        "output": "Output: 1. Espresso Machine, 4. Coffee Beans Subscription, 2. Coffee Mug Set, 5. Coffee Table Book about Coffee, 3. Bluetooth Speaker\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Given the following product requirements for a new smartwatch, rank the following models from most suitable to least suitable: \n1. Apple Watch Series 7\n2. Samsung Galaxy Watch4 Classic\n3. Fitbit Versa 3\n4. Garmin Forerunner 945\nRequirements: Long battery life, built-in GPS, swim-proof, sleep tracking, music storage\nRanking: ",
+        "output": "1. Fitbit Versa 3, 2. Garmin Forerunner 945, 3. Samsung Galaxy Watch4 Classic, 4. Apple Watch Series 7\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Rank the following products based on their suitability for a professional chef working in a busy kitchen. \n1. Victorinox Fibrox Pro Chef's Knife, 8-Inch\n2. Cuisinart DCC-1200 Brew Central 12-Cup Programmable Coffee Maker\n3. OXO Good Grips 15-Piece Pop Container Set\n4. R\u00f6sle Stainless Steel Slotted Spoon\n5. Hamilton Beach 70620A Big Mouth 14-Cup Processor\nOutput: ",
+        "output": "1, 4, 3, 5, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following laptops based on their suitability for gaming, considering factors such as graphics capabilities, processor speed, and RAM. \nLaptop List: \n1. Acer Predator Triton 500, Intel Core i7, NVIDIA GeForce RTX 3060, 16GB RAM \n2. ASUS VivoBook S15, Intel Core i5, NVIDIA GeForce MX350, 8GB RAM \n3. Dell XPS 13, Intel Core i7, Intel Iris Xe Graphics, 16GB RAM \n4. Lenovo IdeaPad 3, AMD Ryzen 5, AMD Radeon Vega 8 Graphics, 8GB RAM \n5. MSI GE66 Raider, Intel Core i9, NVIDIA GeForce RTX 3080, 32GB RAM\nOutput: ",
+        "output": "[5, 1, 3, 2, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "The customer is looking for a new pair of running shoes with good shock absorption. Please rank the following shoes based on their suitability for this requirement:\n1. Nike Air Zoom Pegasus 38\n2. Adidas Ultraboost 21\n3. ASICS Gel-Nimbus 23\n4. New Balance Fresh Foam 1080v11\n5. Brooks Ghost 14\nOutput: ",
+        "output": "2, 3, 1, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "A customer is looking for a new blender for making smoothies. They prefer a powerful motor and easy-to-clean parts. You are given a list of blenders with their specifications. Please rank these blenders from most suitable to least suitable based on the customer's preferences.\nBlender List: \n1. Blender A - 500W motor, dishwasher-safe pitcher\n2. Blender B - 1000W motor, manual cleaning required\n3. Blender C - 800W motor, dishwasher-safe pitcher\n4. Blender D - 1200W motor, requires disassembly for cleaning\n5. Blender E - 700W motor, not dishwasher safe\nOutput: ",
+        "output": "4, 2, 3, 1, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following items in terms of their suitability for outdoor activities, considering their features and materials: \n1. Merrell Men's Moab 2 Vent Hiking Shoe \n2. Bose QuietComfort 35 Wireless Headphones II \n3. Patagonia Down With It Hooded Jacket \n4. Oakley Holbrook Sunglasses \n5. Garmin Forerunner 235 GPS Running Watch ",
+        "output": "1. Merrell Men's Moab 2 Vent Hiking Shoe \n2. Patagonia Down With It Hooded Jacket \n3. Oakley Holbrook Sunglasses \n4. Garmin Forerunner 235 GPS Running Watch \n5. Bose QuietComfort 35 Wireless Headphones II\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following laptops based on their performance for gaming, from the best option (1) to the least suitable (5). \nLaptop List: \n1. Dell XPS 15 - Intel Core i7, NVIDIA GeForce GTX 1650 Ti\n2. Lenovo IdeaPad 3 - AMD Ryzen 5, AMD Radeon Vega 8\n3. Apple MacBook Air - M1 Chip,\u96c6\u6210\u56fe\u5f62\u5904\u7406\u5668\n4. ASUS ROG Zephyrus G14 - AMD Ryzen 9, NVIDIA GeForce RTX 3060\n5. Acer Aspire 5 - Intel Core i5, Intel UHD Graphics\nOutput: ",
+        "output": "[4, 1, 5, 2, 3]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Given a customer review \"I recently bought this coffee maker and it has exceeded my expectations. The flavor of the coffee it brews is rich and the machine is very easy to clean. However, the noise level during brewing is a bit high.\", rank the following aspects of the coffee maker from most important (1) to least important (3) based on the review: \n1. Flavor of coffee \n2. Ease of cleaning \n3. Noise level during brewing\nOutput: ",
+        "output": "1, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You're helping a customer choose between three different coffee makers based on their capacity. Here are the options: \n1. 12-cup coffee maker\n2. 4-cup coffee maker\n3. 8-cup coffee maker\nThe customer wants a coffee maker that can brew a lot of coffee at once. Rank the options from most suitable to least suitable.\nOutput: ",
+        "output": "1. 12-cup coffee maker, 3. 8-cup coffee maker, 2. 4-cup coffee maker\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "rank",
+        "instruction": "Query: Best running shoes for women with arch support. Product List: \n1. ASICS Women's Gel-Venture 8 Running Shoes\n2. Nike Women's Air Zoom Pegasus 38 Running Shoes\n3. New Balance Women's Fresh Foam Arishi V3 Running Shoes\n4. Skechers Women's Go Walk Max-54321 Walking Shoes\n5. Adidas Women's Cloudfoam Pure Running Shoe\nOutput: ",
+        "output": "[3, 1, 2, 5, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Given the product category 'Men's Shirts', rank the following products based on their suitability: \n1. Formal Button-Down Shirt\n2. Running Shoes\n3. Cargo Shorts\n4. Denim Jacket\n5. Dress Pants\nRequirement: For a summer office attire\nAnswer:\n",
+        "output": "1, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Requirement: Rank the following products based on their suitability for a camping trip, considering factors like portability and durability.\nCandidate Items: \n1. Product A - Lightweight Portable Tent\n2. Product B - Heavy Duty Camping Stove\n3. Product C - Durable Waterproof Sleeping Bag\n4. Product D - Inflatable Air Mattress\n5. Product E - Compact Foldable Chair\nOutput: ",
+        "output": "1, 5, 3, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following items based on their price from lowest to highest.\nItem List: \n1. Basic calculator\n2. 50-inch smart TV\n3. High-end gaming laptop\n4. Portable Bluetooth speaker\nAnswer: ",
+        "output": "1, 4, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following three laptop models based on their suitability for gaming, with 1 being the most suitable and 3 being the least suitable.\nModel A: ASUS ROG Zephyrus G14\nModel B: Apple MacBook Air\nModel C: Dell XPS 13\nOutput: ",
+        "output": "1. Model A, 2. Model C, 3. Model B\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task type: Ranking - Rank the following smartphones based on their price from highest to lowest: Samsung Galaxy Note 20 Ultra, iPhone 12 Pro Max, Google Pixel 5, OnePlus 8T.\nOutput: ",
+        "output": "iPhone 12 Pro Max, Samsung Galaxy Note 20 Ultra, OnePlus 8T, Google Pixel 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Ranking: Order the following smartphones from highest to lowest price based on their market value. \nCandidate smartphones:\n1. iPhone 13 Pro Max\n2. Samsung Galaxy S21 Ultra\n3. Google Pixel 6 Pro\n4. OnePlus 9\nOutput (answer with item numbers in ranked order): ",
+        "output": "1, 2, 3, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following laptop bags based on their price, from highest to lowest. Assume the prices are not provided and you must rely on the brand and description to infer the price range.\nBag List:\n1. Designer leather laptop bag with multiple compartments and a handle.\n2. Basic nylon laptop sleeve with a zipper.\n3. High-end laptop backpack with anti-theft features and a built-in power bank.\nOutput: \n",
+        "output": "3, 1, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are given a list of five products along with their customer ratings. Rank these products from highest to lowest rating. Only list the product numbers in the order of ranking. Do not include any other text. \nProduct 1: Samsung Galaxy S22 - Rating: 4.8\nProduct 2: Apple iPhone 13 - Rating: 4.7\nProduct 3: Google Pixel 6 - Rating: 4.6\nProduct 4: Xiaomi Redmi Note 10 - Rating: 4.5\nProduct 5: Realme GT Neo - Rating: 4.4\nOutput: ",
+        "output": "1, 2, 3, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are given a list of five products and a feature. Rank the products from the one that best exhibits the feature to the one that least exhibits it. Output the ranks as numbers separated by commas. Do not provide any explanations.\nProducts: \n1. Sony Cyber-shot DSC-RX100 VII Compact Camera\n2. Nikon COOLPIX P1000 Digital Camera\n3. Canon EOS M50 Mark II Mirrorless Camera\n4. Olympus OM-D E-M10 Mark III Mirrorless Camera\n5. Panasonic LUMIX GH5 4K Digital Camera\nFeature: zoom capability\nOutput: ",
+        "output": "2, 1, 4, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Ranking: Given a list of smartphones, rank them in order of their likely price from lowest to highest based on the provided features.\nSmartphones:\n1. Phone A - 2GB RAM, 16GB Storage, Single Camera\n2. Phone B - 4GB RAM, 64GB Storage, Dual Camera\n3. Phone C - 6GB RAM, 128GB Storage, Triple Camera\n4. Phone D - 8GB RAM, 256GB Storage, Quad Camera\nAnswer: ",
+        "output": "'Phone A, Phone B, Phone C, Phone D'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following smartphones based on their price from lowest to highest:\n0. iPhone 12\n1. Samsung Galaxy S21\n2. Google Pixel 5\n3. OnePlus 9\nAnswer: ",
+        "output": "2, 3, 1, 0\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "A customer is searching for a new smartwatch with advanced fitness tracking features. Rank the following smartwatches based on their fitness tracking capabilities.\nSmartwatch List: \n1. 'FitPro' Smartwatch with GPS and Heart Rate Monitor\n2. 'TimeTech' Classic Smartwatch with Step Counter\n3. 'HealthWatch' with Blood Pressure and Oxygen Monitoring\n4. 'SportsTech' Smartwatch with 15 Exercise Modes\nYou should output a permutation of 1 to 4. There should be a comma separating two numbers. Each smartwatch and its number should appear only once in the output.\nOutput: ",
+        "output": "3, 1, 4, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their price from highest to lowest: Samsung Galaxy S21 Ultra, iPhone 12, Xiaomi Mi 11, Samsung Galaxy A12. Output: ",
+        "output": "Samsung Galaxy S21 Ultra, iPhone 12, Xiaomi Mi 11, Samsung Galaxy A12\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following kitchen appliances by their average energy consumption, from highest to lowest. Assume the appliances are the same brand and similar size for fair comparison.\nAppliance List: \n1. Oven\n2. Dishwasher\n3. Refrigerator\n4. Toaster\n5. Blender\nOutput: ",
+        "output": "1, 3, 2, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "\"Below are five features of a vacuum cleaner. Rank them from most to least important based on customer reviews and common preferences.\"\nfeatures:\n1. Suction Power\n2. Battery Life (for cordless models)\n3. Weight and Maneuverability\n4. Noise Level\n5. Accessories and Attachments\nOutput: ",
+        "output": "\"1. Suction Power\n2. Weight and Maneuverability\n3. Noise Level\n4. Battery Life (for cordless models)\n5. Accessories and Attachments\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "As a shopping assistant, rank the following products based on their price from highest to lowest. List the numbers corresponding to the products in descending order, separated by commas.\nProduct List:\n1. Sony WH-1000XM4 Wireless Noise-Cancelling Headphones\n2. Apple iPhone 13 Pro Max, 128GB\n3. Samsung Galaxy Watch4, 44mm\n4. Logitech G Pro Wireless Gaming Mouse\n5. JBL Flip 5 Portable Waterproof Speaker\nOutput: ",
+        "output": "2,1,3,4,5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "As a shopping assistant, rank the following smartphone cases based on their drop protection, from the highest to the lowest level of protection.\nCase List:\n1. OtterBox Defender Series Case\n2. Spigen Ultra Hybrid Case\n3. Urban Armor Gear Metropolis Case\n4. Incipio NGP Case\n5. Apple Silicone Case\nOutput: ",
+        "output": "1, 3, 2, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following running shoes based on their cushioning, with 1 being the least cushioned and 5 being the most cushioned.\nShoe List:\n1. ASICS Gel-Kayano 27\n2. Brooks Adrenaline GTS 20\n3. New Balance 860v11\n4. Nike Air Zoom Pegasus 37\n5. Saucony Kinvara 11\nOutput: ",
+        "output": "3, 2, 5, 4, 1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task type: Ranking. Given a list of four products and their prices, rank them from the least to the most expensive. Output should be the list of product numbers in the order of least to most expensive.\nProducts:\n1. Leather Wallet - $29.99\n2. Gold Necklace - $189.99\n3. Silk Scarf - $69.99\n4. Diamond Ring - $799.99\nOutput: ",
+        "output": "[1, 3, 2, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following products based on their price from highest to lowest. The products are: 'Rolex Submariner Watch', 'iPhone 13 Pro', 'Samsung Galaxy S21', 'Apple MacBook Air M1', 'Fitbit Charge 4'.\nOutput: ",
+        "output": "Rolex Submariner Watch, Apple MacBook Air M1, iPhone 13 Pro, Samsung Galaxy S21, Fitbit Charge 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their price from highest to lowest. \nSmartphones: iPhone 13 Pro Max, Samsung Galaxy S22 Ultra, Google Pixel 6 Pro, OnePlus 9RT. \nAnswer: ",
+        "output": "iPhone 13 Pro Max, Samsung Galaxy S22 Ultra, Google Pixel 6 Pro, OnePlus 9RT\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "As a shopping assistant, rank the following laptop models based on their price from highest to lowest. Assume all laptops are from the same brand and have similar specifications.\nLaptop List:\n1. Model X1\n2. Model T4\n3. Model P5\n4. Model L9\nOutput: ",
+        "output": "1, 3, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following kitchen appliances in order of their energy efficiency, with 1 being the most energy-efficient: Refrigerator, Microwave, Toaster, Blender. Output:",
+        "output": "\"4, 2, 3, 1\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their price from highest to lowest: \n1. Samsung Galaxy S21 Ultra 5G\n2. iPhone 13 Pro Max\n3. Google Pixel 6 Pro\nOutput: ",
+        "output": "2, 1, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task type: Ranking\nGiven a list of smartphones and the attribute 'battery life', rank the following smartphones from longest to shortest battery life:\n1. iPhone 12\n2. Samsung Galaxy S21\n3. Google Pixel 5\n4. Huawei P40\nOutput: ",
+        "output": "4, 2, 1, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task type: Ranking. A consumer is looking to purchase a new laptop for gaming. They are most concerned with processing power and price. Rank the following laptops from best to worst, based on these criteria: \n1. ASUS ROG Zephyrus G14\n2. Acer Predator Helios 300\n3. Lenovo Legion 5\n4. MSI GE66 Raider\n5. Dell G5 15\nOutput: ",
+        "output": "1, 2, 3, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their camera quality from highest to lowest. Output the list of model numbers in descending order of camera quality. \nSmartphones: \n1. Samsung Galaxy S22 Ultra \n2. iPhone 13 Pro Max \n3. Google Pixel 6 Pro \n4. Nokia 9 PureView \n5. OnePlus 9 Pro \nOutput: ",
+        "output": "[1, 2, 3, 5, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "A shopper is looking for a durable backpack for daily use. Rank the following 5 products based on their likely durability for such a usage scenario.\nProduct List:\n1. Fashionable Canvas Backpack with Leather Straps\n2. Waterproof Nylon Backpack with Reinforced Stitching\n3. Basic Polyester Backpack with Padded Straps\n4.Executive Leather Backpack with Metal Accents\n5. Lightweight Nylon Backpack with Drawstring Closure\nOutput: ",
+        "output": "4, 2, 3, 1, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Ranking: A customer is looking for a new pair of running shoes. They are interested in shoes with good cushioning and arch support. Please rank the following running shoes based on these criteria, from highest to lowest.\nRunning Shoes:\n1. Nike Air Zoom Pegasus\n2. Adidas Ultra Boost\n3. ASICS Gel-Kayano\n4. New Balance 1080\nOutput: ",
+        "output": "\"3, 2, 4, 1\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task: You are a customer service agent helping a buyer find the best hiking boots. Rank the following hiking boots from most to least suitable for a multi-day backpacking trip in rough terrain.\nHiking Boots:\n1. Waterproof Low-Top Hiking Shoes\n2. Lightweight Mesh Hiking Shoes\n3. Heavy-Duty Waterproof Hiking Boots with Vibram Sole\n4. Trail Running Shoes with Good Traction\n5. Fashionable Ankle High Hiking Boots\nAnswer: ",
+        "output": "3, 1, 4, 5, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their price from lowest to highest: Samsung Galaxy S21, iPhone 12, OnePlus 8, Xiaomi Redmi Note 9.\nAnswer: ",
+        "output": "Xiaomi Redmi Note 9, OnePlus 8, Samsung Galaxy S21, iPhone 12\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are given a list of five products and their respective customer ratings. Rank these products from the highest to the lowest rating. Output the list of product IDs in the order of their ratings. Do not generate any other text.\nProducts:\n1. ID: 1234, Rating: 4.8\n2. ID: 5678, Rating: 3.2\n3. ID: 9101, Rating: 2.5\n4. ID: 1213, Rating: 4.3\n5. ID: 1415, Rating: 1.9\nOutput: ",
+        "output": "[1234, 1213, 5678, 9101, 1415]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "As a shopping assistant, you must rank the following clothing items from least to most expensive based on their average market price. Output the list with numbers indicating the rank, separated by commas. Do not repeat the item names.\nItems:\n1. Cotton T-shirt\n2. Leather Jacket\n3. Silk Scarf\n4. Fur Coat\nOutput: ",
+        "output": "1, 3, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphone models based on their price from highest to lowest: Samsung Galaxy S22, iPhone 13 Pro Max, Google Pixel 6, OnePlus 9. Assume all are the base models with standard storage.\nOutput: \n",
+        "output": "iPhone 13 Pro Max, Samsung Galaxy S22, Google Pixel 6, OnePlus 9\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following product descriptions based on their inclusion of the feature 'waterproof', where 1 is the highest rank and 4 is the lowest rank.\n- A rain jacket that is made with a waterproof material.\n- A smartphone case that claims to be splash-proof.\n- A pair of hiking boots described as water-resistant.\n- A swimsuit that is quick-drying but not mentioned as waterproof.\nOutput: ",
+        "output": "1, 2, 3, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are shopping for a new laptop and have narrowed it down to three options. Rank the following laptops based on their battery life, with the highest battery life at the top. Output the ranks in descending order, separated by commas. \n1. Dell XPS 13 (3 hours)\n2. Apple MacBook Air (12 hours)\n3. HP Spectre x360 (9 hours)\nOutput: ",
+        "output": "2, 3, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following product titles by how likely they would be purchased for a 'back to school' shopping list, from most to least likely. Output the ranks separated by commas. \n1. '3 Subject Notebook with Pocket - College Ruled, 150 Sheets'\n2. 'Professional Hair Straightener with Tourmaline Ceramic Plates'\n3. 'Mathematics Textbook for Grade 7'\n4. 'USB Portable Charger - 10000mAh Power Bank'\n5. 'Gaming Headset with Noise-Cancelling Microphone'\nOutput: ",
+        "output": "3,1,4,2,5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task type: Ranking. A consumer is looking for a new smartphone with a long battery life. Given the following options, rank them from the highest to the lowest battery life based on the specifications provided:\n1. Phone A - 5000 mAh battery\n2. Phone B - 4800 mAh battery with fast charging\n3. Phone C - 4200 mAh battery\n4. Phone D - 4000 mAh battery with wireless charging\nOutput: ",
+        "output": "1 > 2 > 3 > 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their price from lowest to highest. Output the sequence of numbers corresponding to the listed smartphones.\nSmartphone List:\n1. iPhone 12\n2. Samsung Galaxy S21\n3. Google Pixel 5\n4. OnePlus 8\nOutput:",
+        "output": ": '4, 3, 2, 1'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task: Rank the following smartwatches based on their price from lowest to highest. You are given a list of smartwatches with their prices.\n0. Apple Watch Series 6 - $399\n1. Fitbit Versa 3 - $229\n2. Samsung Galaxy Watch Active 2 - $280\n3. Xiaomi Mi Band 6 - $45\nOutput: ",
+        "output": "3, 1, 2, 0\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following kitchen appliances in order of their energy efficiency, with 1 being the most energy-efficient.\nAppliance List:\n1. Energy Star-rated refrigerator\n2. Conventional oven\n3. Induction cooktop\n4. Microwave oven\n5. Dishwasher\nOutput: ",
+        "output": "[1, 4, 3, 5, 2]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following products based on their price, from highest to lowest. Provide the rank as a sequence of numbers corresponding to the list items.\nProduct List: \n1. 65-inch OLED 4K TV\n2. Wireless Bluetooth Earbuds\n3. 14-inch Gaming Laptop\n4. Digital Camera with 18-55mm Lens\n5. Portable Bluetooth Speaker\nOutput: ",
+        "output": "[1, 3, 4, 2, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Ranking: A customer is searching for a new pair of running shoes for trail running. Rank the following shoes from most to least suitable based on their features: \nShoe List: \n1. Nike Free RN Trail 2\n2. Salomon Speedcross 4\n3. New Balance 860v9\n4. Adidas Ultraboost 20\n5. Brooks Cascadia 15\nOutput: ",
+        "output": "2, 1, 5, 4, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Ranking: Please reorder the following running shoes based on their customer ratings from highest to lowest.\nShoe List:\n1. Nike Zoom Pegasus 37\n2. Adidas Ultraboost 20\n3. ASICS Gel-Kayano 26\n4. New Balance 860v10\nOutput: ",
+        "output": "2, 3, 1, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "As a shopping assistant, rank the following smartwatches based on their price from lowest to highest. Output the ranking by listing the corresponding numbers. Do not use any other characters. \n1. Apple Watch Series 6\n2. Fitbit Versa 3\n3. Samsung Galaxy Watch Active 2\n4. Xiaomi Mi Watch\nOutput:",
+        "output": ": 4, 2, 3, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following smartphones based on their price from lowest to highest: 'Apple iPhone 12', 'Samsung Galaxy S21', 'Google Pixel 5', 'Xiaomi Redmi Note 9'. Output: ",
+        "output": "Xiaomi Redmi Note 9, Google Pixel 5, Samsung Galaxy S21, Apple iPhone 12\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task: Rank the following products based on their likely price from lowest to highest. Only output the ranks, with numbers separated by commas. Do not output any other text.\nProducts:\n1. Generic 10-pack Cotton Socks\n2. Sony WH-1000XM4 Wireless Noise-Canceling Headphones\n3. Michael Kors Women's Jet Set Travel Medium Carryall Shoulder Bag\n4. Lego Star Wars Millennium Falcon Building Kit\nOutput: ",
+        "output": "1, 4, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task type: Ranking. Rank the following laptops based on their suitability for gaming, with 1 being the most suitable:\nLaptops:\n1. Model A - 16GB RAM, 1TB SSD, NVIDIA GeForce RTX 3080\n2. Model B - 8GB RAM, 512GB SSD, NVIDIA GeForce GTX 1660 Ti\n3. Model C - 12GB RAM, 256GB SSD, AMD Radeon RX 560\nOutput: ",
+        "output": "1. Model A, 2. Model B, 3. Model C\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following products based on their price from lowest to highest. Output the ranking by listing the corresponding numbers. Do not provide any other text. \nProduct List: \n1. Portable Charger 5000mAh\n2. Bluetooth Headphones with Mic\n3. Wireless Mouse with Nano Receiver\n4. Consumer Grade SSD 128GB\n5. DSLR Camera with 18-55mm Lens\nOutput: ",
+        "output": "[1, 3, 2, 4, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their battery life, from longest to shortest: \nList: \n1. iPhone 12 Pro Max\n2. Samsung Galaxy S21 Ultra\n3. Huawei P40 Pro\nAnswer: \n",
+        "output": "1. iPhone 12 Pro Max, 2. Samsung Galaxy S21 Ultra, 3. Huawei P40 Pro\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphone features in order of importance for a user who values privacy:\n1. Fingerprint scanner\n2. Encrypted messaging\n3. Facial recognition\n4. Privacy settings control\n5. App permissions manager\nOutput:",
+        "output": "4, 2, 1, 5, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Ranking: Order the following smartwatches by their water resistance capabilities, from least to most water-resistant.\n0. Smartwatch A - water-resistant up to 30 meters\n1. Smartwatch B - not specified for water resistance\n2. Smartwatch C - water-resistant up to 50 meters\n3. Smartwatch D - water-resistant up to 5 ATM\nAnswer: ",
+        "output": "1, 0, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following items from 'most expensive' to 'least expensive'. Answer: \n['gold necklace', 'silver ring', 'diamond bracelet', 'plastic watch']",
+        "output": "['diamond bracelet', 'gold necklace', 'silver ring', 'plastic watch']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "As a shopping assistant, rank the following clothing items based on their suitability for a casual beach outing: 1. Formal suit, 2. Flowy sundress, 3. Flip flops, 4. Trucker hat, 5. Jeans. Output the ranking with numbers separated by commas. Output:",
+        "output": "2, 3, 4, 5, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are comparing smartwatches and need to rank the following 5 options based on their battery life, from longest battery life to shortest. Please provide your ranking:\n1. Samsung Galaxy Watch Active2\n2. Apple Watch Series 6\n3. Fitbit Versa 3\n4. Motorola Moto 360 (3rd Gen)\n5. Amazfit Bip\nOutput: ",
+        "output": "\"5, 3, 1, 4, 2.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following product features in order of importance for a customer looking to purchase a new laptop for gaming. Output the ranks as a list of numbers corresponding to the feature's position in the list. \nFeature List: \n1. High-resolution display\n2. Fast processing speed\n3. Large storage capacity\n4. High-quality graphics card\n5. Long battery life\nOutput: ",
+        "output": "[4, 2, 1, 3, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following products in order of price, from lowest to highest, based on common market values in the United States.\nProduct List: \n1. Toothbrush\n2. Microwave Oven\n3. Laptop\n4. Pair of Socks\nOutput: ",
+        "output": "4, 1, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following products based on their likely price from lowest to highest. \n0. Notebook\n1. Smartwatch\n2. Desktop Computer\n3. Headphones\nAnswer: ",
+        "output": "0, 3, 1, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rate the following kitchen appliances in terms of their energy efficiency, from least to most efficient. \nAppliance List: \n1. Toaster Oven\n2. Microwave Oven\n3. Induction Cooktop\n4. Blender\n5. Refrigerator\nYou should output a permutation of 1 to 5. There should be a comma separating two numbers. Each appliance and its number should appear only once in the output.\nOutput: ",
+        "output": "5, 1, 4, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following three customer reviews of a(n) smartphone from most positive to least positive.\nReview 1: \"This smartphone is a game-changer! The camera quality is top-notch, and the battery life is exceptional.\"\nReview 2: \"I'm satisfied with my purchase. The phone is fast and has a good display. However, the battery could be better.\"\nReview 3: \"Not impressed. The phone heats up quickly and the camera doesn't live up to the hype.\"\nOutput:",
+        "output": ": Review 1, Review 2, Review 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their camera quality, from highest to lowest.\nSmartphones: \n1. iPhone 12 Pro Max\n2. Samsung Galaxy S21 Ultra\n3. Google Pixel 6\n4. Huawei P40 Pro\nYou should output the numbers in descending order, separated by commas. Do not provide any explanations.\nOutput: ",
+        "output": "[2, 1, 4, 3]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartwatches in terms of their price from lowest to highest: \n1. Apple Watch Series 3\n2. Fitbit Versa 2\n3. Samsung Galaxy Watch Active 2\n4. Motorola Moto 360 (3rd Gen)\nOutput: ",
+        "output": "1, 2, 3, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following electronic devices based on their portability: laptop, tablet, desktop computer, smartwatch. Output: ",
+        "output": "smartwatch, tablet, laptop, desktop computer\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following electronics based on their average price from highest to lowest.\n0. 4K OLED TV\n1. wireless earbuds\n2. robotic vacuum cleaner\n3. smartwatch\nAnswer: ",
+        "output": "0, 3, 2, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task: Rank the following smartwatches based on their price from lowest to highest.\nYou are given a list of smartwatches and their prices:\n1. Smartwatch A - $199\n2. Smartwatch B - $250\n3. Smartwatch C - $149\n4. Smartwatch D - $279\nOutput: ",
+        "output": "3, 1, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Order the following running shoes based on their price from lowest to highest.\nShoe List: \n1. Generic Brand Running Shoes\n2. New Balance Fresh Foam Kaymin\n3. Nike Air Zoom Pegasus\n4. Adidas Ultraboost\nOutput: ",
+        "output": "1, 2, 3, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following product descriptions based on how suitable they would be for a customer looking for a durable item. Output the ranks from 1 to 4, with 1 being the most suitable.\nProduct A: 'Sturdy construction with a reinforced frame for longevity.'\nProduct B: 'Elegant and lightweight, perfect for travel.'\nProduct C: 'Durable materials ensure this product will last through rough use.'\nProduct D: 'Compact and made of plastic for easy cleaning.'\nOutput: ",
+        "output": "3, 1, 4, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "A shopper is looking for a new pair of running shoes with good cushioning. Rank the following options from best to worst based on their likely cushioning level: \n1. Nike Air Zoom Pegasus\n2. Adidas Ultraboost\n3. New Balance 860v11\n4. Asics Gel-Kayano 27\nOutput: ",
+        "output": "4, 2, 1, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following products from most to least suitable for a 5-year-old child's birthday party: \n1. Toy Cars\n2. Puppet Show Kit\n3. Bounce House\n4. pi\u00f1ata\n5. Complex Jigsaw Puzzle\nOutput: ",
+        "output": "1, 2, 4, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Ranking: Below is a list of 5 items that a customer might buy to set up a home office. Rank them in order of importance for a person who needs to create a productive workspace.\nList:\n1. Ergonomic office chair\n2. High-speed wireless router\n3. Large desk with drawers\n4. External monitor\n5. plants for desk decor\nOutput: ",
+        "output": "1, 3, 4, 2, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their camera quality, with 1 being the best and 5 being the worst: iPhone 12, Samsung Galaxy S21, Google Pixel 6, Xiaomi Mi 11, Huawei P40.\nOutput: ",
+        "output": "1, 2, 3, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following three product descriptions for a smart watch from most to least helpful in making a purchasing decision. Output the rankings as numbers 1, 2, and 3.\nDescription A: 'Stay connected with our smart watch that features email, text, and call notifications.'\nDescription B: 'Water-resistant smart watch with a high-definition AMOLED display and long-lasting battery life.'\nDescription C: 'This smart watch comes in five stylish colors and is compatible with both Android and iOS devices.'\nOutput: ",
+        "output": "2, 3, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "A customer is looking for a new smartphone with a large battery. Rank the following smartphones based on their battery capacity from highest to lowest.\nSmartphone List:\n1. iPhone 12 with 2815 mAh battery\n2. Samsung Galaxy S21 with 4000 mAh battery\n3. Google Pixel 5 with 4080 mAh battery\n4. Huawei P40 with 4200 mAh battery\nOutput: ",
+        "output": "4, 3, 2, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task type: Ranking. A customer is looking for a durable carry-on suitcase. Rank the following suitcases based on their likely durability, with 1 being the most durable.\nSuitcase List:\n1. Nylon Hardshell Spinner Suitcase with Reinforced Corners\n2. Polyester Softside Upright Suitcase with Padded Handles\n3. Leather Vintage Weekender Bag with Metal Buckles\n4. ABS Plastic Hardshell Suitcase with Built-in Lock\n5. Canvas Duffle Bag with Leather Accents\nOutput: ",
+        "output": "4, 1, 2, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are comparing different types of headphones to purchase for your daily commute. Rank the following headphones based on their noise-cancellation feature, from best to worst. Output the list of the item numbers in descending order of noise-cancellation ability.\nCandidate Items:\n1. Sony WH-1000XM4 Wireless Noise-Canceling Headphones\n2. Bose QuietComfort 35 II Wireless Headphones\n3. Apple AirPods Max Over-Ear Headphones\n4. Audio-Technica ATH-M50x Professional Studio Monitor Headphones\n5. Sennheiser HD 599 SE Open-Back Headphones\nOutput:\nAnswer: ",
+        "output": "1, 2, 3, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following kitchen appliances based on their energy efficiency: \nAppliance List: \n1. Toaster\n2. Microwave Oven\n3. Blender\n4. Electric Kettle\n5. Induction Cooktop\nOutput: ",
+        "output": "5, 2, 4, 3, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their price from lowest to highest: Samsung Galaxy S21, Apple iPhone 12, Google Pixel 5. Answer: ",
+        "output": "['Google Pixel 5', 'Samsung Galaxy S21', 'Apple iPhone 12']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following product features in order of importance for a smartphone, based on a consumer's perspective:\n1. Camera quality\n2. Battery life\n3. Processing speed\n4. Screen size\n5. Price\nOutput: ",
+        "output": "5, 2, 1, 3, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following smartwatches by their average customer review score, highest to lowest.\nList: Apple Watch Series 6, Samsung Galaxy Watch Active, Fitbit Versa 3, Garmin Forerunner 45.\nOutput: ",
+        "output": "Apple Watch Series 6, Fitbit Versa 3, Samsung Galaxy Watch Active, Garmin Forerunner 45\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones from the highest to the lowest price based on their market value: 'Apple iPhone 13', 'Samsung Galaxy S21', 'Google Pixel 6', 'Xiaomi Redmi Note 10'. Answer: ",
+        "output": "['Apple iPhone 13', 'Samsung Galaxy S21', 'Google Pixel 6', 'Xiaomi Redmi Note 10']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Ranking: Given a list of five products and a customer's need for a low-cost item, rank these products from least to most expensive based on their listed prices. List the rank numbers (1 for least expensive, 5 for most expensive). Product List: \n1. Generic Smartphone Case - $5\n2. Wireless Earbuds - $40\n3. Smartwatch with GPS - $150\n4. Bluetooth Keyboard - $30\n5. Gaming Laptop - $800\n\nOutput: ",
+        "output": "\"1, 4, 2, 3, 5\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are shopping for a new laptop and have a budget of $1500. Below is a list of five laptops with their respective prices. Rank the laptops from the most to the least suitable for your budget, considering only the price factor. Output the list of laptop names in the ranked order, separated by commas.\n\nLaptop List:\n1. ASUS TUF Gaming Laptop, $1200\n2. Apple MacBook Air, $1600\n3. HP Pavilion 15, $1300\n4. Dell XPS 13, $1700\n5. Lenovo IdeaPad 3, $1100\nOutput: ",
+        "output": "Lenovo IdeaPad 3, ASUS TUF Gaming Laptop, HP Pavilion 15, Apple MacBook Air, Dell XPS 13\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task: Rank the following smartwatches based on their average customer rating from highest to lowest. Output the ranks in a comma-separated sequence.\nSmartwatches:\n1. Apple Watch Series 6\n2. Samsung Galaxy Watch Active 2\n3. Fitbit Versa 3\n4. Garmin Forerunner 945\nCustomer Ratings:\nApple Watch Series 6 - 4.7/5\nSamsung Galaxy Watch Active 2 - 4.5/5\nFitbit Versa 3 - 4.4/5\nGarmin Forerunner 945 - 4.6/5\nOutput:",
+        "output": "1, 4, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Ranking: A customer is searching for 'organic cotton t-shirts'. Rank the following 5 products based on their relevance to the search query.\nProduct List:\n1. Bamboo Fiber T-Shirt - Men's Eco-Friendly Clothing\n2. Organic Cotton T-Shirt - Women's Sustainable Fashion\n3. Cotton/Polyester Blend T-Shirt - Unisex Casual Wear\n4. Hemp T-Shirt - Eco-Friendly Clothing Option\n5. Organic Cotton T-Shirt - Men's Basic Tee\nOutput: ",
+        "output": "2, 5, 1, 4, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following kitchen appliances in order of their likely energy consumption, from highest to lowest.\nAppliance List:\n1. Full-size Refrigerator\n2. Toaster Oven\n3. Blender\n4. Microwave Oven\n5. Coffee Maker\nOutput: ",
+        "output": "1, 4, 2, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following product descriptions based on how suitable they would be for a customer looking for a 'formal handbag' for a wedding event. Output the ranks in ascending order, with 1 being the most suitable.\nProduct Description List:\n1. A small clutch with sparkling crystals and a chain strap for elegance.\n2. A large backpack with multiple compartments for everyday use.\n3. A sleek leather handbag with a minimalist design and a metal handle.\n4. A colorful canvas tote bag with a casual print for beach outings.\nOutput: ",
+        "output": "3, 1, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following products based on their price from lowest to highest: [Nike running shoes, generic kitchen towels, iPhone 12, cotton T-shirt]\nAnswer: ",
+        "output": "generic kitchen towels, cotton T-shirt, Nike running shoes, iPhone 12\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their battery life, from longest to shortest.\nSmartphones: \n- iPhone 12 (battery life: 20 hours)\n- Samsung Galaxy S21 (battery life: 17 hours)\n- Google Pixel 5 (battery life: 16 hours)\n- Huawei P40 (battery life: 15 hours)\nAnswer: ",
+        "output": "iPhone 12, Samsung Galaxy S21, Google Pixel 5, Huawei P40\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following electronics accessories by their average price, from the highest to the lowest. Output the ranking with numbers (1 for the highest, etc.).\nCandidate items:\n1. Wireless charging pad\n2. VR headset\n3. Gaming mouse\n4. Wired keyboard\nOutput (answer with numbers from 1 to 4): ",
+        "output": "2, 1, 3, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following laptops based on their price from highest to lowest.\n0. 'Asus ROG Zephyrus G14'\n1. 'Dell XPS 13'\n2. 'Lenovo IdeaPad 3'\n3. 'Acer Aspire 5'\nAnswer: ",
+        "output": "0, 1, 3, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are comparing three laptop bags based on their storage capacity. Rank the following laptop bags from highest to lowest capacity. Output the ranks in descending order, separated by commas. Do not provide explanations.\nLaptop Bag A: '17.3 Inch Computer Bag with Multi-Pockets by XYZ'\nLaptop Bag B: '15.6 Inch Laptop Briefcase, Large Storage by ABC'\nLaptop Bag C: '14 Inch Slim Laptop Sleeve by PQR'\nOutput: ",
+        "output": "1, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following running shoes based on their price from lowest to highest.\nShoe List:\n1. ASICS Gel-Excite 6\n2. Nike Air Zoom Pegasus 37\n3. New Balance 860v10\n4. Adidas Ultraboost 20\nYou should output a permutation of 1 to 4. There should be a comma separating two numbers. Each shoe and its number should appear only once in the output.\nOutput: ",
+        "output": "1, 3, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartwatches based on their customer review ratings from highest to lowest.\nCandidates:\n1. 'Samsung Galaxy Watch 4'\n2. 'Fitbit Versa 3'\n3. 'Apple Watch Series 7'\n4. 'Moto 360'\nReview Ratings: \n- Samsung Galaxy Watch 4: 4.7/5\n- Fitbit Versa 3: 4.6/5\n- Apple Watch Series 7: 4.8/5\n- Moto 360: 4.5/5\nAnswer: ",
+        "output": "3 > 1 > 2 > 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are a customer service agent helping a shopper find the best deal on a new laptop. Below are four laptop options with their respective prices. Rank the laptops from the least to the most expensive.\nLaptop A: $799\nLaptop B: $899\nLaptop C: $699\nLaptop D: $999\nOutput: ",
+        "output": "Laptop C, Laptop A, Laptop B, Laptop D\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Ranking: A customer is looking for a gift for a fitness enthusiast. Rank the following products by how suitable they are for a fitness-oriented gift.\nProduct List: \n1. Yoga Mat\n2. Wireless Earbuds\n3. Massage Pillow\n4. Fitness Tracker\n5. Desktop Gaming Console\nOutput: ",
+        "output": "4, 1, 2, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following running shoes based on their price, from lowest to highest. Answer:\nShoe List:\n1. Adidas Cloudfoam\n2. New Balance 1080v10\n3. Nike Air Zoom Pegasus\n4. Asics Gel-Kayano 27\n5. Hoka One One Bondi 6\nOutput:",
+        "output": ": [1, 3, 2, 5, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "A consumer is looking to purchase a new laptop for programming. They have a budget of $1500 and are interested in the following features: high processing power, ample storage, and good battery life. Rank the following laptops from best to worst, based on these criteria:\n1. Lenovo ThinkPad X1 Carbon\n2. Dell XPS 15\n3. Apple MacBook Air\n4. HP Envy 13\n5. ASUS ROG Zephyrus G14\nOutput: ",
+        "output": "5, 2, 1, 4, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task type: Ranking. You have a list of four products and their corresponding customer ratings. Rank them from highest to lowest rating.\nProduct A: 4.5/5\nProduct B: 3.7/5\nProduct C: 4.2/5\nProduct D: 2.9/5\nOutput: ",
+        "output": "\"Product A, Product C, Product B, Product D\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following running shoes based on their likelihood to provide 'arch support', with 1 being the highest likelihood.\n0. Nike Air Zoom Pegasus\n1. ASICS Gel-Kayano\n2. Adidas Ultraboost\nAnswer: ",
+        "output": "1, 2, 0\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "A shopper is looking for a new pair of running shoes with good cushioning. Rank the following options based on their potential cushioning, with 1 being the best option.\nOptions:\n0. Shoe A: A lightweight mesh running shoe with EVA sole.\n1. Shoe B: A running shoe with memory foam insole and\u6a61\u80f6 sole.\n2. Shoe C: A running shoe with air cushioning technology and durable rubber outsole.\n3. Shoe D: A minimalist running shoe with a thin sole and less padding.\nOutput: ",
+        "output": "2, 1, 0, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are comparing three similar smartphones for a friend. Rank the following smartphones based on their battery life, from longest to shortest. Output the ranks as numbers separated by commas. \n1. iPhone 12 - Up to 20 hours of video playback\n2. Samsung Galaxy S21 - Up to 17 hours of video playback\n3. Google Pixel 5 - Up to 15 hours of video playback\nOutput: ",
+        "output": "[1, 2, 3]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Ranking: As a personal stylist, rank the following clothing items based on their formality, from least formal to most formal: 1. Jeans, 2. Suit, 3. T-shirt, 4. Dress Shirt, 5. Ball Gown.\nOutput: ",
+        "output": "\"3, 1, 4, 2, 5\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following laptops based on their price from highest to lowest. \nLaptops: \n1. MacBook Pro 16\"\n2. Dell XPS 15\n3. HP Spectre x360\n4. Lenovo IdeaPad 3\nOutput: ",
+        "output": "1, 3, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following smartphones based on their price from highest to lowest:\nCandidates: iPhone 12, Samsung Galaxy S21, Google Pixel 5, OnePlus 8T.\nAnswer: ",
+        "output": "iPhone 12, Samsung Galaxy S21, Google Pixel 5, OnePlus 8T\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "As a personal stylist, rank the following\u670d\u88c5items based on their formality, from least formal to most formal.\nItem List:\n1. Denim Shorts\n2. Maxi Dress\n3. Three-Piece Suit\n4. Hoodie\n5. Cocktail Gown\nOutput: ",
+        "output": "4, 1, 2, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "As an expert in skincare, rank the following facial cleansers from least to most effective for removing makeup: \nCleanser List:\n1. Gentle Foaming Cleanser\n2. Micellar Water\n3. Oil-Based Cleanser\n4. Cream Cleanser\nYou should output a permutation of 1 to 4. There should be a comma separating two numbers. Each cleanser and its number should appear only once in the output.\nOutput: ",
+        "output": "1, 4, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "A customer is searching for a new laptop with at least 16GB of RAM. Rank the following laptops based on their relevance to the customer's search.\nLaptop List:\n1. Laptop A - 8GB RAM\n2. Laptop B - 12GB RAM\n3. Laptop C - 16GB RAM\n4. Laptop D - 32GB RAM\n5. Laptop E - 24GB RAM\nOutput: ",
+        "output": "4, 5, 3, 2, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are looking to purchase a new laptop for programming. Rank the following laptops in order of their suitability for programming based on their specifications.\n0. Apple MacBook Air (M1, 2020)\n1. Dell XPS 13 (11th Gen Intel Core i5, 2021)\n2. Lenovo ThinkPad X1 Carbon (10th Gen Intel Core i7, 2020)\n3. ASUS ROG Zephyrus G14 (AMD Ryzen 9 4900HS, 2020)\nOutput (rank them from most to least suitable):",
+        "output": "3, 1, 2, 0\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartwatches based on their price from highest to lowest: \nSmartwatch List: \n1. Apple Watch Series 6 \n2. Samsung Galaxy Watch Active2 \n3. Fitbit Versa 3 \n4. Google Pixel Watch \nYou should output a permutation of 1 to 4. There should be a comma separating two numbers. Only respond with the ranking results. Output:",
+        "output": "\"1, 2, 4, 3\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are shopping for a new phone and have narrowed down your choices to the following. Rank the phones from most to least likely to purchase based on their specifications and your personal preferences. Output the list of phone models in the desired order, separated by commas.\n\nPhone A: Samsung Galaxy S22 Ultra, 6.8\u201d AMOLED display, 5000mAh battery\nPhone B: iPhone 13 Pro Max, 6.7\u201d Super Retina XDR display, A15 Bionic chip\nPhone C: Google Pixel 6 Pro, 6.7\u201d OLED display, Tensor chip, 4614mAh battery\nPhone D: OnePlus 9RT, 6.62\u201d AMOLED display, Snapdragon 888 chip, 4500mAh battery\nOutput: ",
+        "output": "Phone B, Phone A, Phone C, Phone D\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following items based on their potential price from lowest to highest: apple, gold bar, car, diamond ring. Answer: ",
+        "output": "apple, car, diamond ring, gold bar\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following clothing items based on their suitability for a formal office environment, with 1 being the most suitable.\nItems: \n1. Denim Jeans\n2. Tailored Suit\n3. Casual Shirt\n4. Business Dress\nOutput: ",
+        "output": "2. Tailored Suit, 4. Business Dress, 3. Casual Shirt, 1. Denim Jeans\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task: Rank the following three product descriptions for a smartphone based on how effectively they highlight the battery life feature, from the most effective to the least effective. Output the ranks as numbers 1, 2, and 3. Do not include the descriptions in your answer. \nDescription A: 'Long-lasting battery keeps you charged throughout the day.'\nDescription B: 'Our innovative battery technology ensures you won\u2019t need to carry a charger.'\nDescription C: 'Battery specifications: 5000 mAh capacity with a talk time of up to 24 hours.'\nOutput: ",
+        "output": "2, 1, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following products based on their likely price from lowest to highest. Answer: \n1. Generic kitchen towels, 3-pack\n2. Samsung Galaxy S21 5G smartphone\n3. Diamond solitaire necklace, 1-carat\n4. Children's watercolor paint set\nOutput: ",
+        "output": "4, 1, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their screen size, largest to smallest.\nCandidate items: \n1. Samsung Galaxy Note 20 Ultra\n2. iPhone 12 Pro Max\n3. Google Pixel 5\nOutput: \n",
+        "output": "1. Samsung Galaxy Note 20 Ultra, 2. iPhone 12 Pro Max, 3. Google Pixel 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are comparing three smartwatches: Apple Watch Series 6, Samsung Galaxy Watch Active2, and Fitbit Versa 3. Rank these smartwatches based on their battery life, with 1 being the best battery life and 3 being the worst.\nOutput: ",
+        "output": "3, 2, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "A customer is searching for a new phone case that offers good protection. Rank the following cases from most to least protective, based on their descriptions.\nCase List:\n1. Rugged Armor Case with Military Grade Protection\n2. Slim Clear Case with Polycarbonate Back\n3. Silicone Case with Soft Edges\n4. Wallet Case with Magnetic Closure\nOutput: ",
+        "output": "1, 2, 3, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their battery life, with 1 being the best battery life. Answer: ",
+        "output": "1. iPhone 12 Pro Max\n2. Samsung Galaxy S21 Ultra\n3. Google Pixel 6 Pro\n4. OnePlus 9\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "As a shopping assistant, rank the following products based on their price from lowest to highest. Output the ranks as a sequence of numbers where 1 is the lowest price.\nProduct List:\n1.Generic iPhone Charger Cable, 3-Pack\n2.Apple AirPods Pro with Wireless Charging Case\n3.Samsung Galaxy Tab A 10.1\" 64GB Tablet\n4.Beats Solo3 Wireless On-Ear Headphones\nOutput: ",
+        "output": "1, 4, 3, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartwatches based on their water resistance, with 1 being the most water-resistant and 3 being the least: \n- Smartwatch A: 'Water resistant up to 50 meters'\n- Smartwatch B: 'Water resistant, not suitable for swimming'\n- Smartwatch C: 'Completely waterproof, suitable for snorkeling'\nOutput: ",
+        "output": "3, 1, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following kitchen appliances in order of their energy efficiency, with 1 being the most energy-efficient.\nAppliance List:\n1. Slow Cooker\n2. Toaster Oven\n3. Microwave Oven\n4. Convection Oven\nOutput (ranked numbers separated by a comma): ",
+        "output": "1, 3, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Compare the following products based on their price: 'Anker Soundcore Bluetooth Speaker', 'JBL Flip 4 Portable Speaker', 'Bose SoundLink Revolve+'. Rank them from highest to lowest price.",
+        "output": "Bose SoundLink Revolve+ > JBL Flip 4 Portable Speaker > Anker Soundcore Bluetooth Speaker\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their camera quality, from highest to lowest. Output the ranks separated by commas. Smartphones: Samsung Galaxy S21 Ultra, iPhone 12 Pro Max, Google Pixel 6, OnePlus 9 Pro. Output:",
+        "output": ": 1, 2, 4, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartwatches based on their average customer ratings from highest to lowest. Output the rank numbers next to the corresponding smartwatches. Do not include any explanations.\nSmartwatches:\n1. Apple Watch Series 6 - 4.7/5 rating\n2. Samsung Galaxy Watch Active 2 - 4.6/5 rating\n3. Fitbit Versa 3 - 4.5/5 rating\n4. Garmin Vivoactive 4 - 4.4/5 rating\n5. Amazfit Bip U - 4.3/5 rating\nOutput: ",
+        "output": "1-Apple Watch Series 6, 2-Samsung Galaxy Watch Active 2, 3-Fitbit Versa 3, 4-Garmin Vivoactive 4, 5-Amazfit Bip U\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "A customer is looking for a gift for a book lover. Rank the following items based on their suitability as a gift for a book enthusiast.\nItem List: \n1. E-Reader\n2. Bookends\n3. Coffee Mug\n4. Book Light\n5.Decorator Pillow\nOutput: ",
+        "output": "1, 2, 4, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following products based on their average customer rating from highest to lowest.\nProduct List:\n1. Product A - Rating: 4.5/5\n2. Product B - Rating: 3.8/5\n3. Product C - Rating: 4.2/5\n4. Product D - Rating: 2.9/5\n5. Product E - Rating: 4.7/5\nOutput: ",
+        "output": "5, 1, 3, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank these smartwatches from best to worst based on their average customer rating: \nList: \n1. Smartwatch A - 4.5/5 stars\n2. Smartwatch B - 3.9/5 stars\n3. Smartwatch C - 4.2/5 stars\n4. Smartwatch D - 2.7/5 stars\nOutput:",
+        "output": "1 > 3 > 2 > 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are a customer service agent helping a buyer find the best laptop for video editing. Rank the following laptops from most to least suitable based on their specifications for video editing.\n\nLaptop List:\n1. MacBook Pro with M1 Chip, 8GB RAM, 512GB SSD\n2. Dell XPS 15, Intel Core i7, 16GB RAM, 1TB SSD\n3. HP Envy x360, AMD Ryzen 7, 12GB RAM, 256GB SSD\n4. ASUS ROG Zephyrus G14, AMD Ryzen 9, 16GB RAM, 1TB SSD\n5. Lenovo Yoga 9i, Intel Core i5, 8GB RAM, 256GB SSD\n\nOutput (list numbers from 1-5 in descending order of suitability):",
+        "output": "[4, 2, 3, 1, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task type: Ranking. A customer is looking for a new laptop for programming and gaming. Rank the following laptops based on their suitability for these purposes, with 1 being the most suitable: \nLaptop List: \n1. Apple MacBook Air\n2. Dell XPS 15\n3. ASUS ROG Zephyrus G14\n4. Acer Aspire 5\n5. Lenovo Yoga 9i\nOutput: ",
+        "output": "3, 2, 5, 4, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "You are given a list of four products and a specific attribute. Please rank the products from the most to the least suitable based on the given attribute. Attribute: durability. Product List: 1. Canvas Backpack 2. Leather Briefcase 3. Plastic Lunch Box 4. Stainless Steel Water Bottle.\nOutput: ",
+        "output": "4, 2, 1, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartphones based on their battery life, from longest to shortest. Requirement: battery life. Answer: ",
+        "output": "[Samsung Galaxy S21 Ultra, iPhone 12 Pro Max, Google Pixel 6, Motorola Moto G Power]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Rank the following running shoes based on their average customer review score from highest to lowest.\n0. Nike Air Zoom Pegasus 37\n1. Adidas Ultraboost 20\n2. New Balance 860v9\n3. Brooks Ghost 12\nAnswer: ",
+        "output": "1, 0, 3, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "As a shopping assistant, rank the following beauty products from least to most expensive based on their typical price range.\nProduct List:\n1. Lip Balm, beeswax-based\n2. Foundation, high-end brand\n3. Nail Polish, drugstore brand\n4. Facial Serum, anti-aging with gold particles\n5. Makeup Remover Wipes, generic brand\nOutput: ",
+        "output": "3, 1, 5, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task type: Ranking. You are helping a user decide which laptop to buy based on portability. Please rank the following laptops from most to least portable, based on their weight and size.\nLaptop List:\n1. Apple MacBook Air (13-inch)\n2. ASUS ZenBook 13\n3. Dell XPS 13\n4. Lenovo ThinkPad X1 Carbon\nOutput: ",
+        "output": "1, 2, 3, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following clothing items from least expensive to most expensive. Output the numbers 1-5 corresponding to the items, with 1 being the least expensive.\nItem List:\n1. Basic T-shirt from a local store\n2. Designer jeans from an upscale boutique\n3. Discounted sweater from an online retailer\n4. Evening gown from a luxury brand\n5. Casual dress from a department store\nOutput:",
+        "output": "1, 3, 5, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following products based on their potential for providing comfort while sitting for long periods.\n0. office chair\n1. wooden stool\n2. bean bag chair\n3. ergonomic cushion\nAnswer: \n",
+        "output": "0 > 3 > 2 > 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task type: Ranking. A consumer is looking to purchase a new smartphone and battery life is their top priority. Rank the following smartphones from best to worst based on their battery life: iPhone 12, Samsung Galaxy S21, Google Pixel 5. Output: \n",
+        "output": "Samsung Galaxy S21, iPhone 12, Google Pixel 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Ranking: A customer is looking for the best deal on a new refrigerator. Given the following options, rank them in order of the most to least savings based on the listed price and percentage discount.\nProduct List:\n1. Refrigerator A - Original Price: $1200, Discount: 10%\n2. Refrigerator B - Original Price: $1500, Discount: 15%\n3. Refrigerator C - Original Price: $900, Discount: 5%\n4. Refrigerator D - Original Price: $1100, Discount: 7%\nOutput: ",
+        "output": "\"2, 1, 4, 3\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Ranking: Below is a list of 5 products. Rank them from the most to the least likely item a person who has just bought a 'Harley-Davidson Boys Baby Twin Pack Creeper My Daddy Rides a Harley Orange' would purchase next.\nProduct List:\n1. Harley-Davidson Women's Bar & Shield Logo Scoop Neck T-Shirt\n2. Disney Mickey Mouse Clubhouse Infant/Toddler Fleece Hoodie\n3. Harley-Davidson Men's Bar & Shield Logo Black T-Shirt\n4. Little Tikes Cozy Coupe 30th Anniversary Edition\n5. Graco Pack 'n Play Playard with Reversible Napper and Changer\nOutput: ",
+        "output": "\"3, 1, 5, 2, 4\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following running shoes based on their price from highest to lowest, assuming the price reflects the quality of the shoes.\n0. Nike Air Zoom Pegasus\n1. New Balance 860v10\n2. Adidas Ultraboost\n3. Asics Gel-Kayano 27\nAnswer: ",
+        "output": "Adidas Ultraboost, Asics Gel-Kayano 27, Nike Air Zoom Pegasus, New Balance 860v10\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "You are comparing three laptops for a student's use. Rank them based on their suitability, with 1 being the most suitable.\nLaptops:\n- Laptop A: 14-inch screen, 8GB RAM, 256GB SSD, 10-hour battery life\n- Laptop B: 15-inch screen, 4GB RAM, 1TB HDD, 6-hour battery life\n- Laptop C: 13-inch screen, 12GB RAM, 512GB SSD, 8-hour battery life\nOutput: \n",
+        "output": "2, 3, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following grocery items from least to most healthy based on common dietary knowledge.\nItem List:\n1. Dark Chocolate\n2. Sweet Potato\n3. Soda\n4. Avocado\n5. Bacon\nOutput: ",
+        "output": "3, 5, 1, 2, 4",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Ranking: A buyer is looking for a durable and water-resistant backpack for outdoor activities. Below are four backpacks with their respective features. Rank them from most to least suitable for the buyer's needs.\nBackpack List:\n1. Backpack A: Water-resistant nylon material, reinforced stitching.\n2. Backpack B: Polyester fabric, includes a rain cover.\n3. Backpack C: Canvas material, no additional water protection.\n4. Backpack D: Nylon blend, water-resistant coating, and durable zippers.\nOutput: ",
+        "output": "\"4, 2, 1, 3\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following product descriptions based on how suitable they would be for a luxury gift. Output the indices in descending order of suitability.\n0. A handmade leather journal with gold-edged pages.\n1. A set of plastic storage bins with wheels.\n2. A silk scarf with an intricate pattern.\n3. A pack of 100 ballpoint pens in various colors.\n4. A designer watch with a sapphire crystal face.\nOutput: ",
+        "output": "4,2,0,1,3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "Task: Rank the following smartphones based on their battery life, from longest to shortest.\nCandidate Smartphones:\n1. iPhone 12\n2. Samsung Galaxy S21\n3. Google Pixel 6\n4. Huawei P40\nOutput: ",
+        "output": "4, 2, 3, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Task type: Ranking. Given the following product options, rank them from most to least suitable for a user looking for 'a comfortable office chair with good lumbar support'. \nProduct List: \n1. Ergonomic Office Chair with Mesh Back and Adjustable Lumbar Support, Model GC02\n2. Classic Leather Office Chair, Model L01\n3. Executive High-Back Office Chair with Memory Foam, Model EX03\n4. Compact Task Chair with Fixed Arms, Model TA04\n5. Racing Style Gaming Chair with Reclining Function, Model GC05\nOutput: ",
+        "output": "1, 3, 2, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Ranking",
+        "instruction": "A user is searching for a 'smart watch with GPS'. Rank the following products based on their relevance to the search term.\nProduct List:\n1. Fitness Tracker with Heart Rate Monitor\n2. Smart Watch with GPS, Calling, and Text Features\n3. Classic Dress Watch with Quartz Movement\n4. Digital Watch with 50m Water Resistance\n5. Smart Watch with GPS and Music Control\nOutput: ",
+        "output": "[2, 5, 1, 4, 3]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following items based on their price from highest to lowest.\nCandidates: \n1. Diamond Necklace\n2. Cotton T-Shirt\n3. Smart TV\n4. Pair of Running Shoes\nOutput: ",
+        "output": "1. Diamond Necklace, 3. Smart TV, 4. Pair of Running Shoes, 2. Cotton T-Shirt\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "ranking",
+        "instruction": "Rank the following smartwatches in terms of their fitness tracking capabilities.\nSmartwatch List: \n1. Apple Watch Series 7\n2. Fitbit Charge 5\n3. Samsung Galaxy Watch4\n4. Garmin Forerunner 945\nOutput: ",
+        "output": "4, 2, 3, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    }
+]

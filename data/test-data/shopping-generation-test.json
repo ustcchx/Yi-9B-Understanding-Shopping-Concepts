@@ -1,0 +1,2498 @@
+[
+    {
+        "task_type": "Generation",
+        "instruction": "Given the product feature \"water-resistant fabric\" and the question \"What benefit does this feature provide?\", please explain the advantage.",
+        "output": "The water-resistant fabric offers protection against light rain and accidental spills, keeping the contents inside dry and safe.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Generate a product description for a high-quality, waterproof Bluetooth speaker designed for outdoor activities.\nOutput: ",
+        "output": "Introducing the Rugged Outdoor Bluetooth Speaker, built to withstand the elements and deliver powerful sound wherever adventure takes you. With its IP67 waterproof rating, this speaker is not only dustproof but also submersible, ensuring worry-free usage by the pool or on the beach. The enhanced bass and clear treble provide immersive audio quality, while the long-lasting battery guarantees up to 16 hours of playtime. Its durable, shock-resistant design makes it perfect for hiking, camping, or any outdoor escapade. Connect seamlessly via Bluetooth to stream your favorite tunes, and with a built-in microphone, take hands-free calls on the go.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the product title 'Samsung Galaxy Buds2 True Wireless Earbuds with Active Noise Cancellation, Long Battery Life, Ambient Sound Mode, Multiple Microphones, Wireless Charging, Black', please provide a short summary of the product features.\nOutput:",
+        "output": "The Samsung Galaxy Buds2 offer wireless earbuds with active noise cancellation, long battery life, ambient sound mode, multiple microphones for clear calls, and wireless charging. They come in a sleek black design.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Given a product review, generate a summary of the main points. \nReview: I purchased this slow cooker for its large capacity and programmable settings. It's very convenient to use, the food comes out delicious, and cleaning is a breeze thanks to the non-stick surface. However, the outer part does get quite hot during cooking.\nOutput: ",
+        "output": "Summary: The slow cooker is praised for its large capacity, programmable settings, convenience, tasty results, and easy cleaning due to the non-stick surface. A downside is that the outer part gets hot during cooking.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Write a product description for a wireless Bluetooth speaker with a portable design. \nQuestion: What features make this speaker ideal for outdoor activities?\nOutput: ",
+        "output": "The compact and lightweight design of our Bluetooth speaker makes it the perfect companion for your outdoor adventures. With its powerful sound and waterproof construction, it can withstand various weather conditions. Its long-lasting battery ensures uninterrupted music playback for hours, while the built-in microphone allows for hands-free calls and voice assistant activation. Take the party anywhere with this versatile and durable wireless speaker.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "A customer is interested in purchasing a product that can help them organize their kitchen. Generate a product title for a kitchen organizer that can efficiently store pots, pans, lids, and utensils.\nOutput: ",
+        "output": "\"Kitchen Cabinet Organizer: Pot and Pan Rack with Utensil Holder and Lid Storage\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given the product category 'Smartphones', generate a product description that highlights its key features and specifications.",
+        "output": "The Samsung Galaxy S22 Ultra is a flagship smartphone that merges power and innovation. It boasts a 6.8-inch Dynamic AMOLED 2X display, providing vibrant colors and an immersive viewing experience. Equipped with a powerful Snapdragon 8 Gen 1 processor, it ensures smooth performance for multitasking and gaming. The S22 Ultra stands out with its built-in S Pen, enabling effortless note-taking and creative expression. It features a quad-camera system, including a 108MP primary sensor, delivering stunning photos and videos. With 5G connectivity, you can enjoy lightning-fast internet speeds. The device offers an impressive battery life of up to 1 day, ensuring you stay connected throughout the day. The sleek design, combined with IP68 water and dust resistance, makes the Samsung Galaxy S22 Ultra a durable and stylish choice for tech enthusiasts.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "A customer wants to write a review for a newly purchased coffee maker. The customer specifically mentions its easy-to-use interface and fast brewing time. Please generate a concise yet informative review.",
+        "output": "\"This coffee maker is a game-changer! Its intuitive interface makes brewing a breeze, and I'm always impressed by how quickly it delivers a perfect cup. Highly recommended!\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the following customer review, summarize the main points in a few sentences: \"I recently bought the 'Samsung Galaxy S21' and I'm blown away by its performance. The battery life is exceptional, lasting me throughout the day even with heavy usage. The camera quality is top-notch, capturing stunning photos in both daylight and low light conditions. The design is sleek and modern, fitting comfortably in my hand. However, I do wish it had expandable storage options.\"\nOutput:",
+        "output": "The Samsung Galaxy S21 impresses with its powerful performance, excellent battery life capable of enduring heavy usage, and superior camera quality for crisp photos in various lighting. Its sleek and ergonomic design is a plus, but the lack of expandable storage is a minor drawback.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "A customer is looking for a winter coat with good insulation. They find a product description: \"The North Face Men's McMurdo Parka III, a heavy-duty winter coat designed for extreme cold weather with 550-fill goose down insulation.\" Generate a concise summary of the product's insulation feature.\nOutput:\n",
+        "output": ": The coat features 550-fill goose down insulation, providing excellent warmth for extreme cold weather conditions.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instructions: Given a product review, summarize the main positive and negative points.\nReview: \"I love the vibrant colors and comfortable fit of this Adidas tracksuit. It's perfect for casual wear and workouts. However, the material tends to pill after a few washes.\"\nOutput:",
+        "output": "Positive: Vibrant colors, comfortable fit, suitable for casual wear and workouts. Negative: Material pills after a few washes.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given a product review, summarize its main points in a few sentences. \nReview: The coffee maker is a sleek, modern design that fits perfectly on my kitchen counter. It brews a great cup of coffee quickly and quietly, but I've noticed it tends to overflow occasionally. Cleaning is easy with the removable parts, although the instructions can be a bit confusing. Overall, I'm satisfied with its performance.\nOutput: ",
+        "output": "The coffee maker has a stylish design and efficiently brews coffee. However, it experiences occasional overflow issues and the cleaning instructions are unclear.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the product review \"I recently purchased the 'Gourmet Kitchen Blender' and I am blown away by its performance. The blending is smooth, and it handles ice cubes effortlessly. The design is sleek and fits perfectly on my countertop. However, the cleaning process could be easier. Overall, a fantastic addition to my kitchen.\" Write a short summary of the review.\nOutput: ",
+        "output": "The 'Gourmet Kitchen Blender' receives high praise for its exceptional blending capabilities and stylish design. It effectively blends ice and fits nicely on countertops. Despite a minor inconvenience in cleaning, the reviewer deems it a fantastic kitchen tool.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given the product review, please summarize the overall sentiment of the reviewer in a sentence. The review is: \"I was skeptical about buying this blender online without seeing it in person, but I'm pleasantly surprised. It works perfectly for smoothies and even crushes ice easily. The cleanup is a breeze too. I highly recommend it!\"",
+        "output": "The reviewer is highly satisfied with the blender, praising its performance and ease of cleaning, and recommends it to others.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given a product review, generate a summary of the review. \nReview: This coffee maker is amazing! It's so easy to use and clean. The coffee it brews tastes delicious and stays hot for hours. I love the programmable feature that allows me to have a fresh pot ready when I wake up. The design is sleek and fits perfectly on my kitchen counter. Highly recommend this product!\nOutput: ",
+        "output": "The coffee maker is praised for its ease of use, cleaning convenience, great taste, ability to keep coffee hot for hours, programmable feature, stylish design, and counter space efficiency. The reviewer highly recommends it.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given a product category 'Women's Sandals', provide a product title and a brief description.\nOutput: \n",
+        "output": ": Title: Summer Floral Slide Sandals\nDescription: These Women's Sandals feature a lightweight, breathable design with a trendy floral pattern. The comfortable foam footbed and slip-on style make them perfect for casual summer days.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given a product review, summarize its main points in a sentence.\nReview: The Bose QuietComfort 35 II Wireless Headphones deliver exceptional noise cancellation, have great battery life, and the sound quality is balanced and clear.",
+        "output": "These Bose headphones excel in noise cancellation, have impressive battery life, and offer balanced sound quality.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given the product description \"The North Face Women's Gotham III Jacket, a stylish and warm parka with a faux-fur-trimmed hood, perfect for cold winter days in the city.\", please generate a suitable title for the product.",
+        "output": "The North Face Women's Gotham III Jacket: Stylish Parka with Faux-Fur Hood for Winter Warmth\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "A customer is looking for a budget-friendly laptop suitable for daily use, including browsing, light gaming, and basic office tasks. They want a device with at least 8GB RAM and a decent battery life. Please suggest a laptop model based on these requirements and provide a brief justification for your recommendation.\n",
+        "output": "Dell Inspiron 15 3000 Series - It offers a good balance of performance and affordability, with an Intel Core i3 processor, 8GB RAM, and a long-lasting battery for everyday tasks like browsing, light gaming, and office work.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instructions: Write a short product description for a blender that emphasizes its versatility and power.\nQuestion: Can you describe a versatile and powerful blender?",
+        "output": "The Ninja Professional Blender is a powerhouse kitchen appliance designed for exceptional blending performance. With its 1200-watt motor, it effortlessly crushes ice, blends smoothies, and purees hot soups with ease. Its versatile functionality allows you to create creamy frozen desserts, nutrient-packed juices, and even homemade nut butter, making it the ultimate tool for all your culinary adventures.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instructions: Write a product review for a 'Smart Blender' focusing on its convenience and ease of use.\nQuestion: How user-friendly is the Smart Blender?\nOutput: ",
+        "output": "The Smart Blender is an absolute game-changer when it comes to kitchen appliances. Its intuitive touch controls and sleek design make it a breeze to operate, even for those who aren't tech-savvy. The app integration allows for seamless pre-programming and customization of blending settings, ensuring perfect results every time. Cleanup is equally effortless with the blender's self-cleaning feature, which saves precious time in a busy day. Overall, the Smart Blender scores high on convenience and user-friendliness.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Describe the functionality of a wireless charger.",
+        "output": "A wireless charger is a device that enables the charging of electronic gadgets without the need for physical cable connections. It works by using electromagnetic fields to transfer energy between two objects, typically through induction. The user simply places their compatible device onto the charger, and the charger sends power to the device's battery, allowing it to charge wirelessly.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given a product review, summarize its main points in a sentence. The summary should capture the overall sentiment and key aspects mentioned in the review.\nReview: This coffee maker is a game changer! It brews a perfect cup every time, and the programmable feature allows me to wake up to fresh coffee. The design is sleek and fits perfectly in my kitchen. However, the cleaning process could be a bit easier.",
+        "output": "Summary: The coffee maker consistently brews great coffee, has a convenient programmable feature, and a stylish design, though cleaning could be more user-friendly.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "You are given a user review to a(n) jacket product and an aspect covered in the review. Please extract the keyphrase from the review that mentions the given aspect. You should only extract ONLY ONE keyphrase from the review. You should not generate new keyphrases that do not exist in the review. Do not give explanations or irrelevant text. Generate short keyphrases, not whole sentences.\nReview: This jacket is perfect for chilly spring mornings. The insulation keeps me warm, and I love the stylish design.\nAspect: design\nOutput: \n",
+        "output": "stylish design",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Provide a detailed description of the product.",
+        "output": "Headphone\nOutput: Output Field: The headphones feature noise-cancelling technology, allowing users to immerse themselves in their audio experience while blocking out external sounds. They have comfortable memory foam ear cups, ensuring long-lasting comfort during extended listening sessions. The wireless connectivity with Bluetooth enables seamless pairing with devices, and the built-in microphone guarantees clear voice calls. With a long battery life of up to 30 hours, these headphones provide uninterrupted enjoyment for days. A sleek and durable design completes the package, making them suitable for both casual and professional use.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given a product review for a coffee maker, please summarize the main points of the review in a sentence.\nReview: The coffee maker produces a rich and flavorful brew, but it's a bit complicated to operate initially. The design is sleek, but the carafe tends to spill while pouring.\n",
+        "output": "This coffee maker offers delicious coffee, yet its operation can be complex at first, and the carafe may spill due to its design.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given a product review and an aspect, generate a response that reflects the sentiment of the aspect in the review. Aspect: design\nReview: I love the sleek and modern design of this toaster oven. It fits perfectly on my countertop and adds a touch of elegance to my kitchen.\nOutput: ",
+        "output": "stylish and contemporary appearance",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given the product review \"This blender is amazing! It blends everything so smoothly and easily, I've never had a better smoothie in my life.\", generate a summary of the review.",
+        "output": "The reviewer expresses great satisfaction with the blender's performance, highlighting its exceptional blending capabilities and the superior quality of the resulting smoothies.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Write a brief product summary for a pair of noise-cancelling headphones suitable for air travel, highlighting their key features.\nOutput: ",
+        "output": "Enjoy a peaceful flight with our noise-cancelling headphones designed specifically for air travel. Immerse yourself in superior sound quality while effectively blocking out ambient noise with advanced noise cancellation technology. Experience comfort during long journeys with soft ear cushions and a lightweight build. These headphones also boast a long battery life and quick charging, ensuring your entertainment stays uninterrupted. Stay connected with easy-to-use controls and a built-in microphone for clear calls. Get ready for a serene travel experience with these premium headphones.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the product review \"This blender is amazing! It blends everything so smoothly and easily. I love the various speed settings and the sleek design. It's also very easy to clean.\" Generate a title for this review that accurately reflects its content.\nOutput: ",
+        "output": "\"Effortless Blending Experience with Stylish Design and Versatile Speed Settings\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given a product title, provide a brief yet descriptive summary of the product. The summary should highlight the key features and benefits.\nProduct Title: 'Sony WH-1000XM4 Wireless Noise-Cancelling Headphones with Alexa Built-in'\nOutput: ",
+        "output": "Enjoy premium sound quality and unparalleled noise cancellation with Sony's WH-1000XM4 headphones. Experience hands-free convenience thanks to built-in Alexa, and immerse yourself in music like never before.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given the product title \"Apple iPad Pro (11-inch, 2nd generation, Wi-Fi, 256GB) - Space Gray\", provide a short summary of the product.\nOutput: ",
+        "output": "The Apple iPad Pro is a 2nd generation 11-inch tablet with Wi-Fi connectivity and a 256GB storage capacity, featuring a Space Gray finish.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the product title 'Columbia Women's Ice Maiden II Snow Boot', provide a brief description of the product that includes its key features and target audience.\nOutput:",
+        "output": "The Columbia Women's Ice Maiden II Snow Boot is designed for women seeking reliable cold-weather protection. Key features include a waterproof construction to keep feet dry in snowy conditions, a Omni-Heat reflective lining for enhanced warmth, and a non-marking rubber outsole with aggressive traction for grip on icy surfaces. Perfect for outdoor winter activities or simply staying cozy during chilly months.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given a product title \"Organic Cotton Bath Towels - Soft and Absorbent, Set of 4\", provide a brief elaboration on the product's benefits.",
+        "output": "These Organic Cotton Bath Towels offer a luxurious experience with their soft texture and superior absorbency. The set of 4 ensures you have ample towels for your daily needs, while the organic cotton material guarantees eco-friendliness and durability.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Explain the key features of the product 'Apple iPhone 13 Pro Max' in a sentence.\nOutput:",
+        "output": "The Apple iPhone 13 Pro Max boasts a large Super Retina XDR display, A15 Bionic chip for exceptional performance, advanced triple-camera system with Pro Night mode, and extended battery life.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given a customer review, summarize the main points in a few sentences. Review: \"I love this coffee maker! It's easy to use, brews quickly, and the coffee tastes great. The design is sleek and fits perfectly on my countertop.\"",
+        "output": "This coffee maker is praised for its ease of use, fast brewing time, and delicious coffee taste. Its sleek design is also a plus, making it an ideal fit for countertops.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given the product review \"This blender exceeded my expectations. It blends smoothly even the toughest ingredients and the cleanup is a breeze.\" Generate a rating out of 5 stars for this product.",
+        "output": "5 stars\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instruction: Elaborate on the product features in a marketing style for the given product title.\nProduct Title: 'Bose QuietComfort 35 Wireless Headphones II - Noise Cancelling, Alexa built-in, Google Assistant, Bluetooth, NFC, Black'\nOutput: ",
+        "output": "Introducing the Bose QuietComfort 35 Wireless Headphones II, designed to immerse you in pure audio bliss. Experience unparalleled noise cancellation technology that blocks out distractions, letting you fully enjoy your music or calls. With Alexa and Google Assistant integrated, control your world with just your voice. Effortlessly connect via Bluetooth or NFC, ensuring seamless streaming from your devices. Immerse yourself in rich, balanced sound, and step into a world of convenience and comfort with these sleek black headphones.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "You are given a product description. Your task is to summarize the key features of the product in a sentence. Keep the important details and omit unnecessary information.\nProduct Description: The Sony WH-1000XM4 Wireless Noise-Cancelling Headphones deliver industry-leading noise cancellation with improved sound quality, 30 hours of battery life, touch controls, and the ability to connect to two devices simultaneously.\nOutput: ",
+        "output": "Sony WH-1000XM4 headphones offer industry-leading noise cancellation, superior sound, 30-hour battery, touch controls, and dual device connectivity.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instructions: Given a product review, generate a summary of the review. \nReview: This slow cooker is a lifesaver for busy weeknights. The programmable timer and automatic keep-warm feature make dinner prep a breeze. The locking lid ensures no spills, and the stoneware pot is easy to clean. However, the heating element could be a bit stronger for even cooking.\nOutput:",
+        "output": "Summary: The slow cooker is praised for its convenience with a programmable timer and automatic keep-warm function. It has a spill-proof locking lid and easy-to-clean stoneware pot, but the heating element could be improved for more consistent cooking.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given the product review \"This blender is amazing! It blends everything smoothly and quickly, even ice. I've been using it daily for smoothies and it hasn't shown any signs of wear. The design is sleek and it's easy to clean.\" The user is asking for a summary of the review focusing on the blender's performance. Generate a short summary.",
+        "output": "Blends smoothly and quickly, durable for daily use, sleek design, and easy to clean.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the customer review \"This blender is amazing! It blends everything so smoothly, even ice cubes. I love the different speed settings and the sleek design. Highly recommend it.\", provide a summary of the review.\nOutput: ",
+        "output": "The customer is very satisfied with the blender's performance, particularly its ability to blend smoothly, including ice cubes. They appreciate the various speed settings and the stylish design, and they wholeheartedly endorse the product.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given a product review, summarize its main points in a sentence. \nReview: This blender is a game-changer in my kitchen. It blends smoothly even the toughest ingredients, from ice to nuts, and the cleanup is a breeze thanks to its dishwasher-safe parts. The design is sleek and doesn't take up much counter space.",
+        "output": "The blender efficiently handles tough blending tasks, has easy cleanup with dishwasher-safe parts, and features a sleek, space-saving design.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given a product review, provide a summary of the review in a sentence. Review: This blender works like a charm. It's easy to clean and has various speed settings. I've been using it daily for smoothies and it hasn't shown any signs of wear. \nAspect: Overall impression\nOutput: ",
+        "output": "Blender performs well, is durable, and simple to clean.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Input: Provide a detailed description of a wireless Bluetooth speaker\nOutput: ",
+        "output": "The wireless Bluetooth speaker is a portable audio device designed for seamless music streaming from compatible devices without the need for cords or wires. It features advanced Bluetooth technology, allowing it to connect effortlessly to smartphones, tablets, laptops, or any Bluetooth-enabled gadget within a range of approximately 30 feet. Equipped with high-quality drivers, it delivers crisp, clear sound and powerful bass for an immersive audio experience. Its compact design makes it easy to carry, and it often includes a rechargeable battery for hours of uninterrupted playback. Additionally, many models may offer additional functions like voice assistant integration, waterproofing, or a built-in microphone for hands-free calls.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given a product description, rewrite it in an elaborate and engaging manner while preserving its original meaning. \nOriginal Description: \"The Instant Pot DUO60 6 Qt 7-in-1 Multi-Use Pressure Cooker is a versatile kitchen appliance.\"\nRewritten Description:",
+        "output": "The Instant Pot DUO60 6 Qt 7-in-1 Multi-Use Pressure Cooker is a culinary wizard, transforming your kitchen into a haven of culinary delight with its incredible versatility.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instruction: Given a product description, generate a catchy slogan.\nProduct Description: Our all-natural, organic skincare line is made with carefully sourced ingredients to nourish and rejuvenate your skin without harsh chemicals.\nOutput: ",
+        "output": "\"Pure Nature, Radiant Skin - Nourish with Us\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the product title \"Cuisinart DCC-1200 Brew Central 12-Cup Programmable Coffeemaker, Brushed Stainless\", please provide a short and catchy tagline for this product.\nOutput:",
+        "output": "\"Savor Every Cup with Cuisinart's Brushed Stainless Brew Central\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Generate a product description for a smartwatch with a focus on its health monitoring features.\nOutput: ",
+        "output": "The SmartFit Health Monitor Watch is your ultimate wellness companion, equipped with advanced sensors to track your heart rate, sleep quality, and daily steps. It also features a built-in stress monitor and guided breathing exercises for relaxation. With continuous blood oxygen level monitoring and menstrual cycle tracking, it ensures comprehensive health management at your wrist. Stay connected with smartphone notifications and enjoy a long battery life for non-stop support.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the product description \"This all-purpose blender is perfect for smoothies, soups, and sauces. It features a powerful 1200-watt motor and six blades for efficient blending. The jar is made of durable BPA-free plastic and has a capacity of 64 ounces.\", write a short review summarizing the key features of the blender.\nOutput: ",
+        "output": "The blender boasts a robust 1200-watt motor, ensuring swift blending for various recipes like smoothies, soups, and sauces. Its six blades guarantee effective performance, while the BPA-free 64-ounce jar provides ample space and durability for everyday use.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "A product titled 'Philips Sonicare ProtectiveClean 6100 Electric Toothbrush' is found on a French e-commerce site. Write an appropriate title for the product in French.",
+        "output": "Brosse \u00e0 dents \u00e9lectrique Philips Sonicare ProtectiveClean 6100",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given the product category 'home appliances', generate a product name that would fit in this category.\nOutput: ",
+        "output": "Smart Eco-Friendly Washing Machine\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a short product description for a pair of noise-cancelling headphones designed for travel, focusing on their comfort features and battery life.\nOutput: \n",
+        "output": ": Experience uninterrupted tranquility with our TravelComfort Noise-Cancelling Headphones. Engineered for extended use, they boast plush memory foam ear cushions that mold to your ears, ensuring unparalleled comfort during long flights. With an impressive 30-hour battery life, you can enjoy serene audio for days without needing a recharge. Immerse yourself in premium sound quality, while the world around you fades away.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "A customer is searching for a 'blue, cotton, women's t-shirt' on a French e-commerce site. Write a suitable title for the product in French.\nOutput: ",
+        "output": "T-shirt femme bleu en coton, confortable et tendance",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Please write a short product review for a wireless Bluetooth speaker with a focus on its sound quality and battery life. Output a paragraph around 50-70 words.\nOutput: ",
+        "output": "This wireless Bluetooth speaker delivers exceptional sound quality with crisp highs, balanced mids, and deep bass. Its battery life is impressive, lasting up to 16 hours on a single charge, ensuring music enjoyment throughout the day. The connectivity is stable and setup is seamless. A true gem for audiophiles who value both audio performance and convenience.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Input: Summarize the main features of a coffee maker with a built-in grinder\nOutput:",
+        "output": "This coffee maker boasts a convenient built-in grinder, allowing users to freshly grind beans before brewing. It offers customizable settings for grind coarseness and brew strength, ensuring a tailored coffee experience. The machine also has a programmable timer for waking up to a fresh pot and a sleek, easy-to-clean design.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task: Describe the color options available for the product 'Levi's Women's 721 High Rise Skinny Jeans'. \nQuestion: What colors can customers choose from when purchasing these jeans?\nOutput: ",
+        "output": "Customers have a variety of color options to choose from, including classic shades like black, dark blue, medium wash, and light blue. They can also opt for trendy hues such as gray, olive green, or even a distressed denim look.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given the product review: \"This coffee maker is a lifesaver in the morning. It's easy to program and makes a perfect cup every time. I love the auto-start feature!\" Describe the main benefit of the product in one sentence.",
+        "output": "The main benefit of this coffee maker is its convenience, providing a perfectly brewed cup of coffee automatically right when you need it.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instruction: Given a product review, summarize its key points in a few sentences. Review: \"I recently bought the 'Philips Sonicare DiamondClean Smart 9700' toothbrush and I am really impressed. The app integration is great for tracking brushing habits, and the various brushing modes cater to all my needs. The battery life is also outstanding, lasting weeks on a single charge.\"\nOutput:",
+        "output": "The Philips Sonicare DiamondClean Smart 9700 toothbrush stands out with its app integration for tracking brushing, versatile modes, and exceptional battery life lasting weeks.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given the customer review \"This blender is amazing! It can blend ice cubes so smoothly, and it's very easy to clean.\", summarize the review in a single sentence.",
+        "output": "The blender is highly praised for its capability to blend ice cubes effectively and its convenience in cleaning.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Describe the features of the product 'Samsung Galaxy S21 Ultra 5G, Phantom Black, 128GB' in a sentence.\nOutput: ",
+        "output": "The Samsung Galaxy S21 Ultra 5G in Phantom Black offers 128GB storage and 5G connectivity, featuring a powerful camera system and a sleek design.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given a customer's review for a coffee machine: \"This coffee maker is a lifesaver! It's easy to clean and makes the perfect cup every morning. The only downside is the noise it produces during brewing.\" Please generate a revised version of the review that focuses on positive aspects while addressing the mentioned issue.\nOutput:",
+        "output": "The coffee machine is an absolute game-changer, consistently delivering a delightful cup to kick-start my day with ease. While its cleaning process is commendably effortless, I've noticed that it does emit some noise during brewing; however, the exceptional coffee quality makes it well worth overlooking this minor inconvenience.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instructions: Generate a product description for a wireless headphones product. Highlight its key features, comfort, and sound quality.\nQuestion: Describe the product",
+        "output": "Introducing the SoundWave Pro Wireless Headphones - immerse yourself in pure audio bliss. Engineered with advanced Bluetooth 5.0 technology, these headphones provide seamless connectivity and a stable connection to your devices. Experience superior sound quality with deep bass, crystal-clear mids, and crisp highs, thanks to their built-in noise-canceling technology. Designed for extended wear, the ergonomic ear cups are cushioned with memory foam, ensuring maximum comfort even during marathon listening sessions. With a long-lasting battery, enjoy up to 30 hours of playtime on a single charge. Take your music experience to new heights with SoundWave Pro Wireless Headphones.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instruction: Given a product review, summarize its main points in a few sentences. \nReview: This coffee maker is a game changer! It has a programmable timer, a built-in grinder, and brews the perfect cup every time. The design is sleek and fits perfectly in my kitchen. I love waking up to the smell of freshly brewed coffee.\nOutput: ",
+        "output": "The coffee maker stands out with its programmable timer, integrated grinder, and consistent brewing quality. Its stylish design is space-efficient and enhances any kitchen, while its ability to provide fresh coffee right after waking up adds convenience to daily routines.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Write a short product description for a pair of women's running shoes emphasizing their comfort and durability. \nOutput: ",
+        "output": "Experience unparalleled comfort and long-lasting performance with our Women's Lightweight Running Shoes. Designed with a cushioned insole and breathable mesh upper, these shoes provide superior support and ventilation for all-day wear. The durable rubber outsole ensures excellent traction and withstands the toughest terrains, making them perfect for both casual and intense runs.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given a product title, please generate a suitable category for it. The category should be a broad classification of the product. Avoid being too specific.\nProduct Title: \"Waterproof Bluetooth Shower Speaker with Suction Cup for Bathroom\"",
+        "output": "Audio Players & Accessories\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the product description \"Organic Cotton Bath Towels, Soft Absorbent, Set of 4, Quick-Dry, Eco-Friendly, Hotel Quality, Machine Washable\", please generate a short review that highlights the key features of the product.\nOutput: ",
+        "output": "These bath towels are a game-changer! Made from organic cotton, they are incredibly soft, absorbent, and dry quickly. Their eco-friendly nature is a huge plus, and the hotel-quality feel makes every bath a luxurious experience. Plus, they're machine washable for added convenience.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "A customer wants to buy a coffee machine that can brew both espresso and cappuccino. Generate a suitable product title for this.\nOutput: ",
+        "output": "\"Breville Barista Express Espresso Machine and Cappuccino Maker - All-in-One Coffee Brewing Solution\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given a product review, summarize its main points in a few sentences.\nReview: This coffee maker exceeded my expectations. It's easy to use, brews a great cup of coffee, and has a sleek design that fits perfectly on my kitchen countertop. The automatic shut-off feature gives me peace of mind when I'm in a hurry. However, the cleaning process could be a bit simpler.",
+        "output": "The coffee maker is praised for its usability, brewing quality, and stylish design. It also has an appreciated auto-shut off function. However, the reviewer finds the cleaning process somewhat challenging.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instructions: Elaborate on the given product feature. \nQuestion: Describe the comfort level of the 'Adidas Ultraboost 21' running shoes.\nOutput:",
+        "output": "The Adidas Ultraboost 21 offers unparalleled comfort for runners, thanks to its responsive boost\u2122 midsole that absorbs and returns energy with every step. The breathable Primeblue upper ensures a comfortable fit, adapting to your foot's natural movement while keeping you cool during workouts.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the product review \"This blender is amazing! It blends everything so smoothly and quickly. I love the various speed settings and the sleek design on my kitchen counter.\" Generate a summary of the review.\nOutput:",
+        "output": "The reviewer is highly satisfied with the blender, praising its efficient blending capabilities, versatile speed options, and stylish appearance in their kitchen.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instructions: Write a short product description for a wireless earbud with noise cancellation feature.\nOutput: ",
+        "output": "Experience pure audio bliss with our advanced wireless earbuds, designed to immerse you in crystal-clear sound while blocking out unwanted noise. Equipped with cutting-edge noise cancellation technology, these earbuds adapt to your environment, ensuring a\u6253\u6270-free listening experience wherever you go. With a comfortable fit and seamless connectivity, enjoy your favorite tunes or podcasts with unparalleled convenience.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given the product category 'Home Theater Systems', describe a feature that is commonly found in these systems.\nOutput:",
+        "output": "Many home theater systems include a built-in Blu-ray player, allowing users to enjoy high-definition movies with immersive audio quality.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instruct: Provide a detailed description of the product mentioned in the review. \nReview: \"I recently bought the 'Samsung Galaxy S21 Ultra 5G' and I'm blown away by its camera performance.\"\nOutput: ",
+        "output": "The Samsung Galaxy S21 Ultra 5G is a cutting-edge smartphone renowned for its exceptional camera capabilities. Equipped with advanced optics, it delivers stunningly clear photos and videos, ensuring a superior photography experience for users.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "A customer asks for a recommendation for a wireless mouse compatible with both Windows and Mac. Please suggest a suitable product title.",
+        "output": "\"Logitech MX Master 3 Wireless Mouse - Cross-Platform Compatibility for Windows and Mac, Advanced Ergonomics, Ultra-Responsive Tracking\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "A customer writes a review for a wireless Bluetooth speaker: \"I was pleasantly surprised by the clear sound and strong bass of this compact speaker. It's perfect for outdoor gatherings.\" The customer wants to share a feature they appreciate about the product. Generate a concise statement.",
+        "output": "Clear sound and strong bass\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a product description for a smartwatch with fitness tracking features that also includes compatibility with both Android and iOS devices.\nOutput: ",
+        "output": "Introducing the FitPro Smartwatch - your ultimate fitness companion and style statement. Designed to seamlessly sync with both Android and iOS smartphones, this sleek timepiece offers advanced health monitoring and activity tracking. Track your steps, heart rate, calories burned, and sleep quality effortlessly. With built-in GPS, map your runs and explore new routes. Receive notifications, control music playback, and even make contactless payments straight from your wrist. The FitPro Smartwatch - where technology meets wellness, for a connected, active lifestyle.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the product category 'Smartphone Cases', generate a product description for a luxury leather case.\nOutput: ",
+        "output": "Introducing our premium Luxury Leather Smartphone Case, crafted with genuine leather for an unparalleled blend of elegance and protection. Designed to perfectly hug your device, this case exudes sophistication with its rich texture and hand-stitched detailing. The premium leather ages gracefully, developing a unique patina over time, making each case one-of-a-kind. It features precise cutouts for easy access to buttons, ports, and the camera, while the raised bezel offers added screen and camera protection. Experience the perfect fusion of style and functionality with this luxurious smartphone accessory.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given a product title 'Portable Bluetooth Speaker' and its color 'Black', please generate a product description.\nOutput: ",
+        "output": "The Portable Bluetooth Speaker in sleek black offers premium sound quality for on-the-go entertainment. Its compact design ensures easy portability, allowing you to connect wirelessly to your devices and enjoy your favorite tunes anywhere, anytime. With a stylish matte black finish, this speaker adds a touch of sophistication to your audio experience.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the product description \"The Instant Pot DUO60 6 Qt 7-in-1 Multi-Use Pressure Cooker allows you to cook meals quickly and easily. It features pressure cooking, saut\u00e9, slow cook, rice cooker, steamer, yogurt maker, and warmer functions.\", write a short summary highlighting its main benefits.\nAnswer: ",
+        "output": "The Instant Pot DUO60 is a versatile 6 Qt cooker that combines pressure cooking, saut\u00e9ing, slow cooking, rice preparation, steaming, yogurt making, and warming, streamlining meal preparation for efficient and multifunctional cooking.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instructions: Write a short product description for a wireless speaker. Focus on its portability and sound quality. Question: What makes this wireless speaker a great choice for music lovers on-the-go?",
+        "output": "The compact and lightweight design of this wireless speaker makes it incredibly portable, fitting effortlessly into your bag. Despite its small size, it delivers powerful, immersive sound with crisp highs and deep lows, ensuring your music sounds amazing wherever your adventures take you. Its long-lasting battery life keeps the tunes flowing all day long, making it the perfect companion for music enthusiasts who never want to miss a beat.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Generate a brief product description for a wireless keyboard with a focus on its battery life and connectivity.",
+        "output": "The ergonomic wireless keyboard boasts an impressive 2-year battery life and seamless Bluetooth connectivity, ensuring uninterrupted productivity with a reliable connection from up to 10 meters away.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the product title \"Columbia Women's Ice Maiden II Boot, Black, 7 M US\", provide a short description highlighting key features of the product.\nOutput:",
+        "output": "The Columbia Women's Ice Maiden II Boot is designed for cold weather, featuring a waterproof construction to keep feet dry in snowy conditions. Its insulation provides warmth with 200g of synthetic insulation, while the Omni-Heat reflective lining enhances heat retention. The boot has a durable rubber outsole for superior traction on icy surfaces, ensuring safety and comfort during winter walks. The stylish black design complements any outfit, making it both functional and fashionable for outdoor adventures.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Task: Elaborate on the product features for the following item. \nQuestion: What makes the 'Philips Sonicare ProtectiveClean 6100 Electric Toothbrush' stand out?\nOutput: ",
+        "output": "The Philips Sonicare ProtectiveClean 6100 Electric Toothbrush delivers exceptional oral care with its 62,000 brush movements per minute, ensuring deep cleaning action. It comes equipped with a pressure sensor to protect gums from excessive force, while the quadpacer guides users through a balanced brushing routine. The Smartimer encourages a full 2-minute brushing duration, and the rechargeable toothbrush has a long-lasting battery with a 2-week usage time between charges. Its ergonomic design and easy-to-clean head contribute to a comfortable brushing experience.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Task: Elaborate on the product description for a 'Sony WH-1000XM5 Wireless Noise-Cancelling Headphones'.\nDescription: Delivering industry-leading noise cancellation and exceptional sound quality.\nAnswer: ",
+        "output": "The Sony WH-1000XM5 headphones immerse you in a world of pure audio bliss with their advanced noise-cancellation technology, effectively blocking out external disturbances for an undisturbed listening experience. Coupled with their unparalleled sound clarity and rich bass, these headphones redefine audio excellence. The ergonomic design ensures comfort during extended wear, making them perfect for music lovers on the go.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instruction: Elaborate on the product features mentioned in the review. Question: What specific aspects of the product does the reviewer appreciate in the following review? \"This vacuum cleaner has great suction power and a long cord, making cleaning the whole house a breeze.\"\nAnswer: ",
+        "output": "The reviewer particularly praises the vacuum cleaner for its exceptional suction capabilities, ensuring efficient cleaning performance. Additionally, they commend the lengthy cord, which allows them to easily cover large areas without needing to switch outlets, thus simplifying the entire cleaning process.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the product title \"Hanes Men's EcoSmart Fleece Sweatshirt, oatmeal heather, 2XL\", please provide a short sentence describing the primary color of this sweatshirt.",
+        "output": "The primary color of the sweatshirt is oatmeal heather.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the product description \"The North Face Women's Osito 2 Fleece Jacket, a cozy and versatile fleece jacket perfect for layering or wearing on its own during cool weather adventures\", please provide a suitable title for the product that highlights its key features.\nOutput: ",
+        "output": "\"Women's North Face Osito 2 Fleece Jacket: Ultimate Layering Companion for Cold Weather Exploration\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "You are presented with a customer review for a smartwatch. The review talks about its battery life and compatibility with different apps. Your task is to identify the main pros and cons mentioned by the reviewer, focusing on these aspects. Use the review below:\n\"The battery life on this smartwatch is impressive, lasting me a full week on a single charge. However, I've noticed some compatibility issues with my fitness tracking app, which prevents me from syncing certain data properly.\"\n",
+        "output": "Pros: Impressive battery life (up to a week)\nCons: Compatibility issues with fitness tracking apps, data syncing problems",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Generate a product review for a wireless Bluetooth speaker with excellent sound quality and a long battery life.\nOutput: ",
+        "output": "\"I recently purchased the XYZ Wireless Bluetooth Speaker and I'm absolutely thrilled with its performance. The sound quality is truly exceptional, delivering crisp highs, rich mid-tones, and powerful bass that fills the room effortlessly. It's remarkable how such a compact device can produce such immersive audio. Moreover, the battery life is outstanding; it easily lasts through a full day of continuous playback without needing a recharge. Setup and connectivity with my devices have been seamless. This speaker has truly elevated my music listening experience and I highly recommend it to anyone seeking top-notch sound and battery longevity.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instruction: Given a product review, summarize its main points. Question: \"This smartwatch is very stylish and comfortable to wear. The battery life lasts for days and the notifications are easily readable.\"\nOutput: ",
+        "output": "The smartwatch is praised for its style, comfort, long battery life, and clear notification display.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Given the product title \"Keurig K-Elite Single Serve Coffee Maker, Brushed Silver\", write a brief description for the product in French.",
+        "output": "Le Keurig K-Elite est une machine \u00e0 caf\u00e9 individuelle au design \u00e9l\u00e9gant en argent bross\u00e9. Elle offre une pr\u00e9paration rapide et pratique de caf\u00e9s savoureux, adapt\u00e9e aux besoins personnels.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Write a short product review for a 'Sony WH-1000XM4 Wireless Noise Cancelling Headphones' focusing on their sound quality and comfort.\nOutput: ",
+        "output": "The Sony WH-1000XM4 headphones deliver unparalleled audio clarity with deep, balanced bass and crisp highs. Their noise cancellation technology blocks out ambient noise effortlessly, allowing for an immersive listening experience. Comfort-wise, these headphones are a dream to wear, with soft ear cups that mold to your ears and a lightweight design that ensures hours of fatigue-free use. A true delight for music lovers!",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given a customer's review for a book, summarize the main points of the review in a few sentences.\nReview: I absolutely loved this book! The characters were well-developed, the plot was engaging, and the writing style was captivating. I couldn't put it down and finished it in one sitting.\nOutput: ",
+        "output": "The reviewer found the book captivating, praising its well-developed characters, engaging plot, and captivating writing style. They finished it in one sitting, indicating strong enjoyment.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instruction: Provide a short summary of the product's key features. Question: What are the highlights of the 'Bose QuietComfort 35 Wireless Headphones II'?",
+        "output": "The Bose QuietComfort 35 Wireless Headphones II feature advanced noise cancellation, long-lasting battery life, wireless connectivity, and comfortable design for an immersive audio experience.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instruction: Generate a product review for a coffee maker. Question: How does the coffee taste?",
+        "output": "\"The coffee produced by this machine is simply exquisite. The rich aroma and full-bodied flavor make every morning a delight. It consistently extracts the perfect essence from the beans, resulting in a heavenly cup every time.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instruction: Generate a product review focusing on the comfort aspect for the product 'Memory Foam Pillow with Contour Design'.\nQuestion: What do you think about the comfort level of the Memory Foam Pillow with Contour Design?\nOutput: ",
+        "output": "This Memory Foam Pillow with its contour design offers exceptional comfort, providing excellent support for my neck and head. The memory foam adapts perfectly to my sleeping position, ensuring a pressure-free and relaxing night's sleep. I wake up feeling refreshed without any aches or pains.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Generate a short product description for a pair of waterproof hiking boots.\nOutput: ",
+        "output": "Discover the ultimate comfort and durability in our waterproof hiking boots. Designed with a sturdy sole and premium materials, these boots will keep your feet dry and supported on any adventure.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product description, generate a concise product feature bullet point list for the Amazon listing.\nProduct Description: This wireless earbuds provide crystal-clear sound with its 10mm drivers and active noise cancellation. It offers a comfortable fit for up to 6 hours of battery life and is water-resistant for outdoor activities.\nOutput: ",
+        "output": "- Crystal-clear sound with 10mm drivers\n- Active noise cancellation\n- Comfortable fit for 6-hour battery life\n- Water-resistant for outdoor use\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given a customer review for a kitchen appliance and the aspect 'usability', write a concise statement that sums up the reviewer's opinion on this aspect.\nReview: This food processor is a dream to use. It has multiple attachments that make prep work a breeze. I can\u2019t believe how easy it is to switch between them.\nOutput: ",
+        "output": "The food processor is highly praised for its ease of use and versatile attachments.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation - Elaborate on the product category 'smart home devices'. Output should include types of devices and their common uses.\nOutput: ",
+        "output": "Smart home devices include smart bulbs, thermostats, security cameras, and voice assistants. They enable remote control of home functions, energy savings, and enhanced security.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Based on the following product title, 'Wireless Bluetooth Earbuds with Mic, IPX7 Waterproof, 24-Hour Playtime, Comfortable Fit, Noise Cancelling', generate a concise product description for an online store listing. Output: ",
+        "output": "Experience crystal-clear sound with our Wireless Bluetooth Earbuds. IPX7 Waterproof, they offer 24 hours of playtime and a comfortable fit. Enjoy noise-cancelling technology for immersive listening. Perfect for any activity!\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Based on the following product description, generate a short unique selling proposition (USP) for a smartphone.\nDescription: This smartphone features a 48MP camera with AI assistance for stunning photos, a long-lasting battery, and a sleek, waterproof design.\nOutput: \n",
+        "output": "\"Capture stunning moments with AI-enhanced 48MP camera, powered by an all-day battery, in a sleek waterproof body.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Create a product review title for a portable Bluetooth speaker that emphasizes its durability and sound quality.\nOutput: \n",
+        "output": "\"Tough and Tuneful: The Ultimate Outdoor Speaker for Sound and Stamina\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Given the following product features, generate a short marketing slogan: 'The new ABC123 wireless earbuds offer immersive surround sound, 10-hour battery life, and are waterproof.'\nOutput: ",
+        "output": "\"Dive into Sound, Stay Powered, Stay Dry with ABC123 Wireless Earbuds!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product description, generate a concise product title that highlights the main features.\nDescription: This wireless Bluetooth earbuds with active noise cancellation provides immersive listening experience. It's waterproof, has a long battery life of 24 hours, and includes a built-in microphone for hands-free calls.\nOutput: ",
+        "output": "Waterproof Bluetooth Earbuds with Active Noise Cancellation and 24-Hour Battery Life\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a concise product description for a smart watch that includes its main features.\nMain features: Water-resistant up to 50 meters, built-in GPS, heart rate monitor, compatible with Android and iOS.\nOutput: \n",
+        "output": "\"Stay connected and active with our smart watch, featuring water resistance up to 50m, built-in GPS, heart rate monitoring, and compatibility with Android and iOS devices.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Translate the following customer review into a one-sentence product highlight for the item's listing page.\nReview: \"I was hesitant about buying a yoga mat online, but this one is thick, provides great cushioning, and the non-slip surface is perfect for my home workouts.\"\nOutput: \n",
+        "output": "\"Experience superior cushioning and non-slip grip with our thick yoga mat, ideal for home workouts.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Based on the following product description, create a 30-word promotional tagline that highlights the product's unique feature. \nProduct Description: 'The X-5000 smartwatch, with its advanced heart rate monitor and GPS tracking, is perfect for fitness enthusiasts who want to take their workout to the next level.'\nOutput: ",
+        "output": "'Elevate Your Workout: Experience accurate heart rate monitoring and precise GPS with the X-5000 smartwatch.'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Generate a short product description for a portable Bluetooth speaker:\n\"Output: The perfect companion for outdoor adventures, this durable and waterproof Bluetooth speaker delivers high-quality sound with its powerful drivers and built-in microphone.\"\nAnswer: ",
+        "output": "Experience immersive sound anywhere with our rugged, waterproof Bluetooth speaker. Its powerful drivers and hands-free calling make it an ideal choice for outdoor enthusiasts.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Based on the following product description, generate a concise and attractive product title for a listing. \nProduct Description: This stylish and water-resistant hiking jacket is perfect for outdoor enthusiasts who want both comfort and functionality.\nOutput: ",
+        "output": "'OutdoorComfort Pro' Water-Resistant Hiking Jacket\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a short product description for a pair of wireless earbuds. Output: ",
+        "output": "Experience immersive sound with our wireless earbuds, featuring high-quality audio, noise-cancellation technology, and a comfortable fit for all-day wear.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Write a short product description for a pair of running shoes, emphasizing their lightweight design and cushioning. Output: \n",
+        "output": "Experience ultimate comfort with our lightweight running shoes, featuring advanced cushioning technology for a cloud-like feel on every stride.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a concise product description for a smartwatch with the following features: water-resistant, heart rate monitor, GPS, and 1-year warranty.\nOutput: ",
+        "output": "Stay active and informed with our smartwatch, featuring water resistance, heart rate monitoring, and GPS. Enjoy peace of mind with a 1-year warranty.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "\"You've just purchased a new smartwatch and are looking for a protective case. Write a short review for a hypothetical smartwatch case that you are satisfied with.\"\nOutput: ",
+        "output": "\"I'm loving this smartwatch case! It's durable, fits perfectly, and doesn't add bulk. The precise cutouts and easy access to buttons make it user-friendly. Highly recommend for those seeking reliable protection without compromising on style.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a concise product description for a new pair of sports sunglasses, focusing on their polarized lenses and lightweight frame.\nOutput: ",
+        "output": "Experience enhanced vision and comfort with our sports sunglasses featuring polarized lenses that reduce glare and a lightweight frame for all-day wear.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the product title 'Fitbit Charge 4 Fitness Wristband', provide a short and engaging product description for an online store that specializes in fitness equipment.\nOutput: ",
+        "output": "Elevate your fitness journey with the Fitbit Charge 4 Wristband! Track your workouts, heart rate, and sleep patterns seamlessly. Get motivated and stay on top of your health goals with this must-have fitness companion!\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Write a concise product description for a pair of noise-cancelling headphones, focusing on their portability and battery life.\nOutput: ",
+        "output": "\"Ultra-compact noise-cancelling headphones with 20-hour battery life for seamless travel and everyday use.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation. Write a short product description for a coffee machine that can brew both espresso and drip coffee.\nOutput: ",
+        "output": "Our versatile coffee machine offers the best of both worlds, with the ability to brew rich and flavorful espressos as well as smooth and aromatic drip coffee. Perfect for coffee enthusiasts who appreciate variety and convenience.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short product description for a 'wireless earbuds' that highlights its battery life and noise-cancellation feature.\nOutput: ",
+        "output": "Experience superior sound with our wireless earbuds, featuring long-lasting battery life and advanced noise-cancellation technology for immersive listening.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the following product description for a wireless earbuds: 'High-quality sound with a long battery life of up to 24 hours.' \nOutput: ",
+        "output": "Experience immersive, high-fidelity sound with these wireless earbuds, designed for extended use with an impressive battery life that can last up to a full day.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a concise product description for a smart watch that includes features such as water resistance, heart rate monitor, and GPS tracking.\nOutput: ",
+        "output": "Stay active and informed with our smart watch, featuring water resistance, real-time heart rate monitoring, and accurate GPS tracking for your outdoor adventures.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short product description for a portable Bluetooth speaker, focusing on its durability and water resistance, suitable for outdoor use. Output:",
+        "output": "\"Introducing the rugged and waterproof Outdoor Adventure Speaker. Built to withstand the elements, this tough speaker boasts a durable construction and IPX7 water resistance, making it the perfect companion for all your outdoor escapades. Take your music anywhere, fearlessly!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation\nWrite a short product description for a pair of noise-cancelling headphones, focusing on their ability to block out surrounding sound.\nOutput: ",
+        "output": "Experience pure tranquility with our noise-cancelling headphones, designed to eliminate distracting sounds and immerse you in your music or peace.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product description, generate a 5-point selling proposition for the product.\nProduct: A lightweight, water-resistant messenger bag with multiple compartments and a padded shoulder strap.\nOutput: \n",
+        "output": "1. Lightweight design for easy carrying.\n2. Water-resistant material for protection.\n3. Multiple compartments for organized storage.\n4. Padded shoulder strap for comfort.\n5. Versatile and stylish for everyday use.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a 50-word product description for a smart watch that emphasizes its health and fitness features.\nOutput: ",
+        "output": "\"Stay fit and healthy with our smart watch, featuring real-time heart rate monitoring, step counter, and sleep tracker. It's your ultimate companion for all your health and fitness goals.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation. Create a short product description for a wireless mouse with the following features: 'Bluetooth connectivity, silent clicks, ergonomic design, and a 12-month battery life.'\nOutput: ",
+        "output": "\"Connect with ease and comfort \u2013 experience the silence! Our Bluetooth mouse boasts an ergonomic design and a remarkable 12-month battery life, ensuring uninterrupted productivity with every silent click.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a concise product description for a smartwatch that includes features like heart rate monitoring, GPS, and water resistance up to 50 meters.\nOutput: ",
+        "output": "\"Stay connected and track your fitness with our smartwatch, featuring heart rate monitoring, GPS tracking, and water resistance for swimming and shallow diving up to 50 meters.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "A customer is looking for a coffee machine that can make both espresso and lungo. Generate a product description for a dual-purpose coffee machine.\nOutput: ",
+        "output": "Enjoy the perfect blend of espresso and lungo with our innovative dual-purpose coffee machine. Equipped with advanced brewing technology, it delivers rich and flavorful espresso shots and smooth, full-bodied lungos at the touch of a button. Experience the convenience of versatility in one sleek design.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Based on the following product description, create a 30-second elevator pitch for the 'FitPro Fitness Tracker'. \nFitPro Fitness Tracker: Tracks steps, distance, and calories burned. Features a heart rate monitor, sleep tracker, and is water-resistant. Designed to motivate and help you reach your fitness goals.\nOutput: ",
+        "output": "\"Get fit and stay motivated with the FitPro Fitness Tracker! Monitor your steps, distance, and calories burned, while keeping an eye on your heart rate and sleep patterns. Water-resistant and goal-oriented, this tracker is your ultimate fitness companion!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task: Create a short promotional description for a smart watch that highlights its water-resistant feature and its health monitoring capabilities.\nOutput: ",
+        "output": "\"Dive into fitness with our sleek smart watch! Water-resistant and ready for any adventure, it tracks your health journey, making every step count. Stay informed, stay active!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product description for a(n) 'umbrella', elaborate on its water-resistant feature. Provide a brief statement that highlights how this feature benefits the user.\nDescription: This compact umbrella features a durable water-resistant canopy that keeps you dry even in heavy rain.\nAspect: water-resistant feature\nOutput: ",
+        "output": "The water-resistant canopy ensures maximum protection, keeping you dry and comfortable during intense downpours.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Generate a short product description for a 'Smart Watch with GPS, Heart Rate Monitor, and Waterproof Feature'.\nOutput: ",
+        "output": "Elevate your fitness journey with our Smart Watch, featuring GPS tracking, accurate heart rate monitoring, and durable waterproof construction for versatile wear in any environment.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "You are writing a product description for a new brand of olive oil. Generate a short, persuasive sentence that highlights the product's health benefits.\nOutput: ",
+        "output": "\"Experience the heart-healthy goodness of our premium olive oil, rich in antioxidants for a vitality-boosting culinary delight.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product description for a blender, provide a concise selling point that highlights its versatility: 'This high-powered blender can crush ice, make smoothies, purees, and even dough for baking. It includes multiple blades and settings for different food prep tasks.'\nOutput: \n",
+        "output": "Versatile blender for ice crushing, smoothies, purees, and dough - perfect for all your food prep needs.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the product description, generate a 30-word customer review for a wireless mouse: 'The Logitech M510 Wireless Mouse offers precise tracking and a comfortable design for all-day use.'\nOutput: ",
+        "output": "\"The Logitech M510 is a dream come true for my daily computing tasks. It's accurate, comfortable, and lasts all day. Highly recommended!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the following product feature: 'The smart watch has a built-in GPS for accurate tracking during workouts.'\nOutput: ",
+        "output": "\"This smart watch includes a reliable built-in GPS, ensuring you can accurately track your distance, pace, and location during your workouts, making it an invaluable tool for fitness enthusiasts.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a short product description for a pair of wireless earbuds, focusing on their noise-cancellation feature. Output the description in less than 100 words.\nOutput: ",
+        "output": "Experience pure sound with our noise-cancelling wireless earbuds. Designed to eliminate background noise, they provide immersive listening for music, calls, and podcasts. Enjoy peace and tranquility in every audio moment.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features and benefits of the product 'Fitbit Charge 4' to encourage potential buyers. Output: ",
+        "output": "The Fitbit Charge 4 is a game-changing fitness tracker with advanced features like built-in GPS, heart rate monitoring, and sleep tracking. Stay motivated with on-screen workouts, and enjoy the benefits ofPurePulse 24/7 heart rate, Active Zone Minutes, and personalized insights. This waterproof tracker is perfect for any lifestyle, helping you reach your health and fitness goals.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Translate the following product description into French for a French online shopping website: \"Experience the ultimate comfort with the Memory Foam Pillow. This pillow provides superior support and comfort with its unique memory foam construction.\" Output: ",
+        "output": "D\u00e9couvrez un confort ultime avec le Coussin en Mousse M\u00e9moire. Ce coussin offre un soutien et un confort sup\u00e9rieurs gr\u00e2ce \u00e0 sa construction unique en mousse m\u00e9moire.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Write a short product description for a fruit basket.\nOutput: ",
+        "output": "Our fruit basket is brimming with a selection of fresh, hand-picked fruits, perfect for a healthy and delicious treat. Indulge in the natural sweetness of apples, oranges, bananas, and more!\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Based on the following review, summarize the main complaint in one sentence.\nReview: I ordered this laptop expecting a high-performance device, but I was disappointed with the slow processing speed and poor battery life.\nOutput: ",
+        "output": "The main complaint is the slow processing speed and poor battery life of the laptop.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product description, generate a concise selling point for the product: 'This lightweight and durable hiking boot is designed with waterproof materials and a reinforced rubber sole to provide excellent traction on all terrains.'\nOutput: ",
+        "output": "\"All-terrain waterproof hiking boots with durable rubber sole for lightweight comfort.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation. Write a short product description for a pair of wireless earbuds that highlights their noise-cancellation feature.\nOutput: ",
+        "output": "\"Experience pure audio bliss with our noise-canceling wireless earbuds. Designed to block out external distractions, they deliver immersive sound for uninterrupted music enjoyment and clear calls.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation. Elaborate on the following review snippet to create a full sentence that a customer might write about a kitchen appliance: \"Good for small spaces\"\nOutput: ",
+        "output": "\"These kitchen appliances are perfect for those with limited counter space, as they are compact and designed to maximize functionality without taking up too much room.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the product title and description provided, create a concise product feature list in bullet points. Do not use full sentences.\nProduct Title: Kindle Paperwhite - Now with a 6.8\u201d Display and Adaptive Front Light\nProduct Description: The all-new Kindle Paperwhite features a 6.8\u201d high-resolution display and an adaptive front light that adjusts with your environment. It has a waterproof design and battery life that can last up to 10 weeks.\nOutput: ",
+        "output": "- 6.8\u201d high-resolution display\n- Adaptive front light\n- Waterproof design\n- Long battery life up to 10 weeks\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Please provide a short, positive testimonial for the 'SmartCook Induction Cooktop'. Focus on ease of use and efficiency.\nOutput: ",
+        "output": "\"The SmartCook Induction Cooktop is a game-changer! It's so easy to use and heats up in a flash. Highly efficient and a must-have for any kitchen.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product title, generate a short product description for a yoga mat.\nProduct Title: 'Gaiam Print Premium Yoga Mat, 5mm Thickness, Non-Slip, Lightly Textured Surface'\nOutput:",
+        "output": ": 'Experience comfort and stability with the Gaiam Print Premium Yoga Mat. Its 5mm thickness and lightly textured surface provide a non-slip grip for your practice. Ideal for all skill levels.'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features that make the 'Fitbit Charge 4' a great fitness tracker for everyday use.\nOutput:",
+        "output": ": 'The Fitbit Charge 4 stands out as an everyday fitness tracker with its 24/7 heart rate monitoring, built-in GPS, and sleep tracking capabilities. It offers personalized insights, supports various workouts, and even sends notifications, making it a comprehensive health and fitness companion.'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features of the 'Instant Pot Duo' in the form of a short product description for an online listing. Answer:\nOutput:",
+        "output": ": The Instant Pot Duo is a versatile multi-cooker that combines a pressure cooker, slow cooker, rice cooker, steamer, saut\u00e9 pan, yogurt maker, and warmer in one. Its user-friendly interface and 14 built-in smart programs make cooking a breeze.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a short product description for a wireless mouse with the following features: 'battery life: 12 months, connectable via Bluetooth, ergonomic design'. Answer: ",
+        "output": "\"Experience seamless comfort with our wireless mouse, featuring a 12-month battery life, Bluetooth connectivity, and an ergonomic design for all-day use.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task: Elaborate on the features and benefits of the 'Nintendo Switch' console in a concise paragraph for a potential customer.\nOutput: ",
+        "output": "The Nintendo Switch offers versatile gaming with its ability to transform from a home console to a portable device. Its wide range of games, including exclusive titles like Zelda and Mario, provide fun for all ages. Plus, its Joy-Con controllers allow for multiplayer action anywhere, making it a perfect choice for family entertainment.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task: Create a short product description for a 'Wireless Charging Pad' that emphasizes its convenience and compatibility.\nOutput: ",
+        "output": "Elevate your charging experience with our sleek Wireless Charging Pad. Its convenient design eliminates the need for messy cables, offering a quick and effortless charge for all your compatible devices. Universal compatibility ensures it works seamlessly with the latest smartphones and accessories. Upgrade to a smarter, wire-free lifestyle today!",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Elaborate on the uses of a smart watch for fitness tracking.\nOutput: ",
+        "output": "A smart watch is an invaluable tool for fitness tracking, providing real-time data on heart rate, steps taken, calories burned, and sleep patterns. It can also monitor specific workouts, offer guidance, and sync with fitness apps to help users set and achieve their health goals.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short product description for a 'smart watch' aimed at fitness enthusiasts, focusing on its water resistance and long battery life.\nOutput: ",
+        "output": "\"Elevate your fitness game with our smart watch, designed for water resistance up to 50 meters and a long-lasting battery that powers through your toughest workouts.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features that make the 'Roomba Vacuum Cleaner' a good choice for pet owners.\nOutput: ",
+        "output": "\"The Roomba Vacuum Cleaner is ideal for pet owners due to its powerful suction that picks up embedded pet hair, allergens, and dirt, while its adaptive navigation system avoids obstacles and cleans under furniture where pets tend to shed.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Provide a creative product description for a new line of eco-friendly water bottles. Include details about its sustainable materials, design, and functionality.\nOutput: ",
+        "output": "Introducing our revolutionary EcoHydrate Water Bottle, crafted from 100% biodegradable materials. Its sleek and lightweight design features a plant-based bamboo cap and a recycled aluminum body. This eco-friendly bottle not only quenches your thirst but also supports the planet. Enjoy leak-proof functionality and a wide mouth for easy cleaning. Stay hydrated in style while reducing your carbon footprint!\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Create a short product description for a pair of noise-cancelling headphones that fold for portability.\nOutput: ",
+        "output": "Experience serene sound with our foldable noise-cancelling headphones. Designed for on-the-go comfort, these headphones provide immersive audio and superior noise isolation. Their compact, foldable design makes them perfect for travel and everyday use. Enjoy your music without distractions, wherever you go!\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "You are a product description writer for an online store. Create a concise and attractive product description for a wireless earbud with the following features: 'Active Noise Cancellation, 24-hour battery life, IPX7 water resistance, Comfortable fit'. Output:",
+        "output": ": Experience immersive sound with our wireless earbuds, featuring Active Noise Cancellation for a pure audio experience. With an impressive 24-hour battery life and IPX7 water resistance, enjoy your favorite tracks anytime, anywhere. Designed for comfort, these earbuds provide a perfect fit for all-day wear.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Elaborate on the features and benefits of using a smartwatch for fitness tracking. Output: ",
+        "output": "A smartwatch is a versatile device that can track various fitness metrics such as heart rate, steps taken, calories burned, and sleep patterns. Its benefits include real-time data monitoring, motivation through goal setting, and the ability to sync with other health apps for comprehensive fitness tracking.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Elaborate on the features and uses of the product.",
+        "output": "Smart Watch\nOutput: \n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Create a short product description for a blueberry facial scrub that emphasizes its natural ingredients and exfoliating properties.\nOutput: ",
+        "output": "\"Nurture your skin with our Blueberry Facial Scrub, infused with organic blueberries and gentle exfoliants to buff away impurities and reveal a naturally radiant complexion.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation - Elaboration. Provide a detailed description of a smart watch, including its features and possible uses, based on the following prompt: 'A modern smart watch with advanced health monitoring capabilities for fitness enthusiasts.'\nOutput: ",
+        "output": "The smart watch boasts real-time heart rate monitoring, GPS tracking, and sleep cycle analysis, ideal for fitness enthusiasts. It has a sleek, waterproof design and a high-resolution touch screen. It can be used to track workouts, set fitness goals, and receive personalized health insights.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation - Extractive. Summarize the main features of the product mentioned in the following review: 'The vacuum sealer is a must-have for any kitchen. It's compact, efficient, and does a great job of preserving food. I especially love the one-touch operation and the built-in bag cutter.'\nOutput: ",
+        "output": "The vacuum sealer has key features such as compact size, efficiency, one-touch operation, and a built-in bag cutter, making it an essential kitchen appliance for food preservation.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Input: Create a short product review for the 'Fitbit Charge 4' fitness tracker.\nOutput:",
+        "output": "The Fitbit Charge 4 is an excellent fitness tracker with accurate heart rate monitoring, long battery life, and a variety of useful features. Highly recommended for fitness enthusiasts!\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short description for a(n) 'electric kettle' that includes its key features and is suitable for an online shopping platform listing.\nFeatures: rapid boil, 1.7L capacity, automatic shut-off, BPA-free, and cordless.\nOutput: \n",
+        "output": "Rapid-boil 1.7L electric kettle with automatic shut-off, BPA-free, and convenient cordless operation.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product title, generate a short promotional sentence that highlights the product's main feature:\nProduct Title: 'Smart Watch with GPS, Heart Rate Monitor, and Fitness Tracker'\nOutput:",
+        "output": "'Elevate your fitness game with our Smart Watch, featuring GPS, Heart Rate Monitor, and Fitness Tracker for a personalized workout experience!'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Generation: Based on the product description, create a concise review for a pair of running shoes with good arch support that a user would post online.\nProduct Description: These running shoes are designed with a bio-mechanical structure to provide excellent arch support, comfort, and stability during long distances.\nOutput: ",
+        "output": "\"Incredible arch support and comfort for long runs! These running shoes are a game-changer. Highly recommend for stability and performance.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a short product description for a 'wireless earbuds' that highlights its battery life. Answer: \n\"Experience seamless listening with our wireless earbuds, featuring an impressive 10-hour battery life that keeps you entertained all day long.\"",
+        "output": "\"Seamless wireless earbuds with an amazing 10-hour battery life for non-stop audio enjoyment.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "You are a product description writer for an online store. Create a compelling product description for a new smartwatch, focusing on its health and fitness features. Output:",
+        "output": "\"Elevate your fitness journey with our cutting-edge smartwatch, designed to be your ultimate health companion. Monitor your heart rate, track your steps, and analyze your sleep patterns with precision. Stay motivated with personalized workout plans and receive real-time feedback to optimize your performance. Embrace a healthier lifestyle with our smartwatch, your go-to accessory for wellness and fitness.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "As a shopping assistant, provide a brief product description for a portable Bluetooth speaker that emphasizes its durability and water resistance, suitable for outdoor activities. Output:\nOutput: ",
+        "output": "\"Introducing the rugged and waterproof outdoor Bluetooth speaker. Designed for adventure, this speaker boasts a durable construction, IPX7 water resistance, and impressive sound quality. Take it hiking, camping, or to the beach without worrying about the elements. Experience music in the great outdoors with this reliable companion.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product description, generate a concise 30-word product tagline for a pair of running shoes: 'Experience the ultimate comfort with our running shoes featuring advanced cushioning technology and a breathable mesh upper for a cool and comfortable run.' \nOutput: ",
+        "output": "\"Elevate Your Run: Ultra-Cushioned, Breathable Shoes for Peak Comfort.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short product description for a wireless earbuds.\nInstruction: Include features like Bluetooth connectivity, noise-cancellation, and long battery life.\nAnswer: ",
+        "output": "Experience immersive sound with our wireless earbuds, featuring Bluetooth 5.0 connectivity, powerful noise-cancellation technology, and an impressive 10-hour battery life for non-stop entertainment.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the following product review: \"Great mouse, works perfectly with my gaming setup.\"\nInstruction: Provide a detailed explanation of the mouse's features and how they enhance the gaming experience.\nAnswer: ",
+        "output": "This mouse is a gamer's dream come true, boasting high precision tracking, customizable RGB lighting, and multiple programmable buttons. Its ergonomic design ensures comfort during long gaming sessions, while the responsive DPI adjustment provides the flexibility needed for different game scenarios. Integration with my gaming setup was seamless, enhancing my gameplay and overall experience.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Based on the provided product description, generate a 5-star Amazon review.\nProduct Description: \"This durable stainless steel water bottle keeps liquids cold for 24 hours and is perfect for outdoor activities.\"\nOutput: ",
+        "output": "\"I absolutely love this water bottle! It keeps my water ice-cold for hours, even in the heat of the day. Perfect for my hiking trips. Highly recommend!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a short product description for a kitchen gadget that helps to slice fruits and vegetables evenly.\nOutput: ",
+        "output": "\"Achieve perfect slices every time with our innovative kitchen gadget, designed to effortlessly slice fruits and vegetables into uniform pieces.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "As a shopping assistant, provide a brief product review for a 'Portable Blender, USB Rechargeable Smoothie Maker, with 6 Blades for Ice Crushing, 4000mAh Battery, Travel Cup, for Outdoor and Office Use'.\nOutput: ",
+        "output": "\"This portable blender is a game-changer for on-the-go smoothie lovers. With its powerful 6 blades, it easily crushes ice, making creamy smoothies in minutes. The USB rechargeable battery allows me to use it anywhere, and the included travel cup is perfect for my daily commute. Highly recommend for outdoor adventures or office use!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product description, generate a 30-word product slogan.\nProduct Description: \"Our advanced formula face wash gently cleanses and exfoliates the skin, leaving it feeling smooth and refreshed.\"\nOutput:",
+        "output": ": \"Elevate Your Skin Care: Experience Smooth and Refreshed with Our Gentle Exfoliating Face Wash.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the following product review by providing a detailed explanation of the pros and cons.\nReview: \"This microwave is spacious but a bit loud.\"\nOutput:",
+        "output": ": \"The microwave offers ample interior space, allowing me to heat larger items comfortably. However, its operation noise is quite noticeable, which can be a bit disturbing in a quiet environment.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "You are a product description writer for a skincare product. Please generate a short sentence highlighting the key benefit of the product.\nProduct: Anti-Aging Cream\nKey Benefit: Reduces wrinkles and fine lines\nOutput: ",
+        "output": "\"Experience a youthful glow with our Anti-Aging Cream, designed to visibly reduce wrinkles and fine lines.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a concise product description for a wireless earbud set that emphasizes its long battery life and noise-cancelling feature.\nOutput: ",
+        "output": "Experience uninterrupted music with our wireless earbuds, featuring an impressive 24-hour battery life and advanced noise-cancelling technology for immersive sound.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Elaborate on the features of a wireless mouse for a product description: \"The wireless mouse boasts a sleek design with precision tracking and extended battery life.\" Output: ",
+        "output": "This wireless mouse features a modern and sleek design, ensuring comfort during long hours of use. Its precision tracking allows for smooth cursor movement, while its long-lasting battery life means fewer recharges and uninterrupted productivity.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Translate the following product review into a positive statement: \"The smart bulb didn't work as expected, and the app control was a bit unreliable.\" Output: ",
+        "output": "The smart bulb functions well, and the app control is generally reliable, providing a convenient smart lighting experience.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short product description for a pair of noise-cancelling headphones that fold for portability.\nOutput: ",
+        "output": "Experience serene sound with our foldable noise-cancelling headphones, designed for on-the-go comfort and superior audio quality.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product review, elaborate on the durability of a hiking backpack: \"The hiking backpack is sturdy and has survived many trips without any signs of wear.\"\nOutput: ",
+        "output": "The hiking backpack boasts exceptional durability, having endured numerous outdoor excursions unscathed, demonstrating its robust construction and longevity.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Provide a short product description for a pair of 'wireless earbuds' aimed at athletes.\nOutput: ",
+        "output": "\"Experience uninterrupted workouts with our wireless earbuds, designed for athletes. Waterproof, lightweight, and delivering high-quality sound, they ensure ultimate comfort and performance.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short product description for a pair of noise-cancelling headphones that fold up for easy portability, focusing on their advanced audio technology and travel-friendly design. Output:\n",
+        "output": "Experience immersive sound with our noise-cancelling headphones, featuring cutting-edge audio technology for unparalleled clarity. Their foldable design makes them perfect for on-the-go use, ensuring superior comfort and convenience during your travels.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a persuasive one-sentence blurb for a smartwatch that highlights its health and fitness tracking capabilities, aiming to encourage users to achieve their fitness goals.\n\nOutput:\n",
+        "output": "Elevate your fitness journey with our smartwatch, the ultimate companion that tracks your health and guides you towards achieving your wellness goals.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Write a short product description for a pair of running shoes.\ninstruction: Highlight their comfort, durability, and lightweight design.\nAnswer: ",
+        "output": "\"Experience the ultimate comfort and durability with our lightweight running shoes, designed to provide cushioning and support for your longest runs.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task: Elaborate on the features of a coffee machine that can make it suitable for a large family.\nOutput: ",
+        "output": "A coffee machine suitable for a large family should have a large water tank capacity, quick brewing time, and a programmable timer for automated coffee preparation. It should also offer multiple cup size options and a thermal carafe to keep coffee hot for longer periods.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task: Translate the following sentence into Spanish: 'I am looking for a blue toothbrush that is gentle on gums.'\nOutput: ",
+        "output": "Estoy buscando un cepillo de dientes azul que sea suave con las enc\u00edas.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Elaborate on the features and uses of the 'Smart Watch with GPS' in a customer-focused product description.\nOutput: ",
+        "output": "Experience the future of wearable technology with our Smart Watch, equipped with GPS for accurate tracking during your outdoor activities. Stay connected with notifications, control music, and monitor your heart rate, all from your wrist. Ideal for fitness enthusiasts and tech lovers alike.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the product description, generate a 5-word tagline that emphasizes the product's main feature. \nProduct Description: 'Our advanced fitness tracker accurately monitors your heart rate, sleep patterns, and exercise performance.'\nOutput: ",
+        "output": "'Monitor Health, Track Fitness'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Create a short product description for a smart plug that highlights its energy-saving feature: \nOutput: ",
+        "output": "\"Eco-friendly Smart Plug: Save energy and lower your bills with our innovative smart plug that automatically switches off idle appliances. Experience the smart way to a greener home!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short product description for a wireless earbud with noise-cancellation: 'Introducing the SoundIsolate Pro earbuds, designed to deliver immersive audio while actively reducing surrounding noise.'\nOutput: ",
+        "output": "Experience pure sound with SoundIsolate Pro earbuds. Enjoy your favorite music without distractions, thanks to advanced noise-cancellation technology.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the benefits of using a smartwatch for fitness tracking: 'A smartwatch is a versatile device that can track your exercise progress, monitor your heart rate, and provide motivational guidance throughout your fitness journey.'\nOutput: ",
+        "output": "Embrace a healthier lifestyle with a smartwatch, your ultimate fitness companion. It not only tracks steps and exercise but also monitors your heart rate and offers personalized insights, motivating you every step of the way.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Given the product title 'Smartwatch with GPS and Heart Rate Monitor', generate a concise product description for an online store. Include key features and intended use.\nOutput: ",
+        "output": "Stay connected and active with our Smartwatch, featuring GPS tracking and a heart rate monitor. Ideal for fitness enthusiasts, it tracks workouts, sleep patterns, and provides notifications. Waterproof and durable, it enhances your lifestyle on-the-go.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short product description for a pair of running shoes with the following features: lightweight, breathable, and durable.\nOutput: ",
+        "output": "Experience ultimate comfort and performance with our lightweight and breathable running shoes. Engineered for durability, these shoes provide support and cushioning for every step of your journey.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the following product feature for a vacuum cleaner: 'Has a powerful suction capability.' \nOutput: ",
+        "output": "This vacuum cleaner is equipped with a high-performance motor that delivers an unparalleled suction power, ensuring thorough and efficient cleaning on various surfaces, including carpets and hard floors.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Create a short product review for a set of kitchen knives. Output should include the sharpness, handle comfort, and overall satisfaction.\nOutput: ",
+        "output": "\"These kitchen knives are a cut above the rest! They arrived sharp as a tack and the handles offer a comfortable, secure grip. I'm highly satisfied with their performance and would recommend them to any home chef.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a short product description for a pair of running shoes, focusing on their comfort and durability.\nOutput: ",
+        "output": "Experience ultimate comfort and lasting durability in our running shoes, designed with a cushioned sole and robust upper to keep you going mile after mile.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation. Write a concise product description for a wireless earbud, focusing on its battery life.\nOutput: ",
+        "output": "Experience uninterrupted listening with our wireless earbuds, offering an impressive 10-hour battery life on a single charge.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Create a brief product description for a portable solar charger that can charge smartphones and tablets. The product is called 'EcoPower Solar Charger 5000mAh', and it features a dual USB port and an integrated LED flashlight.\nOutput:\nAnswer: ",
+        "output": "Charge your devices on the go with the EcoPower Solar Charger 5000mAh. Equipped with dual USB ports for simultaneous charging and an LED flashlight for emergencies, this eco-friendly charger ensures your devices are powered up anywhere under the sun.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the product description, generate a 30-word promotional tagline for the 'Echo Dot (3rd Gen) - Smart speaker with Alexa'. \nOutput: ",
+        "output": "\"Unleash the power of Alexa with Echo Dot: Smart sound, seamless control, endless possibilities.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a short product description for a wireless earbuds product. Answer: ",
+        "output": "\"Experience immersive sound with our wireless earbuds. Designed for comfort and convenience, these earbuds deliver high-quality audio and up to 8 hours of battery life. Ideal for workouts and daily use.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a concise product description for a smartwatch that includes its main features and target audience.\nProduct: Samsung Galaxy Watch Active 2\nMain Features: fitness tracking, heart rate monitoring, ECG, GPS, water-resistant\nTarget Audience: fitness enthusiasts, health-conscious individuals\nOutput: ",
+        "output": "\"Elevate your fitness journey with the Samsung Galaxy Watch Active 2. Designed for fitness enthusiasts and health-conscious individuals, this smartwatch features comprehensive fitness tracking, accurate heart rate monitoring, ECG capabilities, GPS navigation, and is water-resistant for versatile wear.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the benefits of using a wireless charger for smartphones, focusing on convenience and portability.\nOutput: ",
+        "output": "\"Wireless chargers offer unparalleled convenience and portability for smartphone users. Simply place your device on the charger pad, and it starts charging automatically, eliminating the need for fussy cables. Its sleek and minimalist design makes it ideal for home, office, or travel, providing a clutter-free charging experience.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Write a short product description for a 'Wireless Mouse' with the following features: '2.4GHz Wireless Connection, 3-Button Design, High Precision Sensor'.\nOutput: ",
+        "output": "Experience seamless navigation with our Wireless Mouse, featuring a 2.4GHz wireless connection, a comfortable 3-button design, and a high-precision sensor for ultimate control.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short product description for a fruit basket that includes a variety of seasonal fruits, suitable for a family of four. Answer: ",
+        "output": "\"Enjoy a basket brimming with a selection of fresh, seasonal fruits perfect for a family of four. Indulge in the sweetness of apples, oranges, bananas, and grapes, thoughtfully curated for your enjoyment.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Based on the following product description, generate a 30-word tagline that emphasizes the product's durability. Product Description: 'The WorkPro WP880 is a heavy-duty work boot with a steel toe, water-resistant leather, and a slip-resistant sole, designed for all-day comfort and protection on the job site.'\n\nOutput: ",
+        "output": "\"Tough as nails, the WorkPro WP880: Steel Toe Comfort, Built to Endure.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Write a 25-word customer query seeking a product similar to 'PowerBlock Dumbbells' for home workouts.\n\nOutput: ",
+        "output": "\"Seeking adjustable dumbbells for home gym like PowerBlock. Recommendations?\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "You are writing a product description for a new set of wireless earbuds. The earbuds are sweat-proof, have a long battery life of 24 hours, and come in three different colors. Generate a concise and attractive product description of no more than 100 words to entice potential customers.\n\nOutput: ",
+        "output": "Experience uninterrupted music with our sweat-proof wireless earbuds, boasting an impressive 24-hour battery life. Available in three stylish colors, these earbuds are your perfect workout companion. Elevate your listening experience today!\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "You are creating a short product review for a portable Bluetooth speaker. The speaker has excellent sound quality, a long-lasting battery, but a relatively high price. Write a review that highlights these features while mentioning the price concern, in no more than 100 words.\n\nOutput: ",
+        "output": "This portable Bluetooth speaker delivers exceptional sound quality and boasts an impressive battery life. While it may be on the pricier side, the top-notch performance justifies the cost. A great investment for audio enthusiasts who value premium sound on the go!",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Input: Describe the process of online product return.\nOutput:",
+        "output": "The online product return process typically involves logging into the account used for purchase, selecting the item(s) to return, printing a return label, packaging the product securely, affixing the label, and shipping it to the return address provided, while following the retailer's specific guidelines and timelines.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Input: Write a short product review for a pair of running shoes.\nOutput:",
+        "output": "These running shoes are a game-changer! They provide excellent cushioning and support, ensuring a comfortable run every time. The breathable mesh upper keeps my feet cool, while the durable sole offers great traction. Highly recommend for both casual joggers and serious runners alike.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Based on the following product description, write a 50-word customer testimonial for the 'Eco-Friendly Reusable Water Bottle'. \nProduct Description: The Eco-Friendly Reusable Water Bottle is made from safe, non-toxic materials and is perfect for on-the-go use, keeping your drinks cold for 24 hours and hot for 12 hours.\nOutput: ",
+        "output": "\"I love my Eco-Friendly Reusable Water Bottle! It's durable, safe, and keeps my drinks at the perfect temperature. Highly recommend for an eco-conscious lifestyle!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Generate a short and catchy product slogan for a new line of eco-friendly water bottles designed to reduce single-use plastics. Output:",
+        "output": "\"Hydrate Green: Quench Your Thirst, Spare the Earth!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short product description for a pair of running shoes with the following features: 'breathable mesh, lightweight, durable outsole, and enhanced cushioning'.\nOutput: ",
+        "output": "Experience ultimate comfort with our running shoes, featuring breathable mesh for ventilation, a lightweight design for easy movement, a durable outsole for traction, and enhanced cushioning for impact absorption.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short product review for a 'wireless earbuds' that emphasizes the battery life.\nOutput:",
+        "output": "These wireless earbuds are a game-changer! With an impressive battery life that lasts through my longest workouts, I never have to worry about running out of juice. Highly recommended for music lovers on the go!\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Write a short review for a pair of noise-cancelling headphones: \"These headphones are a game-changer for my daily commute. They're comfortable and the battery life is impressive.\"\nAnswer: ",
+        "output": "The noise-cancelling feature on these headphones is top-notch, making them perfect for my commute. They're cozy to wear for long periods, and the long battery life is a bonus.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a short product description for a(n) smartwatch, focusing on its fitness features.\nOutput: ",
+        "output": "\"Stay fit and connected with our smartwatch, featuring built-in GPS, heart rate monitoring, and multiple exercise modes. Track your workouts and achieve your fitness goals!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Provide a concise review for a(n) headphones product.\nReview: \"These noise-cancelling headphones are amazing! They block out all external noise, allowing me to focus on my music or work. The battery life is impressive, lasting up to 30 hours. Highly recommend!\"\nOutput: ",
+        "output": "\"Incredible noise-cancellation, long battery life, and comfortable design. A must-have for music enthusiasts and productivity seekers!\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Create a short promotional description for a new line of eco-friendly water bottles.\nOutput: ",
+        "output": "\"Embrace sustainability with our new eco-friendly water bottles! Durable, reusable, and made from recycled materials, they're perfect for your active lifestyle and environmental consciousness.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "As a product description writer, provide a concise and attractive description for a smart watch that includes features such as water resistance, heart rate monitor, and long battery life. Output: ",
+        "output": "\"Elevate your active lifestyle with our sleek smart watch, designed for versatility and durability. With water resistance, real-time heart rate monitoring, and a long-lasting battery, this watch is your ideal companion for every adventure.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Elaborate on the features of the product 'Smart Thermostat' that make it a smart choice for home automation.\nAnswer: ",
+        "output": "The Smart Thermostat offers automatic temperature control, energy savings, remote access, and integration with other smart home devices, making it an intelligent choice for home automation.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Translate the following product description into Spanish: 'This lightweight vacuum cleaner is powerful and easy to maneuver, making cleaning tasks more efficient.'\nAnswer: ",
+        "output": "Este aspirador ligero es potente y f\u00e1cil de manejar, haciendo que las tareas de limpieza sean m\u00e1s eficientes.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "You are writing a product description for a pair of running shoes. Generate a short sentence highlighting the shoe's cushioning technology that will appeal to runners looking for comfort. Do not exceed 25 words.\nOutput: ",
+        "output": "'Experience cloud-like comfort with our advanced cushioning technology.'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product description, generate a concise selling point for the product.\nProduct Description: \"This durable and stylish messenger bag is made from high-quality canvas and genuine leather. It features multiple compartments for organization and a padded shoulder strap for comfort.\"\nAspect: selling point\nOutput: ",
+        "output": "\"Stylish and Durable Canvas and Leather Messenger Bag with Multiple Compartments and Comfortable Shoulder Strap.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Write a short product review for a portable Bluetooth speaker.\nProduct: 'Anker Soundcore 2'\nReview: \nOutput: ",
+        "output": "\"The Anker Soundcore 2 is a fantastic portable Bluetooth speaker. It offers impressive sound quality, long battery life, and is even water-resistant. Perfect for outdoor adventures or daily use.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Elaborate on the features of a smart plug that makes it energy-efficient.\nProduct: 'TP-Link Smart Plug'\nOutput: ",
+        "output": "\"The TP-Link Smart Plug is an excellent energy-saving device. Its scheduling feature allows you to turn appliances on and off automatically, reducing standby power consumption. It also provides energy consumption statistics, enabling you to monitor and optimize your energy usage effectively.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "You are a product description writer for an online clothing store. Create a concise product description for a pair of running shoes, focusing on their breathability, cushioning, and durability. Output: ",
+        "output": "\"Experience ultimate comfort with our running shoes, featuring enhanced breathability, superior cushioning, and long-lasting durability for your intense workouts.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Given the product title 'Smart Watch with GPS, Heart Rate Monitor, and 30-Day Battery Life', generate a concise product description suitable for an online listing.\nOutput: ",
+        "output": "This smart watch features GPS tracking, a heart rate monitor, and a long-lasting 30-day battery for active lifestyles.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product description, generate a concise product feature list for the 'Fitbit Charge 4'. Answer:\nProduct Description: The Fitbit Charge 4 is a health and fitness tracker with built-in GPS, heart rate monitoring, and a battery life of up to 7 days. It is water-resistant and compatible with both Android and iOS devices.\nOutput:",
+        "output": ": ['Built-in GPS', 'Heart Rate Monitoring', '7-Day Battery Life', 'Water-Resistant', 'Android and iOS Compatible']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Create a persuasive sentence for a product ad for a new line of eco-friendly kitchen appliances that highlights their energy efficiency.\nOutput: ",
+        "output": "\"Elevate your kitchen experience while saving the planet with our eco-friendly appliances, designed for maximum energy efficiency and minimal environmental impact.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation. Given the product description of a smart watch, generate a 30-word customer-oriented summary that highlights its key features. Do not include the brand name. \nProduct Description: Stay connected with our advanced smart watch, featuring a high-resolution AMOLED display, real-time heart rate monitoring, built-in GPS, and water-resistant design for all your activities.\nOutput: ",
+        "output": "\"Connect, track, and explore with this smart watch, complete with AMOLED screen, heart rate monitor, GPS, and water resistance.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a concise product description for a wireless mouse emphasizing its 'portability'.\nOutput: ",
+        "output": "\"Compact and lightweight, our wireless mouse is the perfect portable companion for on-the-go productivity, designed for ease of use in any setting.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product description, generate a concise and engaging product title for a smart watch.\nProduct Description: Stay connected and on trend with this waterproof smart watch featuring a round face, heart rate monitor, and compatibility with both Android and iOS devices.\nOutput: ",
+        "output": "'Round-Face Waterproof Smart Watch: Heart Rate Monitor, Android & iOS Compatible'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the product description below, generate a concise product title for an online listing: 'Experience the ultimate comfort with the Reclinematic Series. This power recliner features a plush, padded seat and backrest, with an adjustable headrest and lumbar support for customized comfort. The built-in USB port ensures your devices are always charged.'\nOutput: ",
+        "output": "'Reclinematic Series Power Recliner with Plush Padding, Adjustabe Headrest, Lumbar Support, and USB Port'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a 5-star product review for a wireless mouse. Focus on the connectivity, battery life, and ease of use. Output: ",
+        "output": "'Exceptional Wireless Mouse! The instant connectivity via Bluetooth is a breeze, and the battery life is impressively long-lasting. It's so lightweight and comfortable, making it a joy to use for extended periods. A must-buy for anyone seeking a reliable, user-friendly mouse!'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Based on the product description, generate a 30-word customer review for a portable Bluetooth speaker with the following features: long battery life, water-resistant, and high-quality sound.\nOutput: ",
+        "output": "\"Incredible sound quality and battery life! This waterproof speaker is perfect for outdoor adventures. Highly recommend!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Create a short product description for a pair of 'Wireless Bluetooth Headphones' that are designed for sports.\nOutput: ",
+        "output": "\"Seamless workout sessions await with our Wireless Bluetooth Headphones. Engineered for athletes, these sweat-proof, secure-fitting headphones deliver high-quality sound and long-lasting comfort. Stay motivated with your favorite music, hands-free calls, and easy-to-use controls. Elevate your exercise experience today!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features and benefits of the 'Smartwatch with GPS' for outdoor enthusiasts.\nOutput: ",
+        "output": "\"Embrace the outdoors with our Smartwatch featuring built-in GPS. Track your runs, cycles, and hikes with precision, even without your phone. Stay informed with real-time notifications, heart rate monitoring, and weather updates. Enjoy longer adventures with its extended battery life and durable, waterproof design. Experience the freedom of exploration, guided by cutting-edge technology.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "PersonY is searching for a new pair of running shoes. Generate a product description for a pair of lightweight running shoes with good cushioning and arch support, suitable for both training and casual wear.\nOutput: ",
+        "output": "Experience the ultimate comfort with our lightweight running shoes, designed for both training and casual outings. With exceptional cushioning and arch support, these versatile shoes ensure a smooth ride on any surface. Elevate your running experience today!\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Based on the given product description, generate a 30-word promotional tagline.\nProduct Description: \"The new Samsung Galaxy S22 Ultra features a revolutionary 108MP camera, a powerful Snapdragon 895 processor, and a stunning 6.8-inch AMOLED display.\"\nOutput:",
+        "output": "\"Capture the world in stunning detail with the Samsung Galaxy S22 Ultra \u2013 power, performance, and pixels combined!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Write a brief product review for a set of wireless earbuds.\nOutput:",
+        "output": "\"These wireless earbuds are a game-changer! Exceptional sound quality, comfortable fit, and long-lasting battery life make them an absolute must-have for music lovers on the go.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a concise product description for a portable Bluetooth speaker with the following features: waterproof, 20-hour battery life, and rich bass. Output:",
+        "output": "\"Immerse yourself in sound anywhere with our waterproof Bluetooth speaker, boasting a 20-hour battery life and powerful rich bass for an unparalleled audio experience.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features and benefits of the 'Fitbit Charge 4' fitness tracker. Output a concise paragraph that could be used in a product description.\n\nOutput: ",
+        "output": "The Fitbit Charge 4 is a premium fitness tracker that not only monitors your heart rate and tracks your workouts but also features built-in GPS for accurate outdoor exercise tracking. With its long battery life, water-resistant design, and compatibility with popular apps, it's the perfect companion for your active lifestyle.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Translate the following product feature into a customer benefit statement: 'The microwave has a 1.4 cubic feet capacity and 1000 watts of power.'\n\nOutput: ",
+        "output": "Enjoy spacious cooking with the 1.4 cubic feet capacity and rapid heating power of 1000 watts in this microwave, allowing you to prepare large meals quickly and efficiently.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Provide a brief product description for a pair of noise-cancelling headphones. Answer: ",
+        "output": "Experience tranquility with our noise-cancelling headphones, designed to eliminate unwanted sounds and immerse you in your music or peace.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Write a short product description for a smart watch that includes its features and target audience.\nProduct: Samsung Galaxy Watch Active 2\nOutput: ",
+        "output": "The Samsung Galaxy Watch Active 2 is a versatile smart watch designed for fitness enthusiasts and tech lovers. It features heart rate monitoring, GPS tracking, and multiple exercise modes. Perfect for those who want to stay active and connected on the go.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Write a short product description for a fruit basket containing a variety of fruits.\nOutput: ",
+        "output": "This delightful fruit basket is filled with a selection of fresh and juicy fruits, including apples, oranges, bananas, grapes, and strawberries. Perfect for a healthy and delicious treat.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task: Elaborate on the following product feature for a smartwatch in the form of a promotional sentence. 'Touchscreen functionality for easy interaction.' Output: ",
+        "output": "'Experience seamless interaction with our smartwatch's responsive touchscreen, designed for effortless navigation and control at a simple touch.'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Describe the shopping experience of buying a pair of running shoes, focusing on the importance of fit and comfort.\nOutput: ",
+        "output": "Shopping for running shoes is an essential part of a runner's routine. The process should emphasize finding the perfect fit and optimal comfort. This involves trying on different styles, assessing cushioning, ensuring proper arch support, and considering the shoe's breathability. The right fit prevents injuries and enhances performance, making the shopping experience a crucial step towards a\u6109\u5feb\u7684 running journey.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features and benefits of the product 'Nike Air Zoom Pegasus running shoes' for a potential customer. Answer: \nOutput: ",
+        "output": "The Nike Air Zoom Pegasus running shoes offer superior cushioning and support with Zoom Air units, providing a responsive ride. They feature a breathable upper, ensuring comfort during long runs. The durable outsole delivers excellent traction, making them a reliable choice for runners seeking performance and comfort.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short product description for a pair of running shoes with the following features: breathable mesh upper, responsive cushioning, and durable outsoles.\nOutput: ",
+        "output": "\"Experience ultimate comfort with our running shoes, featuring a breathable mesh upper, responsive cushioning, and durable outsoles for a smooth ride.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Please provide a brief summary of the product based on the given description.\nProduct Description: The Instant Pot Duo is a programmable electric pressure cooker that combines 7-in-1 functionality. It can replace multiple kitchen appliances, including a slow cooker, rice cooker, steamer, saut\u00e9 pan, yogurt maker, and warmer.\nOutput: \n",
+        "output": "The Instant Pot Duo is a versatile electric pressure cooker that serves as a multi-functional kitchen appliance, capable of replacing several devices like a slow cooker, rice cooker, and more.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product details, generate a short marketing slogan for a new pair of running shoes: 'Lightweight, breathable mesh upper; Responsive cushioning; Durable outsole; Available in multiple colors.'\nOutput: ",
+        "output": "\"Run Free, Run Light, Run in Color!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a concise product review for a kitchen scale, focusing on its precision and ease of use. \nOutput: ",
+        "output": "\"This kitchen scale is a baker's dream, boasting precision to the gram and an intuitive interface that makes weighing ingredients a breeze.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a short promotional message for a sale on headphones. Include the details that they are wireless, noise-cancelling, and 20% off.\nOutput: ",
+        "output": "\"Get 20% off our top-notch wireless, noise-cancelling headphones! Experience premium sound without the wires and unwanted noise. Don't miss this amazing deal!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a short product description for a smart watch, focusing on its fitness tracking features.\nOutput: ",
+        "output": "Stay fit and connected with our smart watch, featuring advanced fitness tracking, heart rate monitoring, and personalized workout plans.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features and benefits of the 'Fitbit Charge 4' fitness tracker. Output: ",
+        "output": "The Fitbit Charge 4 is a powerful fitness tracker that offers continuous heart rate monitoring, built-in GPS, and a variety of workout modes. It tracks your steps, distance, calories burned, and sleep quality. With its sleek design and water-resistant feature, you can wear it 24/7 for an active and healthy lifestyle.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features and benefits of the product 'Fitbit Charge 4 Fitness and Sleep Tracker'. Output a concise product description in bullet points.\nOutput: ",
+        "output": "- Advanced fitness tracking with built-in GPS\n- Continuous heart rate monitoring for better health insights\n- Sleep tracking with sleep stages analysis\n- Smart notifications and app control\n- Water-resistant design for versatile wear\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Create a short review for the product 'Bose QuietComfort Earbuds' highlighting their noise-cancellation feature. Output the review in fewer than 100 words.\nOutput: ",
+        "output": "\"The Bose QuietComfort Earbuds are a game-changer for noise cancellation. Whether on a flight or in a busy office, they provide an unparalleled peaceful listening experience. Truly impressive!\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product description, generate a 5-star review for the product.\nProduct Description: This premium stainless steel water bottle is vacuum-insulated, keeping your drinks cold for 24 hours and hot for 12 hours. It has a leak-proof design and a comfortable carrying handle.\nOutput: ",
+        "output": "\"Absolutely love this water bottle! It keeps my drinks at the perfect temperature all day long and the leak-proof design is a lifesaver. The carrying handle makes it so easy to take on the go. Highly recommend!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a short product feature highlight for a smartwatch that focuses on its health monitoring capabilities.\nOutput: ",
+        "output": "\"Stay on top of your health with our smartwatch, featuring advanced health monitoring for heart rate, blood oxygen levels, and sleep quality. Track your wellness in real-time and take charge of your health goals!\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following review for a laptop, provide a concise description of the battery life: \n'Review: The laptop is fast and has a battery that seems to last forever. I can work for hours without charging.'\nAspect: battery life\nOutput: ",
+        "output": "battery lasts for hours\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "You are a product description writer for an online store. Create a concise and attractive product description for a 'smart watch' aimed at fitness enthusiasts, focusing on its water resistance, long battery life, and heart rate monitoring features. Output:",
+        "output": "\"Elevate your workout with our cutting-edge smart watch, designed for the active you! With superior water resistance, extended battery life, and accurate heart rate monitoring, this watch is your ultimate fitness companion. Stay motivated and connected, wherever your journey takes you!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Create a concise product description for a pair of 'Wireless Noise-Canceling Headphones' that includes features, usage, and target audience.",
+        "output": "Experience immersive sound with our Wireless Noise-Canceling Headphones. Featuring advanced noise cancellation, these headphones are perfect for travelers and music enthusiasts seeking uninterrupted audio. With a comfortable design and long battery life, they cater to professionals and leisure users alike.\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a brief review for a 'Smart Thermostat' focusing on energy efficiency and ease of programming.",
+        "output": "The Smart Thermostat is a game-changer for energy-conscious homeowners. Its intuitive programming and energy-saving features make it a breeze to manage temperatures and reduce utility bills. Highly recommend for those seeking comfort and efficiency.\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a product description for a new line of eco-friendly water bottles. The bottles are made from recycled materials, have a leak-proof design, and come in various sizes and colors. Output:",
+        "output": ": Introducing our eco-friendly water bottles, crafted from recycled materials to reduce waste. With a sleek, leak-proof design, they're perfect for on-the-go use. Available in a range of sizes and vibrant colors, these bottles are your sustainable companion for hydration.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features and benefits of using a smartwatch for fitness tracking. Output:",
+        "output": ": A smartwatch is a versatile fitness tracking tool that monitors your heart rate, tracks steps, and records exercise sessions. Its real-time data helps you optimize your workouts, while the ability to set goals and receive notifications provides motivation. With built-in GPS and water resistance, it's perfect for outdoor activities and swimming, making it an essential gadget for a healthy lifestyle.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Write a short, persuasive product description for a pair of noise-cancelling headphones.\nOutput:",
+        "output": "Experience tranquility in sound with our premium noise-cancelling headphones. Say goodbye to distractions and immerse yourself in your favorite music, podcasts, or silence. These headphones deliver exceptional comfort, stunning audio quality, and cutting-edge noise cancellation technology. Upgrade your listening experience today!\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a concise product description for a waterproof fitness tracker that includes its main features and is no more than 50 words long.\nOutput: ",
+        "output": "\"Ergonomic waterproof fitness tracker with heart rate monitor, GPS, and long battery life. Ideal for\u6e38\u6cf3 and outdoor activities.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following product review, generate a 20-word summary that captures the reviewer's sentiment and main complaint.\nReview: \"The headphones look great and are comfortable, but the sound quality is underwhelming for the price.\"\nOutput: ",
+        "output": "\"Stylish headphones with poor sound quality relative to their cost.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "As a product description writer, provide a concise and attractive summary for a smartwatch with fitness tracking, heart rate monitoring, and a 30-day battery life. Include its water-resistant feature and a stylish design. Output:",
+        "output": "\"Elevate your fitness journey with our smartwatch, featuring advanced tracking, heart rate monitoring, and a remarkable 30-day battery life. Water-resistant and designed with elegance in mind, it's the perfect accessory for any lifestyle.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Based on the following product description for a smartwatch, generate a concise marketing tagline. \nProduct Description: Stay connected and active with the all-new SmartWatch X. Monitor your heart rate, track your fitness goals, and manage your notifications, all from your wrist.\nOutput: ",
+        "output": "\"Stay Connected, Stay Fit - SmartWatch X.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a short product description for a 'Wireless Charging Pad' that is suitable for a online shopping website.\nOutput: ",
+        "output": "\"Experience the convenience of wireless charging with our sleek and efficient charging pad. Simply place your compatible device on the pad and enjoy fast and safe charging without the hassle of cables. Ideal for home, office, or travel use.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Create a short description for a product listing of a portable Bluetooth speaker.\nOutput:",
+        "output": "\"Experience immersive sound on the go with our portable Bluetooth speaker, designed for durability and high-quality audio. Ideal for outdoor adventures and home entertainment.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the following review for a portable speaker, generate a concise highlight of the speaker's battery life.\n\nReview: I love this speaker! It's loud and clear, and the battery life is impressive. I've used it for a full day at the beach and it was still going strong.\n\nOutput: ",
+        "output": "impressive battery life\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation - Elaboration. Provide a detailed description of the product 'Nike Air Zoom Pegasus 37' including its features and intended use, based on the following brief description: 'Nike running shoe with responsive cushioning and breathable upper.' \nOutput: ",
+        "output": "The Nike Air Zoom Pegasus 37 is a high-performance running shoe designed for comfort and support. It features responsive Nike Zoom cushioning for a springy ride and a breathable mesh upper that helps keep the feet cool. The shoe also includes a durable outsole for traction and stability, making it ideal for long-distance running.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Please generate a short, catchy slogan for a new line of athletic shoes that emphasizes speed. \nOutput: ",
+        "output": "\"Lightning Strides, Unleash Your Speed!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features and benefits of the product 'Wireless Earbuds with Active Noise Cancelling'. Answer: ",
+        "output": "These wireless earbuds offer active noise cancelling technology, which effectively reduces background noise for a better listening experience. With long battery life and a comfortable fit, they are perfect for travel, workouts, and daily use.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Translate the following product description into French. 'This sleek, compact digital camera is perfect for capturing memories on the go. With a 20MP sensor and 10x optical zoom, it delivers high-quality photos every time.' Answer: ",
+        "output": "Cette mince et compacte cam\u00e9ra num\u00e9rique est id\u00e9ale pour capturer des souvenirs en d\u00e9placement. Dot\u00e9e d'un capteur 20 MP et d'un zoom optique 10x, elle offre des photos de haute qualit\u00e9 \u00e0 chaque prise.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Generate a short product description for a travel adapter.\nOutput: ",
+        "output": "\"Compact and versatile, this travel adapter ensures your devices stay charged wherever you go. Its smart design fits outlets in over 150 countries, making it an essential accessory for any globetrotter.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a concise product description for a smart watch that includes features such as a heart rate monitor, GPS, and water resistance up to 50 meters, targeted at fitness enthusiasts.\nOutput: ",
+        "output": "\"Fitness-focused Smart Watch with accurate Heart Rate Monitor, GPS Tracking, and 50m Water Resistance for active lifestyles.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation - Elaboration. Provide a detailed description of the product 'Casio G-Shock Quartz Watch with Resin Strap' to help a potential buyer make an informed decision.\nOutput: ",
+        "output": "The Casio G-Shock Quartz Watch with Resin Strap is a rugged timepiece designed for durability and comfort. Its shock-resistant construction ensures reliability in tough conditions. The watch features a digital display, countdown timer, stopwatch, and alarm, making it perfect for outdoor activities. The resin strap provides a secure and comfortable fit, while the water-resistant design allows for use in various environments.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation - Extractive. Summarize the key features of the 'Samsung Galaxy S21 5G' in bullet points.\nOutput: ",
+        "output": "- 5G compatibility\n- AMOLED display with 120Hz refresh rate\n- High-performance Snapdragon 888 processor\n- Triple rear camera system\n- 8GB RAM and 128GB/256GB storage options\n- Fast charging and wireless charging support\n- IP68 water and dust resistance",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Based on the product description, generate a 30-word product advertisement for a(n) 'Automatic\u4f1eAutomatic Folding Umbrella with UV Protection - Black'.\nProduct Description: This black automatic folding umbrella features UV protection, a comfortable grip, and automatic opening and closing for convenience.\nOutput:",
+        "output": "\"Shield yourself from the sun and rain with our Automatic Folding Umbrella! Black, sleek, and UV-protected, it's your perfect companion.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Write a 3-sentence customer review for a(n) 'Electric Kettle' that emphasizes its speed, safety features, and durability.\nOutput:",
+        "output": "\"This electric kettle is a game-changer! It boils water in a flash, saving me so much time in the morning. The automatic shut-off and cool-touch exterior ensure safety, and after months of daily use, it still looks and performs like new. Highly recommend for anyone looking for a reliable and efficient kettle.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the following product feature for a marketing campaign: \"Waterproof and Breathable\".\nOutput: \n",
+        "output": "Experience the freedom of movement in any weather with our Waterproof and Breathable technology, designed to keep you dry and comfortable during your active lifestyle.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation. Write a short product description for a set of kitchen knives that emphasizes their sharpness and durability. Output: \n",
+        "output": "Experience precision and longevity with our premium kitchen knives, crafted for superior sharpness and enduring durability, ideal for any chef.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation. Elaborate on the following review sentence to create a full paragraph: \"The smartwatch is a game-changer for fitness enthusiasts.\" Output: \n",
+        "output": "The smartwatch has truly revolutionized the fitness experience for enthusiasts like myself. With its advanced tracking capabilities and seamless integration with my active lifestyle, it not only monitors my workouts but also motivates me to push harder, providing real-time feedback and personalized goals.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Given the product description for a wireless mouse, 'Ergonomic wireless mouse with precise tracking and 3 adjustable DPI levels for smooth scrolling. Rechargeable battery with long life.', generate a concise product title for an online shopping listing.\nOutput: ",
+        "output": "\"Ergonomic Rechargeable Wireless Mouse with Precise Tracking and DPI Adjustment\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Based on the product description, generate a 30-word tagline for the 'Nike Sunray Protect 2 (TD) Womens Fashion-Sneakers 943829' that would entice a consumer to purchase the product.\nOutput: ",
+        "output": "\"Elevate your style game with Nike Sunray Protect 2: the fashion-sneaker that promises comfort, trends, and durable protection for every step.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Write a short review for the 'Calvin Klein Women's Seductive Comfort Customized Lift Bra with Lace' focusing on its comfort and support features.\nOutput: ",
+        "output": "\"The Calvin Klein Seductive Comfort Bra is a game-changer, offering customized lift and lace detailing without compromising on comfort. Its innovative design provides all-day support, making it a must-have for any wardrobe.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features and benefits of the following product for a product description: \"Acme Portable Blender, Battery Operated, BPA-Free, 520ml Capacity.\"\nOutput: ",
+        "output": "The Acme Portable Blender is the perfect companion for on-the-go smoothie enthusiasts. Its battery operation ensures blending anywhere, while the BPA-free construction guarantees a safe and healthy drinking experience. With a 520ml capacity, this blender is ideal for individual servings and easy to clean, making it a convenient addition to an active lifestyle.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Translate the following product title into Spanish for a Latin American market: \"Eco-Friendly Reusable Shopping Bags, Set of 3.\"\nOutput: ",
+        "output": "Bolsas de Compra Reutilizables Eco-Amigables, Conjunto de 3.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Create a short product description for a pair of wireless earbuds that highlights their noise-cancellation feature.\nOutput: \n",
+        "output": "\"Experience pure sound with our noise-canceling wireless earbuds. Say goodbye to distractions and immerse yourself in your music or calls.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Write a persuasive sentence to encourage customers to buy a smartwatch that tracks fitness and health.\nOutput: \n",
+        "output": "\"Elevate your fitness journey and take control of your health with our innovative smartwatch, designed to keep you motivated and informed every step of the way.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the product 'Nike Air Zoom Pegasus running shoes' by describing its features and benefits.\nOutput: ",
+        "output": "The Nike Air Zoom Pegasus running shoes offer superior cushioning with the Zoom Air units in the heel and forefoot, providing a responsive ride. They have a breathable upper for comfort and a durable outsole for traction, making them an excellent choice for runners seeking a reliable, comfortable running experience.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Translate the following product description into Spanish: 'The KitchenAid Stand Mixer is a versatile and durable appliance that every baker should own. It comes with multiple attachments for various mixing tasks.'\nOutput: ",
+        "output": "El mezclador de KitchenAid de pie es una herramienta vers\u00e1til y duradera que todo pastelero deber\u00eda tener. Viene con varios accesorios para diferentes tareas de mezclado.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: Given a product description, 'This stylish wallet is made of genuine leather with a smooth texture, featuring a zip-around closure for secure storage.', please provide a creative and attractive title for an online listing.\nOutput: ",
+        "output": "\"Elevate Your Style: Genuine Leather Zip-Around Wallet\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generation: A customer is searching for a smartwatch with specific features. Based on the following requirements, 'heart rate monitor, GPS, and waterproof up to 50 meters', generate a product description for a smartwatch that includes these features.\nOutput: ",
+        "output": "\"Stay Active and Connected: Introducing our waterproof smartwatch with heart rate monitoring and GPS, perfect for your outdoor adventures and daily workouts. Dive into your fitness journey with style and reliability, up to 50 meters deep!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Generate a short product description for a smartwatch that emphasizes its fitness tracking features and is tailored for a tech-savvy audience.\nOutput: ",
+        "output": "\"Elevate your fitness game with our cutting-edge smartwatch, featuring advanced tracking for steps, heart rate, and calories. Stay motivated and connected in style.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the following product feature for a vacuum cleaner: \"Has a powerful suction.\" Output should be aimed at highlighting the benefit to the consumer.\nOutput: ",
+        "output": "\"Experience unparalleled cleaning power with our vacuum's high-performance suction, tackling even the deepest dirt and ensuring a thoroughly clean space in no time.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Instructions: Compose a short product description for a smartwatch aimed at fitness enthusiasts.\nOutput: ",
+        "output": "\"Elevate your workout with the cutting-edge smartwatch, designed for fitness fanatics. Monitor heart rate, track workouts, and analyze performance with built-in GPS and multiple sport modes. Stay motivated and connected on the go!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Task type: Generation. Compose a short product description for a 'smart watch' aimed at fitness enthusiasts.\nOutput: ",
+        "output": "\"Elevate your fitness journey with our cutting-edge smart watch, designed for the active lifestyle. Track your workouts, monitor heart rate, and stay connected on the go. Experience seamless integration of technology and wellness.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Generation",
+        "instruction": "Based on the following product description, generate a short promotional tagline that highlights the product's durability.\nProduct Description: Our heavy-duty garden hose is made from high-quality materials that can withstand extreme temperatures and high pressure.\nOutput: ",
+        "output": "\"Tough as Nails - The Garden Hose That Endures!\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Write a short description for a product listing.\nProduct: Vintage Wall Clock\nOutput: ",
+        "output": "Add a touch of timeless elegance to your home with our Vintage Wall Clock, featuring an intricate design and reliable timekeeping.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Instructions: Summarize the following review in one sentence.\nReview: I bought these headphones for running and they are fantastic! The sound quality is great, they are comfortable to wear, and they stay in place during my workout.\nOutput: ",
+        "output": "These running headphones offer excellent sound quality, comfort, and stability during workouts.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features and benefits of using a 'Dyson V11 Cordless Vacuum Cleaner' for home cleaning.\nOutput:",
+        "output": "The Dyson V11 offers powerful suction for deep cleaning without the hassle of cords. Its digital motor provides consistent power, and the torque drive cleaner head tackles all types of dirt. The lightweight design and convertibility to a handheld vacuum make it versatile for cleaning stairs, cars, and hard-to-reach areas.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "generation",
+        "instruction": "Elaborate on the features of the 'Samsung Galaxy Tab S7' that make it a good choice for productivity.\nOutput: ",
+        "output": "The Samsung Galaxy Tab S7 offers features like a large, high-resolution display, powerful processor, S Pen support, and multi-window functionality, making it an excellent choice for productivity tasks such as document editing, note-taking, and multitasking.\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    }
+]

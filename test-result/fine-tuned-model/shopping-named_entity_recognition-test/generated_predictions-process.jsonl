@@ -1,0 +1,232 @@
+{"label": "['Sony WH-1000XM4']", "predict": "['Sony WH-1000XM4']"}
+{"label": "['Samsung Galaxy S21']", "predict": "['Samsung Galaxy S21']"}
+{"label": "['coffee maker']", "predict": "['Coffee Maker']"}
+{"label": "['natural ingredients', 'tear-free formula']", "predict": "['baby shampoo', 'natural ingredients', 'tear-free formula']"}
+{"label": "['Samsung Galaxy S21', 'smartphone']", "predict": "['Samsung Galaxy', 'Smartphone']"}
+{"label": "['Samsung Galaxy S21 Ultra 5G']", "predict": "['Samsung Galaxy S21 Ultra 5G']"}
+{"label": "['product category: smartwatch', 'specific features: fitness tracking']", "predict": "['Product Category: Smartwatche', 'Specific Features: Fitness Tracking']"}
+{"label": "[': Samsung Galaxy S21 Ultra 5G', 'smartphone', '6.8-inch Dynamic AMOLED display', '108MP camera', '512GB storage']", "predict": "['Samsung Galaxy S21 Ultra 5G']"}
+{"label": "['Apple iPhone 13 Pro Max', 'Samsung Galaxy Z Fold3 5G']", "predict": "['Apple iPhone 13 Pro Max', 'Samsung Galaxy Z Fold3 5G']"}
+{"label": "['Brand: Samsung', 'Model: Galaxy S21 Ultra 5G']", "predict": "['Brand: Samsung', 'Model: Galaxy S21 Ultra 5G']"}
+{"label": "[': smartphone']", "predict": "['smartphone']"}
+{"label": "['smartwatch', 'GPS tracking', 'heart rate monitoring']", "predict": "['The Apple Watch Series 6 is a great choice for you. It has water resistance up to 50 meters', 'GPS tracking', 'and heart rate monitoring.']"}
+{"label": "['smartwatch']", "predict": "['smartwatch']"}
+{"label": "['Samsung Galaxy S21']", "predict": "['Samsung Galaxy S21']"}
+{"label": "['Samsung']", "predict": "['Samsung']"}
+{"label": "['Philips Sonicare ProtectiveClean 6100 Electric Toothbrush', 'Pressure Sensor']", "predict": "['5']"}
+{"label": "['Samsung Galaxy S21 Ultra 5G']", "predict": "['Samsung Galaxy S21 Ultra 5G']"}
+{"label": "['Philips Sonicare Electric Toothbrush']", "predict": "['Philips Sonicare Electric Toothbrush']"}
+{"label": "['long battery life', 'high-performance processors']", "predict": "['Acer Predator Helios 300', 'HP Pavilion Power']"}
+{"label": "['6.2-inch Dynamic AMOLED display', '12MP triple camera system', '8GB RAM', '128GB storage']", "predict": "['6.2-inch Dynamic AMOLED display', '12MP triple camera system', '8GB RAM', '128GB storage']"}
+{"label": "['Samsung Galaxy S21 Ultra', 'built-in screen protectors']", "predict": "['Samsung Galaxy S21 Ultra', 'built-in screen protectors']"}
+{"label": "['running shoes']", "predict": "['Running Shoes']"}
+{"label": "['Samsung Galaxy S21 Ultra', 'Snapdragon 888', '120Hz Dynamic AMOLED', 'quad-camera', '108MP primary sensor']", "predict": "['Phone']"}
+{"label": "['Apple iPhone 13 Pro Max', 'Samsung Galaxy Tab S8+']", "predict": "['Apple iPhone 13 Pro Max', 'Samsung Galaxy Tab S8+']"}
+{"label": "['camera system', 'long battery life', 'sleek design', 'expensive']", "predict": "['Camera System', 'Battery Life', 'Design']"}
+{"label": "['red', 'leather sofa', 'modern design']", "predict": "['We have a stunning red leather sofa with clean lines and a modern design. It would be perfect for your living room.']"}
+{"label": "['Samsung Galaxy', 'smartphone', 'camera', 'battery']", "predict": "['smartphone', 'camera', 'battery life']"}
+{"label": "['108MP camera', '6.8-inch display', 'battery life']", "predict": "['108MP camera', '6.8-inch display', 'battery life']"}
+{"label": "['Samsung Galaxy S21 Ultra 5G']", "predict": "['Samsung Galaxy S21 Ultra 5G']"}
+{"label": "['smartphone', 'headphones']", "predict": "['smartphone', 'headphones']"}
+{"label": "['smartwatch']", "predict": "['Smartwatch']"}
+{"label": "['Samsung Galaxy', 'Sony Walkman']", "predict": "['Smartphone', 'MP3 Player']"}
+{"label": "['running shoes', 'wide feet', 'good arch support']", "predict": "['Wide Feet', 'Arch Support']"}
+{"label": "['Samsung']", "predict": "['Samsung']"}
+{"label": "['Samsung Galaxy S21']", "predict": "['Samsung Galaxy S21']"}
+{"label": "['running shoes']", "predict": "['Running Shoes']"}
+{"label": "['Samsung Galaxy S21 Ultra 5G']", "predict": "['The Samsung Galaxy S21 Ultra 5G.']"}
+{"label": "['Samsung', 'Galaxy S21 (product type: smartphone accessories)']", "predict": "['Samsung', 'Accessories']"}
+{"label": "['Philips Sonicare DiamondClean Toothbrush', 'Oral-B Pro 1000']", "predict": "['Philips Sonicare DiamondClean Toothbrush', 'Oral-B Pro 1000']"}
+{"label": "['Product: Samsung Galaxy S21 Ultra 5G | Display: 6.8-inch Dynamic AMOLED 2X | RAM: 12GB | Storage: 128GB | Battery: 5000mAh']", "predict": "['The Samsung Galaxy S21 Ultra 5G smartphone has a 6.8-inch Dynamic AMOLED 2X display', '12GB RAM', '128GB storage', 'and a 5000mAh battery.']"}
+{"label": "['Samsung Galaxy Tab S7+', 'Samsung Book Cover Keyboard']", "predict": "['Samsung Galaxy Tab S7+', 'Samsung Book Cover Keyboard']"}
+{"label": "['Dynamic AMOLED 2X display', '12MP triple camera system', 'long-lasting battery']", "predict": "['Dynamic AMOLED 2X display', '12MP triple camera system', 'long-lasting battery']"}
+{"label": "['Samsung Galaxy S21 Ultra 5G smartphone']", "predict": "['Samsung Galaxy S21 Ultra 5G']"}
+{"label": "['smartphone', 'Samsung Galaxy']", "predict": "['Smartphone', 'Apple']"}
+{"label": "['Samsung Galaxy S21 Ultra']", "predict": "['The Samsung Galaxy S21 Ultra']"}
+{"label": "['running shoes']", "predict": "['Running shoes']"}
+{"label": "['Description: The stylish Louis Vuitton Epi leather tote bag features a classic design and is crafted with durable', 'high-quality materials.Output: - Brand: Louis Vuitton- Material: Epi leather']", "predict": "['Product: A luxurious silk scarf from the brand Chanel.']"}
+{"label": "['Samsung Galaxy S21 Ultra', 'Snapdragon 888 processor', '12GB RAM', '6.8-inch Dynamic AMOLED display', '108MP primary camera', '10x optical zoom', '5G connectivity']", "predict": "['Snapdragon 888 processor', '12GB RAM', '6.8-inch Dynamic AMOLED display', '108MP primary camera', '10x optical zoom', '5G connectivity']"}
+{"label": "['Samsung Galaxy S21 Ultra 5G']", "predict": "['Product']"}
+{"label": "['Samsung Galaxy S21 Category', 'Smartphone']", "predict": "['Samsung Galaxy S21', 'Smartphone']"}
+{"label": "['good arch support']", "predict": "['Arch support']"}
+{"label": "['Philips Sonicare']", "predict": "['Philips']"}
+{"label": "['running shoes']", "predict": "['Running Shoes']"}
+{"label": "['Samsung Galaxy S21 Ultra']", "predict": "['Samsung Galaxy S21 Ultra']"}
+{"label": "['twins']", "predict": "['A tandem stroller would be ideal for twins.']"}
+{"label": "['6.2-inch display', 'Snapdragon 888 processor', 'long-lasting battery life']", "predict": "['Display: 6.2-inch', 'Processor: Snapdragon', '888Battery Life: Long-lasting']"}
+{"label": "['running shoes', 'women', 'good arch support']", "predict": "['running shoes', 'arch support']"}
+{"label": "['Samsung Galaxy S21 Ultra 5G', 'Apple AirPods Pro']", "predict": "['Samsung Galaxy S21 Ultra 5G', 'Apple AirPods Pro']"}
+{"label": "['Samsung']", "predict": "['Samsung']"}
+{"label": "['Nike']", "predict": "['Nike']"}
+{"label": "['smartwatch', 'GPS', 'heart rate monitor']", "predict": "['I suggest you check out our smartwatches that have GPS and heart rate monitoring capabilities.']"}
+{"label": "['Samsung Galaxy S21']", "predict": "['Samsung Galaxy S21']"}
+{"label": "['Samsung Galaxy S21 Ultra']", "predict": "['Samsung Galaxy S21 Ultra']"}
+{"label": "['Samsung Galaxy S21 Ultra', '128GB']", "predict": "['Samsung Galaxy S21 Ultra', '128GB']"}
+{"label": "['hiking', 'good ankle support', 'waterproof material']", "predict": "['hiking', 'ankle support', 'waterproof']"}
+{"label": "['Philips Sonicare ProtectiveClean 6100 Electric Toothbrush']", "predict": "['plaque removal capabilities.']"}
+{"label": "['Samsung Galaxy S21', '128GB', 'triple camera', 'battery']", "predict": "['Samsung Galaxy S21']"}
+{"label": "['Breville Smart Oven Air Fryer Pro']", "predict": "['Breville Smart Oven Air Fryer Pro']"}
+{"label": "['Samsung Galaxy S21 Ultra 5G']", "predict": "['Samsung Galaxy S21 Ultra 5G']"}
+{"label": "['Apple', 'iPhone 12 Pro Max']", "predict": "['Apple', 'iPhone 12 Pro Max']"}
+{"label": "['Samsung Galaxy S21 Ultra 5G', 'Apple Watch Series 7']", "predict": "['Samsung Galaxy S21 Ultra 5G', 'Apple Watch Series 7']"}
+{"label": "['Samsung Galaxy S21 Ultra 5G']", "predict": "['Samsung Galaxy S21 Ultra 5G']"}
+{"label": "['Sony WH-1000XM4 Wireless Noise-Cancelling Headphones']", "predict": "['Sony WH-1000XM4']"}
+{"label": "['Product Name: Samsung Galaxy S21 Attributes: camera setup', 'battery', 'design', 'vibrant colors on the screen']", "predict": "['Product Name: Samsung Galaxy S21Attributes: Camera setup', 'battery life', 'sleek design', 'vibrant colors on screen']"}
+{"label": "['Samsung Galaxy S21 Ultra 5G']", "predict": "['Samsung Galaxy S21 Ultra 5G']"}
+{"label": "['Samsung Galaxy S21']", "predict": "['Samsung Galaxy S21']"}
+{"label": "['Samsung', 'Galaxy Tab S7+', '128GB Wi-Fi Tablet', 'Mystic Black']", "predict": "['Samsung', 'Galaxy Tab S7+']"}
+{"label": "['running shoes', 'fitness tracker']", "predict": "['Running shoes', 'fitness tracker']"}
+{"label": "['Samsung Galaxy S21', 'Apple AirPods']", "predict": "['Samsung Galaxy S21', 'Apple AirPods']"}
+{"label": "['Kindle Paperwhite', 'Apple AirPods Pro']", "predict": "['Kindle Paperwhite', 'Apple AirPods Pro']"}
+{"label": "['Apple Watch Series 6', 'Series 5', 'Samsung Galaxy Buds']", "predict": "['Apple Watch Series 6', 'Samsung Galaxy Buds']"}
+{"label": "['Nike running shoes', 'Adidas Ultraboost', 'Nike Pegasus']", "predict": "['Nike running shoes', 'Adidas Ultraboost', 'Nike Pegasus']"}
+{"label": "['Nike', 'Adidas']", "predict": "['Nike', 'Adidas']"}
+{"label": "['Apple MacBook Pro', 'iPhone', 'Apple Watch', 'Microsoft Surface Laptop']", "predict": "['Apple MacBook Pro', 'Microsoft Surface Laptop']"}
+{"label": "['Sony WH-1000XM4', 'Bose QuietComfort 35']", "predict": "['Sony WH-1000XM4', 'Bose QuietComfort 35']"}
+{"label": "['Nike Air Zooms', 'Adidas Ultraboosts']", "predict": "['Nike Air Zoom', 'Adidas Ultraboost']"}
+{"label": "['GamerGrip', 'ClickMaster']", "predict": "['GamerGrip', 'ClickMaster']"}
+{"label": "['Sony PlayStation 5', 'Samsung Galaxy S21 Ultra']", "predict": "['Sony PlayStation 5', 'Samsung Galaxy S21 Ultra']"}
+{"label": "['Sony A7R IV', 'SanDisk 128GB']", "predict": "['Sony A7R IV', 'SanDisk 128GB memory card']"}
+{"label": "['HDX Tablet', 'SoundLink Speaker']", "predict": "['HDX Tablet', 'SoundLink Speaker']"}
+{"label": "['Nike', 'Razer', 'Fitbit', 'Sony']", "predict": "['Nike', 'Razer', 'Fitbit', 'Sony']"}
+{"label": "['Nike', 'Adidas']", "predict": "['Nike', 'Adidas']"}
+{"label": "['Apple', 'Samsung', 'Fitbit']", "predict": "['Apple', 'Samsung', 'Fitbit']"}
+{"label": "['Nike Pegasus', 'Adidas Ultraboost']", "predict": "['Nike Pegasus', 'Adidas Ultraboost']"}
+{"label": "['Nike Air Zoom Pegasus 37', 'Adidas Ultraboost 20']", "predict": "['Nike Air Zoom Pegasus 37', 'Adidas Ultraboost 20']"}
+{"label": "['running shoes', 'backpack']", "predict": "['Running shoes', 'backpacks']"}
+{"label": "['Adidas', 'Nike']", "predict": "['Adidas', 'Nike']"}
+{"label": "['Apple iPhone 12', 'Samsung Galaxy Buds']", "predict": "['Apple iPhone 12', 'Samsung Galaxy Buds']"}
+{"label": "['Brand: Sony', 'Product Category: laptop']", "predict": "['Brand: Sony', 'Product Category: Laptop']"}
+{"label": "['Sony WH-1000XM4', 'Apple Watch Series 7']", "predict": "['Sony WH-1000XM4', 'Apple Watch Series 7']"}
+{"label": "['Sony WH-1000XM4', 'Bose QuietComfort 35']", "predict": "['Sony WH-1000XM4', 'Bose QuietComfort 35']"}
+{"label": "['Apple', 'Samsung', 'Sony', 'HTC']", "predict": "['Apple', 'Samsung', 'Sony', 'HTC']"}
+{"label": "['hiking boots', 'running shoes']", "predict": "['Hiking Boots', 'Running Shoes']"}
+{"label": "['Kindle Paperwhite', 'Nook Color']", "predict": "['Kindle Paperwhite', 'Nook Color']"}
+{"label": "['20-hour battery life', '10W drivers', 'rugged', 'water-resistant', 'outdoor use']", "predict": "['battery life', 'driver power', 'design']"}
+{"label": "['silver', 'pearl']", "predict": "['silver', 'pearl']"}
+{"label": "['Nike running shoes', 'Adidas Cloudfoam']", "predict": "['Nike running shoes', 'Adidas Cloudfoam']"}
+{"label": "['Apple iPhone 12; Apple Watch Series 6; Samsung Galaxy Buds']", "predict": "['Apple iPhone 12', 'Apple Watch Series 6', 'Samsung Galaxy Buds']"}
+{"label": "['Apple MacBook Air', 'Sony WH-1000XM4', 'Fitbit Charge 4']", "predict": "['Apple MacBook Air', 'Sony WH-1000XM4', 'Fitbit Charge 4']"}
+{"label": "['Sony Xperia', 'Adidas running shoes']", "predict": "['Sony Xperia', 'Adidas running shoes']"}
+{"label": "['Samsung', 'Apple', 'Microsoft']", "predict": "['Samsung', 'Apple', 'Microsoft']"}
+{"label": "['dairy', 'bakery', 'snacks', 'electronics accessories', 'batteries', 'hygiene products']", "predict": "['Milk', 'Bread', 'Granola Bars', 'Electronics Accessories', 'Batteries', 'Hand Sanitizer']"}
+{"label": "['Nike Air Max', 'Adidas Ultraboost']", "predict": "['Nike Air Max', 'Adidas Ultraboost']"}
+{"label": "['Sony', 'Apple', 'Fitbit']", "predict": "['Sony', 'Apple', 'Fitbit']"}
+{"label": "['Sony', 'Bose']", "predict": "['Sony', 'Bose']"}
+{"label": "['Nike running shoes', 'Adidas backpack']", "predict": "['Nike running shoes', 'Adidas backpack']"}
+{"label": "['Sony WH-1000XM4']", "predict": "['Sony WH-1000XM4']"}
+{"label": "['Sony WH-1000XM4 headphones', 'Apple iPad Pro 2021']", "predict": "['Sony WH-1000XM4', 'Apple iPad Pro 2021']"}
+{"label": "['Sony WH-1000XM4 headphones', 'Jabra Elite Active 75t earbuds']", "predict": "['Sony WH-1000XM4', 'Jabra Elite Active 75t']"}
+{"label": "['Sony WH-1000XM4 headphones', 'Apple AirPods Pro']", "predict": "['Sony WH-1000XM4', 'Apple AirPods Pro']"}
+{"label": "['Sony headphones', 'Bose QuietComfort']", "predict": "['Sony headphones', 'Bose QuietComfort']"}
+{"label": "['Apple', 'Samsung', 'Google']", "predict": "['Apple', 'Samsung', 'Google']"}
+{"label": "[': [''Sony PlayStation 5', 'Oculus Rift S']", "predict": "['Sony PlayStation 5', 'Oculus Rift S']"}
+{"label": "['Fire TV Stick', 'Echo Dot']", "predict": "['Fire TV Stick', 'Echo Dot']"}
+{"label": "['Nike Revolution 4', 'Adidas Linear Performance']", "predict": "['Nike Revolution 4 shoes', 'Adidas Linear Performance backpack']"}
+{"label": "['Sony PlayStation 5', 'Samsung Galaxy S21 Ultra']", "predict": "['Sony PlayStation 5', 'Samsung Galaxy S21 Ultra']"}
+{"label": "['16GB RAM', '1TB SSD']", "predict": "['16GB RAM', '1TB SSD']"}
+{"label": "['Nike', 'Running Shoes']", "predict": "['Nike', 'Running Shoes']"}
+{"label": "['Sony']", "predict": "['Sony']"}
+{"label": "['Brand: Sony', 'Product Category: Headphones']", "predict": "['Brand: SonyProduct Category: Headphones']"}
+{"label": "['Brand: Sony', 'Product Category: headphones']", "predict": "['Brand: SonyProduct Category: Headphones']"}
+{"label": "['Nikon Coolpix', 'Samsung Galaxy S10+ compatible lens']", "predict": "['Nikon Coolpix', 'Samsung Galaxy S10+ compatible lens']"}
+{"label": "['Electronics', 'Laptop', 'Smartphones', 'Tablets']", "predict": "['laptop','smartphones', 'tablets']"}
+{"label": "['Running shoes', 'compression socks.']", "predict": "['Running Shoes', 'Compression Socks']"}
+{"label": "['headphones', 'mouse', 'smartwatches', 'gaming consoles']", "predict": "['Headphones', 'Wireless mouse', 'Smartwatches', 'Gaming consoles']"}
+{"label": "['Sony WH-1000XM4', 'Samsung Galaxy Tab S8']", "predict": "['Sony WH-1000XM4', 'Samsung Galaxy Tab S8']"}
+{"label": "['Kindle Oasis', 'Beats Studio3 Wireless Headphones']", "predict": "['Kindle Oasis', 'Beats Studio3 Wireless Headphones']"}
+{"label": "['Sony', 'Apple', 'Samsung']", "predict": "['Sony', 'Apple', 'Samsung']"}
+{"label": "['Shiseido facial cleanser', 'Cetaphil gentle skin cleanser', 'Neutrogena Hydro Boost cleanser']", "predict": "['Shiseido', 'Cetaphil', 'Neutrogena']"}
+{"label": "['Nike', 'Sony Walkman']", "predict": "['Nike', 'Sony']"}
+{"label": "['Apple Watch', 'Kindle']", "predict": "['Apple Watch', 'Kindle']"}
+{"label": "['Nike Air Max', 'Sony PlayStation 4']", "predict": "['Nike Air Max', 'Sony PlayStation 4']"}
+{"label": "['Sony WH-1000XM4', 'Bose QuietComfort 35 II']", "predict": "['Sony WH-1000XM4', 'Bose QuietComfort 35 II']"}
+{"label": "['Apple iPhone 12', 'Samsung Galaxy Buds']", "predict": "['Apple iPhone 12', 'Samsung Galaxy Buds']"}
+{"label": "['Samsung', 'Galaxy Watch', 'Android', 'iOS', 'Apple', 'AirPods']", "predict": "['Samsung', 'Apple']"}
+{"label": "['Sony Cyber-shot DSC-RX100 VII', 'Nikon Coolpix B500']", "predict": "['Sony Cyber-shot DSC-RX100 VII', 'Nikon Coolpix B500']"}
+{"label": "['smartphones', 'laptops', 'tablets']", "predict": "['smartphones', 'laptops', 'tablets']"}
+{"label": "['Apple Watch Series 6', 'Fitbit Charge 3']", "predict": "['Apple Watch Series 6', 'Fitbit Charge 3']"}
+{"label": "['refrigerator', 'washing machine']", "predict": "['Refrigerator', 'Washing Machine']"}
+{"label": "['Apple iPhone 12', 'Samsung Galaxy Watch']", "predict": "['Apple iPhone 12', 'Samsung Galaxy Watch']"}
+{"label": "['Nike running shoes', 'Adidas Ultraboost']", "predict": "['Nike running shoes', 'Adidas Ultraboost']"}
+{"label": "['Kindle Paperwhite', 'Nook']", "predict": "['Kindle Paperwhite', 'Nook']"}
+{"label": "['Sony', 'Canon', 'Nikon']", "predict": "['Sony', 'Canon', 'Nikon']"}
+{"label": "['SoundBlaster Audigy', 'Creative Labs GigaWorks T40 Series II', 'Logitech Z906 5.1 Surround Sound Speaker System']", "predict": "['SoundBlaster Audigy', 'GigaWorks T40 Series II', 'Z906 5.1 Surround Sound Speaker System']"}
+{"label": "['running shoes']", "predict": "['Running Shoes', 'Arch Support']"}
+{"label": "['Nike running shoes', 'Adidas sports bra']", "predict": "['Nike running shoes', 'Adidas sports bra']"}
+{"label": "['Nike', 'Adidas', 'Puma']", "predict": "['Nike', 'Adidas', 'Puma']"}
+{"label": "['Samsung Galaxy S21']", "predict": "['Samsung Galaxy S21']"}
+{"label": "['Kindle Paperwhite', 'Nook Color']", "predict": "['Kindle Paperwhite', 'Nook Color']"}
+{"label": "['Sony A7', 'SanDisk 128GB SD card']", "predict": "['Sony A7', 'SanDisk 128GB SD card']"}
+{"label": "['MultiTasker Makeup Remover', 'QuickCleanse Wipes']", "predict": "['MultiTasker Makeup Remover', 'QuickCleanse Wipes']"}
+{"label": "['Sony WH-1000XM4', 'Bose QuietComfort 35 II']", "predict": "['Sony WH-1000XM4', 'Bose QuietComfort 35 II']"}
+{"label": "['wireless earbuds', 'SoundWave Pro']", "predict": "['new pair of wireless earbuds', 'the SoundWave Pro']"}
+{"label": "['Nike', 'Adidas']", "predict": "['Nike', 'Adidas']"}
+{"label": "['Samsung Galaxy Watch', 'Fitbit Charge']", "predict": "['Samsung Galaxy Watch', 'Fitbit Charge']"}
+{"label": "['Kindle Oasis', 'Apple AirPods Pro']", "predict": "['Kindle Oasis', 'Apple AirPods Pro']"}
+{"label": "['MacBook Pro', 'AirPods']", "predict": "['MacBook Pro', 'AirPods']"}
+{"label": "['Nike Revolution 5', 'Adidas Linear Performance']", "predict": "['Nike Revolution 5', 'Adidas Linear Performance']"}
+{"label": "['Samsung Galaxy Tab S7', 'Apple iPad Pro 12.9-inch']", "predict": "['Samsung Galaxy Tab S7', 'Apple iPad Pro 12.9-inch']"}
+{"label": "['Apple iPhone 12', 'Samsung Galaxy S21']", "predict": "['Apple iPhone 12', 'Samsung Galaxy S21']"}
+{"label": "['Kindle Fire HD', 'Anker Soundcore Bluetooth Speaker']", "predict": "['Kindle Fire HD', 'Anker Soundcore Bluetooth Speaker']"}
+{"label": "['Sony WH-1000XM4', 'JBL Charge 4']", "predict": "['Sony WH-1000XM4', 'JBL Charge 4']"}
+{"label": "['long battery life', 'dual camera']", "predict": "['battery life', 'dual camera']"}
+{"label": "['Kindle Fire HD']", "predict": "['Kindle Fire HD']"}
+{"label": "['Apple iPhone 12', 'Samsung Galaxy Tab S7']", "predict": "['Apple iPhone 12', 'Samsung Galaxy Tab S7']"}
+{"label": "['Sony', 'Bose']", "predict": "['Sony', 'Bose']"}
+{"label": "['women', 'athletic shoes', 'running', 'workout']", "predict": "['athletic shoes', 'running', 'workout']"}
+{"label": "['Sony WH-1000XM4', 'iPhone 12']", "predict": "['Sony WH-1000XM4', 'iPhone 12']"}
+{"label": "['Sony Experia Z5 compact', 'Sony']", "predict": "['product name: Sony Experia Z5 compact phonebrand name: Sony']"}
+{"label": "['Sony WH-1000XM4', 'Bose QuietComfort 35 II']", "predict": "['Sony WH-1000XM4', 'Bose QuietComfort 35 II']"}
+{"label": "['Apple Watch', 'iPhone case']", "predict": "['Apple Watch', 'iPhone case']"}
+{"label": "['Sony PlayStation 5', 'Samsung QLED TV']", "predict": "['Sony PlayStation 5', 'Samsung QLED TV']"}
+{"label": "['Apple', 'Samsung', 'Adidas']", "predict": "['Apple', 'Samsung', 'Adidas']"}
+{"label": "['Sony Xperia', 'Samsung Galaxy', 'iPhone']", "predict": "['Sony Xperia', 'Samsung Galaxy', 'iPhone']"}
+{"label": "['Sony A7R IV', 'Canon EF 70-200mm f/2.8L IS III USM']", "predict": "['Sony A7R IV mirrorless camera', 'Canon EF 70-200mm f/2.8L IS III USM lens']"}
+{"label": "['Nike', 'Adidas']", "predict": "['Nike', 'Adidas']"}
+{"label": "['Sony WH-1000XM4', 'Anker PowerCore']", "predict": "['Sony WH-1000XM4', 'Anker PowerCore']"}
+{"label": "['Nike running shoes', 'Air Zoom']", "predict": "['Nike running shoes', 'Air Zoom']"}
+{"label": "['Kindle', 'Fitbit']", "predict": "['Kindle', 'Fitbit']"}
+{"label": "['6.1-inch Super Retina XDR display', 'A14 Bionic chip', 'advanced dual-camera system', 'Night mode']", "predict": "['6.1-inch Super Retina XDR display', 'A14 Bionic chip', 'advanced dual-camera system with Night mode']"}
+{"label": "['Fire Stick', 'Echo Dot']", "predict": "['Fire Stick', 'Echo Dot']"}
+{"label": "['Kindle Paperwhite', 'Beats headphones']", "predict": "['Kindle Paperwhite', 'Beats headphones']"}
+{"label": "['Kindle Paperwhite', 'cover']", "predict": "['new Kindle Paperwhite', 'old version', 'cover']"}
+{"label": "['Sony', 'Bose']", "predict": "['Sony', 'Bose']"}
+{"label": "['Nike', 'Sony', 'Adidas']", "predict": "['Nike', 'Sony', 'Adidas']"}
+{"label": "['Adidas', 'Nike']", "predict": "['Adidas', 'Nike']"}
+{"label": "['red', 'blue', 'black', 'white']", "predict": "['Red', 'Blue', 'Green']"}
+{"label": "['tablet', 'laptop']", "predict": "['tablet', 'laptop']"}
+{"label": "['Brand: Columbia', 'Product Category: Hiking Boot']", "predict": "['Brand: Columbia', 'Product Category: Hiking Boots']"}
+{"label": "['Kindle Fire', 'Fire Stick']", "predict": "['Kindle Fire', 'Fire Stick']"}
+{"label": "['Dell XPS 13', 'HP Envy 15']", "predict": "['Dell XPS 13', 'HP Envy 15']"}
+{"label": "['wireless earbuds', 'fitness tracker']", "predict": "['wireless earbuds', 'fitness tracker']"}
+{"label": "['Nike Air Zoom Pegasus 37', 'Adidas Cloudfoam Ultimate']", "predict": "['Nike Air Zoom Pegasus 37', 'Adidas Cloudfoam Ultimate']"}
+{"label": "['Sony noise-cancelling headphones', 'Garmin Forerunner watch']", "predict": "['Sony noise-cancelling headphones', 'Garmin Forerunner watch']"}
+{"label": "['Samsung Galaxy S21']", "predict": "['Samsung Galaxy S21']"}
+{"label": "['Samsung', 'Apple', 'Corning']", "predict": "['Samsung', 'Apple', 'Corning']"}
+{"label": "['Sony WH-1000XM4', 'Bose QuietComfort 35 II']", "predict": "['Sony WH-1000XM4', 'Bose QuietComfort 35 II']"}
+{"label": "['Apple', 'Samsung', 'Sony']", "predict": "['Apple', 'Samsung', 'Sony']"}
+{"label": "['Nike Air Max', 'Jeans']", "predict": "['Samsung Galaxy S20', 'Apple iPhone 12']"}
+{"label": "['iPhone', 'Sony noise-canceling headphones']", "predict": "['iPhone', 'Sony noise-canceling headphones']"}
+{"label": "['noise-cancelling headphones', 'earbuds']", "predict": "['noise-cancelling headphones']"}
+{"label": "['Sony WH-1000XM4 Wireless Noise-Canceling Headphones']", "predict": "['Sony WH-1000XM4']"}
+{"label": "['Nike Free RN 2020']", "predict": "['Nike Free RN 2020 shoes']"}
+{"label": "['XYZ', 'ABC', 'DEF']", "predict": "['XYZ', 'ABC', 'DEF']"}
+{"label": "['Adidas', 'running shoes']", "predict": "['Brand: Adidas', 'Product Category: Running Shoes']"}
+{"label": "['Attributes: waterproof', 'touchscreen', 'heart rate monitor', 'Android compatibility', 'iOS compatibility']", "predict": "['Sleek', 'waterproof', 'touchscreen', 'heart rate monitor', 'compatible with Android and iOS devices.']"}
+{"label": "['Under Armour', 'crocs']", "predict": "['Under Armour', 'crocs']"}
+{"label": "['Sony WH-1000XM4 Wireless Headphones', 'Samsung Galaxy S21 5G']", "predict": "['Sony WH-1000XM4 Wireless Headphones', 'Samsung Galaxy S21 5G']"}
+{"label": "['Dell Inspiron', 'Samsung Galaxy Tab S7']", "predict": "['Dell Inspiron', 'Samsung Galaxy Tab S7']"}
+{"label": "['Sony WH-1000XM4', 'Bose QuietComfort 35 II']", "predict": "['Sony WH-1000XM4', 'Bose QuietComfort 35 II']"}
+{"label": "['large capacity', 'quick charging feature']", "predict": "['large capacity', 'quick charging', 'must-have']"}
+{"label": "['Kindle Fire HD', 'JBL Flip 4']", "predict": "['Kindle Fire HD', 'JBL Flip 4']"}
+{"label": "['Adidas']", "predict": "['Adidas']"}
+{"label": "['Italian leather', 'metal']", "predict": "['Italian leather','metal zippers']"}
+{"label": "['hiking boots', 'adventure gear']", "predict": "['good pair of hiking boots', 'adventure gear section']"}
+{"label": "['Kindle Oasis', 'Kindle']", "predict": "['Kindle Oasis']"}
+{"label": "['Sony WH-1000XM4 headphones', 'Samsung Galaxy Note20 Ultra phone']", "predict": "['Sony WH-1000XM4', 'Samsung Galaxy Note20 Ultra']"}
+{"label": "['Sony WH-1000XM4']", "predict": "['Sony WH-1000XM4']"}
+{"label": "['Samsung Galaxy S21']", "predict": "['Galaxy S21']"}
+{"label": "['coffee maker']", "predict": "['Yes', 'I can suggest the Breville BES870XL Smart Oven with a programmable timer and a capacity of 12 cups.']"}
+{"label": "['natural ingredients', 'tear-free formula']", "predict": "['baby shampoo', 'natural ingredients', 'tear-free formula']"}
+{"label": "['Samsung Galaxy S21', 'smartphone']", "predict": "['Samsung Galaxy S21', 'Smartphone']"}

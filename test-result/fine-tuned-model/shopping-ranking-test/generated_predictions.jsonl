@@ -1,0 +1,248 @@
+{"label": "4, 2, 1, 3\n\n", "predict": "[4, 1, 2, 3]"}
+{"label": "1. Shoe E\n2. Shoe C\n3. Shoe A\n4. Shoe D\n5. Shoe B\n\n", "predict": "1, 3, 5, 2, 4"}
+{"label": "1. Adidas Ultra Boost 21, 2. Brooks Ghost 14, 3. Nike Air Zoom Pegasus 38, 4. Saucony Ride 14, 5. New Balance Fresh Foam 1080v12\n\n", "predict": "['New Balance Fresh Foam 1080v12']"}
+{"label": "Dress C, Dress A, Dress D, Dress B\n\n", "predict": "Dress D, Dress A, Dress C, Dress B"}
+{"label": "[5, 1, 2, 4, 3]\n\n", "predict": "5, 1, 4, 2, 3"}
+{"label": ": 3 (Lenovo ThinkPad X1 Carbon), 1 (Dell XPS 13), 5 (ASUS ZenBook UX425), 2 (MacBook Pro), 4 (HP Spectre x360)", "predict": "[3, 1, 2, 5, 4]"}
+{"label": "2, 5, 3, 1, 4\n\n", "predict": "[2, 3, 1, 5, 4]"}
+{"label": "4, 1, 3, 2\n\n", "predict": "[1, 3, 2, 4]"}
+{"label": "1, 4, 3, 2, 5\n\n", "predict": "1, 4, 3, 5, 2"}
+{"label": "4, 1, 2, 5, 3", "predict": "4, 3, 1, 2, 5"}
+{"label": "2, 5, 3, 1, 4\n\n", "predict": "[5, 2, 3, 4, 1]"}
+{"label": ": 1, 3, 5, 4, 2\n\n", "predict": "[1, 3, 5, 4, 2]"}
+{"label": "[2, 3, 1]", "predict": "['1, 3, 2']"}
+{"label": "1, 2, 3, 4, 5\n\n", "predict": "1, 2, 3, 4, 5"}
+{"label": ": 1. Product A 2. Product C 3. Product B 4. Product D\n\n", "predict": "[1, 3, 4, 2]"}
+{"label": "2, 5, 1, 4, 3\n\n", "predict": "[5, 1, 3, 2, 4]"}
+{"label": "2, 1, 3\n\n", "predict": "1, 2, 3"}
+{"label": "1, 5, 3, 2, 4\n\n", "predict": "3, 5, 1, 4, 2"}
+{"label": "3, 1, 2, 4", "predict": "3, 1, 4, 2"}
+{"label": "1. Sony WH-1000XM4, 2. Bose QuietComfort 35 II, 3. Sennheiser Momentum 3 Wireless, 4. Apple AirPods Pro\n\n", "predict": "1, 2, 3, 4"}
+{"label": ": [5, 1, 4, 2, 3]\n\n", "predict": "1, 4, 2, 5, 3"}
+{"label": "1, 2, 4, 3\n\n", "predict": "1, 2, 4, 3"}
+{"label": "4, 1, 3, 5, 2\n\n", "predict": "[1, 3, 4, 5, 2]"}
+{"label": "1, 3, 4, 5, 2\n\n", "predict": "1, 3, 4, 2, 5"}
+{"label": "1. Mini Fridge with Freezer, 2. Compact Dishwasher, 3. Two-Slice Toaster, 4. Large Counter-Depth Refrigerator, 5. Oversized Microwave, 6. Full-Size Stove\n\n", "predict": "[4, 2, 5, 1, 3, 6]"}
+{"label": "1, 4, 3, 2, 5\n\n", "predict": "1, 2, 3, 4, 5"}
+{"label": "1) Lightweight Sleeping Bag, 2) Portable Solar Charger, 3) Rechargeable Hand Warmer, 4) Cast-Iron Skillet, 5) Heavy-Duty Tent with Built-In Lights\n\n", "predict": "1) Portable Solar Charger\n2) Heavy-Duty Tent with Built-In Lights\n3) Rechargeable Hand Warmer\n4) Cast-Iron Skillet\n5) Lightweight Sleeping Bag"}
+{"label": "1. \"These headphones are so comfortable, I forget I'm wearing them.\"\n3. \"I can wear these all day without any issues.\"\n4. \"They're okay, but I wouldn't want to use them for more than 30 minutes straight.\"\n2. \"After an hour, my ears start to hurt.\"\n5. \"The padding is too hard, and it causes discomfort after a while.\"\n\n", "predict": "1, 3, 4, 5, 2"}
+{"label": "3, 5, 2, 4, 1\n\n", "predict": "[5, 3, 2, 4, 1]"}
+{"label": "[2, 1, 3, 5, 4]\n\n", "predict": "[2, 5, 3, 4, 1]"}
+{"label": "3, 1, 4, 5, 2\n\n", "predict": "[3, 1, 5, 4, 2]"}
+{"label": "[4, 1, 3, 2, 5]", "predict": "4, 3, 1, 2, 5"}
+{"label": "1, 4, 2, 3\n\n", "predict": "1, 2, 4, 3"}
+{"label": "2, 1, 3, 5, 4\n\n", "predict": "2, 1, 3, 4, 5"}
+{"label": "[1, 3, 2]\n\n", "predict": "1, 3, 2"}
+{"label": "[4, 2, 1, 3, 5]\n\n", "predict": "[4, 2, 1, 3, 5]"}
+{"label": "Reviews for \"Wyze Cam v3 - 1080p HD Indoor Home Security Camera, 24/7 Cloud Storage, 3-Month Indefinite Recording, Motion Detection, Night Vision, and Easy Installation\":\n1. \"Great value for the price, excellent night vision.\"\n2. \"Superb image quality during both day and night.\"\n3. \"Installation was a breeze, even for a tech novice.\"\n4. \"Impressive motion detection sensitivity.\"\n5. \"Battery life could be better.\"\n6. \"Lacks some advanced features compared to competitors.\"\n7. \"Easy setup via smartphone app.\"\n\nOutput:\n1. High Image Quality\n2. Night Vision\n3. Easy Installation\nExplanation: These features were mentioned frequently in positive reviews and are crucial for a smart home security camera.", "predict": "1. Image Quality\n2. Night Vision\n3. Ease of Installation"}
+{"label": "1, 4, 2, 3\n\n", "predict": "1, 2, 4, 3"}
+{"label": "1. Laptop A, 2. Laptop B, 3. Laptop C\n\n", "predict": "Laptop A, Laptop B, Laptop C"}
+{"label": "3, 5, 2, 4, 1\n\n", "predict": "[3, 5, 4, 2, 1]"}
+{"label": "[1, 3, 5, 2, 4]\n\n", "predict": "1, 3, 5, 2, 4"}
+{"label": "3, 2, 4, 1\n\n", "predict": "[3, 1, 4, 2]"}
+{"label": "4, 2, 3, 1\n\n", "predict": "[2, 4, 3, 1]"}
+{"label": "1, 5, 4, 2, 3\n\n", "predict": "1, 4, 5, 2, 3"}
+{"label": "4, 3, 1, 2\n\n", "predict": "1, 4, 2, 3"}
+{"label": "1, 4, 3, 2, 5\n\n", "predict": "[4, 1, 3, 5, 2]"}
+{"label": "[3, 1, 2]\n\n", "predict": "[1, 3, 2]"}
+{"label": "1, 2, 3\n\n", "predict": "1, 2, 3"}
+{"label": "3, 5, 2, 4, 1\n\n", "predict": "[3, 5, 2, 4, 1]"}
+{"label": "1, 2, 3, 4, 5\n\n", "predict": "[3, 1, 2, 4, 5]"}
+{"label": "Blender A, Blender B\n\n", "predict": "Blender A, Blender B"}
+{"label": "2, 4, 5, 1, 3\n\n", "predict": "2, 4, 5, 1, 3"}
+{"label": "3, 1, 4, 5, 2\n\n", "predict": "[3, 1, 4, 2, 5]"}
+{"label": "1) Sleeping Bag - Lightweight and Waterproof, 2) Portable Stove - Quick Heating, 3) LED Lantern - Long-lasting Battery, 4) Camping Chair - Extra Comfortable, 5) Solar Panel Charger - Fast Charging\n\n", "predict": "[1, 2, 3, 4, 5]"}
+{"label": "4, 1, 2, 5, 3\n\n", "predict": "[4, 1, 5, 3, 2]"}
+{"label": "4, 3, 1, 5, 2\n\n", "predict": "1, 3, 2, 4, 5"}
+{"label": ": D, A, E, B, C\n\n", "predict": "4, 1, 5, 2, 3"}
+{"label": "[5, 1, 3, 2, 4]\n\n", "predict": "1, 5, 3, 2, 4"}
+{"label": "[2, 3, 1]\n\n", "predict": "2, 1, 3"}
+{"label": "1, 3, 2, 4\n\n", "predict": "[1, 3, 2, 4]"}
+{"label": "Criteria: Battery Life\nCandidate Products:\n1. Apple Watch Series 7 - 18 hours\n2. Fitbit Versa 3 - 6 days\n3. Samsung Galaxy Watch 4 - 2-3 days\n4. Garmin Venu Sq Music Edition - 6 days\n5. TicWatch Pro 3 - 2 days\nOutput: \n2. Fitbit Versa 3 - 6 days\n4. Garmin Venu Sq Music Edition - 6 days\n1. Apple Watch Series 7 - 18 hours\n5. TicWatch Pro 3 - 2 days\n3. Samsung Galaxy Watch 4 - 2-3 days\n\n", "predict": "[1]\n\n1. Samsung Galaxy Watch 4"}
+{"label": "[3, 1, 5, 4, 2]\n\n", "predict": "1, 3, 5, 4, 2"}
+{"label": "2, 4, 1, 5, 3\n\n", "predict": "1, 2, 4, 3, 5"}
+{"label": "3, 1, 2, 5, 4\n\n", "predict": "1, 2, 3, 5, 4"}
+{"label": "[1, 4, 3, 2, 5]", "predict": "1, 3, 2, 4, 5"}
+{"label": "1. Briggs & Riley Baseline Domestic Carry-On Expandable Spinner, 21\"\n2. Away The Carry-On, Polycarbonate\n3. Samsonite Omni PC Hardside Spinner, 20\"\n4. Travelpro Maxlite 5 Softside Expandable Spinner, 21\"\n5. Rockland Melbourne Hardside Expandable Spinner, 20\"\n\n", "predict": "[4, 2, 5, 3, 1]"}
+{"label": "1. Blender Y\n2. Blender X\n3. Blender Z\n\n", "predict": "1, 2, 3"}
+{"label": "[1, 5, 7]\n\n", "predict": "1, 5, 7"}
+{"label": "5, 1, 4, 2, 3", "predict": "5, 4, 2, 3, 1"}
+{"label": "1) Beyond Meat Beyond Burger, Plant-Based Meat, 4 Patties, 12 oz 2) Organic Extra Virgin Olive Oil, Cold Pressed 3) Kosher Certified Chicken Broth, Organic, Low Sodium\n\n", "predict": "1, 3, 2"}
+{"label": "1, 4, 2, 5, 3\n\n", "predict": "2, 4, 5, 1, 3"}
+{"label": "[1, 3, 2, 5, 4]", "predict": "1, 2, 3, 4, 5"}
+{"label": "2, 5, 3, 1, 4\n\n", "predict": "1, 2, 3, 5, 4"}
+{"label": "4, 3, 2, 5, 1\n\n", "predict": "1, 3, 2, 4, 5"}
+{"label": "3, 1, 5, 2, 4\n\n", "predict": "3, 1, 5, 4, 2"}
+{"label": "Blender C, Blender A, Blender B, Blender D\n\n", "predict": "3, 1, 2, 4"}
+{"label": "1. Apple iPhone 13 Pro Max, 2. Samsung Galaxy S21 Ultra, 3. Google Pixel 6 Pro, 4. OnePlus 9 Pro, 5. Huawei P40 Pro\n\n", "predict": "['Samsung Galaxy S21 Ultra', 'Google Pixel 6 Pro', 'Apple iPhone 13 Pro Max', 'OnePlus 9 Pro', 'Huawei P40 Pro']"}
+{"label": "3, 1, 2\n\n", "predict": "3, 1, 2"}
+{"label": "[1, 2, 5, 4, 3]\n\n", "predict": "1. Nike Women's Air Zoom Pegasus 38 Running Shoes\n2. Adidas Women's Cloudfoam Pure Running Shoe\n3. ASICS Women's Gel-Venture 8 Running Shoes\n4. Skechers Women's Go Walk 5-15483 Slip-On Sneaker\n5. Clarks Women's Leisa Upshot Sneaker"}
+{"label": "1, 2, 3, 4, 5\n\n", "predict": "1, 2, 4, 3, 5"}
+{"label": "1, 3, 4, 2, 5\n\n", "predict": "[3, 1, 4, 2, 5]"}
+{"label": "[4, 1, 5, 2, 3]  \n\n", "predict": "4, 1, 5, 2, 3"}
+{"label": "1. Lenovo ThinkPad\n2. MacBook Pro\n3. Dell XPS\n4. HP Spectre\n\n", "predict": "1. Lenovo ThinkPad\n2. MacBook Pro\n3. Dell XPS\n4. HP Spectre"}
+{"label": "Output the rankings as a comma-separated list: \n\nOutput: 2, 4, 3, 1, 6, 5, 7\n\n", "predict": "[1, 2, 3, 4, 6, 5, 7]"}
+{"label": "1, 2, 4, 3, 5\n\n", "predict": "1, 2, 3, 4, 5"}
+{"label": "1. Nike Air Zoom Running Shoes, Size 9, 3. New Balance Cushioned Running Shoes, Size 9, 4. ASICS Gel Walking Shoes, Size 8.5, 2. Adidas Casual Slip-Ons, Size 10\n\n", "predict": "3, 1, 4, 2"}
+{"label": "1, 2, 3, 5, 4\n\n", "predict": "1. Motor power\n2. Ease of cleaning\n3. Noise level\n4. Design aesthetics\n5. Durability"}
+{"label": "Blender A, Blender B, Blender C\n\n", "predict": "Blender A, Blender B, Blender C"}
+{"label": "Output: 1. Espresso Machine, 4. Coffee Beans Subscription, 2. Coffee Mug Set, 5. Coffee Table Book about Coffee, 3. Bluetooth Speaker\n\n", "predict": "\n1. Espresso Machine\n2. Coffee Mug Set\n3. Coffee Table Book about Coffee\n4. Coffee Beans Subscription\n5. Bluetooth Speaker"}
+{"label": "1. Fitbit Versa 3, 2. Garmin Forerunner 945, 3. Samsung Galaxy Watch4 Classic, 4. Apple Watch Series 7\n\n", "predict": "[1, 2, 3, 4]"}
+{"label": "1, 4, 3, 5, 2\n\n", "predict": "[1, 4, 2, 5, 3]"}
+{"label": "[5, 1, 3, 2, 4]\n\n", "predict": "[5, 1, 3, 2, 4]"}
+{"label": "2, 3, 1, 4, 5\n\n", "predict": "[1, 5, 3, 2, 4]"}
+{"label": "4, 2, 3, 1, 5\n\n", "predict": "[1, 4, 2, 3, 5]"}
+{"label": "1. Merrell Men's Moab 2 Vent Hiking Shoe \n2. Patagonia Down With It Hooded Jacket \n3. Oakley Holbrook Sunglasses \n4. Garmin Forerunner 235 GPS Running Watch \n5. Bose QuietComfort 35 Wireless Headphones II\n\n", "predict": "\n[1, 4, 3, 5, 2]"}
+{"label": "[4, 1, 5, 2, 3]\n\n", "predict": "[4, 1, 2, 3, 5]"}
+{"label": "1, 2, 3\n\n", "predict": "1, 2, 3"}
+{"label": "1. 12-cup coffee maker, 3. 8-cup coffee maker, 2. 4-cup coffee maker\n\n", "predict": "1, 3, 2"}
+{"label": "[3, 1, 2, 5, 4]\n\n", "predict": "[1, 2, 3]"}
+{"label": "1, 4, 5\n\n", "predict": "[1, 5, 4]"}
+{"label": "1, 5, 3, 2, 4\n\n", "predict": "[1, 2, 3, 4, 5]"}
+{"label": "1, 4, 2, 3\n\n", "predict": "1, 4, 2, 3"}
+{"label": "1. Model A, 2. Model C, 3. Model B\n\n", "predict": "1. ASUS ROG Zephyrus G14\n2. Dell XPS 13\n3. Apple MacBook Air"}
+{"label": "iPhone 12 Pro Max, Samsung Galaxy Note 20 Ultra, OnePlus 8T, Google Pixel 5\n\n", "predict": "1. Samsung Galaxy Note 20 Ultra\n2. iPhone 12 Pro Max\n3. Google Pixel 5\n4. OnePlus 8T"}
+{"label": "1, 2, 3, 4\n\n", "predict": "[1, 2, 3, 4]"}
+{"label": "3, 1, 2\n\n", "predict": "[3, 1, 2]"}
+{"label": "1, 2, 3, 4, 5\n\n", "predict": "[1, 2, 3, 4, 5]"}
+{"label": "2, 1, 4, 3, 5\n\n", "predict": "[2, 1, 3, 4, 5]"}
+{"label": "'Phone A, Phone B, Phone C, Phone D'\n\n", "predict": "1, 2, 3, 4"}
+{"label": "2, 3, 1, 0\n\n", "predict": "0, 2, 1, 3"}
+{"label": "3, 1, 4, 2\n\n", "predict": "[4, 3, 1, 2]"}
+{"label": "Samsung Galaxy S21 Ultra, iPhone 12, Xiaomi Mi 11, Samsung Galaxy A12\n\n", "predict": "Samsung Galaxy S21 Ultra, iPhone 12, Xiaomi Mi 11, Samsung Galaxy A12"}
+{"label": "1, 3, 2, 4, 5\n\n", "predict": "[Highest to Lowest]\n[5, 2, 3, 4, 1]"}
+{"label": "\"1. Suction Power\n2. Weight and Maneuverability\n3. Noise Level\n4. Battery Life (for cordless models)\n5. Accessories and Attachments\"\n\n", "predict": "[1, 2, 3, 4, 5]"}
+{"label": "2,1,3,4,5\n\n", "predict": "[2, 1, 5, 3, 4]"}
+{"label": "1, 3, 2, 4, 5\n\n", "predict": "1, 3, 2, 4, 5"}
+{"label": "3, 2, 5, 4, 1", "predict": "1. 4\n2. 3\n3. 2\n4. 1\n5. 5"}
+{"label": "[1, 3, 2, 4]\n\n", "predict": "[1, 3, 2, 4]"}
+{"label": "Rolex Submariner Watch, Apple MacBook Air M1, iPhone 13 Pro, Samsung Galaxy S21, Fitbit Charge 4\n\n", "predict": "['Rolex Submariner Watch', 'iPhone 13 Pro', 'Apple MacBook Air M1', 'Samsung Galaxy S21', 'Fitbit Charge 4']"}
+{"label": "iPhone 13 Pro Max, Samsung Galaxy S22 Ultra, Google Pixel 6 Pro, OnePlus 9RT\n\n", "predict": "iPhone 13 Pro Max, Samsung Galaxy S22 Ultra, Google Pixel 6 Pro, OnePlus 9RT"}
+{"label": "1, 3, 2, 4\n\n", "predict": "[Model P5, Model T4, Model X1, Model L9]"}
+{"label": "\"4, 2, 3, 1\"\n\n", "predict": "1. Refrigerator, 2. Blender, 3. Microwave, 4. Toaster"}
+{"label": "2, 1, 3\n\n", "predict": "1. Samsung Galaxy S21 Ultra 5G, 2. iPhone 13 Pro Max, 3. Google Pixel 6 Pro"}
+{"label": "4, 2, 1, 3\n\n", "predict": "4, 2, 3, 1"}
+{"label": "1, 2, 3, 4, 5\n\n", "predict": "1, 4, 2, 5, 3"}
+{"label": "[1, 2, 3, 5, 4]\n\n", "predict": "[1, 2, 3, 5, 4]"}
+{"label": "4, 2, 3, 1, 5\n\n", "predict": "[2, 3, 1, 4, 5]"}
+{"label": "\"3, 2, 4, 1\"\n\n", "predict": "3, 4, 1, 2"}
+{"label": "3, 1, 4, 5, 2\n\n", "predict": "3, 1, 4, 2, 5"}
+{"label": "Xiaomi Redmi Note 9, OnePlus 8, Samsung Galaxy S21, iPhone 12\n\n", "predict": "Xiaomi Redmi Note 9, OnePlus 8, iPhone 12, Samsung Galaxy S21"}
+{"label": "[1234, 1213, 5678, 9101, 1415]\n\n", "predict": "[1234, 4.3, 4.8, 1213, 9101, 5678]"}
+{"label": "1, 3, 2, 4\n\n", "predict": "1, 4, 3, 2"}
+{"label": "iPhone 13 Pro Max, Samsung Galaxy S22, Google Pixel 6, OnePlus 9\n\n", "predict": "iPhone 13 Pro Max, Samsung Galaxy S22, Google Pixel 6, OnePlus 9"}
+{"label": "1, 2, 3, 4\n\n", "predict": "[1, 3, 2, 4]"}
+{"label": "2, 3, 1\n\n", "predict": "2, 3, 1"}
+{"label": "3,1,4,2,5\n\n", "predict": "3, 1, 4, 2, 5"}
+{"label": "1 > 2 > 3 > 4\n\n", "predict": "1, 2, 3, 4"}
+{"label": ": '4, 3, 2, 1'\n\n", "predict": "[3, 4, 2, 1]"}
+{"label": "3, 1, 2, 0\n\n", "predict": "[3, 1, 2, 0]"}
+{"label": "[1, 4, 3, 5, 2]\n\n", "predict": "1, 3, 5, 2, 4"}
+{"label": "[1, 3, 4, 2, 5]\n\n", "predict": "[1, 4, 3, 2, 5]"}
+{"label": "2, 1, 5, 4, 3\n\n", "predict": "[2, 1, 5, 3, 4]"}
+{"label": "2, 3, 1, 4\n\n", "predict": "[1, 4, 3, 2]"}
+{"label": ": 4, 2, 3, 1\n\n", "predict": "1, 2, 3, 4"}
+{"label": "Xiaomi Redmi Note 9, Google Pixel 5, Samsung Galaxy S21, Apple iPhone 12\n\n", "predict": "1. Xiaomi Redmi Note 9, 2. Google Pixel 5, 3. Apple iPhone 12, 4. Samsung Galaxy S21"}
+{"label": "1, 4, 2, 3\n\n", "predict": "[1, 4, 2, 3]"}
+{"label": "1. Model A, 2. Model B, 3. Model C\n\n", "predict": "1, 3, 2"}
+{"label": "[1, 3, 2, 4, 5]\n\n", "predict": "[1, 3, 2, 4, 5]"}
+{"label": "1. iPhone 12 Pro Max, 2. Samsung Galaxy S21 Ultra, 3. Huawei P40 Pro\n\n", "predict": "1, 2, 3"}
+{"label": "4, 2, 1, 5, 3\n\n", "predict": "4, 2, 5, 1, 3"}
+{"label": "1, 0, 2, 3\n\n", "predict": "1, 0, 2, 3"}
+{"label": "['diamond bracelet', 'gold necklace', 'silver ring', 'plastic watch']\n\n", "predict": "1. diamond bracelet, 2. gold necklace, 3. silver ring, 4. plastic watch"}
+{"label": "2, 3, 4, 5, 1\n\n", "predict": "[4, 2, 1, 5, 3]"}
+{"label": "\"5, 3, 1, 4, 2.\"\n\n", "predict": "5, 3, 1, 4, 2"}
+{"label": "[4, 2, 1, 3, 5]\n\n", "predict": "[4, 2, 3, 1, 5]"}
+{"label": "4, 1, 2, 3\n\n", "predict": "4, 1, 2, 3"}
+{"label": "0, 3, 1, 2\n\n", "predict": "0, 3, 1, 2"}
+{"label": "5, 1, 4, 2, 3\n\n", "predict": "[4, 1, 3, 2, 5]"}
+{"label": ": Review 1, Review 2, Review 3\n\n", "predict": "Review 1, Review 2, Review 3"}
+{"label": "[2, 1, 4, 3]\n\n", "predict": "[2, 1, 4, 3]"}
+{"label": "1, 2, 3, 4\n\n", "predict": "2, 4, 1, 3"}
+{"label": "smartwatch, tablet, laptop, desktop computer\n\n", "predict": "smartwatch, tablet, laptop, desktop computer"}
+{"label": "0, 3, 2, 1\n\n", "predict": "0, 2, 1, 3"}
+{"label": "3, 1, 2, 4\n\n", "predict": "1, 3, 2, 4"}
+{"label": "1, 2, 3, 4\n\n", "predict": "1, 2, 3, 4"}
+{"label": "3, 1, 4, 2\n\n", "predict": "[1, 4, 2, 3]"}
+{"label": "4, 2, 1, 3\n\n", "predict": "1, 4, 3, 2"}
+{"label": "1, 2, 4, 3, 5\n\n", "predict": "3, 1, 4, 2, 5"}
+{"label": "1, 3, 4, 2, 5\n\n", "predict": "1, 3, 4, 2, 5"}
+{"label": "1, 2, 3, 4, 5\n\n", "predict": "1. Google Pixel 6\n2. Samsung Galaxy S21\n3. Xiaomi Mi 11\n4. iPhone 12\n5. Huawei P40"}
+{"label": "2, 3, 1\n\n", "predict": "1, 2, 3"}
+{"label": "4, 3, 2, 1\n\n", "predict": "[3, 4, 2, 1]"}
+{"label": "4, 1, 2, 3, 5\n\n", "predict": "1, 4, 3, 2, 5"}
+{"label": "1, 2, 3, 4, 5\n\n", "predict": "[1, 2, 3, 4, 5]"}
+{"label": "5, 2, 4, 3, 1\n\n", "predict": "5, 1, 2, 4, 3"}
+{"label": "['Google Pixel 5', 'Samsung Galaxy S21', 'Apple iPhone 12']\n\n", "predict": "Google Pixel 5, Apple iPhone 12, Samsung Galaxy S21"}
+{"label": "5, 2, 1, 3, 4\n\n", "predict": "2, 4, 1, 3, 5"}
+{"label": "Apple Watch Series 6, Fitbit Versa 3, Samsung Galaxy Watch Active, Garmin Forerunner 45\n\n", "predict": "Apple Watch Series 6, Fitbit Versa 3, Garmin Forerunner 45, Samsung Galaxy Watch Active"}
+{"label": "['Apple iPhone 13', 'Samsung Galaxy S21', 'Google Pixel 6', 'Xiaomi Redmi Note 10']\n\n", "predict": "['Apple iPhone 13', 'Samsung Galaxy S21', 'Google Pixel 6', 'Xiaomi Redmi Note 10']"}
+{"label": "\"1, 4, 2, 3, 5\"\n\n", "predict": "[1, 4, 2, 3, 5]"}
+{"label": "Lenovo IdeaPad 3, ASUS TUF Gaming Laptop, HP Pavilion 15, Apple MacBook Air, Dell XPS 13\n\n", "predict": "[5, 1, 3, 2, 4]"}
+{"label": "1, 4, 2, 3\n\n", "predict": "[4, 2, 1, 3]"}
+{"label": "2, 5, 1, 4, 3\n\n", "predict": "[2, 5, 1, 4, 3]"}
+{"label": "1, 4, 2, 3, 5\n\n", "predict": "[1, 4, 2, 5, 3]"}
+{"label": "3, 1, 2, 4\n\n", "predict": "[1, 3, 4, 2]"}
+{"label": "generic kitchen towels, cotton T-shirt, Nike running shoes, iPhone 12\n\n", "predict": "[cotton T-shirt, generic kitchen towels, Nike running shoes, iPhone 12]"}
+{"label": "iPhone 12, Samsung Galaxy S21, Google Pixel 5, Huawei P40\n\n", "predict": "[1. iPhone 12, 2. Samsung Galaxy S21, 3. Google Pixel 5, 4. Huawei P40]"}
+{"label": "2, 1, 3, 4\n\n", "predict": "2, 1, 3, 4"}
+{"label": "0, 1, 3, 2\n\n", "predict": "[0, 1, 2, 3]"}
+{"label": "1, 2, 3\n\n", "predict": "[2, 1, 3]"}
+{"label": "1, 3, 2, 4\n\n", "predict": "[1, 3, 2, 4]"}
+{"label": "3 > 1 > 2 > 4\n\n", "predict": "[Apple Watch Series 7, Samsung Galaxy Watch 4, Fitbit Versa 3, Moto 360]"}
+{"label": "Laptop C, Laptop A, Laptop B, Laptop D\n\n", "predict": "Laptop C, Laptop A, Laptop B, Laptop D"}
+{"label": "4, 1, 2, 3, 5\n\n", "predict": "[4, 1, 2, 3, 5]"}
+{"label": ": [1, 3, 2, 5, 4]\n\n", "predict": "1, 3, 4, 2, 5"}
+{"label": "5, 2, 1, 4, 3\n\n", "predict": "1, 2, 5, 4, 3"}
+{"label": "\"Product A, Product C, Product B, Product D\"\n\n", "predict": "Product A, Product C, Product B, Product D"}
+{"label": "1, 2, 0\n\n", "predict": "1. ASICS Gel-Kayano\n0. Nike Air Zoom Pegasus\n2. Adidas Ultraboost"}
+{"label": "2, 1, 0, 3\n\n", "predict": "[2, 1, 0, 3]"}
+{"label": "[1, 2, 3]\n\n", "predict": "1, 2, 3"}
+{"label": "\"3, 1, 4, 2, 5\"\n\n", "predict": "1, 3, 4, 2, 5"}
+{"label": "1, 3, 2, 4\n\n", "predict": "[1, 2, 3, 4]"}
+{"label": "iPhone 12, Samsung Galaxy S21, Google Pixel 5, OnePlus 8T\n\n", "predict": "iPhone 12, Samsung Galaxy S21, Google Pixel 5, OnePlus 8T"}
+{"label": "4, 1, 2, 3, 5\n\n", "predict": "1, 4, 2, 5, 3"}
+{"label": "1, 4, 2, 3\n\n", "predict": "2, 4, 1, 3"}
+{"label": "4, 5, 3, 2, 1\n\n", "predict": "[4, 5, 3, 2, 1]"}
+{"label": "3, 1, 2, 0\n\n", "predict": "3, 1, 0, 2"}
+{"label": "\"1, 2, 4, 3\"\n\n", "predict": "[4, 1, 2, 3]"}
+{"label": "Phone B, Phone A, Phone C, Phone D\n\n", "predict": "Phone A, Phone B, Phone C, Phone D"}
+{"label": "apple, car, diamond ring, gold bar\n\n", "predict": "1. Apple, 2. Gold bar, 3. Car, 4. Diamond ring"}
+{"label": "2. Tailored Suit, 4. Business Dress, 3. Casual Shirt, 1. Denim Jeans\n\n", "predict": "1. 2\n2. 4\n3. 3\n4. 1"}
+{"label": "2, 1, 3\n\n", "predict": "1, 2, 3"}
+{"label": "4, 1, 2, 3\n\n", "predict": "1, 4, 2, 3"}
+{"label": "1. Samsung Galaxy Note 20 Ultra, 2. iPhone 12 Pro Max, 3. Google Pixel 5\n\n", "predict": "1, 2, 3"}
+{"label": "3, 2, 1\n\n", "predict": "1, 3, 2"}
+{"label": "1, 2, 3, 4\n\n", "predict": "1, 2, 3, 4"}
+{"label": "1. iPhone 12 Pro Max\n2. Samsung Galaxy S21 Ultra\n3. Google Pixel 6 Pro\n4. OnePlus 9\n\n", "predict": "[1, 3, 2]"}
+{"label": "1, 4, 3, 2\n\n", "predict": "[1, 4, 3, 2]"}
+{"label": "3, 1, 2\n\n", "predict": "1, 3, 2"}
+{"label": "1, 3, 2, 4\n\n", "predict": "1, 4, 3, 2"}
+{"label": "Bose SoundLink Revolve+ > JBL Flip 4 Portable Speaker > Anker Soundcore Bluetooth Speaker\n", "predict": "['Bose SoundLink Revolve+', 'JBL Flip 4 Portable Speaker', 'Anker Soundcore Bluetooth Speaker']"}
+{"label": ": 1, 2, 4, 3\n\n", "predict": "1, 2, 3, 4"}
+{"label": "1-Apple Watch Series 6, 2-Samsung Galaxy Watch Active 2, 3-Fitbit Versa 3, 4-Garmin Vivoactive 4, 5-Amazfit Bip U\n\n", "predict": "1. Apple Watch Series 6 - 4.7/5 rating\n2. Samsung Galaxy Watch Active 2 - 4.6/5 rating\n3. Fitbit Versa 3 - 4.5/5 rating\n4. Garmin Vivoactive 4 - 4.4/5 rating\n5. Amazfit Bip U - 4.3/5 rating"}
+{"label": "1, 2, 4, 3, 5\n\n", "predict": "[2, 1, 4, 3, 5]"}
+{"label": "5, 1, 3, 2, 4\n\n", "predict": "[5, 3, 1, 2, 4]"}
+{"label": "1 > 3 > 2 > 4\n\n", "predict": "1, 3, 2, 4"}
+{"label": "[4, 2, 3, 1, 5]\n\n", "predict": "4, 2, 1, 3, 5"}
+{"label": "3, 2, 5, 4, 1\n\n", "predict": "[3, 2, 1, 4, 5]"}
+{"label": "4, 2, 1, 3\n\n", "predict": "2, 1, 4, 3"}
+{"label": "[Samsung Galaxy S21 Ultra, iPhone 12 Pro Max, Google Pixel 6, Motorola Moto G Power]\n\n", "predict": "1, 3, 2"}
+{"label": "1, 0, 3, 2\n\n", "predict": "[0, 3, 1, 2]"}
+{"label": "3, 1, 5, 2, 4\n\n", "predict": "5, 3, 1, 2, 4"}
+{"label": "1, 2, 3, 4\n\n", "predict": "[1, 2, 3, 4]"}
+{"label": "1, 3, 5, 2, 4\n\n", "predict": "1, 3, 2, 5, 4"}
+{"label": "0 > 3 > 2 > 1\n\n", "predict": "0, 3, 2, 1"}
+{"label": "Samsung Galaxy S21, iPhone 12, Google Pixel 5\n\n", "predict": "1. Google Pixel 5, 2. Samsung Galaxy S21, 3. iPhone 12"}
+{"label": "\"2, 1, 4, 3\"\n\n", "predict": "[2, 4, 1, 3]"}
+{"label": "\"3, 1, 5, 2, 4\"\n\n", "predict": "[1, 3, 2, 5, 4]"}
+{"label": "Adidas Ultraboost, Asics Gel-Kayano 27, Nike Air Zoom Pegasus, New Balance 860v10\n\n", "predict": "2, 1, 0, 3"}
+{"label": "2, 3, 1\n\n", "predict": "1, 3, 2"}
+{"label": "3, 5, 1, 2, 4", "predict": "2, 4, 1, 5, 3"}
+{"label": "\"4, 2, 1, 3\"\n\n", "predict": "4, 1, 2, 3"}
+{"label": "4,2,0,1,3\n\n", "predict": "[0, 4, 2, 1, 3]"}
+{"label": "4, 2, 3, 1\n\n", "predict": "1. Huawei P40\n2. Samsung Galaxy S21\n3. Google Pixel 6\n4. iPhone 12"}
+{"label": "1, 3, 2, 4, 5\n\n", "predict": "[1, 3, 2, 4, 5]"}
+{"label": "[2, 5, 1, 4, 3]\n\n", "predict": "2, 5, 1"}
+{"label": "1. Diamond Necklace, 3. Smart TV, 4. Pair of Running Shoes, 2. Cotton T-Shirt\n\n", "predict": "1, 3, 4, 2"}
+{"label": "4, 2, 3, 1\n\n", "predict": "4, 1, 3, 2"}

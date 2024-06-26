@@ -1,0 +1,18 @@
+{
+  "post-pre-train-data": {
+    "file_name": "post-pre-train-data.json",
+    "columns": {
+      "prompt": "text"
+    }
+  },
+  "SFT-shopping-data": {
+    "file_name": "SFT-shopping-data.json",
+    "columns": {
+      "prompt": "instruction",
+      "response": "output",
+      "query": "input",
+      "system": "system",
+      "history": "history"
+    }
+  }
+}

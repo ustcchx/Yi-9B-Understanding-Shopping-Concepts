@@ -1,0 +1,1 @@
+https://huggingface.co/datasets/xiyuez/red-dot-design-award-product-description

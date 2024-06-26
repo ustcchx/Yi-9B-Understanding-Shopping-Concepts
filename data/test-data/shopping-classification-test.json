@@ -1,0 +1,466 @@
+[
+    {
+        "task_type": "Classification",
+        "instruction": "Review: The vacuum cleaner works perfectly on hardwood floors, but it struggles to pick up pet hair on carpets. It's lightweight and easy to maneuver, but the cord is a bit short. Battery life is impressive, lasting for 45 minutes.\nAspect: Performance on carpets\nAnswer: ",
+        "output": "Average\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product description as either 'Positive', 'Negative', or 'Neutral'. \nProduct Description: \"This coffee maker is easy to use and produces a rich, flavorful brew every morning, making my day better.\"\nAnswer: ",
+        "output": "Positive",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Review: \"I recently purchased the 'Philips Sonicare ProtectiveClean 6100 Electric Toothbrush' and my teeth have never felt cleaner! The pressure sensor prevents me from brushing too hard, and the 3 brushing modes cater to my various oral care needs.\" Sentiment: Positive or Negative?\nOutput:",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product description as either 'positive' or 'negative': \"Despite its sleek design, the smartphone's battery life is disappointingly short.\"\nOutput: ",
+        "output": "negative",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product review as positive, negative, or neutral. \"The laptop I bought has amazing battery life, but the keyboard feels a bit cheaply made.\"\nOutput: ",
+        "output": "mixed",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Classification",
+        "instruction": "Classify the following customer review as either Positive, Neutral, or Negative.\nReview: \"The shoes are incredibly comfortable and stylish. I've received many compliments on them. However, the color fades a bit too quickly.\"\nAnswer: ",
+        "output": ": Positive",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Classification",
+        "instruction": "Classify the following product review as Positive, Neutral, or Negative. \"I've been using this blender for a few weeks now, and it has exceeded my expectations. The blending is seamless, and cleanup is a breeze thanks to the dishwasher-safe parts.\"",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Classification",
+        "instruction": "Review: \"The Samsung Galaxy S21 smartphone has exceeded my expectations. The camera quality is exceptional, battery life is impressive, and the design is sleek and modern. However, I wish it had a microSD slot for expandable storage.\" Would you recommend this product to a friend?\nAnswer: ",
+        "output": "Yes\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the sentiment expressed in this product review as positive, neutral, or negative. \nReview: The sound quality of these headphones is exceptional, with deep bass and clear highs. The comfort level could be improved, though, as they tend to cause discomfort after extended wear.\nOutput:",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Classification",
+        "instruction": "Classify the sentiment of the following customer review regarding a smartwatch: \"The battery life on this smartwatch is impressive, lasting me almost a week on a single charge. However, the app compatibility is quite limited and frustrating.\"\nOutput: ",
+        "output": "Mixed\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Review: This blender exceeded my expectations. It's powerful, easy to clean, and blends smoothly even ice cubes. I love the different speed settings and the sleek design on my kitchen counter. However, the noise level could be lower. Overall, a great buy!\nQuestion: How would you rate the overall satisfaction with the blender on a scale of 1 to 5, with 5 being very satisfied?\nOutput: \n",
+        "output": ": 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Classification",
+        "instruction": "Classify the sentiment of the following customer review as Positive, Neutral, or Negative:\n\"The new vacuum cleaner I purchased works like a charm. It's lightweight, easy to maneuver, and has great suction power. Definitely worth the investment!\"",
+        "output": "Positive",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Classification",
+        "instruction": "Classify the following product review as positive or negative. The product is a blender. \nReview: This blender exceeded my expectations. It blends smoothly, even ice cubes, and the cleanup is a breeze. The design is sleek and fits perfectly on my countertop.",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "This is a review for a blender: \"I've been using this blender for smoothies every morning and it works like a charm. The blades are powerful and blend everything smoothly. However, the noise level is quite high.\" Would you recommend this blender to a friend who prioritizes quiet operation?\nOutput:",
+        "output": "No",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product review into \"Positive\", \"Negative\" or \"Neutral\". ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Task: Classify the following product description into one of the five main product categories - Electronics, Home & Kitchen, Clothing, Beauty, or Sports.\nDescription: This sleek and portable blender features powerful blending capabilities and a variety of attachments for making smoothies, soups, and shakes.\n\nAnswer: ",
+        "output": "Electronics",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product description into one of the categories: 'Electronics', 'Clothing', 'Home & Kitchen', or 'Toys & Games'. The product description is: \"Soft cotton material, perfect for daily wear, available in various sizes and colors for men and women.\"\nOutput: ",
+        "output": "Clothing\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Review: This blender is amazing! It purees smoothly and is easy to clean. The blades are very sharp and durable. However, the base can be a bit wobbly on uneven surfaces. Overall, a great buy.\nQuestion: Would you recommend this blender to a friend?\nAnswer: ",
+        "output": "Yes\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Given a customer review for a smartphone, analyze the sentiment expressed in the review. The review reads: \"I recently purchased the XYZ\u624b\u673a and I'm thoroughly impressed with its camera quality, battery life, and sleek design. However, the software occasionally lags, which is a bit disappointing.\"\nOutput: ",
+        "output": "Sentiment: Mixed (Positive for camera, battery, design; Negative for software lag)",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Classification",
+        "instruction": "Classify the sentiment expressed in the following product review as Positive, Neutral, or Negative.\nReview: \"The coffee maker is easy to use and clean, but it leaks occasionally, which is frustrating.\"\nOutput: ",
+        "output": "Neutral",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "You are presented with a customer review for a smartwatch. The review reads: \"The battery life on this watch is impressive, lasting a full week on a single charge. However, I've experienced occasional connectivity issues with my phone.\" Your task is to classify the review into two aspects: battery life and connectivity. Which aspect does the review primarily focus on?\nAnswer: ",
+        "output": "Battery Life",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product title into its respective category. Output one of the following categories: 'Electronics', 'Clothing', 'Home & Kitchen', 'Toys & Games', 'Beauty'\nTitle: Maybelline New York SuperStay 24H Foundation Makeup, Classic Ivory, 1 Fluid Ounce\nAnswer: ",
+        "output": "Beauty\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "You are a fashion expert and have been asked to categorize a clothing item based on its description. Here's a product description: \"This outfit features a lightweight, breathable linen fabric with a classic button-down design, perfect for warm summer days.\"\n\nOutput: \nCategory: ",
+        "output": "Casual Summer Shirt",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Classification",
+        "instruction": "Review: \"I've been using this blender for a month now and it's amazing. The blending power is top-notch and cleaning is a breeze. Highly recommended!\"\nProduct: Blender\nOutput: ",
+        "output": "Positive",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product review as either Positive, Neutral, or Negative. Review: \"The delivery was prompt, but the coffee maker started leaking after a week of use.\"\nOutput:",
+        "output": "Negative\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product review into either Positive or Negative sentiment. \nThe laptop bag is well-made and has plenty of compartments for my accessories, but the color appears slightly different from the picture online. It's still a great buy considering its functionality.\nOutput: ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Review: \"I recently purchased the 'Garden Delight Tomato Seeds' and was pleasantly surprised by the germination rate. Almost all the seeds sprouted within a week, and the plants are now thriving.\" Is the review positive or negative?\nOutput: ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Review: \"The 'Advanced Fitness Tracker' exceeded my expectations. Its heart rate monitoring is highly accurate, and the battery lasts for days.\" Would you recommend this product?\nOutput: ",
+        "output": "Yes",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "A customer is searching for a new pair of running shoes and mentions they prefer lightweight and breathable materials. They also want shoes with good arch support. Given this context, which of the following shoe descriptions would be the most appealing to the customer?\n\n1. \"Adidas UltraBoost: Lightweight, moisture-wicking, and designed for long-distance runs.\"\n2. \"Nike Air Max 270: Classic style, foam cushioning, but heavier than other options.\"\n3. \"Brooks Ghost 14: Balanced, breathable, suitable for neutral runners.\"\n4. \"New Balance Fresh Foam 1080: Heavier, excellent arch support, but less breathable.\"\n\nAnswer:",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Review: \"I recently purchased the 'Samsung Galaxy S21' and I'm blown away by its performance. The camera quality is outstanding, battery life lasts all day, and the design is sleek and modern. I highly recommend this phone to anyone looking for a top-notch device.\" Sentiment: Positive or Negative?\nOutput: ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Review: This blender is amazing! It purees everything so smoothly and quickly. I've made smoothies, soups, and even nut butter with it. The blades are super sharp and the container is durable. The only downside is that it's a bit loud, but it's worth it for the performance. Would highly recommend!\nQuestion: How would you rate this blender on a scale of 1 to 5 stars, with 5 being the highest?\nOutput: \n",
+        "output": ": 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product title into one of the categories: clothing, electronics, home & kitchen, beauty, or books.\nProduct Title: Maybelline New York SuperStay Matte Ink Liquid Lipstick, Pioneer, 0.18 fl. oz.\nOutput: ",
+        "output": "beauty\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Review: I recently purchased the 'Sony WH-1000XM4 Wireless Noise Cancelling Headphones' and I am thoroughly impressed by their sound quality. The noise cancellation feature is top-notch, allowing me to immerse myself in music without any distractions. The battery life is outstanding and the comfort during long listening sessions is unparalleled. However, the touch controls could be more responsive. Overall, a fantastic product!\nQuestion: Would you recommend this product to a friend?\nOptions: a) Yes b) No c) Maybe\nAnswer: ",
+        "output": "a) Yes\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product category into 'Electronics', 'Clothing', or 'Home & Kitchen': 'Blender for smoothies and juices'\nOutput:",
+        "output": "Electronics",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Classification",
+        "instruction": "Classify the following product review as positive or negative. \"I am thoroughly disappointed with the camera quality. The pictures come out blurry even in good lighting conditions.\"",
+        "output": "Negative\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Classification",
+        "instruction": "Is the following review positive or negative for the product 'Bose QuietComfort 35 Wireless Headphones II - Black'?\nReview: \"These headphones provide excellent noise cancellation and sound quality. I can enjoy my music without any interruptions.\"\nOutput: ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Determine if the following product review sentiment is positive or negative. \nReview: The sound quality of these headphones is outstanding, but the comfort level could be improved. They tend to slip off my ears after prolonged use.\nOutput:",
+        "output": "Mixed\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Review: The Samsung Galaxy S21 phone delivers exceptional performance, with a sleek design and outstanding camera features. I've been using it for months and haven't encountered any significant issues. It's definitely worth the investment for tech enthusiasts. Sentiment: Positive or Negative?\nOutput: ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the product 'Keurig K-Elite Single Serve Coffee Maker, With Strong Brew and Iced Coffee Capability, Includes 46 oz Reservoir, Programmable, Brushed Silver' into the following categories: 1) Home Appliance 2) Electronic Device 3) Kitchen Utensil 4) Office Equipment\nOutput: ",
+        "output": "2) Electronic Device, 3) Kitchen Utensil",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following review as positive, negative, or neutral. \"The camera on this smartphone takes stunning photos during the day but struggles in low light conditions.\"\nOutput: ",
+        "output": "positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Classification",
+        "instruction": "Classify the following product review as Positive, Neutral, or Negative.\n\"The 'Bose QuietComfort 35 II Wireless Bluetooth Headphones' are a game changer. The noise cancellation is top-notch, and the battery life lasts forever. I can't imagine going back to regular headphones now.\"\nOutput:",
+        "output": "Positive",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product category into either 'Electronics' or 'Clothing': Smartwatch\nOutput:",
+        "output": "Electronics\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product review into 'Positive', 'Negative', or 'Neutral': \"The shoes are comfortable and stylish, but they run a size smaller than usual.\"\nOutput: ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Review: \"I recently purchased the 'Gourmet Coffee Beans' and I must say, the aroma is divine. The flavor profile is rich and smooth, making my morning coffee ritual a delight. I highly recommend these beans for coffee enthusiasts.\" Determine the sentiment of this review.\nOutput: ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product review as either 'Positive', 'Negative', or 'Neutral':  \n\"The vacuum cleaner works incredibly well on pet hair, but it's quite noisy.\"\nOutput: ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "A customer is looking for a new laptop for gaming, with specific requirements such as high graphics performance, a large display, and fast processing speed. They have read some product reviews and found two laptops listed below. Based on the information provided, determine which laptop would be the better choice for the customer.\n\nLaptop 1: ASUS ROG Zephyrus G14 - 14-inch Full HD IPS display, NVIDIA GeForce RTX 2060 Max-Q, AMD Ryzen 9 4900HS, 16GB RAM, 1TB SSD\nLaptop 2: Dell G5 15 SE - 15.6-inch Full HD IPS display, NVIDIA GeForce GTX 1660 Ti, Intel Core i7-10750H, 16GB RAM, 512GB SSD\n\nWhich laptop would you recommend?\n\nOutput: ",
+        "output": "Laptop 1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Review: This blender is amazing! It purees fruits and vegetables in seconds, making smoothies and soups a breeze. The powerful motor handles even tough ingredients with ease, and the design is sleek and modern. I love the various speed settings and the easy-to-clean jars. Definitely worth the investment for health-conscious individuals.\nQuestion: Would you recommend this blender to a friend?\nOptions: 0. No 1. Maybe 2. Yes\nAnswer: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the following product review as either positive, negative, or neutral. \n\"Absolutely love this slow cooker! The 'Crock-Pot 6-Quart Cook & Carry Slow Cooker' has made meal prep so much easier. The locking lid is a genius feature for transporting food without spills.\"\nOutput: ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Classification",
+        "instruction": "Classify the product category of the following product description: \"The Keurig K-Elite Coffee Maker brews a rich, smooth cup of coffee in under a minute using K-Cup pods.\"\nOutput: ",
+        "output": "Coffee Maker\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Review: \"I recently purchased the 'Soothing Aloe Vera Gel' and it has been a game-changer for my dry skin. The texture is lightweight and absorbs quickly, leaving my skin feeling moisturized and refreshed throughout the day. I love the natural ingredients and the fact that it doesn't leave a sticky residue. Highly recommended!\" Sentiment: Positive or Negative?\nOutput: ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "You are an AI shopping assistant tasked with categorizing products based on their features. Analyze the following product description and determine whether it belongs to the category of 'Electronics', 'Clothing', or 'Home & Kitchen':\n\nProduct Description: This sleek and compact device features a touch screen interface and wireless connectivity, designed to seamlessly integrate into your daily routine for managing tasks and staying connected.\n\nAnswer: ",
+        "output": "Electronics",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "The customer left the following review for a blender: \"This blender is amazing! It can blend anything from ice to nuts with ease. The design is sleek and modern, and it's so easy to clean.\" Would you classify this review as positive or negative?\nOutput: ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Classification",
+        "instruction": "Classify the product category of 'Keurig K-Elite Single Serve Coffee Maker'. Answer:",
+        "output": "Coffee Maker",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Review: \"The vacuum cleaner exceeded my expectations. It's powerful, easy to maneuver, and has a long cord.\" Sentiment: Positive/Negative?\nAnswer: ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Classify the sentiment of the following customer review regarding the 'Wireless Bluetooth Headphones' as either Positive, Neutral, or Negative.\nReview: \"These headphones have incredible sound quality and the battery life lasts all day. I love the sleek design too.\"\nAnswer: ",
+        "output": "Positive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "\"Classify the following product descriptions into two categories: 'Electronics' and 'Clothing'.\"\nDescriptions:\n1. \"Water-resistant outer shell with a warm, insulated interior.\"\n2. \"High-definition display with a sleek, aluminum design.\"\n3. \"Soft, breathable fabric with a comfortable fit.\"\n4. \"Long battery life and immersive surround sound.\"\nOutput: ",
+        "output": "\"Electronics: 2, 4\nClothing: 1, 3\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Given the following product description, categorize the product as 'Home Decor', 'Clothing', 'Electronics', or 'Sports Equipment':\nProduct: A stylish and comfortable pair of running shoes with advanced cushioning technology.\nAnswer: ",
+        "output": "Sports Equipment\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "classification",
+        "instruction": "Categorize the following item into the appropriate section of an online store: 'Neutrogena Hydro Boost Water Gel Moisturizer'.",
+        "output": "Skincare\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    }
+]

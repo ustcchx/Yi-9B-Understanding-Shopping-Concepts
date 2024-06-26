@@ -1,0 +1,1930 @@
+[
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given the customer's previous search history: \"Samsung Galaxy S21 phone case\", \"Samsung accessories\", \"Samsung wireless charger\". Find three related items the customer might be interested in purchasing next. \nCandidate Item List: \n1. Samsung Galaxy Buds Pro\n2. Apple iPhone 12 Pro Max\n3. Samsung Galaxy Tab S7 Plus\n4. Samsung Fast Charge Wireless Charging Stand\n5. Spigen Tough Armor Pro Case for Samsung Galaxy S21\nOutput: ",
+        "output": "1, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given the following customer requirement for a blender: \"I need a blender that can handle frozen fruits and make smoothies without getting stuck.\" Please find all blenders in the candidate list that meet this requirement.\nCandidate Blenders:\n1. Blender A - 1000W, suitable for blending ice and frozen fruits\n2. Blender B - 500W, for soft ingredients only\n3. Blender C - 700W, designed for smoothies and icy drinks\n4. Blender D - 600W, basic model for everyday blending\n5. Blender E - 1200W, heavy-duty, capable of crushing ice and frozen ingredients\nAnswer: ",
+        "output": "Blender A, Blender C, Blender E\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given the following product category 'Home & Kitchen', find all products that have 'Organic' in their title. Here are some candidate products: ['Organic Cotton Bath Towels', 'Eco-Friendly Bamboo Utensils', 'Organic Cotton Bed Sheets', 'Wooden Cutting Board', 'Reusable Beeswax Wraps', 'Organic Hand Soap', 'Glass Food Storage Containers']. \nOutput: ",
+        "output": "['Organic Cotton Bath Towels', 'Organic Cotton Bed Sheets', 'Organic Hand Soap']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is looking for a(n) blender that is suitable for making smoothies and has a high power rating. Given the following blenders, please select the ones that meet the requirements: Blender 1 (500W, Smoothie function), Blender 2 (1000W, Ice crushing), Blender 3 (700W, No specific function), Blender 4 (1200W, Smoothie & Ice).\nOutput:",
+        "output": "Blender 1, Blender 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Requirement: Find products that have 'waterproof' as an attribute and are suitable for outdoor activities. Candidate Items: \n1) Waterproof Hiking Boots\n2) Lightweight Running Shoes\n3) Water-Resistant Jacket\n4) Solar-Powered Watch\n5) Quick-Dry Towel\n6) Beach Umbrella\n7) Waterproof Bluetooth Speaker\nOutput: ",
+        "output": "[Waterproof Hiking Boots, Water-Resistant Jacket, Solar-Powered Watch, Quick-Dry Towel, Waterproof Bluetooth Speaker]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given the customer's requirement for a dress for a summer wedding, please retrieve all dresses from the following list that would be suitable: \n1. Long sleeve velvet dress\n2. Short floral cotton dress\n3. Off-shoulder chiffon dress\n4. Heavy wool sweater dress\n5. Halter neck linen dress\nOutput: ",
+        "output": "Short floral cotton dress, Off-shoulder chiffon dress, Halter neck linen dress\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Find all products that match the category 'Home & Kitchen' and have 'Bedding' as a subcategory.\nCandidate Items:\n1. Product Name: 'Luxury Egyptian Cotton Sheets'\n   Category: Home & Kitchen\n   Subcategory: Bedding\n2. Product Name: 'Leather Recliner Sofa'\n   Category: Home & Kitchen\n   Subcategory: Furniture\n3. Product Name: 'Microfiber Duvet Cover Set'\n   Category: Home & Kitchen\n   Subcategory: Bedding\n4. Product Name: 'Stainless Steel Cookware Set'\n   Category: Home & Kitchen\n   Subcategory: Cookware\n5. Product Name: 'Memory Foam Mattress Topper'\n   Category: Home & Kitchen\n   Subcategory: Bedding\nOutput:\n",
+        "output": ": Luxury Egyptian Cotton Sheets, Microfiber Duvet Cover Set, Memory Foam Mattress Topper\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given a customer inquiry about 'best-selling laptops under $500', please retrieve two suitable options from the following list:\n1. Acer Aspire 5 Slim Laptop, 15.6 inches Full HD IPS Display, AMD Ryzen 3 3200U, Vega 3 Graphics, 4GB DDR4, 128GB SSD, Windows 10 in S Mode, A515-54-31PK\n2. HP Pavilion x360 Convertible 2-in-1 Laptop, 14\", FHD IPS Touchscreen, Intel Core i5-1135G7, 8 GB RAM, 512 GB SSD, Windows 11 Home, Natural Silver\n3. Lenovo IdeaPad 3 Laptop, 14\" FHD, AMD Ryzen 5 5500U Processor, 8GB DDR4 RAM, 256GB SSD, AMD Radeon Graphics, Windows 10 Home, 82JN002JUS\n4. ASUS Chromebook Flip C434 2-in-1 Laptop, 14\" FHD Touchscreen, Intel Core m3-8100Y, 4GB LPDDR3, 64GB Storage, Chrome OS, C434TA-DSM3",
+        "output": "1, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task: Find all products that have a feature indicating they are eco-friendly.\nCandidate Products:\n1. Reusable Water Bottle - BPA-free, made from stainless steel\n2. Bamboo Toothbrush - biodegradable handle, sustainable material\n3. Solar-Powered Charger - USB port, harnesses sunlight\n4. Organic Cotton T-Shirt - GOTS certified, non-toxic dyes\n5. Electric Car - zero emissions, powered by clean energy\n6. Eco-Friendly Laundry Detergent - plant-based formula, minimal waste packaging\nAnswer: \n",
+        "output": "1. Reusable Water Bottle, 2. Bamboo Toothbrush, 3. Solar-Powered Charger, 4. Organic Cotton T-Shirt, 6. Eco-Friendly Laundry Detergent",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "You are given a customer's review of a book: \"I couldn't put it down! The storyline was captivating, and the characters were well-developed.\" Please select the aspects of the book that the review covers from the provided list.\nAspect List: 1.plot, 2.characters, 3.writing style, 4.cover design, 5.genre",
+        "output": "1, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given the following customer review for a blender: \"I bought this blender to make smoothies and it works wonders. The blades are so powerful that they can blend even the toughest ingredients effortlessly. However, the cleaning process is quite a hassle.\" Find all the product aspects mentioned in the review.\nCandidate aspects: A. powerful B. easy to clean C. blending performance D. design E. noise level\nOutput:\n",
+        "output": ": A. powerful C. blending performance\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "You are looking for a new blender for making smoothies. You've shortlisted the following blenders based on their features:\n1. Ninja Professional Blender with Nutri Ninja Cups, 1100 watts\n2. Vitamix Explorian Blender, E310 - Professional-Grade, 48 oz Container, Black\n3. Oster Versa Pro Series Blender, 1400 Watt, Silver\n4. Hamilton Beach Power Elite Multi-Function Blender, 12 Speeds with Pulse\n5. Breville Super Q Blender, 1800 Watts, Stainless Steel/Black\nGiven your preference for high power and versatile blending, which blenders would you consider?\nOutput (answer in three comma-separated numbers): ",
+        "output": "1, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Find all the product features mentioned in this review. \nReview: The vacuum cleaner has strong suction power, a HEPA filter, and a long cord. However, it's a bit heavy and the dustbin is small. \nCandidate Features: \n1. Suction strength\n2. Filter type\n3. Cord length\n4. Weight\n5. Dustbin capacity\nOutput: ",
+        "output": "1, 2, 3, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "You are given a customer review for a coffee maker: \"The coffee tastes amazing, but the machine is a bit noisy and the cleaning process is cumbersome. Love the programmable feature though.\" Select the aspects that are mentioned in the review.\nAspect List: 1. taste 2. durability 3. noise level 4. ease of cleaning 5. features\nOutput: ",
+        "output": "1, 3, 4, 5",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given the user's purchase history which includes \"Philips Sonicare Toothbrush\", \"Oral-B Electric Toothbrush Heads\", and \" Crest 3D White Toothpaste\", suggest additional items they might be interested in purchasing. \nCandidate Items: \n1. Waterpik Water Flosser\n2. Colgate toothbrush\n3. Sonicare Toothbrush Replacement Heads\n4. Listerine Mouthwash\n5. Gillette Razor\n6. Neutrogena Face Wash\n7. Olay Moisturizer\n8. Arm & Hammer Whitening Toothpaste\nOutput: ",
+        "output": "3, 4, 6",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer just bought a Samsung 65\" QLED TV. Here are some related products. Please choose the top 2 accessories they might need.\nProduct List: \n1. HDMI Cable 10FT\n2. Universal Remote Control\n3. TV Stand\n4. 3D Glasses\n5. Soundbar\n6. Screen Cleaner Kit\n7. TV Wall Mount\n8. Blu-ray Player\n9. Wireless Headphones\n10. DVD Player\nOutput: \n",
+        "output": ": [2, 7]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "You are given a customer review for a camera lens. Select all the features mentioned in the review. \nReview: The Canon EF 70-200mm f/2.8L IS III USM lens provides sharp images even in low light, has fast autofocus, and the build quality is superb.\nAspect List: \n1. aperture\n2. zoom range\n3. image stabilization\n4. durability\n5. color accuracy",
+        "output": "[1, 2, 3, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is looking for a laptop with at least 16GB of RAM and a dedicated NVIDIA graphics card. They're considering the following laptops. Please provide the model numbers of the laptops that meet these requirements.\nLaptop List: \n1. Dell XPS 15 - 9570 (16GB RAM, Intel UHD Graphics 630)\n2. ASUS ROG Zephyrus G14 (16GB RAM, NVIDIA GeForce RTX 2060 Max-Q)\n3. HP Spectre x360 (8GB RAM, Intel Iris Plus Graphics)\n4. Lenovo IdeaPad L340 Gaming (16GB RAM, NVIDIA GeForce GTX 1650)\n5. Apple MacBook Pro (16-inch, 16GB RAM, Intel Iris Plus Graphics)\n6. Acer Predator Triton 500 (16GB RAM, NVIDIA GeForce RTX 3060)\n7. MSI GS66 Stealth (16GB RAM, NVIDIA GeForce RTX 3070)\n8. Razer Blade 15 Base Model (16GB RAM, NVIDIA GeForce GTX 1660 Ti)\n9. Gigabyte AORUS 15P (16GB RAM, NVIDIA GeForce RTX 3060)\n10. Microsoft Surface Laptop 3 (16GB RAM, AMD Radeon Vega 11)\nOutput: ",
+        "output": "2, 4, 6, 7, 8, 9",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given the product review \"I bought the 'Philips Sonicare ProtectiveClean 6100 Electric Toothbrush' and my teeth feel so much cleaner after every brush. The pressure sensor is a great feature.\", which aspects are covered in the review? Choose two aspects from the list below:\n1. cleaning power\n2. design\n3. pressure sensor\n4. battery life\n5. toothbrush head",
+        "output": "1, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Find all products that belong to the category 'Electronics' and have a rating above 4.0 on a 5-point scale from the following list:\n1. Samsung Galaxy S21 - 4.8 stars\n2. Sony WH-1000XM4 Wireless Headphones - 4.7 stars\n3. Apple MacBook Air M1 - 4.6 stars\n4. Bose QuietComfort Earbuds - 4.5 stars\n5. Dell XPS 13 Laptop - 4.3 stars\n6. Canon EOS R6 Mirrorless Camera - 4.9 stars",
+        "output": "Samsung Galaxy S21, Sony WH-1000XM4 Wireless Headphones, Apple MacBook Air M1, Bose QuietComfort Earbuds, Canon EOS R6 Mirrorless Camera\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Task: Find products from the\u5019\u9009\u5217\u8868 that match the category 'home appliances'. \nCandidate Products:\n1. Samsung 43-inch Smart 4K UHD TV\n2. Breville Smart Oven Air Fryer Pro\n3. Philips Sonicare Electric Toothbrush\n4. LG Front Load Washing Machine\n5. Keurig K-Cafe Single-Serve Coffee Maker\n6. De'Longhi Magnifica S Automatic Espresso Machine\n7. iRobot Roomba 960 WiFi Connected Vacuum Cleaning Robot\n8. Dyson V11 Absolute Cordless Vacuum\n9. Nest Learning Thermostat\n10. Sony Noise Cancelling Wireless Headphones\nOutput: ",
+        "output": "Breville Smart Oven Air Fryer Pro, LG Front Load Washing Machine, iRobot Roomba 960 WiFi Connected Vacuum Cleaning Robot, Nest Learning Thermostat\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "You are provided with a customer inquiry about a jacket. Select the relevant product features from the list below that address the inquiry. \nInquiry: Does this jacket have a hood? Is it waterproof? What colors are available?\nProduct Features:\n1. Hooded\n2. Water-resistant\n3. Windproof\n4. Zippered pockets\n5. Available colors: Black, Navy, Olive",
+        "output": "1, 2, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given a user review of a camera lens, identify which features are mentioned. \nReview: The lens focuses quickly and quietly, delivering sharp images even in low light. The zoom range is versatile, but the lens hood could be a bit sturdier.\nAspect List: \n1. focusing speed, 2. image quality, 3. zoom range, 4. lens hood durability, 5. color accuracy, 6. auto-focus accuracy, 7. lens size",
+        "output": "[1, 2, 3, 4]",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "You are shopping for a blender and want to find one with a glass pitcher. Please select all products from the list below that have a glass pitcher.\n1. Ninja BL610 Professional Countertop Blender with 72 oz Total Crushing Pitcher\n2. Oster Blender Pro 1200 with Glass Jar, 1200-Power Motor Base, 6-Cup\n3. Vitamix Explorian E310 Blender, Compact Powerful Countertop with 48 oz Container\n4. Hamilton Beach 12-Speed Blender with Glass Pitcher, 40oz\n5. Breville BBL620IL Hemisphere Control Blender, Die-Cast Stainless Steel with 51 oz BPA-Free Polycarbonate Jar\nAnswer: \n",
+        "output": "2. Oster Blender Pro 1200 with Glass Jar, 1200-Power Motor Base, 6-Cup\n4. Hamilton Beach 12-Speed Blender with Glass Pitcher, 40oz\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "The customer is searching for a 'bluetooth speaker with long battery life'. Here are five available speakers:\n1. JBL Flip 5 - Waterproof Portable Bluetooth Speaker\n2. Bose SoundLink Micro - Waterproof Bluetooth Speaker\n3. Anker Soundcore Motion Boom - Extra Bass Bluetooth Speaker\n4. Ultimate Ears BOOM 3 - Waterproof & Dustproof Portable Bluetooth Speaker\n5. Sony SRS-XB33 - Extra Bass Wireless Bluetooth Speaker\nReturn all speakers that meet the customer's requirement.\nOutput: ",
+        "output": "JBL Flip 5, Bose SoundLink Micro, Anker Soundcore Motion Boom, Ultimate Ears BOOM 3, Sony SRS-XB33\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer is looking for a coffee maker with a capacity of at least 10 cups. Please find suitable options from the following product list.\nProduct List: \n1. Cuisinart DCC-3200P1 14-Cup Programmable Coffeemaker, Brushed Stainless\n2. Keurig K-Elite Single Serve Coffee Maker, brushed silver\n3. Hamilton Beach 49980A 2-Way Brewer Coffee Maker, Single Serve and 12 Cup Carafe Drip Coffee Maker\n4. Mr. Coffee Optimal Brew 10-Cup Thermal Coffee Maker System, Black/Silver\n5. Ninja CE251 Programmable Brewer, 12-Cup Capacity, Black/Silver\n6. Breville BDC650BSS Grind Control Coffee Maker, Brushed Stainless Steel\n7. De'Longhi ECAM23.460.S Bean to Cup Coffee Machine, Silver\n8. BLACK+DECKER CM1190B 12-Cup Coffee Maker, Black",
+        "output": "1, 4, 5, 8\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given a list of product features for a blender: \n1. 1400 watts motor\n2. 64-ounce BPA-free pitcher\n3. Variable speed control\n4. 5 pre-programmed settings\n5. Stainless steel blades\n6. Dishwasher-safe parts\n7. Noise reduction technology\n8. High price point\n9. Modern design\n10. Limited warranty\nIdentify which features are related to the blender's power and performance.\nOutput: ",
+        "output": "[1, 3, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given the following customer inquiry: \"I'm looking for a new pair of running shoes with good shock absorption for marathon training. I prefer a breathable mesh upper and lightweight design. Can you recommend any?\" \nCandidate Shoe Models:\n1. Nike Air Zoom Pegasus 38\n2. Adidas Ultraboost 21\n3. ASICS Gel-Nimbus 23\n4. New Balance Fresh Foam 1080v11\n5. Hoka One One Clifton 8\nOutput: ",
+        "output": "1, 2, 3, 4, 5",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Review: The shoes have great arch support and are stylish. However, they run small so I had to order a half size up. The color matches the description perfectly.\nAspect List: 1. comfort, 2. design, 3. sizing, 4. color accuracy, 5. durability\nOutput: ",
+        "output": "[1, 3, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given the following customer review for a blender: \"I bought this blender to make smoothies and it works perfectly. The blades are sharp and blend fruits and ice easily. However, the cleaning process is a bit difficult.\" Find all products that satisfy the requirement of having 'sharp blades' for blending.\nCandidate Items:\n1. Blender A - Sharp stainless steel blades, easy to clean\n2. Blender B - Dull plastic blades, hard to clean\n3. Blender C - Extra-sharp titanium blades, cleaning brush included\n4. Blender D - Mediocre blade quality, simple to wash",
+        "output": "Blender A, Blender C\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer has just purchased a 'Nike Air Zoom Pegasus 38 Running Shoes - Black/White'. Please find similar shoes from the following list that the customer might also be interested in.\nCandidate Items:\n1. Adidas Ultraboost 21 Running Shoes - Grey/Blue\n2. New Balance Fresh Foam 1080v11 Running Shoes - Navy/Red\n3. ASICS Gel-Nimbus 23 Running Shoes - White/Green\n4. Reebok Nano X1 Cross-Training Shoes - Pink/Black\n5. Skechers Go Walk 5 Slip-On Walking Shoes - Black\nOutput:",
+        "output": "1, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given a review of a kitchen appliance, provide the aspects that the customer is dissatisfied with. Review: \"The toaster oven heats unevenly and the timer is difficult to set.\" Aspect List: 1.heating, 2.size, 3.timer, 4.baking, 5.cleaning",
+        "output": "1, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer recently purchased a \"Leatherman Wave Plus Multitool\". Based on their purchase history, which of these items are they most likely to buy next? \n1. Steel ruler\n2. Pocket knife\n3. Hiking boots\n4. LED flashlight\n5. Camping stove",
+        "output": "2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Task: Find products that have the attribute 'Waterproof' and belong to the category 'Outdoor Gear'. Here are some product options: \n1) 'Waterproof Hiking Boots for Men'\n2) 'Sunglasses with UV Protection'\n3) 'Waterproof Bluetooth Speaker'\n4) 'Rain Poncho with Hood'\n5) 'Camping Tent with Mesh Windows'\nOutput: ",
+        "output": "['Waterproof Hiking Boots for Men', 'Rain Poncho with Hood', 'Camping Tent with Mesh Windows']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given the following customer review for a blender: \"I bought this blender to make smoothies every morning. It works perfectly for that purpose, blending fruits and ice effortlessly. However, it's a bit noisy compared to my old one.\" Please find all products mentioned in the review that belong to the category 'Appliances'.\nCandidate Items:\n1) Blender\n2) Fruits\n3) Ice\n4) Old Blender\nOutput: ",
+        "output": "Blender, Old Blender\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is looking for a high-quality coffee maker with a built-in grinder that can handle both whole beans and ground coffee. They prefer a machine with programmable settings and a large capacity carafe. Given the following product descriptions, find the most suitable coffee maker that matches the customer's requirements. Choose the product title and description that best fits the criteria.\n\n1. Product A: \"Breville BES870XL Die-Hard Espresso Machine - 15-Bar Pressure, Auto Grind, 1.8L Capacity, Dual Boiler System\"\n2. Product B: \"Keurig K55 Single Serve Coffee Maker - Easy Fill Reservoir, No Grinder, 4-Cup Capacity\"\n3. Product C: \"De'Longhi Magnifica S ECAM23.110.B - 15-Bar Pressure, Built-In Grinder, 1.7L Capacity, Programmable Settings\"\n4. Product D: \"Zojirushi EC-BD25 Fresh Brew Thermal Carafe Coffee Maker - 1.1L Capacity, No Grinder\"\n\nOutput: \n",
+        "output": ": Product C: \"De'Longhi Magnifica S ECAM23.110.B - 15-Bar Pressure, Built-In Grinder, 1.7L Capacity, Programmable Settings\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "You recently purchased a set of 'Cuisinart MCP-12N Multiclad Pro Stainless Steel 12-Piece Cookware Set' after browsing through various options. Based on your purchase history, what other cookware sets might you be interested in? Select two out of the following five suggestions. \n1. All-Clad D3 Stainless Steel Bonded Dishwasher Safe Tri-Ply Cookware Set\n2. T-fal E93808 Professional Total Nonstick Fry Pan Cookware Set\n3. GreenLife Soft Grip 16-Piece\u9676\u571f\u4e0d\u7c98\u9505\u53a8\u5177\u5957\u88c5\n4. Calphalon Classic Stainless Steel Cookware Set\n5. Rachael Ray Cucina Hard-Anodized Nonstick Cookware Set\nOutput (answer in two comma-separated numbers): ",
+        "output": "1, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer is looking for wine recommendations to pair with a spicy Thai curry. Please choose wines from the following list that would be suitable:\n1. Sauvignon Blanc\n2. Cabernet Sauvignon\n3. Pinot Grigio\n4. Zinfandel\n5. Riesling\n6. Merlot\nOutput: ",
+        "output": "1, 3, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Identify the top two product categories mentioned in the following customer query. Output only the category numbers separated by a comma.\nQuery: I'm looking for a new pair of running shoes and a sports watch for my marathon training. Can you help?",
+        "output": "[14, 23]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given a customer review about a coffee maker, find the top 3 aspects mentioned in the review that contributed to the overall satisfaction or dissatisfaction.\nReview: I recently purchased the Breville BES870XL Barista Express for my home, and I must say, it has exceeded my expectations. The frothing milk is incredibly smooth, and the espresso shots are consistently strong and flavorful. However, the cleaning process is quite time-consuming, and the machine can be noisy during operation. Despite these minor drawbacks, I'm still happy with my purchase.\nCandidate Aspects:\n1. Frothing performance\n2. Espresso taste\n3. Machine noise\n4. Cleaning convenience\n5. Price\u5408\u7406\u6027\n\nOutput: \n",
+        "output": "Frothing performance, Espresso taste, Machine noise",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given a customer's question about a product, find the most relevant product description from the list below. Question: Can this vacuum cleaner be used on hardwood floors? Product Descriptions:\n1. Designed for deep cleaning of carpets and rugs\n2. Equipped with a special tool for pet hair removal\n3. Safe and effective on all floor surfaces, including hardwood\n4. Has a long power cord for large room coverage\nOutput: ",
+        "output": "3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given a product review for a coffee maker, identify the aspects mentioned. Please return the aspect numbers only, separated by commas.\nReview: I bought this coffee maker for its programmable feature and it hasn't disappointed. The coffee it brews is consistently hot and tastes great. However, the machine is quite loud when brewing and the carafe tends to spill while pouring.\nAspect List: 1. Brewing time, 2. Flavor, 3. Capacity, 4. Programmability, 5. Noise level, 6. Carafe performance",
+        "output": "4, 2, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "You are asked to find products related to the customer's interest in 'organic skincare'. Please provide the product name(s) that match this category from the following options:\n1. Avalon Organics Vitamin C Revitalizing Facial Toner\n2. Gillette Fusion5 ProGlide Men's Razor\n3. Burt's Bees Radiance Night Cream\n4. Pantene Pro-V Daily Moisture Renewal Shampoo\n5. OPI Nail Lacquer - Infinite Shine",
+        "output": "Avalon Organics Vitamin C Revitalizing Facial Toner, Burt's Bees Radiance Night Cream\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer is searching for a backpack suitable for hiking. They've listed some preferences: waterproof material, large capacity, and comfortable straps. From the list below, select all applicable backpacks.\n1. Columbia Unisex's Watertight II Daypack\n2. Deuter Aircontact Lite 65+10 Backpack\n3. The North Face Boreas 55 Backpack\n4. Patagonia Black Hole 35L Backpack\n5. Osprey Exos 48 Backpack\nOutput: ",
+        "output": "1, 2, 3, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given the following browsing history of a user:\n1. Viewed 'Levi's Men's 501 Original Fit Jeans'\n2. Added 'Timberland Men's Earthkeepers Stormbuck Plain Toe Oxford' to cart\n3. Purchased 'Adidas Men's Ultraboost 21 Running Shoes'\n4. Viewed 'Ray-Ban RB3025 Large Metal Aviator Sunglasses'\n5. Clicked on 'Carhartt Men's Force Cotton Delmont Vest'\nWhat product category is the user most likely interested in next? \nCandidate Categories: \n1. Men's Shoes\n2. Women's Clothing\n3. Sunglasses\n4. Men's Clothing\n5. Women's Shoes\nOutput (answer in one number):",
+        "output": "4",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is looking for a product in the category 'Shoes' with a high rating and mentions \"I need something comfortable for long walks.\" From the following options, choose the top 2 products that best match their requirement. \n1. Comfortable Running Shoes, 4.8 stars\n2. Fashion Sneakers, 3.5 stars\n3. Hiking Boots, 4.6 stars\n4. Formal Dress Shoes, 4.1 stars\n5. Sport Sandals, 4.7 stars\nOutput:",
+        "output": "1, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer has just purchased a 'Sony WH-1000XM4 Wireless Noise-Cancelling Headphones'. Based on their purchase, suggest two complementary products they might also be interested in from the following list:\n1. Anker PowerCore+ 26800mAh Power Bank\n2. Bose QuietComfort Earbuds\n3. Sony Micro SD Card 128GB\n4. JBL Flip 5 Waterproof Portable Bluetooth Speaker\n5. SanDisk Extreme Pro 64GB SDXC UHS-I Card\nOutput: ",
+        "output": "1, 3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer is looking for a coffee maker with a capacity of at least 12 cups. Given the following list of products, which ones meet the requirement?\nProduct List: \n1. Cuisinart DCC-3200P1 14-Cup Programmable Coffee Maker\n2. Keurig K-Mini Single Serve Coffee Maker\n3. Hamilton Beach FlexBrew 2-Way Coffee Maker\n4. Breville BDC650BSS Grind Control Coffee Maker\n5. Ninja CE251 Classic Thermal Carafe Coffee Maker",
+        "output": "1, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer is searching for a(n) jacket product with a high rating and a waterproof feature. Here are the available options with their ratings:\n1. North Face Rain Jacket, 4.8 stars\n2. Columbia Waterproof Ski Jacket, 4.5 stars\n3. Helly Hansen Lightweight Shell Jacket, 4.6 stars\n4. Patagonia Windbreaker, 3.9 stars\n5. Mountain Hardware Waterproof Hiking Jacket, 4.7 stars\nOutput: ",
+        "output": "[1, 3, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given the following product categories, which ones belong to Electronics?\n1. Refrigerator\n2. Television\n3. Coffee Maker\n4. Microwave\n5. Blender\n6. Laptop\n7. Smartphone\n8. Washing Machine\n9. Tablet\n10. Iron\nOutput: \n",
+        "output": ": 2, 6, 7, 9\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer is looking for a laptop with a long-lasting battery life for remote work. They have shortlisted the following laptops: \n\n1. Dell XPS 13 (10+ hours battery life)\n2. MacBook Air M1 (15 hours battery life)\n3. Lenovo Yoga C940 (12 hours battery life)\n4. HP Spectre x360 (10 hours battery life)\n5. Asus ZenBook 14 (14 hours battery life)\n\nGiven the customer's need, which two laptops would you recommend out of the list? \nOutput: ",
+        "output": "[2, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given a customer's inquiry about a coffee maker's features, provide the relevant information from the following options. Inquiry: Does it have a programmable timer? \nOptions: \n1. Auto shut-off\n2. Removable drip tray\n3. Programmable timer\n4. Thermal carafe\nOutput: ",
+        "output": "3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is searching for a laptop with the following specifications: \n- Operating system: Windows 10\n- Processor: Intel Core i5 or i7\n- RAM: At least 8GB\n- Storage: SSD with minimum 256GB\n- Budget: $1000-$1200\nPlease provide a list of laptops that meet these requirements, along with their prices and brand names. Present the information in a JSON format, with each laptop represented as an object containing 'brand', 'model', 'price', and 'os' properties.\n",
+        "output": "[\n  {\"brand\": \"Dell\", \"model\": \"Inspiron 15 5000\", \"price\": \"$1150\", \"os\": \"Windows 10\"},\n  {\"brand\": \"HP\", \"model\": \"Pavilion x360\", \"price\": \"$1075\", \"os\": \"Windows 10\"},\n  {\"brand\": \"Acer\", \"model\": \"Aspire 5\", \"price\": \"$1099\", \"os\": \"Windows 10\"},\n  {\"brand\": \"Lenovo\", \"model\": \"IdeaPad 3\", \"price\": \"$1120\", \"os\": \"Windows 10\"},\n  {\"brand\": \"Apple\", \"model\": \"MacBook Air\", \"price\": \"$1099\", \"os\": \"macOS (not Windows 10)\"}\n]",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given a customer who recently purchased a blender and is looking to highlight its performance and versatility in their review. From the provided list, choose the top 4 review points they might include. Output the indices of the selected snippets, separated by commas.\nReview Snippet List:\n1. Blends smoothly\n2. Durable construction\n3. Easy to clean\n4. Versatile for various recipes\n5. Quiet operation\n6. Attractive design\n7. Affordable price\n8. Multiple speed settings\n9. Large capacity\n10. Energy efficient\n11. Slow juicing function\n12. Good for ice crushing\n13. Long warranty\n14. No leaks\n15. User-friendly controls\nOutput:",
+        "output": "[1, 2, 4, 8]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is looking for accessories to pair with their new 'Samsung Galaxy S21 Ultra 5G'. From the following product list, please select items that would be compatible with their smartphone.\nProduct List: \n1. Spigen Tough Armor Pro Case for Samsung Galaxy S21 Ultra 5G\n2. Anker PowerCore 10000mAh Portable Charger\n3. iPhone 12 Pro Max Leather Wallet Case\n4. JBL Tune 750BTNC Wireless Bluetooth Headphones\n5. SanDisk 1TB Extreme Portable SSD\n6. OtterBox Commuter Series Case for iPhone 11\n7. AUKEY USB C Hub, 7-in-1 USB-C Hub with 4K HDMI, SD Card Reader\n8. Mophie Powerstation Plus Wireless XL 22000mAh\n9. Belkin ScreenForce Tempered Glass Screen Protector for Samsung Galaxy S21 Ultra\n10. Bose QuietComfort Earbuds\nOutput: ",
+        "output": "[1, 2, 4, 5, 7, 8, 9, 10]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task: Find a product that matches the criteria of being a high-end coffee maker with a built-in grinder and programmable settings.",
+        "output": "Requirement: Features - High-end, Built-in grinder, Programmable settings\nCandidate Products:\n1. Breville BES870XL Moka Pot - Italian Stovetop Espresso Maker\n2. Keurig K55 Single Serve Coffee Maker\n3. De'Longhi ESAM3300 Magnifica Fully Automatic Espresso Machine\n4. KitchenAid KCM5U Single Serve Coffee Maker with Carafe\n5. Breville Oracle Touch Coffee Machine\nOutput: \n1. Breville Oracle Touch Coffee Machine\n3. De'Longhi ESAM3300 Magnifica Fully Automatic Espresso Machine\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "You are given a customer's query about a blender: \"I'm looking for a blender that can crush ice easily and has at least 1000 watts of power. Can you suggest some models?\" Here are the available blender models:\n1. Ninja Professional Blender with 1100 Watts\n2. Oster Classic Blender with 450 Watts\n3. Vitamix 7500 Blender with 1490 Watts\n4. Hamilton Beach Power Elite Blender with 700 Watts\n5. Breville Boss Blender with 1800 Watts",
+        "output": "1, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is looking for a high-quality, eco-friendly coffee maker that can grind beans and has a capacity of at least 12 cups. They also prefer a drip brewing method and a programmable timer. Please provide a list of coffee makers that match these criteria from the following options:\n1. Breville BES870XL Moka Pot Espresso Machine\n2. Keurig K55 Single Serve Coffee Maker\n3. Cuisinart DCC-3200P1 Perfect Grind Coffee Maker\n4. Hamilton Beach 49226B Single Serve Coffee Maker\n5. Oster Convection Roast Coffee Maker with grinder\n6. KitchenAid KCM1191SS Brewgrind Coffee Maker\n\nOutput: ",
+        "output": "[3, 5]",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Requirement: Find products with positive customer reviews mentioning 'battery life'. List of candidate items:\n1. Product A - Customer review: \"Great device, battery lasts forever!\"\n2. Product B - Customer review: \"Satisfied with the performance, but battery drains quickly.\"\n3. Product C - Customer review: \"Exceptional sound quality, but battery life could be better.\"\n4. Product D - Customer review: \"I'm impressed by the long-lasting battery in this product!\"\n5. Product E - Customer review: \"Average product, nothing special. Battery life is decent.\"\nOutput:",
+        "output": "Product A, Product D\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer is searching for a laptop with long battery life. They've provided the following options: \n1. Laptop Model A - 12 hours battery life, 14-inch display, 8GB RAM\n2. Laptop Model B - 8 hours battery life, 15-inch display, 16GB RAM\n3. Laptop Model C - 16 hours battery life, 13-inch display, 12GB RAM\n4. Laptop Model D - 10 hours battery life, 15-inch display, 12GB RAM\n5. Laptop Model E - 6 hours battery life, 14-inch display, 16GB RAM\nPlease retrieve all laptops with a battery life of 10 hours or more.",
+        "output": "[1, 3, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is looking for a new pair of running shoes that provide excellent arch support and are suitable for both indoor and outdoor use. They prefer a shoe with a breathable mesh upper and a durable rubber sole. Given the following product listings, please find the shoes that best match the customer's requirements. List all products that meet the criteria.\n\nProduct 1: Nike Air Zoom Pegasus 38 - Breathable mesh upper, good arch support, indoor/outdoor tread\nProduct 2: ASICS Gel-Kayano 28 - Advanced arch support, designed for long-distance running, indoor use only\nProduct 3: New Balance Fresh Foam 1080v11 - Excellent arch support, durable rubber sole, versatile for indoor and outdoor\nProduct 4: Under Armour HOVR Phantom Running Shoes - Breathable mesh, suitable for indoor and outdoor, average arch support\nOutput: ",
+        "output": "Nike Air Zoom Pegasus 38, New Balance Fresh Foam 1080v11",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given the following customer inquiry: \"I'm looking for a laptop with at least 16GB RAM, an Intel Core i7 processor, and a high-resolution touchscreen display. Can you suggest any models?\" \nAvailable Models: \n1. Dell XPS 15 - 16GB RAM, Intel Core i7, 4K OLED Touchscreen\n2. Lenovo ThinkPad X1 Carbon - 12GB RAM, Intel Core i7, 2K IPS Touchscreen\n3. HP Spectre x360 - 16GB RAM, Intel Core i7, 4K IPS Touchscreen\n4. Asus ZenBook Pro Duo - 32GB RAM, Intel Core i9, 4K UHD OLED Touchscreen\n5. Apple MacBook Pro - 16GB RAM, Intel Core i7, Retina Display (no touch)\nOutput:",
+        "output": "Dell XPS 15, HP Spectre x360\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Find all products in the category \"Home Appliances\" that have the attribute \"Energy Efficient\" and a rating of 4 stars or higher. List the product name, brand, and price.\nCandidate Items:\n1. Product Name: Eco-Friendly Refrigerator, Brand: GreenTech, Price: $899.99\n2. Product Name: Smart Oven, Brand: EnergySaver, Price: $499.99\n3. Product Name: High-Efficiency Washing Machine, Brand: EcoWise, Price: $749.99\n4. Product Name: Air Conditioner, Brand: CoolMaxx, Price: $1,199.99\n5. Product Name: LED Light Bulbs, Brand: BrightEco, Price: $19.99",
+        "output": "Eco-Friendly Refrigerator, GreenTech, $899.99\nSmart Oven, EnergySaver, $499.99\nHigh-Efficiency Washing Machine, EcoWise, $749.99\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given a customer's interest in hiking shoes, suggest complementary products they might consider purchasing.\nSuggested Products:\n1. Columbia Women's Redmond Waterproof Hiking Shoe\n2. Osprey Men's Stratos 36 Backpack\n3. Outdoor Research Men's Interchangeable Mittens\n4. Patagonia Men's Better Sweater\u00ae 1/4-Zip Fleece Jacket\n5. Salomon Men's Agile Windbreaker Running Jacket\n6. REI Co-op Flexlite Air Chair\n7. Sea to Summit X-Bowl and X-Mug Set\n8. LifeStraw Personal Water Filter\nOutput: ",
+        "output": "[2, 4, 6, 7, 8]",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Requirement: Find products that have positive reviews mentioning their battery life. Candidate Items: 1) 'Samsung Galaxy S21 Ultra, 128GB, Phantom Black' - Review: \"Great phone but battery drains fast\" 2) 'Bose QuietComfort Earbuds, Wireless Bluetooth Earphones' - Review: \"Excellent sound quality, battery lasts all day\" 3) 'Fitbit Charge 5 Advanced Fitness & Health Tracker' - Review: \"Battery lasts for weeks, love the sleep tracking\"\nOutput: ",
+        "output": "Bose QuietComfort Earbuds, Wireless Bluetooth Earphones, Fitbit Charge 5 Advanced Fitness & Health Tracker\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given a customer's product inquiry, suggest a relevant product from the following options. The customer is looking for a laptop with long battery life and fast processing speed.\nAvailable Products: \n1. Laptop A - 10-hour Battery, Intel Core i7\n2. Laptop B - 5-hour Battery, AMD Ryzen 5\n3. Laptop C - 8-hour Battery, Intel Core i5\n4. Laptop D - 12-hour Battery, AMD Ryzen 7",
+        "output": "Laptop A, Laptop D\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer is looking for a blender to make smoothies and wants to compare different models. Given the following blenders, please select the top 2 blenders that best suit their needs.\n1. Ninja Professional Blender (QB900B), 1000-Watt\n2. Oster Versa Pro Series Blender, 1400-Watt\n3. Vitamix Explorian Blender, Professional-Grade, 2 Peak Horsepower\n4. BLACK+DECKER BL600 Personal Blender, 12-Ounce, Black\n5. Hamilton Beach Smoothie Smart Blender, 14-Speed\nOutput: ",
+        "output": "1, 2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "You're looking for a new laptop case. You've clicked on a few options and finally decided to buy the 'Samsonite Classic Leather Briefcase'. What might be the next product you'd be interested in purchasing, based on your browsing history? \nGiven the following list of products: \n1. Samsonite Laptop Backpack\n2. Leather Mouse Pad\n3. USB Hub\n4. Laptop Cooling Pad\n5. External Hard Drive\nOutput (Answer in three comma-separated numbers): ",
+        "output": "2, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer is searching for a coffee machine with a capacity of at least 10 cups and a programmable auto-brew feature. You have a list of available coffee machines. Please retrieve the models that meet the customer's requirements.\nCandidate Models:\n1. Cuisinart DCC-3200P1 - 14 cup capacity, programmable\n2. Keurig K-Elite - 8 cup capacity, not programmable\n3. Ninja CE251 - 12 cup capacity, programmable\n4. Breville BDC650BSS - 12 cup capacity, programmable\n5. Hamilton Beach 49980A - 12 cup capacity, programmable\nOutput:",
+        "output": "Cuisinart DCC-3200P1, Ninja CE251, Breville BDC650BSS, Hamilton Beach 49980A\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Find all products related to 'home office' from the following list: \n1. Ergonomic Office Chair \n2. Wall Art Print \n3. Standing Desk Converter \n4. Reclining Sofa \n5. Yoga Mat \n6. Wireless Keyboard and Mouse Set \n7. Area Rug \n8. Coffee Table\nOutput:",
+        "output": "1, 3, 6\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given the following customer review for a blender: \"I bought this blender a week ago and it has exceeded my expectations. The blending performance is outstanding, especially when making smoothies. The cleanup is a breeze thanks to the dishwasher-safe parts. However, the noise level is a bit high compared to my previous blender.\" \nFind all the aspects mentioned in the review. List them without duplication.\nOutput: ",
+        "output": "blending performance, cleanup, noise level\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Find all products in the\u5019\u9009\u5217\u8868: ['Tide High Efficiency Laundry Detergent', 'Downy Liquid Fabric Conditioner', 'Bounce Outdoor Fresh Dryer Sheets', 'Charmin Ultra Soft Toilet Paper', 'Cascade ActionPacs Dishwasher Detergent'] that match the requirement: Household essentials for laundry.\nOutput:",
+        "output": "['Tide High Efficiency Laundry Detergent', 'Downy Liquid Fabric Conditioner', 'Bounce Outdoor Fresh Dryer Sheets']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "You are managing an online store with various product categories. A customer is looking for a laptop with at least 16GB RAM and an SSD storage option. Here are some available laptops: \n1. Laptop A - 8GB RAM, HDD Storage\n2. Laptop B - 16GB RAM, SSD Storage\n3. Laptop C - 32GB RAM, SSD Storage\n4. Laptop D - 12GB RAM, HDD Storage\n5. Laptop E - 16GB RAM, HDD Storage\nOutput: ",
+        "output": "Laptop B, Laptop C\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given a list of product features for a blender: \n1. High-speed motor\n2. 5 pre-programmed settings\n3. Glass pitcher\n4. Stainless steel blades\n5. Dishwasher-safe parts\nThe user is looking for a blender with a durable pitcher. Which feature(s) should be included in the response?",
+        "output": "3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is looking for a new blender for making smoothies. They prefer one with a high power rating, at least 1000 watts, and a capacity of 2 liters or more. Here are some blender options: \n1) Blender A - 1200W, 2L \n2) Blender B - 800W, 1.5L \n3) Blender C - 1500W, 1.8L \n4) Blender D - 900W, 1.7L \n5) Blender E - 1100W, 2.5L \nOutput: ",
+        "output": "Blender A, Blender C, Blender E\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is looking for a product that can help them organize their kitchen tools efficiently. They have provided a list of options. Please select the most relevant product from the list.\nCandidate Products: \n1. Spice Rack Organizer\n2. Wall-mounted Tool Cabinet\n3. Garden Hose Reel\n4. Office Desk Organizer\n5. Silverware Drawer Tray\nOutput: ",
+        "output": "5",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Find me products that match the following requirements: Must be in the category 'Electronics', must have 'Wireless' in their name or description, and should have a rating of 4.5 stars or higher. Here are some candidate products:  \n1. Product Name: 'Wireless Bluetooth Headphones', Category: Electronics, Rating: 4.8  \n2. Product Name: 'Smartphone with 5G', Category: Electronics, Rating: 4.4  \n3. Product Name: 'Wireless Charging Pad', Category: Electronics, Rating: 4.6  \n4. Product Name: 'Tablet with Wi-Fi', Category: Electronics, Rating: 4.3  \n5. Product Name: 'Noise Cancelling Wired Earbuds', Category: Electronics, Rating: 4.7  \nOutput: ",
+        "output": "['Wireless Bluetooth Headphones', 'Wireless Charging Pad']  \n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given the customer review \"I recently purchased the Cuisinart DCC-3200P1 Perfect Steam 1-1/2-Quart Programmable Espresso Maker and I am thoroughly impressed by its performance. The frothing wand produces excellent crema and the machine heats up quickly.\", find all product attributes mentioned in the review.\nAnswer: ",
+        "output": "['1-1/2-Quart Programmable', 'Espresso Maker', 'frothing wand', 'excellent crema', 'quick heating']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer is looking for a red, medium-sized handbag for casual use. From the following product list, select the ones that match the criteria.\nProduct List: \n1. Michael Kors Women's Jet Set Travel Large East West Top-Zip Tote, Red\n2. Fossil Women's Kinley RFID Crossbody Bag, Black\n3. Coach Women's Swagger 23 Leather Shoulder Bag, Black\n4. Dooney & Bourke Florentine Leather Medium Satchel, Red\n5. Kate Spade New York Women's Cameron Street Large Layla Shoulder Bag, Blush",
+        "output": "1, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given the following customer inquiry on a shopping platform, provide all product options that match the customer's requirement. Customer: I'm looking for a red, medium-sized handbag with at least two compartments and a shoulder strap.\nCandidate Items:\n1. Large Black Leather Tote Bag\n2. Red Satchel Bag with Two Pockets and Shoulder Strap\n3. Small Red Crossbody Bag\n4. Medium Red Shoulder Bag with Three Compartments\n5. Blue Dual Compartment Handbag\nOutput: ",
+        "output": "Red Satchel Bag with Two Pockets and Shoulder Strap, Medium Red Shoulder Bag with Three Compartments\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Find all products related to 'outdoor cooking' from the following list. Output only the product titles.\n1. Weber 7416 Rapidfire Chimney Starter\n2. Cuisinart CGG-200 All-Stainless Steel Portable Gas Grill\n3. Lodge Pre-Seasoned Cast Iron Sportsman's Grill\n4. Mr. Coffee Optimal Brew Thermal Coffee Maker System\n5. Coleman Classic Propane Stove\n6. Weber 6492 Original Instant-Read Thermometer\n7. Char-Broil Classic 3-Burner Gas Grill\n8. Blackstone 22\" Tabletop Griddle Cooking Station\n9. OXO Good Grips Safe Can Opener\n10. Picnic Time Portable Outdoor Blanket\nOutput: ",
+        "output": "Weber 7416 Rapidfire Chimney Starter, Cuisinart CGG-200 All-Stainless Steel Portable Gas Grill, Lodge Pre-Seasoned Cast Iron Sportsman's Grill, Coleman Classic Propane Stove, Char-Broil Classic 3-Burner Gas Grill, Blackstone 22\" Tabletop Griddle Cooking Station\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Task: Find all products in the\u5019\u9009\u5217\u8868: ['shoe rack', 'canvas print', 'electric toothbrush', 'solar panel', 'kitchen tongs'] that belong to the category 'home decor'.\nAnswer: ",
+        "output": "['canvas print']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given a customer review for a smartphone case, select all keywords that indicate the customer's satisfaction level. Review: \"This case exceeded my expectations. It's durable, stylish, and protects my phone perfectly.\"\nKeywords: \n1. exceeded expectations\n2. poor quality\n3. stylish\n4. protects\n5. durable",
+        "output": "exceeded expectations, stylish, protects, durable\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer has just bought a \"Philips Sonicare ProtectiveClean 6100 Electric Toothbrush\". Given the following product suggestions, which ones are most likely to complement their purchase? Choose three.\n1. Crest 3D White Professional Effects Whitening Strips\n2. Oral-B Genius X Limited Edition Electric Toothbrush\n3. Philips Sonicare Replacement Toothbrush Heads\n4. Colgate TotalSF Daily Repair Toothpaste\n5. Waterpik Aquarius Water Flosser\n6. Philips Sonicare AirFloss Ultra\n7. Arm &amp; Hammer Spinbrush ProClean Battery Toothbrush\n8. Listerine Cool Mint Antiseptic Mouthwash\nOutput: ",
+        "output": "3, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "You are given a customer's search query and a list of products. The customer is looking for a product that provides wireless charging and has a rating above 4.5 stars. \nSearch Query: \"Wireless charging pad for iPhone\"\nProducts:\n1. Anker Wireless Charger, 4.7 stars\n2. Belkin Boost Up Wireless Charging Pad, 4.8 stars\n3. Mophie Fast Charge Wireless Pad, 4.6 stars\n4. Apple Leather Wallet with W1 Chip, 4.2 stars\n5. Dlink QuickCharge Wireless Charger, 4.7 stars\n\nAnswer: \n",
+        "output": "Anker Wireless Charger, Belkin Boost Up Wireless Charging Pad, Mophie Fast Charge Wireless Pad",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given a customer review \"I'm thrilled with my new 'Bose QuietComfort 35 Wireless Headphones II'. The noise cancellation is top-notch, and the sound quality is unparalleled.\", please select the aspect(s) covered by the review from the following list. \n1. battery life\n2. noise cancellation\n3. comfort\n4. sound quality\n5. durability\nOutput: ",
+        "output": "2, 4",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "You're an AI shopping assistant. Given a customer's requirement and a list of products, please retrieve the products that match the requirement. Requirement: Find all shoes suitable for outdoor activities, with waterproof material and size 9. Product List: 1. Columbia Men's Newton Ridge Plus II Waterproof Hiking Shoe, Size 9 2. Nike Men's Air Zoom Pegasus 38 Running Shoes, Size 10, Non-Waterproof 3. Timberland Men's White Ledge Waterproof Ankle Boot, Size 9 4. Adidas Terrex Free Hiker GTX, Outdoor Hiking Shoes, Size 9, Waterproof 5. ASICS Men's Gel-Venture 8 Running Shoes, Size 9, Water-Resistant\nOutput: ",
+        "output": "1. Columbia Men's Newton Ridge Plus II Waterproof Hiking Shoe, Size 9 3. Timberland Men's White Ledge Waterproof Ankle Boot, Size 9 4. Adidas Terrex Free Hiker GTX, Outdoor Hiking Shoes, Size 9, Waterproof\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Find products that have \"waterproof\" as an attribute from the following list: \n1. Nike Men's Dry Academy 18 Training Top, Black, Medium \n2. Columbia Women's PFG Tamiami Short Sleeve Shirt, Plus Size, White, 1X \n3. Hanes Men's EcoSmart Fleece Sweatshirt, Navy, Large \n4. Timex Ironman Classic 30 Full-Size Watch, Black Resin, One Size \n5. The North Face Women'sResolve 2 Jacket, TNF Black, Small ",
+        "output": "2. Columbia Women's PFG Tamiami Short Sleeve Shirt, Plus Size, White, 1X; 5. The North Face Women's Resolve 2 Jacket, TNF Black, Small\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer is looking for a wine to pair with their cheese platter. They've mentioned they prefer a red wine. From the following list, please select the wines that would be suitable for the occasion. \nProduct List: \n1. Chardonnay, White Wine\n2. Pinot Noir, Red Wine\n3. Sauvignon Blanc, White Wine\n4. Cabernet Sauvignon, Red Wine\n5. Merlot, Red Wine\n6. Ros\u00e9, Pink Wine\n7. Riesling, White Wine\n8. Zinfandel, Red Wine\n9. Sparkling White, Bubbles\n10. Syrah, Red Wine\nOutput: ",
+        "output": "[2, 4, 5, 8, 10]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given a customer's shopping history: \"Bought a 'Philips Sonicare toothbrush', then 'Oral-B toothpaste', and finally 'Toothbrush holder'\", suggest the next product category they might be interested in. \nCandidate Categories:\n1. Dental Floss\n2. Shampoo\n3. Shower Gel\n4. Electric Razor\n5. Mouthwash\nOutput (answer in one number):",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "You are given a review for a jacket: \"The jacket is waterproof and perfect for rainy days. The material feels high-quality, but the pockets are a bit small.\" List the aspects that are mentioned in the review.\nAspect List: 1. weather resistance 2. material quality 3. style 4. sizing 5. pocket size 6. color 7. durability 8. comfort\nOutput: ",
+        "output": "[1, 2, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Requirement: Find products with 'waterproof' feature in their descriptions. Candidate Items:\n1. Rain Jacket, Men's Waterproof Breathable Hiking Coat\n2. Samsung Galaxy Phone, Water-resistant up to 30 minutes in 1.5m of water\n3. Portable Bluetooth Speaker, Waterproof and Dustproof\n4. Leather Handbag, Fashionable and Stylish for Women\n5. Fitness Tracker, Water Resistant Smart Watch\nOutput: ",
+        "output": "Rain Jacket, Men's Waterproof Breathable Hiking Coat, Portable Bluetooth Speaker, Waterproof and Dustproof, Fitness Tracker, Water Resistant Smart Watch\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Given the customer review \"These shoes are extremely comfortable and perfect for long walks. The color matches my favorite outfit perfectly.\", find all products mentioned.\nCandidate Items: \n1. shoes\n2. long walks\n3. color\n4. favorite outfit\n5. comfort\nAnswer: \n",
+        "output": "1, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Requirement: Find products with positive customer reviews mentioning 'fast delivery' and 'excellent packaging'. List all products satisfying the requirement.\nCandidate Items: \n1. Product A - Customer Review: \"Received it quickly, fast delivery and well-packed!\"\n2. Product B - Customer Review: \"Great product, but delivery was slow.\"\n3. Product C - Customer Review: \"Excellent packaging, arrived sooner than expected!\"\n4. Product D - Customer Review: \"Fastest delivery ever, package was perfectly wrapped!\"\n5. Product E - Customer Review: \"Nice item, but packaging could be better.\"\nOutput: ",
+        "output": "Product A, Product C, Product D\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given a customer's preference for a(n) coffee maker product, find the most relevant features they might be looking for. \nPreference: \"I want a coffee maker that's easy to clean and has a programmable brewing time.\"\nOutput: Please provide the top 3 features that match the customer's preference, separated by commas.",
+        "output": "auto-brew, easy-clean design, adjustable brew schedule\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all the product names from the following paragraph that are related to electronic devices.\nParagraph: Sarah was excited to purchase her new Apple iPhone and Samsung Galaxy Watch. She also bought a pair of Bluetooth earbuds and a wireless charger for her devices.\nAnswer: ",
+        "output": "Apple iPhone, Samsung Galaxy Watch, Bluetooth earbuds, wireless charger\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task type: Retrieval - Find all items from the list that are clothing accessories. List: hat, car, keyboard, watch, socks, mouse, necklace.\nOutput: ",
+        "output": "hat, socks, necklace\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieval: Identify the items from the following list that could be used for camping. \nCandidate items:\n1. Portable Charcoal Grill\n2. LED Flashlight\n3. Silk Pillowcase\n4. Multi-tool Knife\n5. Bluetooth Speaker\n6. Solar-powered Charger\nOutput (answer with item numbers separated by commas): ",
+        "output": "1, 2, 4, 6\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Find all the items from the list below that are categorized as 'electronics'. Output the item numbers separated by a comma. \nList: \n1. iPhone 13\n2. Nike running shoes\n3. Samsung Galaxy Tab\n4. Wooden chair\n5. Bluetooth speaker\nOutput: ",
+        "output": "1, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given a list of clothing items, retrieve all items that are considered formal wear for men.\nClothing Items: \n1. Jeans\n2. Dress Shirt\n3. Suit\n4. T-Shirt\n5. Tie\n6. Sports Jacket\n7. Slacks\n8. Loafers\n9. High Tops\nOutput: ",
+        "output": "[2, 3, 5, 6, 7, 8]",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that could be used as gifts for a child's birthday party.\nCandidate items:\n1. Lego City Building Set\n2. Personalized Book\n3. Barbie Fashion Doll\n4. Wireless Router\n5. Soccer Ball\nOutput: \n",
+        "output": "1, 2, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieval: Find all items from the list below that could be used as camping gear.\nItems:\n1. Sleeping Bag\n2. Coffee Maker\n3. Microwave Oven\n4. Flashlight\n5. Hair Dryer\n6. Portable Stove\nOutput: ",
+        "output": "'1, 4, 6'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all items from the following list that are clothing accessories: \n0. baseball cap\n1. smartphone\n2. silk scarf\n3. nail polish\n4. leather belt\nAnswer: ",
+        "output": "0, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all items from the following list that are clothing items for children. \nProduct List: \n1. 'Little Darlings' Babydoll Dress\n2. 'Tough Guys' Action Figure Set\n3. 'Kiddie Kicks' Sneakers for Toddlers\n4. 'Puppy Love' Plush Dog Toy\n5. 'Future Fashionista' Skirt and Top Set for Girls\nOutput: ",
+        "output": "1, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that are clothing accessories: hat, car, shoes, belt, computer, watch, necklace. Output: ",
+        "output": "hat, belt, watch, necklace\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all items from the list that could be used as gifts for a child's birthday party: mini skateboards, party supplies, stuffed animals, video games, bicycles. Output: \n",
+        "output": "stuffed animals, mini skateboards, bicycles\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that are electronic devices typically used for entertainment. \nItem List: \n1. Microwave oven\n2. Television\n3. Laptop\n4. Refrigerator\n5. Handheld gaming console\nOutput: ",
+        "output": "[2, 3, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "\"As a store manager, you receive a customer query about the availability of a 'wireless gaming mouse with a DPI switch'. List three products from your store that match the description.\"\nOutput: ",
+        "output": "\"1. Logitech G Pro Wireless Gaming Mouse\n2. Razer Basilisk X Hyperspeed Wireless Gaming Mouse\n3. Corsair Nightsword RGB Wireless Gaming Mouse\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the products from the following list that are under $50 and would make good gifts for a 10-year-old child.\nProduct List:\n1. LEGO City Police Station Building Kit, 590 Pieces\n2. Play-Doh Modeling Compound 10-Pack Case of Colors\n3. Remote Control Car, 1/24 Scale\n4. Minecraft Video Game for Xbox One\n5. Doodle Sketch Pad with 12 Colored Pencils\n6. Junior Scientist Microscope Set\n7. Barbie Dreamhouse Dollhouse with Furniture\n8. Hover Ball Toy with LED Lights\nOutput: ",
+        "output": "2, 5, 6, 8\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "You are curating a gift basket for a cooking enthusiast. Retrieve the numbers of products from the following list that would be suitable for this basket.\nProduct List:\n1. Instant Pot Duo 7-in-1 Electric Pressure Cooker\n2. OXO Good Grips 3-Piece Peeler Set\n3. Microplane Professional Series Zester\n4. KitchenAid Classic Mixer\n5.dyln Living Alkaline Water Bottle\n6. Cuisinart 12-Cup Programmable Coffee Maker\n7. Le Creuset Enameled Cast Iron 5.5 Quart Round Dutch Oven\n8. Breville Smart Oven Air\n9. Lodge Cast Iron Skillet\nOutput: ",
+        "output": "2, 3, 4, 7, 9\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all items from the list that could be used for outdoor cooking. \nProduct List: \n1. Coleman RoadTrip LXE Grill\n2. Cuisinart Cast-Iron Skillet\n3. Instant Pot Pressure Cooker\n4. Weber Smokey Mountain Cooker\n5. KitchenAid Stand Mixer\nAnswer: ",
+        "output": "[1, 2, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task type: Retrieval. Given a list of items and a specific attribute, retrieve all items that match the attribute. Attribute: 'Waterproof'. Items: 1. Smartphone, 2. Bluetooth Speaker, 3. LED Flashlight, 4. Hiking Shoes, 5. Digital Camera.\nOutput: ",
+        "output": "[2, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list below that are categorised as 'electronics'. List: 'laptop', 'candle', 'smartphone', 'perfume', 'tablet', 'rug'.\nOutput: ",
+        "output": "laptop, smartphone, tablet\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the items from the following list that could be used for outdoor activities. \nItems: Sleeping Bag, Coffee Maker, Flashlight, Laptop, Hiking Boots, Bike Helmet, Binoculars. \nAnswer: ",
+        "output": "Sleeping Bag, Flashlight, Hiking Boots, Bike Helmet, Binoculars\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list below that could be used for outdoor activities during the winter season.\nProduct List:\n1. Insulated water bottle\n2. Ski goggles\n3. Yoga mat\n4. Portable heater\n5. Snow shovel\n6. Beach towel\n7. Woolen hat\n8. Hiking boots\nYou should output the numbers that correspond to the selected products, separated by a comma.\nOutput: ",
+        "output": "1, 2, 4, 5, 7, 8\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "As a virtual shopping assistant, retrieve all items from the following list that could be used for a child's birthday party: Balloons, Paper Plates, Streamers, TV Remote, Cake Mix, Ice Cream, Toy Car. Output:",
+        "output": "\"Balloons, Paper Plates, Streamers, Cake Mix, Ice Cream, Toy Car\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task type: Retrieval\nRetrieve all items from the following list that are under $50 and belong to the 'electronics' category:\n1. Portable Bluetooth Speaker - $30\n2. Smartwatch - $120\n3. Wireless earbuds - $45\n4. Robot vacuum cleaner - $200\n5. USB flash drive - $8\nOutput: ",
+        "output": "1, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that are classified as 'electronics'. \nList: \n1. Soccer Ball\n2. Electric Kettle\n3. Cotton Shirt\n4. Cellphone\n5. Bicycle\nOutput: \n",
+        "output": "2. Electric Kettle, 4. Cellphone\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given a list of five items, retrieve all items that could be used for outdoor activities.\nList:\n1. Portable Blender\n2. Solar-Powered Lantern\n3. Waterproof Phone Case\n4. Rechargeable Flashlight\n5. Desktop Computer\nOutput: ",
+        "output": "[2, 3, 4]",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task type: Retrieval. A buyer is looking for a new pair of jeans and is specifically interested in those with a high waist. From the following list, select the three styles that best match the buyer's preference:\n1. Low-rise bootcut jeans\n2. High-rise straight-leg jeans\n3. Mid-rise skinny jeans\n4. High-rise cropped jeans\n5. Low-rise slim-fit jeans\nOutput: ",
+        "output": "2, 4, 3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "As a store manager, identify which of the following items a customer looking for a 'wireless charger' might also be interested in buying.\nProduct List: \n1. USB cable \n2. iPhone case \n3. Screen protector \n4. Power bank \n5. Headphones \nOutput: ",
+        "output": "[4, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is searching for a gift for a photography enthusiast. From the following list of 10 items, select 3 that would make the best gifts.\nProduct List:\n1. Portable Phone Tripod\n2. DSLR Camera Bag\n3. Wireless Remote Shutter Release\n4. UV Filter Set\n5. Macro Lens\n6. Camera Cleaning Kit\n7. LED Ring Light\n8. Action Camera\n9. Polarizing Filter\n10. Digital Photo Frame\nOutput: ",
+        "output": "2, 5, 7",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieval: A customer is looking for a gift for a coffee lover. They are interested in items that would be used in the preparation of coffee. Please select three items from the following list that would make good gifts.\nProduct List:\n1. Coffee beans\n2. Tea infuser\n3. Coffee grinder\n4. Espresso machine\n5. French press\n6. Milk frother\nOutput: ",
+        "output": "\"4, 3, 5\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "You are curating a gift set for a cooking enthusiast. Choose three products from the list below that would make the perfect set.\nProduct List:\n1. Fine Edge Paring Knife\n2. Non-Stick Frying Pan\n3. Automatic Ice Cream Maker\n4. Digital Meat Thermometer\n5. Cast Iron Skillet\n6. Silicone Baking Mats\n7. Professional Grade Olive Oil\nAnswer: ",
+        "output": "1, 4, 7\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the product names that could be classified as 'Electronics' from the following list.\nCandidates: [iPhone, golf club, microwave, yoga mat, Kindle, bicycle, television, instant pot, headphones]\nAnswer: ",
+        "output": "iPhone, Kindle, television, headphones\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the products from the following list that have a price above 2000 units. Output the product IDs separated by a comma.\nProducts:\n1. ID: 3456, Price: 1500\n2. ID: 7890, Price: 2500\n3. ID: 2345, Price: 1999\n4. ID: 6789, Price: 2200\n5. ID: 1298, Price: 1750\nOutput: ",
+        "output": "[7890, 6789]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all items from the list below that could be used as 'gifts for teenagers'.\nProduct List:\n1. PlayStation 5 Console\n2. Makeup Brush Set\n3. Scientific Calculator\n4. Bluetooth Speaker\n5. Bicycle Helmet\n6. Personalized Journal\nOutput: ",
+        "output": "[1, 2, 4, 5, 6]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is searching for a gift for a book lover. They have provided a list of interests: 'classic literature, historical fiction, leather-bound books'. Retrieve all the products from the following list that could be suitable gifts.\nProduct List:\n1. \"1984\" by George Orwell (leather-bound edition)\n2. \"The Great Gatsby\" by F. Scott Fitzgerald (paperback)\n3. A set of 3 minimalist bookends\n4. \"War and Peace\" by Leo Tolstoy (hardcover)\n5. A gift card to a popular coffee chain\n6. \"The Count of Monte Cristo\" by Alexandre Dumas (leather-bound)\nOutput: ",
+        "output": "1, 2, 4, 6\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that are classified as 'electronics'. Items: phone, pillow, laptop, blanket, television, book, headphones.\nOutput: \n",
+        "output": "phone, laptop, television, headphones\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all products from the list that are related to outdoor activities.\nProduct List: \n1. Portable Blender\n2. Solar-Powered Lantern\n3. Waterproof Phone Case\n4. Yoga Mat\n5. Espresso Machine\n6. Hiking Backpack\n7. Running Shoes\n8. Portable Grill\nOutput: ",
+        "output": "2, 3, 4, 6, 7, 8\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Suppose you are searching for a new pair of running shoes. You have the following options in front of you. Which three would you consider based on your need for good cushioning and arch support?\n1. Nike Air Zoom Pegasus\n2. Adidas Ultraboost\n3. New Balance 860v10\n4. Reebok Floatride Energy\n5. ASICS Gel-Kayano\nOutput: ",
+        "output": "1, 3, 5",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list below that are categorized as 'electronics'. Answer: ",
+        "output": "[Smartphone, Laptop, Bluetooth Speaker, Coffee Maker, Digital Camera]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the items from the following list that are clothing accessories:\nCandidate items: \n- baseball cap\n- microwave oven\n- silk scarf\n- leather wallet\n- coffee maker\nOutput: ",
+        "output": "baseball cap, silk scarf, leather wallet\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "You are searching for a gift for a friend who is a coffee enthusiast. Which of the following product listings should you click on to find more information? Select three numbers from the list that best match a coffee enthusiast's interests.\nCandidate List:\n1. 'French Press Coffee Maker'\n2. 'Infrared Thermometer'\n3. 'Espresso Machine with Milk Frother'\n4. 'Blender with Food Processor Attachment'\n5. '12 oz Organic Fair Trade Coffee Beans'\n6. 'Electric Kettle with Temperature Control'\n7. 'Set of 4 Melamine Salad Plates'\n8. 'Pour Over Coffee Dripper'\nOutput: ",
+        "output": "1,3,5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task type: Retrieval. A user is searching for a gift for a coffee lover. From the list provided, select three items that would make good gifts for a coffee enthusiast:\nCoffee-Related Item List:\n1. Coffee mug\n2. French press\n3. Coffee grinder\n4. Scented candle\n5. Coffee table book\n6. Espresso machine\nOutput: ",
+        "output": "2, 3, 6",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given a list of clothing items and a description of a missing item, retrieve all items that could potentially be the missing item. Output the possible matches as comma-separated numbers.\nClothing Items:\n1. Red t-shirt\n2. Blue jeans\n3. Black dress\n4. White sneakers\n5. Brown leather jacket\nDescription of Missing Item: A dark-colored top with a casual style.\nOutput: ",
+        "output": "1, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the products from the following list that have a price of over $100.\nProduct List:\n1. Bluetooth Speaker\n2. Smartwatch\n3. Wireless Earbuds\n4. Gaming Console\n5. Webcam\nOutput:",
+        "output": ": '2, 4'",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that belong to the 'Electronics' category. Answer:\n1. Samsung Galaxy S20\n2. Wooden Desk\n3. Apple MacBook Pro\n4. Nike Running Shoes\n5. Sony WH-1000XM4 Headphones\nOutput:",
+        "output": ": 1. Samsung Galaxy S20, 3. Apple MacBook Pro, 5. Sony WH-1000XM4 Headphones\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that are classified as 'electronics'. Answer: \ncandidate_items: [pen, laptop, refrigerator, book, smartphone, pillow]",
+        "output": "[laptop, refrigerator, smartphone]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task: A customer is looking for a new pair of running shoes with good cushioning. Given a list of shoe models, retrieve the three most suitable options for this customer.\nShoe Model List:\n0. Nike Air Zoom Pegasus 37\n1. Adidas Ultraboost 20\n2. New Balance 860v9\n3. Asics Gel-Kayano 27\n4. Brooks Glycerin 18\nOutput: ",
+        "output": "0, 1, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task: Retrieve all products that can be used for outdoor cooking.\nCandidate Product List:\n1. Weber Spirit E-310 Gas Grill\n2. Coleman Portable Propane Grill\n3. Lodge Cast Iron Skillet\n4. Instant Pot Duo 7-in-1 Electric Pressure Cooker\n5. Cuisinart GreenGourmet Electric Skillet\nOutput: ",
+        "output": "[1, 2, 3]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that are categorized as 'electronics'. \nItem List: \n1. Samsung Galaxy S20 FE 5G Cell Phone\n2. Women's Long Sleeve Crew Neck T-Shirt, Light Grey\n3. Portable Electric Space Heater\n4. 12-Pack of Gel Pen Highlighters\n5. Instant Pot Duo 6-Quart Pressure Cooker\nOutput: ",
+        "output": "[1, 3, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieval: A buyer is looking for a gift for a coffee enthusiast. Given the following items, retrieve all those that would make good coffee-related gifts: \nItem List: \n1. Coffee machine\n2. Tea set\n3. Espresso cup\n4. Coffee grinder\n5. Electric kettle\n6. Mug with a joke\n7. Chocolate-covered coffee beans\nOutput: ",
+        "output": "1, 3, 4, 7\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieval: A customer is looking for a book on improving focus and productivity. Which of the following books would be the most relevant for the customer to purchase?\nBook List:\n0. \"The Power of Now\"\n1. \"Deep Work: Rules for Focused Success in a Distracted World\"\n2. \"The 7 Habits of Highly Effective People\"\n3. \"The Subtle Art of Not Giving a F*ck\"\nOutput: ",
+        "output": "1\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is searching for a product to protect their smartphone from drops and impacts. They have a preference for clear cases that do not hide the phone's design. From the following list, retrieve the three product names that best match the customer's needs:\n1. iPhone Clear Bumper Case\n2. Rugged Armor Case\n3. see-through Phone Cover\n4. Sparkle Glitter Case\n5. Heavy Duty Silicone Case\nOutput:",
+        "output": ": 1, 3, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all items from the following list that are clothing accessories: 'necklace', 'car', 'gloves', 'television', 'bracelet', 'shoes'. Output: ",
+        "output": "necklace, gloves, bracelet, shoes\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is looking for a gift for a 5-year-old child who loves dinosaurs. From the following list, retrieve the 3 items that would be most suitable for the child.\nList:\n1. VTech Smart Watch\n2. Melissa & Doug Dinosaur Matching Game\n3. Transformers Action Figure\n4. Barbie Dreamhouse\n5. National Geographic Kids Dinosaur Book\n6. Playmobil Dinosaur Set\nOutput: ",
+        "output": "2, 5, 6",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task type: Retrieval. Identify all items from the following list that are classified as 'electronics' and have a price above $100.\nCandidate items:\n1. Wireless earbuds - $80\n2. Smart TV - $300\n3. Portable speakers - $50\n4. Gaming console - $200\n5. Coffee maker - $70\nOutput: ",
+        "output": "Smart TV, Gaming console\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "As a clothing store owner, you want to suggest denim jackets to your customers. Which of the following products from the list should you recommend?\nProduct List:\n1. Levi's Men's Trucker Jacket\n2. Calvin Klein Men's Slim Fit Suit Jacket\n3. Wrangler Men's Rugged Wear Denim Jacket\n4. Michael Kors Women's Ruched Sleeve Jacket\n5. Tommy Hilfiger Men's Classic Denim Jacket\nOutput: ",
+        "output": "[1, 3, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is looking for a gift for a coffee enthusiast. Select the three most suitable products from the list. Output the numbers of the selected products separated by commas. \nProduct List: \n1. Tea Infuser\n2. Handheld Milk Frother\n3. Coffee Grinder\n4. Digital Thermometer\n5. Set of 4 Ceramic Mugs\n6. Single Serve Coffee Maker\n7. Espresso Machine\n8. Coffee Bean Storage Container\nOutput: ",
+        "output": "[3, 2, 8]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given a user query for 'wireless earbuds' and the following list of features, select three features that the user is most likely looking for:\nFeature List:\n1. Noise cancellation\n2. Battery life\n3. Price\n4. Water resistance\n5. Sound quality\nOutput (answer in three comma-separated numbers): \n",
+        "output": "[1, 2, 5]",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that are suitable for a winter camping trip:\nList: \n1. Lightweight sleeping bag\n2. Portable gas heater\n3. Insulated water bottle\n4. Ski goggles\n5. Beach towel\n6. Woolen socks\n7. Multi-tool knife\n8. Solar-powered flashlight\nOutput:",
+        "output": "2, 3, 4, 6, 7\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieval: Find all items from the following list that could be described as 'wireless charging compatible'.\n0. Smartwatch with nylon strap\n1. iPhone case with built-in battery\n2. Wireless charging pad\n3. Bluetooth earbuds\nAnswer: ",
+        "output": "2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that are categorized as 'electronics'. Answer: \n['smart watch', 'cotton socks', 'laptop', 'wooden chair', 'game console', 'plant pot']",
+        "output": "['smart watch', 'laptop', 'game console']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list below that could be used for outdoor cooking: 1. Gas grill, 2. Blender, 3. Instant pot, 4. Charcoal, 5. Frying pan, 6. Propane tank. Output the item numbers separated by commas. Output:",
+        "output": "1, 4, 5, 6\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Suppose you are searching for a gift for a coffee enthusiast. Which of the following products would you consider? Select three items from the list:\n1. Espresso machine\n2. Coffee beans\n3. Blender\n4. Tea set\n5. Coffee grinder\n6. Toaster\n7. French press\n8. Electric kettle\nOutput: ",
+        "output": "\"1, 2, 5.\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given a list of 10 products, retrieve the names of the products that are likely to be used for home decoration. \nProduct List: \n1. Power Drill\n2. Decorative Pillow\n3. LED Strip Lights\n4. Garden Hose\n5. Area Rug\n6. Wall Clock\n7. Screwdriver Set\n8. Artificial Plant\n9. Desk Lamp\n10. Picture Frame\nOutput: ",
+        "output": "[2, 3, 5, 6, 8, 10]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that are clothing accessories.\nList: \n1. Sunglasses\n2. Laptop\n3. Handbag\n4. Mouse\n5. Scarf\n6. Notebook\nAnswer: ",
+        "output": "1, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the product names from the following text that could be classified as clothing items.\nText: \"I went to the mall and bought a nice sweater, a pair of jeans, and some cute earrings.\"\nAnswer: ",
+        "output": "sweater, jeans\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given the following list of items, retrieve all items that would be suitable for a 'gaming' setup.\nItem List:\n0. LED monitor\n1. Office chair\n2. Mechanical keyboard\n3. Wireless mouse\n4. Soundbar\n5. Desk lamp\nOutput: ",
+        "output": "0, 2, 3, 4",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Suppose you are searching for a gift for a friend who loves cooking. Which of the following items would be the best choice?\nCandidate Item List:\n1. Coffee Maker\n2. Knife Set\n3. Blender\n4. Waffle Maker\n5. Video Game Console\nSelect the number that corresponds to the best choice. Only respond with the number.\nOutput: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all products from the list that are suitable for outdoor activities.\nProduct List: \n1. Waterproof hiking boots\n2. Lightweight running shoes\n3. Yoga mat\n4. Cycling helmet\n5. Desktop computer\nOutput:",
+        "output": ": 1, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "As a virtual shopping assistant, suggest three products that customers looking for a gaming keyboard should consider buying.\nProduct List: \n1. Logitech G413 Mechanical Gaming Keyboard\n2. Razer BlackWidow Tournament Edition Gaming Keyboard\n3. Corsair K95 RGB PLATINUM Gaming Keyboard\n4. HyperX Alloy FPS Gaming Keyboard\n5. Dell G5 Gaming Desktop\nYou should output 3 numbers that correspond to the selected products. There should be a comma separating every two numbers. Only respond with the results. Do not say any word or explanations.\nOutput: ",
+        "output": "[1, 2, 3]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all products from the list that are suitable for camping: \nProduct List: \n1. Portable gas stove\n2. LED lantern\n3. Instant coffee\n4. Beach towel\n5. Hiking boots\nOutput: ",
+        "output": "1, 2, 5",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all the items from the following list that could be used for camping: tent, sleeping bag, smartphone, lantern, pillow, microwave oven, coffee maker. Output: ",
+        "output": "tent, sleeping bag, lantern, pillow\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all products from the list that are categorized as 'electronics'. \nList: 1. Sofa, 2. Microwave, 3. Blender, 4. LCD TV, 5. Bookshelf.\nAnswer: ",
+        "output": "2. Microwave, 3. Blender, 4. LCD TV\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task: Retrieve all items from the list that are electronic devices.\nList: 1. Sofa, 2. Microwave, 3. Laptop, 4. Refrigerator, 5. Television, 6. Carpet.\nOutput: ",
+        "output": "2, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all items from the list that are suitable for use in the kitchen.\nProduct List: \n1. Non-stick Frying Pan\n2. Waterproof Action Camera\n3. Knife Set with Block\n4. Portable Bluetooth Speaker\n5. Digital Food Scale\nOutput: ",
+        "output": "1, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the items from the list that are clothing accessories.\nList: \n1. Handheld gaming console\n2. Silk scarf\n3. Wireless earbuds\n4. Woolen hat\n5. Robot vacuum cleaner\nOutput: ",
+        "output": "2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given a list of electronics accessories, retrieve all items that can be used with a smartphone. \nAccessory List:\n1. Phone case\n2. Tablet stand\n3. Wireless charger\n4. Laptop cooling pad\n5. Selfie stick\n6. Headphones\n7. Bluetooth speaker\nOutput: ",
+        "output": "1, 3, 5, 6, 7\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that could be used for home decoration: \nItem List: \n1. LED Strip Lights\n2. Canvas Wall Art\n3. Area Rug\n4. Power Drill\n5. Artificial Plants\n6. Curtain Rods\n7. Socket Set\nOutput: ",
+        "output": "1, 2, 3, 5, 6\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieval: A customer is looking for a new pair of running shoes. They have a preference for neutral cushioning and are on a budget. Select 3 options from the list below that could fit the customer's needs.\nList:\n1. ASICS Gel Nimbus\n2. Nike Zoom Pegasus\n3. Adidas Ultraboost\n4. New Balance 860v10\n5. Under Armour HOVR\nOutput: ",
+        "output": "1, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the product names from the following paragraph that are related to electronics.\nParagraph: 'I purchased a new laptop, a pair of wireless headphones, and a smart watch from the electronics store. The salesperson also recommended a microwave oven and a coffee maker, but I decided to stick with the gadgets for now.'\nOutput: ",
+        "output": "laptop, wireless headphones, smart watch\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all products from the list below that are electronic and can be used for gaming.\nCandidates: [game console, pillow, smartphone, skateboard, laptop, headset]\nAnswer: ",
+        "output": "game console, smartphone, laptop, headset\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that could be used as gifts for a child's birthday party.\nProduct List:\n1. Lego City Fire Station\n2. Barbie Dreamhouse\n3. Nintendo Switch\n4. Board Game: Ticket to Ride\n5. Makeup Set for Adults\n6. Remote Control Car\n7. Disney Princess Dolls\nOutput: ",
+        "output": "1, 2, 4, 6, 7\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task type: Retrieval. A customer is interested in purchasing a wireless router. Select the three most suitable products from the list below.\nProduct List:\n1. Gaming Console\n2. Wi-Fi Range Extender\n3. High-Speed Wireless Router with MU-MIMO Technology\n4. Bluetooth Speaker\n5. Tri-Band Gigabit Router with VPN Support\n6. Smart Plug\n7. 4G LTE Mobile Hotspot\nOutput: ",
+        "output": "3, 5, 2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "You are looking to buy a gift for a friend who is an outdoor enthusiast. They enjoy activities such as hiking, camping, and rock climbing. Retrieve all items from the list that would be suitable for their interests.\nCandidate Items:\n1. Osprey Aether 70 Backpack\n2. Columbia Bugaboo II Fleece Jacket\n3. Petzl Tikka Headlamp\n4. Apple iPad Pro 12.9-Inch\n5. Keen Targhee II Waterproof Hiking Boot\n6. Garmin Forerunner 945 GPS Watch\n7. CamelBak Chute Water Bottle\n8. GoPro HERO10 Black Action Camera\nOutput:\nAnswer: ",
+        "output": "1, 2, 3, 5, 6, 7, 8\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that are suitable for 'outdoor cooking'. \nProduct List: \n1. Portable Propane Grill\n2. Induction Cooktop\n3. Stainless Steel Frying Pan\n4. Cast Iron Dutch Oven\n5. Electric Kettle\nOutput: ",
+        "output": "1, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all products from the list that are classified as electronics and are used for personal grooming.\nProduct List:\n1. Electric Toothbrush\n2. Portable Speaker\n3. Hair Dryer\n4. Bluetooth Headset\n5. Makeup Brush Set\nOutput: ",
+        "output": "1, 3, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that are categorized as 'Electronics'. Answer: ",
+        "output": "['Laptop', 'Smartphone', 'Tablet', 'TV']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all items from the list that belong to the 'Electronics' category.\nList: Pen, Laptop, Book, Television, Couch, Smartphone.\nOutput: ",
+        "output": "Laptop, Television, Smartphone\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that could be used as gifts for a child's birthday party: 'teddy bear', 'necktie', 'stuffed dinosaur', 'board game', 'necklace', 'bicycle helmet', 'play dough'. Answer: ",
+        "output": "['teddy bear', 'stuffed dinosaur', 'board game', 'play dough']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "As a customer service representative, you are helping a customer find a compatible phone case for their Samsung Galaxy S21. Retrieve all the items from the following list that would be suitable for the Samsung Galaxy S21.\n\nCase List:\n1. Spigen Rugged Armor Case for Samsung Galaxy S20 FE\n2. OtterBox Defender Series Case for Samsung Galaxy S21\n3. Speck Presidio Pro Case for iPhone 12\n4. Ringke Fusion X Case for Samsung Galaxy Note 20\n5. Trianium Atomic Pro Case for Samsung Galaxy S21\nOutput: ",
+        "output": "2, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieval: A buyer is looking for a gift for a 'book lover'. Select 3 items from the following list that would make good gifts.\nItem List:\n1. E-Reader\n2. Bookends\n3. Coffee Mug\n4. Desk Organizer\n5. Hardcover Book\n6. Reading Light\n7. Bookmark\n8. Bookshelf\nOutput: ",
+        "output": "2, 5, 7\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all product names from the following list that are categorized as 'electronics'. \nProduct List: \n1. Organic Cotton T-Shirt\n2. Samsung Galaxy Tab S7\n3. Bamboo Cutting Board\n4. Apple MacBook Pro 16\"\n5. Handcrafted Wooden Frame\n6. Google Home Mini\nYou should output the indices of the products, separated by a comma. Do not include the product names in your answer.",
+        "output": "[2, 4, 6]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all product names that could be classified as 'electronics' from the following list.\nProduct List:\n1. Samsung Galaxy Tab S7\n2. Leather Notebook\n3. Apple AirPods\n4. Wooden Pencil Set\n5. Bose SoundLink Speaker\n6. Silk Scarf\n7. Google Pixel 4a\nOutput: ",
+        "output": "[1, 3, 5, 7]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that could be described as 'waterproof'. Output the item numbers separated by commas.\nItem List:\n1. Water-resistant smartphone case\n2. Silk scarf\n3. LED flashlight\n4. Canvas messenger bag\n5. Floating waterproof phone pouch\n6. Terry cloth bathrobe\n7. Stainless steel water bottle\nOutput: ",
+        "output": "1, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all items from the list that belong to the 'Electronics' category.\nCandidates: [laptop, cotton shirt, smart watch, pillow, smartphone]\nAnswer: ",
+        "output": "laptop, smart watch, smartphone\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that are categorized as 'electronics' and have a price above 50 dollars.\nList: \n- Pen (price: 1.50)\n- Notebook (price: 5.00)\n- Laptop (price: 300.00)\n- Mouse (price: 20.00)\n- Keyboard (price: 30.00)\n- TV (price: 500.00)\nAnswer: ",
+        "output": "Laptop, TV\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task type: Retrieval. A customer is looking for a gift for a coffee lover. From the following list, select three items that would make the best gifts for a coffee enthusiast. \nGift List: \n1. French Press Coffee Maker \n2. Electric Kettle \n3. Bluetooth Speaker \n4. Coffee Grinder \n5. Tea Set \nOutput the numbers of the chosen items separated by commas. ",
+        "output": "\"1, 2, 4\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all items from the following list that are classified as 'Electronics'.\n0. 'Smartwatch'\n1. 'Cotton T-Shirt'\n2. 'Wireless Router'\n3. 'Frying Pan'\n4. 'Gaming Console'\nAnswer: ",
+        "output": "0, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "You are searching for a gift for a friend who loves cooking. Given the following list of items, select all that could be considered good cooking gifts. Output the item numbers, separated by commas.\n1. 'Cookbook: 1000 recipes for beginners'\n2. 'Instant Pot Pressure Cooker'\n3. 'Bamboo Cutting Board'\n4. 'Smartphone'\n5. 'Set of Non-Stick Pans'\nOutput: ",
+        "output": "1, 2, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all product names that are related to car lighting from the following list.\nProduct List:\n1. High Gloss Car Wax by Auto Magic\n2. Sylvania 9005 SilverStar Ultra Headlight\n3. LASFIT H11/H8/H9 LED Headlight Bulbs\n4. Xprite LED Tailgate Light Bar for Trucks\n5. Mothers California Gold Car Wash\nAnswer: ",
+        "output": "Sylvania 9005 SilverStar Ultra Headlight, LASFIT H11/H8/H9 LED Headlight Bulbs, Xprite LED Tailgate Light Bar for Trucks\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that are categorised as clothing.\nCandidates: \n1. 'Jeanswest Men's Slim-Fit Jeans'\n2. 'Apple iPhone 13 Pro Max'\n3. 'Adidas Originals Women's Trefoil Hoodie'\n4. 'Bose QuietComfort Earbuds'\n5. 'ZARA Checked Shirt for Men'\nAnswer: ",
+        "output": "1, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "You are an inventory manager tasked with finding products that are low in stock. Given a list of items and their stock levels, retrieve the items that have a stock level of 10 or less.\nItem A: Stock Level - 5\nItem B: Stock Level - 15\nItem C: Stock Level - 8\nItem D: Stock Level - 20\nOutput: ",
+        "output": "Item A, Item C\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieval: Find all the items from the following list that are clothing accessories.\nProduct List: \n1. Sunglasses\n2. Baseball Cap\n3. Laptops\n4. Handheld GPS Device\n5. Scarf\n6. Smart Watch\nOutput: ",
+        "output": "[1, 2, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that are categorized as 'electronics'. Answer:\nItem List:\n1. iPhone 13\n2. Samsung Galaxy S21\n3. Nike Running Shoes\n4. Sony PlayStation 5\n5. Levi's Jeans\nOutput:",
+        "output": ": [1, 2, 4]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task type: Retrieval. Given a list of items and a user's shopping list, identify which items from the list match the user's needs.\nUser's Shopping List: apples, bananas, toothpaste\nItem List: \n1. oranges\n2. bananas\n3. toothbrush\n4. apples\n5. shampoo\nOutput: ",
+        "output": "\"bananas, apples\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that could be considered as 'electronics accessories'.\n0. iPhone case\n1. sunglasses\n2. keyboard cleaner\n3. HDMI cable\n4. yoga mat\nAnswer: ",
+        "output": "0, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Find all the items from the list below that could be used for cooking outdoors.\nList:\n1. portable gas stove\n2. cast iron skillet\n3. Instant camera\n4. water filter\n5. sleeping bag\n6. mess kit\n7. foldable chair\n8. solar-powered lantern\n9. multi-tool\nOutput: ",
+        "output": "[1, 2, 4, 6, 8, 9]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieval: Given a list of items, retrieve all items that are suitable for a beach vacation: 1. Sunscreen, 2. Ski Jacket, 3. Beach Towel, 4. Snowboard, 5. Swimsuit.\nOutput: ",
+        "output": "\"1, 3, 5\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that are classified as 'electronics'. \nList: \n1. Sofa\n2. Coffee Maker\n3. Television\n4. Book\n5. Laptop\n6. Plant\nOutput: ",
+        "output": "2, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all items from the following list that are clothing accessories:\nCandidates: hat, chair, belt, pen, socks, necklace, table.\nAnswer: ",
+        "output": "hat, belt, socks, necklace\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list below that could be used for a 'home office setup'.\nProduct List:\n1. Ergonomic Office Chair\n2. Wireless Router\n3. Coffee Maker\n4. Adjustable Monitor Stand\n5. Vintage Typewriter\n6. Desk Organizer\n7. LED Desk Lamp\n8. Headset with Noise-Cancelling Microphone\nOutput: ",
+        "output": "1, 2, 4, 6, 7, 8\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer has just bought a new 'Nintendo Switch'. Which of the following accessories might they be interested in purchasing next? \nAccessory List:\n1. Charging Dock\n2. Screen Protector\n3. Silicone Case\n4. Joy-Con Controller\n5. Headphones\n6. Carrying Case\nPlease select 3 numbers corresponding to the accessories. Output only the numbers, separated by commas.\nOutput: ",
+        "output": "1, 2, 6\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all products in the 'electronics' category that have a price above $200.\nCandidate Item List:\n1. LED TV - $150\n2. Wireless Router - $90\n3. DSLR Camera - $250\n4. Smartwatch - $180\n5. Gaming Console - $300\nOutput: ",
+        "output": "DSLR Camera, Gaming Console\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the items from the list that are clothing items.\nList:\n0. Apple iPhone 13\n1. Nike Running Shoes\n2. Samsung Galaxy Watch\n3. Levi's Jeans\n4. Adidas Hoodie\n5. Microsoft Surface Laptop\nOutput (list item numbers separated by commas):",
+        "output": "1, 3, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the products from the list that are under $50 and fall into the category of 'home decor': \nProduct List: \n1. Decorative Pillow, $30 \n2. Abstract Art Print, $20 \n3. LED Desk Lamp, $45 \n4. Wool Area Rug, $120 \n5. Vintage Wall Clock, $35 \nYou should output the numbers of the products that meet the criteria. Separate the numbers with a comma. Only respond with the results. Output:",
+        "output": "\"1, 2, 3, 5\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "You are searching for a gift for a friend who loves to read. You want to find an e-reader that is easy on the eyes and has a large storage capacity. From the following list, retrieve all e-readers that have a glare-free display and at least 8GB of internal storage.\n\nCandidate E-readers:\n1. Kindle Paperwhite - 6\u201d with 8GB storage\n2. Kobo Clara HD - 6\u201d with 8GB storage\n3. Nook GlowLight 3 - 6\u201d with 8GB storage\n4. Kindle Oasis - 7\u201d with 32GB storage\n5. Sony DPT-RP1 - 13.3\u201d with 16GB storage\nOutput: ",
+        "output": "1, 2, 3, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list below that are suitable for a winter clothing shopping list:\nItem List:\n1. Bikini\n2. Sunglasses\n3. Scarf\n4. Gloves\n5. Snow boots\n6. Tank top\n7. Jeans\n8. Coat\nOutput: ",
+        "output": "3, 4, 5, 7, 8",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that are in the 'Electronics' category.\nList: \n1. LED TV\n2. Handmade Jewelry\n3. Vintage Book\n4. Smartwatch\n5. Wooden Chair\nOutput: ",
+        "output": "1. LED TV, 4. Smartwatch\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Given the following attributes, retrieve all the product numbers from the list that match the description for a microwave oven: 'capacity 1.5 cubic feet, touchpad controls, sensor cooking.' Product List: \n1. Microwave Oven - 1002345\n2. Convection Oven - 5678123\n3. Microwave Oven - 4567890 (capacity 1.2 cubic feet)\n4. Toaster Oven - 3456789\n5. Microwave Oven - 2345678 (touchpad controls)\n6. Microwave Oven - 5678910 (sensor cooking)\n7. Microwave Oven - 1234567 (1.5 cubic feet)\nOutput: ",
+        "output": "'1002345, 2345678, 5678910, 1234567'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the brands mentioned in the following product reviews:\nReview 1: \"I love my new Apple Watch, it's a great companion for my morning runs.\"\nReview 2: \"The Samsung Galaxy Buds are the best wireless earbuds I've ever owned.\"\nReview 3: \"I can't recommend the Fitbit Charge enough, it's perfect for tracking daily steps.\"\nOutput: ",
+        "output": "[Apple, Samsung, Fitbit]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that are electronic devices. Answer: \n1. Wooden cutting board\n2. Apple MacBook Air\n3. Samsung Galaxy Tab S7\n4. Handmade ceramic mug\n5. Sony WH-1000XM4 headphones\nOutput: ",
+        "output": "2, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that are categorized as 'electronics'. \nItems: smart watch, cotton shirt, video game console, apple, lipstick.\nOutput: ",
+        "output": "smart watch, video game console\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that are in the 'electronics' category.\nCandidate items: \n1. Samsung Galaxy S21\n2. Nike Air Max 90\n3. Apple MacBook Air\n4. Fender Stratocaster Guitar\n5. Sony WH-1000XM4 Headphones\nOutput: \n",
+        "output": "1. Samsung Galaxy S21, 3. Apple MacBook Air, 4. Fender Stratocaster Guitar, 5. Sony WH-1000XM4 Headphones\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the items from the list that could be used as gifts for a child's birthday party.\nProduct List:\n1. Lego Star Wars Millennium Falcon Building Kit\n2. Barbie Dreamhouse Dollhouse with Elevator\n3. Remote Control Dinosaur Toy\n4. Disney Princess Dress-Up Trunk\n5. Instant Pot Duo Multi-Use Pressure Cooker\n6. Jenga Classic Game\nOutput: ",
+        "output": "1, 2, 3, 4, 6\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the product names from the following text that could be classified as 'electronics'.\nText: I bought a new television, a laptop, and a set of speakers for my living room. I also purchased a pillow and a blanket.\nOutput: ",
+        "output": "television, laptop, speakers\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that are classified as 'electronics'. Answer: ",
+        "output": "['laptop', 'smartphone', 'tablet', 'smart watch']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the products from the following list that could be used for outdoor activities.\nProduct List:\n1. North Face Apex Bionic 2 Jacket\n2. Ray-Ban Aviator Sunglasses\n3. Sony WH-1000XM4 Wireless Noise-Canceling Headphones\n4. CamelBak Chute Water Bottle\n5. Apple iPad Mini (latest model)\n6. Columbia Silver Ridge Convertible Pants\nOutput: ",
+        "output": "1, 2, 4, 6\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that could be used as gifts for a child's birthday party.\nCandidate Items:\n1. stuffed animal\n2. video game\n3. board game\n4. cooking oil\n5. toy car\n6. hairbrush\nOutput: ",
+        "output": "1, 2, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that could be used for outdoor activities: \n- Item A: 'LED headlamp'\n- Item B: 'Bean bag chair'\n- Item C: 'Waterproof phone case'\n- Item D: 'Folding camping shovel'\nOutput: ",
+        "output": "A, C, D",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "As a shopping assistant, retrieve all items from the list that are suitable for 'outdoor adventure'. \nProduct List:\n1. Portable Water Filter\n2. Instant Coffee Packs\n3. Solar-Powered Lantern\n4. Silk Sleep Sack\n5. Hiking Boots\nOutput (answer with product numbers separated by a comma): ",
+        "output": "1, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all products from the following list that are under $50 and belong to the 'electronics' category. Output the product names only, separated by a comma.\nProduct List:\n1. Portable Charger, $30\n2. Bluetooth Speaker, $45\n3. Smartwatch, $120\n4. Wired Headphones, $25\n5. DSLR Camera, $500\n6. USB Flash Drive, $20\nOutput: ",
+        "output": "Portable Charger, Bluetooth Speaker, Wired Headphones, USB Flash Drive\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the products from the list that are suitable for outdoor use. Product list: \n1. Portable Blender, USB Rechargeable\n2. Water-Resistant LED Lantern\n3. 5-in-1 Survival Whistle with Compass\n4. Electric Kettle, 1.7L Fast Boiling\n5. Foldable Portable Camping Stove\nOutput: ",
+        "output": "[2, 3, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Retrieve all the products from the list below that are categorized as 'Electronics'. \nProduct List: \n1. Samsung Galaxy Tab A 10.1\n2. Women's Summer Dress\n3. Apple MacBook Air\n4. Wooden Coffee Table\n5. Sony WH-1000XM4 Wireless Headphones\nAnswer: ",
+        "output": "1, 3, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all products that are categorized as 'electronics' and have a price range below $50 from the following list.\nProduct List:\n1. Portable Bluetooth Speaker - $30\n2. Wireless Mouse - $25\n3. Smart Watch - $120\n4. Keyboard Cleaner - $5\n5. Gaming Headset - $60\nOutput: ",
+        "output": "1, 2, 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list that are priced under $50:\nItem List:\n1. Wireless earbuds - $30\n2. Smart bulb - $20\n3. Robot vacuum cleaner - $150\n4. Fitness tracker - $45\n5. Portable charger - $25\nOutput:",
+        "output": "1, 2, 4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "As a personal stylist, you're looking for items that match your client's request for 'vintage-inspired, bohemian\u670d\u9970'. From the provided list, select the three most fitting items for this style. Output ONLY three numbers separated with comma. \n\nCandidate Clothing List:\n1. A-line Midi Dress with Floral Print\n2. Bell-Sleeve Lace Top with Embroidery\n3. High-Waist Denim Shorts with Frayed Hem\n4. Maxi Dress with Ethnic Print\n5. Crochet Kimono Cardigan\n6. Pencil Skirt with Polka Dots\n7. Leather Biker Jacket\n8. Peasant Blouse with Lace Trim\n9. Wide-Legged Pants with Floral Pattern\n10. Skinny Jeans\n\nOutput: ",
+        "output": "[4, 5, 8]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "You are an AI shopping assistant. Retrieve all items from the following list that are categorized as 'electronics'. \nItem List: \n1. Wooden Desk Organizer\n2. iPhone 12\n3. Samsung Galaxy Tab S7\n4. Ballpoint Pens, 10-pack\n5. Portable Bluetooth Speaker\nOutput: ",
+        "output": "[2, 3, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "A customer is looking for a new pair of noise-canceling headphones. From the following list, please retrieve the two items that are most likely noise-canceling headphones. Product List: 1. Wireless Earbuds 2. Over-Ear Headphones 3. Bluetooth Speaker 4. Noise-Canceling Headphones 5. Gaming Headset.\nOutput: ",
+        "output": "4, 5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the list below that could be used for camping purposes.\nProduct List:\n1. Portable Charcoal Grill\n2. LED Flashlight\n3. Instant Coffee, 100 count\n4. Rechargeable Battery Pack\n5. Silk Pillowcase\n6. Multi-tool Pocket Knife\n7. Solar-powered Lantern\n8. Waterproof Phone Case\n9. Duct Tape\nOutput: ",
+        "output": "1, 2, 4, 6, 7, 8, 9\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Task type: Retrieval. A customer is looking for a new pair of running shoes. Based on their preference for lightweight shoes with good cushioning, retrieve the products from the following list that they should consider:\nProduct List:\n1. Nike Air Zoom Pegasus 37\n2. Adidas Ultra Boost 20\n3. New Balance Fresh Foam 1080v9\n4. Under Armour Men's UAHOVR Sonic 3\n5. Reebok Floatride Energy 3\nYou should output 3 numbers that correspond to the selected products. There should be a comma separating every two numbers. Only respond with the results. Do not say any word or explanations.\nOutput: ",
+        "output": "1, 2, 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that are electronic devices and require a power source.\n0. pen\n1. smartphone\n2. notepad\n3. microwave\n4. watch\n5. hair dryer\nOutput: \n",
+        "output": "smartphone, microwave, hair dryer\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieval: A buyer is interested in purchasing a gift for a coffee lover. From the provided options, retrieve the three products that would make the best gifts for a coffee enthusiast.\nProduct List:\n1. Coffee beans\n2. Tea infuser\n3. Coffee grinder\n4. Latte art set\n5. Electric kettle\n6. Coffee machine\nOutput: ",
+        "output": "\"1, 4, 3\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieval: A customer is looking for a 'smart watch compatible with Android phones'. From the following list, retrieve all the items that could potentially be smart watches.\nProduct List:\n1. Apple Watch Series 6 (GPS + Cellular, 40mm)\n2. Samsung Galaxy Watch Active2 Smart Watch (Bluetooth)\n3. Fitbit Versa 3 Health and Fitness Smart Watch\n4. Fossil Women's Gen 5E Stainless Steel Touchscreen Smartwatch\n5. Timex Men's Expedition Scout 40 Watch\nOutput: ",
+        "output": "\"2, 3, 4\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that belong to the 'electronics' category.\nCandidate items: \n- Samsung Galaxy S21 5G\n- Women's Summer Dress\n- Apple MacBook Air\n- Nike Running Shoes\n- Sony WH-1000XM4 Wireless Headphones\nOutput: \n",
+        "output": "Samsung Galaxy S21 5G, Apple MacBook Air, Sony WH-1000XM4 Wireless Headphones\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all the items from the following list that could be used for camping.\n0. sleeping bag\n1. microwave oven\n2. portable grill\n3. hair dryer\n4. tent\nAnswer: ",
+        "output": "sleeping bag, portable grill, tent\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "retrieval",
+        "instruction": "Retrieve all items from the following list that are categorized as 'electronics'. Output the item numbers and names.\nItem List:\n1. Wooden Desk\n2. Samsung Galaxy S20\n3. Leather Office Chair\n4. Apple MacBook Pro\n5. Metal Bookshelf\nOutput: ",
+        "output": "2. Samsung Galaxy S20, 4. Apple MacBook Pro\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "Task: Retrieve all items from the list below that would be suitable for a college student's back-to-school shopping list.\nItems:\n1. Laptop\n2. Bedding set\n3. Gym clothes\n4. Textbooks\n5. Gaming console\n6. Notebooks\n7. Headphones\nOutput: ",
+        "output": "1, 2, 4, 6, 7\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Retrieval",
+        "instruction": "A customer is looking for a 'wireless earbuds' set that is specifically designed for sports. Given the following list of products, retrieve all that are likely to be wireless earbuds designed for sports.\nProduct List:\n1. In-Ear Headphones with Microphone\n2. Noise-Cancelling Wireless Over-Ear Headphones\n3. Waterproof Bluetooth Earbuds for Running\n4. Wired In-Ear Earphones with 3.5mm Jack\n5. Wireless Earbuds with Sports Hook\nOutput: ",
+        "output": "[3, 5]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    }
+]

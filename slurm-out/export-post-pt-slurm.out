@@ -1,0 +1,73 @@
+/HOME/scz4074/.conda/envs/fine-tuning-LLM/lib/python3.11/site-packages/torch/cuda/__init__.py:141: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 11070). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at ../c10/cuda/CUDAFunctions.cpp:108.)
+  return torch._C._cuda_getDeviceCount() > 0
+/HOME/scz4074/.conda/envs/fine-tuning-LLM/lib/python3.11/site-packages/bitsandbytes/cextension.py:34: UserWarning: The installed version of bitsandbytes was compiled without GPU support. 8-bit optimizers, 8-bit multiplication, and GPU quantization are unavailable.
+  warn("The installed version of bitsandbytes was compiled without GPU support. "
+[INFO|tokenization_utils_base.py:2082] 2024-06-25 00:27:11,093 >> loading file tokenizer.model
+[INFO|tokenization_utils_base.py:2082] 2024-06-25 00:27:11,119 >> loading file tokenizer.json
+[INFO|tokenization_utils_base.py:2082] 2024-06-25 00:27:11,120 >> loading file added_tokens.json
+[INFO|tokenization_utils_base.py:2082] 2024-06-25 00:27:11,120 >> loading file special_tokens_map.json
+[INFO|tokenization_utils_base.py:2082] 2024-06-25 00:27:11,120 >> loading file tokenizer_config.json
+[INFO|configuration_utils.py:724] 2024-06-25 00:27:11,850 >> loading configuration file Yi-9B/config.json
+[INFO|configuration_utils.py:789] 2024-06-25 00:27:11,851 >> Model config LlamaConfig {
+  "_name_or_path": "Yi-9B",
+  "architectures": [
+    "LlamaForCausalLM"
+  ],
+  "attention_bias": false,
+  "attention_dropout": 0.0,
+  "bos_token_id": 1,
+  "eos_token_id": 2,
+  "hidden_act": "silu",
+  "hidden_size": 4096,
+  "initializer_range": 0.02,
+  "intermediate_size": 11008,
+  "max_position_embeddings": 4096,
+  "model_type": "llama",
+  "num_attention_heads": 32,
+  "num_hidden_layers": 48,
+  "num_key_value_heads": 4,
+  "pad_token_id": 0,
+  "pretraining_tp": 1,
+  "rms_norm_eps": 1e-06,
+  "rope_scaling": null,
+  "rope_theta": 10000,
+  "tie_word_embeddings": false,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.39.0",
+  "use_cache": true,
+  "vocab_size": 64000
+}
+
+/HOME/scz4074/.conda/envs/fine-tuning-LLM/lib/python3.11/site-packages/bitsandbytes/libbitsandbytes_cpu.so: undefined symbol: cadam32bit_grad_fp32
+06/25/2024 00:27:11 - INFO - llmtuner.model.patcher - Using KV cache for faster generation.
+[INFO|modeling_utils.py:3280] 2024-06-25 00:27:13,909 >> loading weights file Yi-9B/model.safetensors.index.json
+[INFO|modeling_utils.py:1417] 2024-06-25 00:27:13,943 >> Instantiating LlamaForCausalLM model under default dtype torch.float32.
+[INFO|configuration_utils.py:928] 2024-06-25 00:27:13,943 >> Generate config GenerationConfig {
+  "bos_token_id": 1,
+  "eos_token_id": 2,
+  "pad_token_id": 0
+}
+
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [01:06<01:06, 66.16s/it]Loading checkpoint shards: 100%|██████████| 2/2 [02:13<00:00, 66.72s/it]Loading checkpoint shards: 100%|██████████| 2/2 [02:13<00:00, 66.63s/it]
+[INFO|modeling_utils.py:4024] 2024-06-25 00:29:28,997 >> All model checkpoint weights were used when initializing LlamaForCausalLM.
+
+[INFO|modeling_utils.py:4032] 2024-06-25 00:29:28,997 >> All the weights of LlamaForCausalLM were initialized from the model checkpoint at Yi-9B.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use LlamaForCausalLM for predictions without further training.
+[INFO|configuration_utils.py:881] 2024-06-25 00:29:29,024 >> loading configuration file Yi-9B/generation_config.json
+[INFO|configuration_utils.py:928] 2024-06-25 00:29:29,024 >> Generate config GenerationConfig {
+  "bos_token_id": 1,
+  "eos_token_id": 2,
+  "pad_token_id": 0
+}
+
+06/25/2024 00:29:29 - INFO - llmtuner.model.utils.attention - Using torch SDPA for faster training and inference.
+06/25/2024 00:29:29 - INFO - llmtuner.model.adapter - Fine-tuning method: LoRA
+06/25/2024 00:29:33 - INFO - llmtuner.model.adapter - Merged 1 adapter(s).
+06/25/2024 00:29:33 - INFO - llmtuner.model.adapter - Loaded adapter(s): LLaMA-Factory/LLaMA-Factory-main/saves/Yi-9B/post-pt-1
+06/25/2024 00:29:33 - INFO - llmtuner.model.loader - all params: 8829407232
+[INFO|configuration_utils.py:471] 2024-06-25 00:29:37,909 >> Configuration saved in Yi-9B-post-pt/config.json
+[INFO|configuration_utils.py:697] 2024-06-25 00:29:37,912 >> Configuration saved in Yi-9B-post-pt/generation_config.json
+[INFO|modeling_utils.py:2482] 2024-06-25 00:30:22,222 >> The model is bigger than the maximum size per checkpoint (5GB) and is going to be split in 4 checkpoint shards. You can find where each parameters has been saved in the index located at Yi-9B-post-pt/model.safetensors.index.json.
+[INFO|tokenization_utils_base.py:2502] 2024-06-25 00:30:22,227 >> tokenizer config file saved in Yi-9B-post-pt/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2511] 2024-06-25 00:30:22,229 >> Special tokens file saved in Yi-9B-post-pt/special_tokens_map.json
+The OrderedVocab you are attempting to save contains holes for indices [3, 4, 5, 9, 10, 11, 12, 13], your vocabulary could be corrupted !

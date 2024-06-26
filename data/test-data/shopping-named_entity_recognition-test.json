@@ -1,0 +1,1818 @@
+[
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Text: \"I recently bought the 'Sony WH-1000XM4' headphones and they have amazing noise cancellation.\" \nEntity Type: Product Name",
+        "output": "Sony WH-1000XM4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract the product name and brand from the following customer review: \"I recently bought the Samsung Galaxy S21 and I'm loving it. The battery life is impressive.\"\nEntity Type: Product Name\nOutput: ",
+        "output": "Samsung Galaxy S21\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Customer Inquiry: Can you suggest a coffee maker with a programmable timer and a capacity of at least 12 cups?\nOutput:",
+        "output": "['coffee maker']",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "A customer is searching for \"baby shampoo with natural ingredients, tear-free formula\". Extract the product attributes from this query. \nOutput: ",
+        "output": "['natural ingredients', 'tear-free formula']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract the product name and category from the following customer review: \"The Samsung Galaxy S21 smartphone exceeded my expectations with its stunning camera quality and fast processing speed.\"\nOutput: ",
+        "output": "Samsung Galaxy S21, smartphone\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Text: The 'Samsung Galaxy S21 Ultra 5G' smartphone has a 6.8-inch display, a powerful processor, and a long-lasting battery.\nEntity Type: Product\nOutput: ",
+        "output": "Samsung Galaxy S21 Ultra 5G\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "A customer is searching for a 'smartwatch with fitness tracking features'. Please identify the product category and specific features mentioned in the search query.\nOutput: ",
+        "output": "product category: smartwatch, specific features: fitness tracking\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Text: \"The 'Samsung Galaxy S21 Ultra 5G' smartphone features a 6.8-inch Dynamic AMOLED display, 108MP camera, and 512GB storage.\"\nEntity Type: Product\nOutput:\n",
+        "output": ": Samsung Galaxy S21 Ultra 5G, smartphone, 6.8-inch Dynamic AMOLED display, 108MP camera, 512GB storage\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product names from the following text: \"I recently bought the 'Apple iPhone 13 Pro Max' and I'm loving its camera quality. However, I've heard great things about the 'Samsung Galaxy Z Fold3 5G' too.\"",
+        "output": "Apple iPhone 13 Pro Max, Samsung Galaxy Z Fold3 5G\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "A customer is searching for 'Samsung Galaxy S21 Ultra 5G\u667a\u80fd\u624b\u673a'. Please identify the brand and model from the search query.",
+        "output": "Brand: Samsung, Model: Galaxy S21 Ultra 5G\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product categories from the following sentence: \"I recently bought a Samsung Galaxy S21 smartphone and I'm very satisfied with its performance.\"\nEntity type: Product Category\nOutput:\n",
+        "output": ": smartphone\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Customer inquiry: \"I'm looking for a waterproof smartwatch with GPS tracking and heart rate monitoring.\"\nOutput: ",
+        "output": "['smartwatch', 'GPS tracking', 'heart rate monitoring']",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract the product category from the following customer feedback. \nFeedback: I recently bought a new smartwatch and I'm loving the health tracking features.\nOutput: ",
+        "output": "smartwatch",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Review: \"I recently bought the 'Samsung Galaxy S21' and I'm extremely satisfied with its battery life and the crystal-clear display. The camera quality is top-notch, capturing stunning photos even in low light conditions.\"\nEntity Type: Product\nOutput: ",
+        "output": "Samsung Galaxy S21\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract the brand name from the following product title: \"Samsung Galaxy Tab S7+ 12.4\" WiFi Tablet, 128GB, Mystic Black\"\nOutput: ",
+        "output": "Samsung\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Product Review: I recently bought the \"Philips Sonicare ProtectiveClean 6100 Electric Toothbrush\" and I must say, it's a game changer. The 'Pressure Sensor' feature alerts me when I'm brushing too hard.\nOutput: \n",
+        "output": ": ['Philips Sonicare ProtectiveClean 6100 Electric Toothbrush', 'Pressure Sensor']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract the product names from the following product description: \"The Samsung Galaxy S21 Ultra 5G is a top-of-the-line smartphone with a powerful processor and a stunning 6.8-inch display.\"\nEntity Type: Product Name",
+        "output": "Samsung Galaxy S21 Ultra 5G\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product names from the following sentence: \"I recently bought the 'Philips Sonicare Electric Toothbrush' and it has significantly improved my oral hygiene routine compared to my old manual brush.\"\nEntity Type: Product Name",
+        "output": "Philips Sonicare Electric Toothbrush\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Customer Query: Can you suggest some laptops with 'long battery life' and 'high-performance processors'?\nOutput: ",
+        "output": "long battery life, high-performance processors",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract product attributes from the following product description: \"The Samsung Galaxy S21 smartphone features a 6.2-inch Dynamic AMOLED display, 12MP triple camera system, 8GB RAM, and 128GB storage.\"",
+        "output": "6.2-inch Dynamic AMOLED display, 12MP triple camera system, 8GB RAM, 128GB storage\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "A customer is searching for \"Samsung Galaxy S21 Ultra cases with built-in screen protectors.\" Extract the product name and the attribute.",
+        "output": "Product Name: Samsung Galaxy S21 Ultra, Attribute: built-in screen protectors\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract the product category from the following customer review: \"The Nike running shoes provide excellent support and comfort for my long runs.\"",
+        "output": "running shoes\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "The Samsung Galaxy S21 Ultra is a top-tier smartphone with a powerful Snapdragon 888 processor, a massive 120Hz Dynamic AMOLED display, and a quad-camera setup featuring a 108MP primary sensor.\nEntity Type: Product\nOutput: ",
+        "output": "Samsung Galaxy S21 Ultra, Snapdragon 888, 120Hz Dynamic AMOLED, quad-camera, 108MP primary sensor\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product names from the following text: \"I recently bought the 'Apple iPhone 13 Pro Max' and I'm loving it. The 'Samsung Galaxy Tab S8+' is also on my wishlist.\"",
+        "output": "Apple iPhone 13 Pro Max, Samsung Galaxy Tab S8+\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Customer Review: \"The Samsung Galaxy S21 Ultra phone has an impressive camera system, long battery life, and a sleek design. However, it's quite expensive compared to other smartphones in the market.\"\nEntity Type: Product Attributes\nOutput: ",
+        "output": "[\"camera system\", \"long battery life\", \"sleek design\", \"expensive\"]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Customer inquiry: \"I'm looking for a red, leather sofa with a modern design for my living room.\"",
+        "output": "['red', 'leather sofa', 'modern design']",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product categories from the following review: \"I recently purchased a Samsung Galaxy smartphone and I am very satisfied with its performance. The camera quality is top-notch and the battery life is impressive.\"\nEntity Type: Product Category\nOutput: ",
+        "output": "['Samsung Galaxy', 'smartphone', 'camera', 'battery']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "The customer feedback says, \"The Samsung Galaxy S21 Ultra has a stunning 108MP camera, a massive 6.8-inch display, and an impressive battery life.\" Extract all product features mentioned.",
+        "output": "108MP camera, 6.8-inch display, battery life\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product names from the following review: \"I recently bought the 'Samsung Galaxy S21 Ultra 5G' and I must say, it's been a game changer for my daily tasks. The battery life is outstanding.\"\nOutput:",
+        "output": "Samsung Galaxy S21 Ultra 5G\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product categories from the following sentence: \"I recently bought a Samsung Galaxy smartphone and a pair of Sony noise-canceling headphones for my daily commute.\" Entity Type: Product Category",
+        "output": "smartphone, headphones\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Customer inquiry: \"I am looking for a smartwatch with GPS and heart rate monitoring features.\" Extract the product type.",
+        "output": "smartwatch",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product categories mentioned in the following sentence: \"I recently bought a Samsung Galaxy smartphone and a Sony Walkman MP3 player for my daily commute.\"\nEntity Type: Product Category\nOutput:",
+        "output": "Samsung Galaxy (Smartphone), Sony Walkman (MP3 Player)\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "A customer is searching for \"men's running shoes for wide feet with good arch support\". Please identify the entities related to 'product category' and 'attributes'.",
+        "output": "Product Category: ['men's running shoes'], Attributes: ['wide feet', 'good arch support']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract the brand name from the following product title: 'Samsung Galaxy S21 Ultra 5G - 128GB - Phantom Black (Verizon)'",
+        "output": "Samsung\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product names from the following review: \"I recently bought the Samsung Galaxy S21 and I'm really impressed by its performance. The camera is outstanding, especially in low light conditions.\" Entity Type: Product Name\nAnswer: ",
+        "output": "Samsung Galaxy S21\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract product categories from the following customer search: \"I am looking for a new pair of running shoes for my marathon training.\"",
+        "output": "['running shoes']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Customer review: \"The Samsung Galaxy S21 Ultra 5G has an incredible camera system, a huge battery, and a sleek design. I love the 120Hz display, it makes scrolling so smooth.\"\nEntity Type: Product\nOutput: ",
+        "output": "Samsung Galaxy S21 Ultra 5G\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "A customer is searching for \"Samsung Galaxy S21 accessories\". Identify the brand and product type from the search query.\nOutput:",
+        "output": "Samsung, Galaxy S21 (product type: smartphone accessories)",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product names from the following customer review: \"I recently bought the 'Philips Sonicare DiamondClean Toothbrush' and it has significantly improved my oral hygiene routine. I also purchased the 'Oral-B Pro 1000' as a backup, but prefer the Philips.\"\nOutput: ",
+        "output": "Philips Sonicare DiamondClean Toothbrush, Oral-B Pro 1000\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "The Samsung Galaxy S21 Ultra 5G smartphone has a 6.8-inch Dynamic AMOLED 2X display, 12GB RAM, 128GB storage, and a 5000mAh battery.\nOutput: ",
+        "output": "Product: Samsung Galaxy S21 Ultra 5G | Display: 6.8-inch Dynamic AMOLED 2X | RAM: 12GB | Storage: 128GB | Battery: 5000mAh\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product names from the following customer review: \"I recently bought the 'Samsung Galaxy Tab S7+' and I'm loving its fast performance and bright display. The 'Samsung Book Cover Keyboard' is a great accessory too.\"\nEntity Type: Product Name\nOutput: ",
+        "output": "Samsung Galaxy Tab S7+, Samsung Book Cover Keyboard\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "The product description says, \"The Samsung Galaxy S21 5G smartphone features a Dynamic AMOLED 2X display, a 12MP triple camera system, and a long-lasting battery.\"\nEntity Type: Product Features",
+        "output": "Dynamic AMOLED 2X display, 12MP triple camera system, long-lasting battery\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "The customer review says, \"The Samsung Galaxy S21 Ultra 5G smartphone has an incredible 108 MP camera and a long-lasting 5000mAh battery.\"\nEntity Type: Product\nOutput: ",
+        "output": "Samsung Galaxy S21 Ultra 5G smartphone\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Task: Identify the product category and brand from the following sentence.",
+        "output": "I recently bought a Samsung Galaxy S21 smartphone and I'm loving its features.\nOutput:\nAnswer: Product Category: smartphone; Brand: Samsung Galaxy\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Text: The Samsung Galaxy S21 Ultra has a 6.8-inch Dynamic AMOLED display, 12GB RAM, 128GB storage, and a 5000mAh battery. It runs on Android 11 and is equipped with a powerful Snapdragon 888 processor.\nEntity Type: Smartphone Model\nOutput: \n",
+        "output": ": Samsung Galaxy S21 Ultra\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "A customer asks for suggestions on running shoes suitable for wide feet. Extract the entity 'product category'.\nOutput:",
+        "output": "['running shoes']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Task: Identify the brand and material of the following product description.",
+        "output": "Description: The stylish Louis Vuitton Epi leather tote bag features a classic design and is crafted with durable, high-quality materials.\nOutput: \n- Brand: Louis Vuitton\n- Material: Epi leather\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Given the following product description: \"The Samsung Galaxy S21 Ultra is a high-end smartphone with a powerful Snapdragon 888 processor, 12GB RAM, and a massive 6.8-inch Dynamic AMOLED display. It features a 108MP primary camera, 10x optical zoom, and 5G connectivity.\" Extract all the entities related to product specifications.",
+        "output": "['Samsung Galaxy S21 Ultra', 'Snapdragon 888 processor', '12GB RAM', '6.8-inch Dynamic AMOLED display', '108MP primary camera', '10x optical zoom', '5G connectivity']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Text: \"The 'Samsung Galaxy S21 Ultra 5G' phone has a 6.8-inch Dynamic AMOLED 2X display, 12GB RAM, and a 108MP main camera.\"\nEntity type: Product\nOutput:",
+        "output": "Samsung Galaxy S21 Ultra 5G\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Instructions: Identify the product and its category in the review.\nReview: \"I recently bought the 'Samsung Galaxy S21' and I'm loving its fast performance and stunning camera quality.\"\nOutput:",
+        "output": "Product: Samsung Galaxy S21 Category: Smartphone\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Customer inquiry: \"I need a running shoe with good arch support for my flat feet.\" Extract the entity 'product attribute'.",
+        "output": "['good arch support']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Customers are discussing the 'Philips Sonicare ProtectiveClean 6100 Electric Toothbrush' on a forum. Please identify the brand name mentioned in the discussion.\nOutput: ",
+        "output": "Philips Sonicare",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract the product category from the following customer query: \"I need a new pair of running shoes for my marathon training. Something comfortable with good grip.\"\nOutput:",
+        "output": "running shoes",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Text: \"I recently bought a Samsung Galaxy S21 Ultra smartphone with 12GB RAM and 256GB storage. It has a great camera and a long-lasting battery.\" Entity Type: Product",
+        "output": "Samsung Galaxy S21 Ultra\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Customer Query: \"I'm looking for a baby stroller suitable for twins.\"",
+        "output": "['twins']",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product attributes from the following review: \"The Samsung Galaxy S21 phone has a stunning 6.2-inch display, a powerful Snapdragon 888 processor, and a long-lasting battery life.\"\nEntity Type: Product Attribute\nOutput: ",
+        "output": "6.2-inch display, Snapdragon 888 processor, long-lasting battery life\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract product categories from the following customer inquiry: \"Can you recommend me some running shoes for women with good arch support?\"",
+        "output": "['running shoes', 'women', 'good arch support']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product names from the following customer review: \"I recently purchased the 'Samsung Galaxy S21 Ultra 5G' and I am amazed by its performance. The 'Apple AirPods Pro' also arrived and their sound quality is impressive.\"\nEntity Type: Product Name\nOutput:",
+        "output": "Samsung Galaxy S21 Ultra 5G, Apple AirPods Pro\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract the brand name from the following product title: \"Samsung Galaxy S21 Ultra 5G Factory Unlocked Android Smartphone - 128GB, Phantom Black (International Version)\"\nOutput: ",
+        "output": "Samsung\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract the brand name from the product title 'Nike Men's Air Zoom Pegasus 38 Running Shoes'.\nOutput:",
+        "output": "Nike\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "A customer's search query on an electronics store website: \"buy smartwatch with GPS and heart rate monitor\"",
+        "output": "['smartwatch', 'GPS', 'heart rate monitor']",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product names from the following review: \"I recently bought the Samsung Galaxy S21 and I love its sleek design and fast performance. The battery life is impressive too.\" Entity Type: Product Name",
+        "output": "Samsung Galaxy S21\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Extract all product names from the sentence: \"I bought the Samsung Galaxy S21 Ultra for its exceptional camera quality and the durable Gorilla Glass Victus.\"\nAnswer: ",
+        "output": "Samsung Galaxy S21 Ultra\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Customer inquiry: \"I'm looking for a Samsung Galaxy S21 Ultra with 128GB storage.\" Extract the product and its storage size.",
+        "output": "Samsung Galaxy S21 Ultra, 128GB\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "A customer asks for recommendations for \"shoes suitable for hiking with good ankle support and waterproof material\". Extract the product attributes mentioned by the customer.\nOutput: ",
+        "output": "hiking, good ankle support, waterproof material",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Customer review: \"I recently purchased the 'Philips Sonicare ProtectiveClean 6100 Electric Toothbrush' and I'm amazed by its plaque removal capabilities.\"\nOutput: ",
+        "output": "Philips Sonicare ProtectiveClean 6100 Electric Toothbrush\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Text: \"I recently bought a Samsung Galaxy S21 with 128GB storage and a triple camera setup. The battery life is impressive.\" Entity Type: Product\nAnswer: ",
+        "output": "Samsung Galaxy S21, 128GB, triple camera, battery\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Text: \"The Breville Smart Oven Air Fryer Pro is a countertop convection oven with air frying capabilities.\" Entity Type: Product Name",
+        "output": "Breville Smart Oven Air Fryer Pro\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Customer review: \"I recently bought the 'Samsung Galaxy S21 Ultra 5G' and I'm amazed by its 108MP camera and 5000mAh battery life. The 120Hz refresh rate on the display is a game changer.\"\nEntity Type: Product\nOutput: ",
+        "output": "Samsung Galaxy S21 Ultra 5G\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract the brand and product name from the following product title: \"Apple iPhone 12 Pro Max 256GB Mystic Silver\"\nOutput: ",
+        "output": "Apple, iPhone 12 Pro Max",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product names from the following customer review: \"The Samsung Galaxy S21 Ultra 5G has an incredible camera system, and the battery life is outstanding. I also love the sleek design of the Apple Watch Series 7.\"\nEntity Type: Product Name\nOutput: ",
+        "output": "Samsung Galaxy S21 Ultra 5G, Apple Watch Series 7",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Review: \"I recently purchased the 'Samsung Galaxy S21 Ultra 5G' and I am extremely satisfied with its performance. The battery life is exceptional and the camera quality is top-notch.\" Entity Type: Product\nOutput: ",
+        "output": "Samsung Galaxy S21 Ultra 5G\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "A customer posted the following review: \"I recently purchased the 'Sony WH-1000XM4 Wireless Noise-Cancelling Headphones' and I'm blown away by the sound quality.\" Extract the product name from the review.\nOutput: ",
+        "output": "['Sony WH-1000XM4 Wireless Noise-Cancelling Headphones']",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Read the following review: \"The Samsung Galaxy S21 smartphone has an impressive camera setup, a long-lasting battery, and a sleek design. I especially love the vibrant colors on the screen.\" Identify the product name and its attributes.\nOutput: ",
+        "output": "Product Name: Samsung Galaxy S21 Attributes: camera setup, battery, design, vibrant colors on the screen\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Text: \"I recently bought the 'Samsung Galaxy S21 Ultra 5G' and I'm really impressed by its 108MP camera.\" Extract product names.",
+        "output": "Samsung Galaxy S21 Ultra 5G\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Text: \"I recently bought a Samsung Galaxy S21 smartphone and I love its 120Hz display and long-lasting battery life.\"\nEntity Type: Product\nOutput: ",
+        "output": "Samsung Galaxy S21",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract the brand and product name from the following product title: 'Samsung Galaxy Tab S7+ 128GB Wi-Fi Tablet - Mystic Black'.\nOutput: ",
+        "output": "Samsung, Galaxy Tab S7+, 128GB Wi-Fi Tablet, Mystic Black",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify all the product categories mentioned in the following sentence.\nSentence: I need to buy some new running shoes and a fitness tracker to monitor my progress.\nAnswer: ",
+        "output": "running shoes, fitness tracker\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the product names mentioned in the following text.\nText: I just bought the new Samsung Galaxy S21 and I love using it along with my Apple AirPods.\nOutput: ",
+        "output": "Samsung Galaxy S21, Apple AirPods\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Task type: Named Entity Recognition - Extract all product names from the following text: \"I just bought the new Kindle Paperwhite and a pair of Apple AirPods Pro for my birthday.\"\nOutput: ",
+        "output": "Kindle Paperwhite, Apple AirPods Pro\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Named Entity Recognition: Find all the product names in the following review: 'I love my new Apple Watch Series 6. It's so much better than the Series 5. The Samsung Galaxy Buds are also great for workouts.'\nOutput (answer with product names): ",
+        "output": "Apple Watch Series 6, Series 5, Samsung Galaxy Buds\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify all product names mentioned in the following review.\nReview: I love my new Nike running shoes. They are much more comfortable than the Adidas Ultraboost I had before. The Nike Pegasus gives great support.\nEntity Type: Product Name\nOutput: \n",
+        "output": "Nike running shoes, Adidas Ultraboost, Nike Pegasus\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify and list all the brand names mentioned in the following text. Output the brand names separated by a comma. \nText: I love my new Nike running shoes. They are so comfortable. I also bought a pair of Adidas sneakers for my husband.\nOutput: ",
+        "output": "Nike, Adidas\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify and list all product names mentioned in the following text. Do not output any other information.\nText: I love my new Apple MacBook Pro. It works seamlessly with my iPhone and Apple Watch. The Microsoft Surface Laptop is also a good option for those who prefer Windows.\nOutput: ",
+        "output": "Apple MacBook Pro, iPhone, Apple Watch, Microsoft Surface Laptop\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names mentioned in the following sentence.\nText: \"I just bought the new Sony WH-1000XM4 headphones and they are amazing compared to my old Bose QuietComfort 35.\"\nEntity type: Product Name\nOutput: \n",
+        "output": "Sony WH-1000XM4, Bose QuietComfort 35\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named entity recognition",
+        "instruction": "Named Entity Recognition: Identify all product names mentioned in the following customer review.\nCustomer Review: 'I absolutely love my new Nike Air Zooms, they are way more comfortable than the Adidas Ultraboosts I had before.'\nAnswer: ",
+        "output": "'Nike Air Zooms, Adidas Ultraboosts'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all product names from the following customer review that mention a specific item.\nReview: I bought the 'GamerGrip' mouse pad and the 'ClickMaster' keyboard, both are fantastic for gaming and improve my performance significantly.\nOutput: ",
+        "output": "GamerGrip, ClickMaster",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named entity recognition",
+        "instruction": "Extract all product names from the following sentence: \"I bought a Sony PlayStation 5 and a Samsung Galaxy S21 Ultra from the electronics store.\" Output: ",
+        "output": "Sony PlayStation 5, Samsung Galaxy S21 Ultra\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify all product names mentioned in the following sentence: \"I just purchased the new Sony A7R IV and a SanDisk 128GB memory card for my photography needs.\" Output: \n",
+        "output": "Sony A7R IV, SanDisk 128GB\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify and list all the product names mentioned in the following customer feedback: 'I purchased the HDX Tablet and the SoundLink Speaker for my office. The SoundLink is superior in sound quality, while the HDX Tablet has an impressive screen resolution.'\nOutput: ",
+        "output": "HDX Tablet, SoundLink Speaker\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify and list all the product brands mentioned in the following text. Output the brands separated by commas.\nText: I love using my new Nike running shoes during my morning jog. For gaming, I prefer the Razer keyboard and mouse combo. My fitness tracker is from Fitbit, and I just bought a new Sony television.\nOutput: ",
+        "output": "Nike, Razer, Fitbit, Sony\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the 'brand names' in the following customer review: 'I love my new Nike running shoes, they are so comfortable. The Adidas backpack I bought is also great for carrying my gear.'\nOutput: ",
+        "output": "Nike, Adidas\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify the brands in the following product description: 'The new Apple iPhone 12 Pro Max with a Samsung Galaxy Watch on a Fitbit charging pad.'\nOutput: ",
+        "output": "['Apple', 'Samsung', 'Fitbit']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Task type: Named Entity Recognition. Extract all product names from the following text.\nText: Sarah was browsing the internet for a new pair of running shoes. She considered the Nike Pegasus and the Adidas Ultraboost.\nOutput: ",
+        "output": "Nike Pegasus, Adidas Ultraboost\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract all product names from the following customer query: \"I'm looking for the new Nike Air Zoom Pegasus 37 and Adidas Ultraboost 20 running shoes in size 9.\"\nOutput: ",
+        "output": "Nike Air Zoom Pegasus 37, Adidas Ultraboost 20\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named entity recognition",
+        "instruction": "Identify all the product categories mentioned in the following sentence. \nSentence: I need a new pair of running shoes and a backpack for my hiking trip. \nAnswer: ",
+        "output": "running shoes, backpack\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the brands mentioned in the following customer review: \"I love my new Adidas running shoes and the Nike backpack is just as great!\"\nOutput: ",
+        "output": "Adidas, Nike\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named entity recognition",
+        "instruction": "Identify all product names mentioned in the following review: \"I love my new Apple iPhone 12 and the Samsung Galaxy Buds that came with it. They are a perfect match!\" Output:",
+        "output": "\"Apple iPhone 12, Samsung Galaxy Buds\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Task type: Named Entity Recognition\nIdentify the brand and product category from the following product description:\nDescription: The sleek new Sony VAIO laptop is a powerful tool for both work and entertainment.\nEntity types: Brand, Product Category\nOutput: ",
+        "output": "Brand: Sony, Product Category: laptop\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names in the following sentence.\nSentence: I bought the new Sony WH-1000XM4 headphones and the Apple Watch Series 7 at the electronics store.\nOutput: \n",
+        "output": "Sony WH-1000XM4, Apple Watch Series 7\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names mentioned in the following customer service interaction.\nCustomer: \"I received my new Sony WH-1000XM4 headphones, but the sound quality is not as good as I expected.\"\nAgent: \"I'm sorry to hear that. Let's see if we can troubleshoot the issue. Are you comparing them with your previous Bose QuietComfort 35?\"\nOutput: ",
+        "output": "Sony WH-1000XM4, Bose QuietComfort 35\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Task type: Named Entity Recognition. Identify all the brand names mentioned in the following product review: 'I love my new Apple iPhone 12. It pairs perfectly with my Samsung Galaxy Watch and my Sony WH-1000XM4 headphones. The only downside is the incompatibility with my old HTC tablet.'\nOutput: ",
+        "output": "Apple, Samsung, Sony, HTC\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product categories mentioned in the following customer review.\nCustomer Review: I love my new hiking boots. They are way more comfortable than my old running shoes. I wear them for hiking and they perform great on trails.\nAnswer: ",
+        "output": "hiking boots, running shoes\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Named Entity Recognition: Extract all product names from the following customer review.\nReview: \"I love my new Kindle Paperwhite! It's so much better than the old Nook Color I used to have. The screen is stunning, and the battery life is impressive.\"\nOutput: ",
+        "output": "\"Kindle Paperwhite, Nook Color\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify all the product attributes mentioned in the following product description for a portable speaker: \"The X3000 portable speaker boasts a 20-hour battery life, powerful 10W drivers, and a rugged, water-resistant design perfect for outdoor use.\"\nOutput: ",
+        "output": "['20-hour battery life', '10W drivers', 'rugged', 'water-resistant', 'outdoor use']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the entities in the following product search query that belong to the 'material' entity type. Output the entities without repetition, separated by a comma.\nQuery: looking for a silver necklace with a pearl pendant\nOutput: ",
+        "output": "silver, pearl\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all 'product names' from the following review: 'I love my new Nike running shoes. They are way better than the Adidas Cloudfoam I used to have.'\nOutput: ",
+        "output": "['Nike running shoes', 'Adidas Cloudfoam']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Please extract all the 'product names' mentioned in the following customer review, output them directly, and separate multiple entities with a semicolon.\nReview: \"I love my new Apple iPhone 12; it works seamlessly with my Apple Watch Series 6. The Samsung Galaxy Buds are also a great accessory.\"\nOutput: ",
+        "output": "\"Apple iPhone 12; Apple Watch Series 6; Samsung Galaxy Buds\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract all product names from the following text: 'I love my new Apple MacBook Air and the Sony WH-1000XM4 headphones. I also enjoy using my Fitbit Charge 4.' \nOutput: \n",
+        "output": "Apple MacBook Air, Sony WH-1000XM4, Fitbit Charge 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names in the following sentence: 'I just bought the new Sony Xperia and a pair of Adidas running shoes, both great for my active lifestyle.'\nOutput: ",
+        "output": "Sony Xperia, Adidas running shoes\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the brand names mentioned in the following product description. Output the brand names separated by commas. \nProduct Description: The Samsung Galaxy S21 features a powerful processor and a vibrant display. It can be paired with the latest Apple AirPods for seamless audio experience or used with the Microsoft Surface Pen for enhanced productivity.\nOutput: ",
+        "output": "Samsung, Apple, Microsoft\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named entity recognition",
+        "instruction": "Identify all the product categories mentioned in the following shopping list. Do not output brands or specific product names, only categories. \nShopping List: 'Two cartons of milk, a loaf of whole grain bread, a box of granola bars, an iPhone charger, a pack of AA batteries, and a bottle of hand sanitizer.'\nOutput: ",
+        "output": "dairy, bakery, snacks, electronics accessories, batteries, hygiene products\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Task type: Named Entity Recognition. Identify the product names in the following sentence:\n\"The Nike Air Max and the Adidas Ultraboost are popular running shoes among fitness enthusiasts.\"\nOutput: ",
+        "output": "Nike Air Max, Adidas Ultraboost\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify and list all the brands mentioned in the product descriptions below. Output the brands as comma-separated text. Do not include any other text in your response.\nProduct Descriptions:\n1. The Sony WH-1000XM4 headphones offer industry-leading noise cancellation.\n2. The latest Apple MacBook Pro features a powerful M1 chip.\n3. The Fitbit Charge 4 is a popular fitness tracker.\nOutput: ",
+        "output": "Sony, Apple, Fitbit\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify the brand names in the following product description.\nProduct Description: The Sony WH-1000XM4 headphones offer industry-leading noise cancellation, rivaling the Bose QuietComfort 35 Series II.\nOutput:",
+        "output": ": 'Sony, Bose'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify all product names mentioned in the following customer review: \"I love my new Nike running shoes and the Adidas backpack I recently purchased.\" Output:\n",
+        "output": ": Nike running shoes, Adidas backpack\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify all product names mentioned in the following sentence. Answer: \nsentence: \"I just bought the new Sony WH-1000XM4 headphones and I love them!\"",
+        "output": "['Sony WH-1000XM4']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Task: Extract all product names from the following customer review.\nReview: \"I recently bought the Sony WH-1000XM4 headphones and the Apple iPad Pro 2021. Both are amazing products and worth every penny.\"\nOutput: ",
+        "output": "Sony WH-1000XM4 headphones, Apple iPad Pro 2021\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the product names mentioned in the following customer review:\nReview Text: \"I bought the Sony WH-1000XM4 headphones and the Jabra Elite Active 75t earbuds. Both are great for noise cancellation, but the Jabra's battery life is a bit disappointing.\"\nOutput: ",
+        "output": "Sony WH-1000XM4 headphones, Jabra Elite Active 75t earbuds\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the product names in the following customer feedback: \"I bought the new Sony WH-1000XM4 headphones and the Apple AirPods Pro. Both are great for noise cancellation.\"\nOutput: ",
+        "output": "['Sony WH-1000XM4 headphones', 'Apple AirPods Pro']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Named Entity Recognition: Identify all product names mentioned in the following review: 'I love my new Sony headphones! They have amazing sound quality and the Noise Cancelling feature is top-notch. Compared to my old Bose QuietComfort, these are a clear winner.'\nOutput: ",
+        "output": "Sony headphones, Bose QuietComfort\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Named Entity Recognition: Identify all the brand names mentioned in the following text about tech gadgets.\nText: \"I love my new Apple iPhone and the Samsung Galaxy Watch I received as a gift. The Google Pixel Buds are also great for wireless listening.\"\nOutput: ",
+        "output": "Apple, Samsung, Google\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Please extract all 'product names' mentioned in the following customer review: 'I love the new Sony PlayStation 5 console. The controller is fantastic, and I also enjoy the immersive experience provided by the Oculus Rift S headset.'\nOutput:",
+        "output": ": ['Sony PlayStation 5', 'Oculus Rift S']",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Find all product names in the following review: 'I purchased the Fire TV Stick and the Echo Dot. Both are excellent products and provide great value for the money.' Output: ",
+        "output": "Fire TV Stick, Echo Dot\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the product names in the following customer service inquiry. Output the product names only, separated by commas.\nInquiry: \"I received my order of the Nike Revolution 4 shoes and the Adidas Linear Performance backpack, but the shoes are the wrong size. Can you assist me with an exchange?\"\nOutput: ",
+        "output": "Nike Revolution 4, Adidas Linear Performance\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Task type: Named Entity Recognition. Extract all product names from the following sentence: 'I just bought the new Sony PlayStation 5 and the Samsung Galaxy S21 Ultra.'\nOutput: ",
+        "output": "['Sony PlayStation 5', 'Samsung Galaxy S21 Ultra']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "You are a helpful online shop assistant and a linguist. A customer on an online shopping platform has made the following query. Please extract phrases from the query that correspond to the entity type 'product feature'. \nQuery: looking for a laptop with at least 16GB RAM and a 1TB SSD\nOutput: ",
+        "output": "['16GB RAM', '1TB SSD']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the brand and product category from the following product title. Output the entities separated by a comma without any additional text. \nProduct Title: \"Nike Air Zoom Pegasus 37 Running Shoes\"\nOutput: ",
+        "output": "['Nike', 'Running Shoes']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract all phrases that correspond to the entity type 'brand' in the following product description: \nDescription: The Sony WH-1000XM4 Wireless Noise-Canceling Headphones offer industry-leading noise cancellation technology.\nOutput: \n",
+        "output": "Sony\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify the brand and product category from the following product description:\nDescription: The Sony WH-1000XM4 Wireless Noise-Canceling Headphones offer industry-leading noise cancellation and immersive sound.\nOutput:",
+        "output": "Brand: Sony, Product Category: Headphones\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Named Entity Recognition: Identify the brand and product category from the following customer review: \"I love my new Sony noise-cancelling headphones, they're perfect for travel and work.\"\nOutput: ",
+        "output": "Brand: Sony, Product Category: headphones",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract all product names from the following text. Answer: \n\"I bought a new camera and a lens for my phone. The camera is a Nikon Coolpix and the lens is a Samsung Galaxy S10+ compatible lens.\"",
+        "output": "['Nikon Coolpix', 'Samsung Galaxy S10+ compatible lens']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named entity recognition",
+        "instruction": "Identify and extract all product categories mentioned in the following text: \"I went to the electronics store and found a great deal on a new laptop, but I decided to browse the smartphones and tablets section as well.\" Output:",
+        "output": "Electronics, Laptop, Smartphones, Tablets\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify and list all the product categories mentioned in the following customer query: \"I'm looking for a new pair of running shoes, preferably with good arch support. I might also consider some compression socks for post-run recovery.\" Output:\nOutput: ",
+        "output": "\"Running shoes, compression socks.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify and list all product categories mentioned in the following text: 'I went to the electronics store to buy a new pair of headphones and a wireless mouse for my computer. While I was there, I also checked out the latest smartwatches and gaming consoles.' \nOutput: ",
+        "output": "headphones, mouse, smartwatches, gaming consoles\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Extract all product names from the following text.\nText: \"I bought a new Sony WH-1000XM4 headphones and a Samsung Galaxy Tab S8 tablet.\"\nEntity Type: Product Name\nAnswer: ",
+        "output": "Sony WH-1000XM4, Samsung Galaxy Tab S8\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the product names in the following sentence.\n'For my birthday, I received the new Kindle Oasis and a pair of Beats Studio3 Wireless Headphones.'\nAnswer: ",
+        "output": "Kindle Oasis, Beats Studio3 Wireless Headphones\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify the brand names in the following product description.\nProduct Description: The Sony WH-1000XM4 headphones offer industry-leading noise cancellation and are compatible with the latest Bluetooth technology. They provide immersive listening experience and can be easily paired with an Apple iPhone or Samsung Galaxy device.\nEntity Type: Brand Name\nOutput: ",
+        "output": "Sony, Apple, Samsung\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify and list all product names mentioned in the following customer query: 'I am looking to replace my current Shiseido facial cleanser with either the new Cetaphil gentle skin cleanser or the Neutrogena Hydro Boost cleanser. Which one would you recommend?'\nOutput: ",
+        "output": "Shiseido facial cleanser, Cetaphil gentle skin cleanser, Neutrogena Hydro Boost cleanser\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify all the brand names in the following text: \"I just bought a new pair of Nike shoes and a Sony Walkman for my morning jogs.\" Output: ",
+        "output": "Nike, Sony Walkman\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the product names in the following sentence: \"I love my new Apple Watch and the latest Kindle from Amazon.\"\nOutput: ",
+        "output": "['Apple Watch', 'Kindle']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names mentioned in the following text: \"I bought a new pair of Nike Air Max and a Sony PlayStation 4. Both are great purchases.\"\nAnswer: ",
+        "output": "Nike Air Max, Sony PlayStation 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named entity recognition",
+        "instruction": "Identify the product names in the following review: \"I bought the Sony WH-1000XM4 headphones and they are far superior to my old Bose QuietComfort 35 II in terms of noise cancellation and sound quality.\"\n\nOutput:\n",
+        "output": "Sony WH-1000XM4, Bose QuietComfort 35 II\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify all product names in the following sentence.\nsentence: \"I love my new Apple iPhone 12 and the Samsung Galaxy Buds are a great accessory.\"\nentity_type: product name\nAnswer: ",
+        "output": "Apple iPhone 12, Samsung Galaxy Buds\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Task: Identify the brand names in the following product description.\nDescription: The Samsung Galaxy Watch is a perfect companion for any active lifestyle. With compatibility to both Android and iOS devices, it's a versatile smartwatch. It can be paired with Apple AirPods for a seamless audio experience.\nOutput: ",
+        "output": "Samsung, Galaxy Watch, Android, iOS, Apple, AirPods\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify all product names mentioned in the customer review: 'I love my new Sony Cyber-shot DSC-RX100 VII camera. It's a huge upgrade from my old Nikon Coolpix B500.'\nOutput: ",
+        "output": "Sony Cyber-shot DSC-RX100 VII, Nikon Coolpix B500\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the product categories mentioned in the following text.\n'The electronics store has a sale on smartphones, laptops, and tablets. I plan on getting a new phone and a laptop for my studies.'\nOutput: ",
+        "output": "smartphones, laptops, tablets\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names in the following review: 'I love my new Apple Watch Series 6! It is much better than the Fitbit Charge 3 I used to wear.' \nAnswer: ",
+        "output": "Apple Watch Series 6, Fitbit Charge 3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the product categories mentioned in the following sentence: 'I need to buy a new refrigerator and a washing machine for my kitchen renovation.'\nOutput: ",
+        "output": "refrigerator, washing machine\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify the product names in the following text.\nText: 'I love my new Apple iPhone 12 and the Samsung Galaxy Watch. They both work seamlessly together.'\nOutput: ",
+        "output": "Apple iPhone 12, Samsung Galaxy Watch\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names in the following review: \"I absolutely love my new Nike running shoes. They are much more comfortable than the Adidas Ultraboost.\"\nAnswer: ",
+        "output": "Nike running shoes, Adidas Ultraboost\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names mentioned in the following review.\nReview: I love my new Kindle Paperwhite. It's so much better than the old Nook I used to have. The battery life on the Paperwhite is fantastic, and the built-in light is a lifesaver.\nOutput: ",
+        "output": "Kindle Paperwhite, Nook\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Task type: Named Entity Recognition. Identify the brand names in the following product description.\nProduct Description: The Sony Alpha a6400 mirrorless camera with E-mount lens is a versatile and powerful tool for any photographer. Its advanced autofocus and 4K movie recording make the Canon EOS M50 a strong competitor in the market. Both are great options for those looking to upgrade from a Nikon D3500 DSLR.\nOutput: ",
+        "output": "Sony, Canon, Nikon\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names mentioned in the following customer service email. Output the product names as a comma-separated list.\nEmail: Thank you for contacting us about your new SoundBlaster Audigy sound card. We are here to help with your Creative Labs GigaWorks T40 Series II speakers. If you experience any issues, please also refer to your Logitech Z906 5.1 Surround Sound Speaker System manual.\nOutput:\nAnswer: ",
+        "output": "SoundBlaster Audigy, Creative Labs GigaWorks T40 Series II, Logitech Z906 5.1 Surround Sound Speaker System\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the 'product category' entities in the following customer query: \"I'm looking for a new pair of running shoes with good arch support.\"\nOutput: ",
+        "output": "['running shoes']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract all product names from the following text: \"I bought a new pair of Nike running shoes and a Adidas sports bra.\" Answer: ",
+        "output": "['Nike running shoes', 'Adidas sports bra']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify the brand names mentioned in the following product description:\n'Experience the comfort of Nike Air technology in the new Adidas Ultraboost shoes. The innovative design of these Puma Clyde sneakers will enhance your running experience.'\nOutput: ",
+        "output": "Nike, Adidas, Puma\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify the brand and model of the smartphone from the following customer review.\nReview: \"I love the camera on my Samsung Galaxy S21. The low-light performance is top-notch!\"\nOutput: ",
+        "output": "Samsung Galaxy S21\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify all product names mentioned in the following review: 'I absolutely love my new Kindle Paperwhite. It is much better than the old Nook Color I used to have.' Output: ",
+        "output": "['Kindle Paperwhite', 'Nook Color']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Named Entity Recognition: Identify all product names mentioned in the following customer review: 'I love my new Sony A7 mirrorless camera and the SanDisk 128GB SD card that came with it. They are a perfect match for my photography hobby.'\n\nOutput: ",
+        "output": "\"Sony A7, SanDisk 128GB SD card\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the product names mentioned in the following customer review for a beauty product: \"I recently bought the MultiTasker Makeup Remover and I'm in love with it. It works better than the QuickCleanse Wipes I used before. Both are great, but the MultiTasker is my new favorite.\"\n\nOutput: ",
+        "output": "MultiTasker Makeup Remover, QuickCleanse Wipes\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names mentioned in the following customer review:\nReview: I love my new Sony WH-1000XM4 headphones! They are way better than the Bose QuietComfort 35 II in terms of noise cancellation and sound quality.\nOutput:",
+        "output": "Sony WH-1000XM4, Bose QuietComfort 35 II\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Named Entity Recognition: Extract all phrases corresponding to the entity type 'product' from the following sentence.\nSentence: \"I just bought a new pair of wireless earbuds, the SoundWave Pro, and they are amazing!\"\nOutput: ",
+        "output": "['wireless earbuds', 'SoundWave Pro']",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the brands mentioned in the following product review: 'I absolutely love my new Nike running shoes. They are way more comfortable than my previous Adidas shoes. The Nike brand always delivers great quality.'\nOutput: ",
+        "output": "Nike, Adidas\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the product names in the following customer complaint: 'I received my new Samsung Galaxy Watch and the strap is too small, but the Fitbit Charge is perfect.' Output the product names without repeating the entity type.\nOutput: ",
+        "output": "Samsung Galaxy Watch, Fitbit Charge\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify the 'product names' in the following sentence: \"I love my new Kindle Oasis and the Apple AirPods Pro I got for my birthday.\"\nAnswer: ",
+        "output": "Kindle Oasis, Apple AirPods Pro\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names in the following sentence.\nSentence: \"I bought a new MacBook Pro and a pair of AirPods from the Apple Store.\"\nEntity type: product name\nAnswer: ",
+        "output": "MacBook Pro, AirPods\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names mentioned in the following review:\nReview: I bought the 'Nike Revolution 5' running shoes and the 'Adidas Linear Performance' socks. Both are comfortable and I'm satisfied with my purchase.\nOutput (answer with product names): ",
+        "output": "Nike Revolution 5, Adidas Linear Performance\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Task type: Named Entity Recognition. From the customer's search query, identify the product names. Query: 'I want to compare the prices of a Samsung Galaxy Tab S7 and an Apple iPad Pro 12.9-inch.'\nOutput: ",
+        "output": "\"Samsung Galaxy Tab S7, Apple iPad Pro 12.9-inch\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify all product names in the following review: 'I love my new Apple iPhone 12. It has a great camera and the Samsung Galaxy S21 is also a good alternative.'\nAnswer: ",
+        "output": "'Apple iPhone 12', 'Samsung Galaxy S21'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the product names in the following customer review. Output the names exactly as they appear in the text, separated by commas. Do not include any other text.\nReview: 'I love my new Kindle Fire HD and the Anker Soundcore Bluetooth Speaker I bought. They work great together.'\nOutput: ",
+        "output": "'Kindle Fire HD, Anker Soundcore Bluetooth Speaker'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names in the following review.\nReview: \"I bought the Sony WH-1000XM4 headphones and the JBL Charge 4 speaker for my music setup. Both are excellent products.\"\nEntity Type: Product Name\nAnswer: ",
+        "output": "Sony WH-1000XM4, JBL Charge 4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "You are analyzing customer search queries to identify popular product features. Extract the phrases that correspond to the entity type 'feature' in the following query.\nQuery: \"smartphone with long battery life and dual camera\"\nOutput: ",
+        "output": "['long battery life', 'dual camera']",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Named Entity Recognition: Extract all product names from the following customer review: 'I love the new Kindle Fire HD, it's a great device for reading and entertainment on the go.'\nOutput: ",
+        "output": "['Kindle Fire HD']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify all product names mentioned in the following customer review: \"I love my new Apple iPhone 12 and the Samsung Galaxy Tab S7 I got for my birthday.\" Answer:\nOutput:",
+        "output": ": ['Apple iPhone 12', 'Samsung Galaxy Tab S7']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named entity recognition",
+        "instruction": "Identify the brand names in the following product description: \"The Sony WH-1000XM4 headphones offer industry-leading noise cancellation with a comfortable fit, and the Bose QuietComfort 35 II provides clear sound with advanced acoustic noise reduction.\"\nOutput: ",
+        "output": "Sony, Bose\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Task type: Named Entity Recognition. Extract all product categories from the following online store search query. Output the entities without repeats and separated by a comma.\nQuery: \"search for women's athletic shoes for running and workout\"\nOutput: ",
+        "output": "\"women's, athletic shoes, running, workout\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names mentioned in the following text.\nText: I just bought the new Sony WH-1000XM4 headphones and they are fantastic. I use them with my iPhone 12 for crystal-clear calls.\nAnswer: ",
+        "output": "Sony WH-1000XM4, iPhone 12\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the 'product name' and 'brand name' from the following sentence:\n\"Jane bought the new Sony Experia Z5 compact phone in black.\"\nOutput: ",
+        "output": "['Sony Experia Z5 compact', 'Sony']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify the product names in the following review: 'The Sony WH-1000XM4 headphones are a game-changer. They offer industry-leading noise cancellation and the Bose QuietComfort 35 II are also impressive, but the battery life of the WH-1000XM4 is unparalleled.'\nEntity Type: Product Name\nOutput: ",
+        "output": "Sony WH-1000XM4, Bose QuietComfort 35 II\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Named Entity Recognition: Identify all product names mentioned in the following customer review: \"I love my new Apple Watch and the matching iPhone case I bought. Both are great quality.\"\nOutput: ",
+        "output": "\"Apple Watch, iPhone case\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify all product names in the following sentence:\nText: \"I bought the new Sony PlayStation 5 and the Samsung QLED TV for an amazing gaming experience.\"\nAnswer: ",
+        "output": "Sony PlayStation 5, Samsung QLED TV\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify the brands in the following product descriptions.\nText: 'The Apple iPhone 12 and the Samsung Galaxy S21 are two popular smartphones. The Adidas Ultraboost 20 are great running shoes.'\nOutput: ",
+        "output": "Apple, Samsung, Adidas\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract all product names mentioned in the following customer review: \"I love the new Sony Xperia! Its camera is way better than the Samsung Galaxy's, and the iPhone's battery life doesn't compare.\"\nOutput: ",
+        "output": "['Sony Xperia', 'Samsung Galaxy', 'iPhone']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the product names in the following customer review.\nReview: \"I bought the Sony A7R IV mirrorless camera and the Canon EF 70-200mm f/2.8L IS III USM lens for my photography. Both are top-notch and worth every penny.\"\nOutput:",
+        "output": "Sony A7R IV, Canon EF 70-200mm f/2.8L IS III USM\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the brand names mentioned in the following product review: \"I love my new Nike running shoes. They are so comfortable and give great support. The Adidas sports bra I bought is also a great fit.\" Output:",
+        "output": "\"Nike, Adidas\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the product names mentioned in the review below. Output the names as a comma-separated list.\n\nReview: I recently purchased the Sony WH-1000XM4 headphones and the Anker PowerCore portable charger. Both products are amazing! The headphones have excellent noise cancellation, and the charger is compact yet powerful.\nOutput: ",
+        "output": "Sony WH-1000XM4, Anker PowerCore\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify all product names mentioned in the customer's query.\nQuery: I'm looking for a new pair of Nike running shoes, preferably the latest Air Zoom model.\nOutput: ",
+        "output": "Nike running shoes, Air Zoom\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify all product names mentioned in the following sentence. Output the product names only, separated by a comma. Do not include any other types of entities. \nSentence: 'I love my new Kindle; it\u2019s perfect for reading ebooks. I also enjoy using my Fitbit to track my daily steps.'\nOutput: ",
+        "output": "'Kindle, Fitbit'\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the product features mentioned in the following product description:\nDescription: \"The new iPhone features a 6.1-inch Super Retina XDR display, A14 Bionic chip, and an advanced dual-camera system with Night mode.\"\nOutput: ",
+        "output": "[6.1-inch Super Retina XDR display, A14 Bionic chip, advanced dual-camera system, Night mode]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the product names in the following customer review: 'I bought the Fire Stick and the Echo Dot. Both are excellent devices for streaming and voice control.' Output: \n",
+        "output": "Fire Stick, Echo Dot\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names in the following sentence: \nSentence: \"I bought a Kindle Paperwhite and a pair of Beats headphones from Amazon.\"\nOutput: ",
+        "output": "Kindle Paperwhite, Beats headphones\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract all phrases from the text that correspond to the entity type 'product'.\nText: I love my new Kindle Paperwhite! It's so much better than the old version. I also bought a cover for it.\nOutput: \n",
+        "output": "Kindle Paperwhite, cover\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify the brand names in the following product description: 'The Sony WH-1000XM4 headphones offer industry-leading noise cancellation and are compatible with the latest Bluetooth technology, just like the Bose QuietComfort 35 Series II.'\nOutput: ",
+        "output": "Sony, Bose\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the product brands mentioned in the following text:\nText: I just bought a new pair of Nike running shoes and a Sony digital camera to capture my running progress. My Adidas socks are the perfect match for these shoes.\nEntity Type: Brand\nOutput: ",
+        "output": "Nike, Sony, Adidas\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the brand names mentioned in the following product review:\nReview: I love my new Adidas running shoes. They are so much better than the Nike ones I had before.\nOutput: ",
+        "output": "Adidas, Nike\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract all phrases from the following product description that correspond to the entity type 'color'. Output: ",
+        "output": "['red', 'blue', 'black', 'white']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract all product categories from the following customer query that are related to 'electronics'. \nQuery: 'I am looking for a new tablet or a lightweight laptop for school.'\nOutput (product categories separated by a comma): ",
+        "output": "tablet, laptop",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named entity recognition",
+        "instruction": "Identify the brand and product category of the item described: 'The lightweight and durable Columbia Silver Ridge II hiking boot offers waterproof protection and exceptional traction.'",
+        "output": "Brand: Columbia, Product Category: Hiking Boot\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify and list all product names mentioned in the following customer service email. Output the product names without repetition and separate them with a comma.\nEmail: Thank you for contacting us regarding your new Kindle Fire. We are sorry to hear about the issues with your Fire Stick and are here to assist you. Please return the defective product within 14 days for a full refund or exchange.\nOutput: ",
+        "output": "Kindle Fire, Fire Stick\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify all product names mentioned in the following text that belong to the entity type 'laptop'.\nText: \"I can't decide between the Dell XPS 13 and the HP Envy 15 for my next laptop purchase.\"\nOutput: ",
+        "output": "['Dell XPS 13', 'HP Envy 15']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Extract all the product categories from the following customer query: \"I'm looking for a new pair of wireless earbuds for running and a reliable fitness tracker.\" \nOutput: ",
+        "output": "['wireless earbuds', 'fitness tracker']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify all the product names mentioned in the following text. \nText: I just bought the new Nike Air Zoom Pegasus 37 and they are so comfortable. I also saw the Adidas Cloudfoam Ultimate on sale.\nAnswer: ",
+        "output": "Nike Air Zoom Pegasus 37, Adidas Cloudfoam Ultimate\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names in the following sentence.\nSentence: \"I bought a new pair of Sony noise-cancelling headphones and a Garmin Forerunner watch online.\"\nOutput: ",
+        "output": "Sony noise-cancelling headphones, Garmin Forerunner watch\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the brand and model of the smartphone in the following sentence: \"I love the new camera features on my Samsung Galaxy S21.\"\nOutput:",
+        "output": "Samsung Galaxy S21\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the brand names in the following product description for a smartwatch. Output brands without repetition and separate them with a comma.\n\nProduct Description: The Samsung Galaxy Watch Active2 is a versatile smartwatch that seamlessly integrates with the Apple Health app and other AndroidOS devices. It features a Corning Gorilla Glass DX+ display and a stainless steel case.\n\nOutput: ",
+        "output": "['Samsung', 'Apple', 'Corning']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Task type: Named Entity Recognition. Extract all product names from the following customer review: 'I love my new Sony WH-1000XM4 headphones! They are way better than my old Bose QuietComfort 35 II.' \nOutput: ",
+        "output": "['Sony WH-1000XM4', 'Bose QuietComfort 35 II']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Please extract all the brand names mentioned in the following product description: \"I love my new Apple iPhone and how it pairs seamlessly with my Samsung Galaxy Watch and my Sony headphones.\"\nOutput: ",
+        "output": "Apple, Samsung, Sony\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names in the following sentence. Answer: ",
+        "output": "['Nike Air Max', 'Levi's Jeans']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify all product names in the following sentence.\nSentence: \"I just bought the latest iPhone and a pair of Sony noise-canceling headphones.\"\nAnswer: ",
+        "output": "iPhone, Sony noise-canceling headphones\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify all instances of 'product type' in the following customer review: \"I love my new noise-cancelling headphones. They are so much better than the earbuds I had before.\"\nOutput: ",
+        "output": "['noise-cancelling headphones', 'earbuds']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Task type: Named Entity Recognition - Product Names. Identify the product names in the following customer review: 'I love my new Sony WH-1000XM4 Wireless Noise-Canceling Headphones. They are much better than the previous version, and the battery life is impressive.'\nOutput: ",
+        "output": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify the product names in the following customer service exchange.\nExchange: \"I received my order of the Nike Free RN 2020 shoes but they are the wrong size. I need to return them and get the correct size.\"\nOutput:",
+        "output": "Nike Free RN 2020\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify all brand names mentioned in the following product description.\nProduct Description: The new XYZ tablet features a sleek design with the latest Android operating system. Compatible with ABC pen for digital note-taking and DEF case for protection.\nOutput: \n",
+        "output": "XYZ, ABC, DEF\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Task type: Named Entity Recognition. Identify the brand and product category from the following sentence: \"I love my new Adidas running shoes.\" Output: \n",
+        "output": "Adidas, running shoes\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Named Entity Recognition: Identify and list all the product attributes mentioned in the following product description: 'This sleek, waterproof smartwatch features a touchscreen, heart rate monitor, and is compatible with both Android and iOS devices.'\nOutput: ",
+        "output": "\"Attributes: waterproof, touchscreen, heart rate monitor, Android compatibility, iOS compatibility\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Named Entity Recognition: Identify all the brand names mentioned in the following product descriptions.\nProduct Description 1: The Under Armour Men's UA Tech Short Sleeve T-shirt is crafted with UA Tech fabric for a soft, athletic feel.\nProduct Description 2: Stay comfortable in the crocs Women's Malindi Flat, featuring a synthetic upper and non-marking outsole.\nOutput: ",
+        "output": "\"Under Armour, crocs\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Extract all product names from the following review:\nReview: \"I recently purchased the Sony WH-1000XM4 Wireless Headphones and the Samsung Galaxy S21 5G. Both are fantastic products and I highly recommend them.\"\nEntity type: Product Name\nOutput: \n",
+        "output": "Sony WH-1000XM4 Wireless Headphones, Samsung Galaxy S21 5G\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all the product names in the following sentence.\n\"Jane bought a Dell Inspiron laptop and a Samsung Galaxy Tab S7 for her online classes.\"\nAnswer: ",
+        "output": "Dell Inspiron, Samsung Galaxy Tab S7\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Identify the product names in the following customer review for an electronics store.\nReview: \"I love my new Sony WH-1000XM4 headphones! They are so much better than the Bose QuietComfort 35 II.\"\nOutput: \n",
+        "output": "['Sony WH-1000XM4', 'Bose QuietComfort 35 II']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Named Entity Recognition: From the following customer review, extract all phrases corresponding to the entity type 'product feature': 'I love the large capacity and quick charging feature of this power bank. It's a must-have for travel.'\nOutput: ",
+        "output": "\"large capacity, quick charging feature\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Identify the product names in the following customer review: \"I absolutely love my new Kindle Fire HD and the JBL Flip 4 speaker it came with. They're perfect for my digital life.\"\nOutput: ",
+        "output": "['Kindle Fire HD', 'JBL Flip 4']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all phrases that correspond to the entity type 'brand' from the following sentence:\n\"Looking for a new pair of Adidas running shoes for my next marathon.\"\nOutput: ",
+        "output": "Adidas",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named_entity_recognition",
+        "instruction": "Task type: Named Entity Recognition. Identify the 'material' entities in the following product description: 'This sleek messenger bag is crafted from high-quality Italian leather and features durable metal zippers'.\nOutput: ",
+        "output": "['Italian leather', 'metal']\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Named Entity Recognition",
+        "instruction": "Extract all phrases corresponding to the entity type 'product category' from the following customer query.\nQuery: \"Looking for a good pair of hiking boots in the adventure gear section.\"\nOutput: ",
+        "output": "['hiking boots', 'adventure gear']",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names mentioned in the following review.\nReview: I love my new Kindle Oasis! It's so much better than the old Kindle I had. The screen is stunning and the battery life is impressive.\nEntity: product name\nOutput: ",
+        "output": "Kindle Oasis, Kindle\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "named-entity-recognition",
+        "instruction": "Identify all product names in the following sentence.\nSentence: \"I bought the new Sony WH-1000XM4 headphones and the Samsung Galaxy Note20 Ultra phone.\"\nEntity Type: Product Name\nOutput: ",
+        "output": "Sony WH-1000XM4 headphones, Samsung Galaxy Note20 Ultra phone\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    }
+]

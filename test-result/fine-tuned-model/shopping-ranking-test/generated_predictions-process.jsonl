@@ -1,0 +1,246 @@
+{"label": "['4', '2', '1', '3']", "predict": "['4', '1', '2', '3']"}
+{"label": "['1. Shoe E2. Shoe C3. Shoe A4. Shoe D5. Shoe B']", "predict": "['1', '3', '5', '2', '4']"}
+{"label": "['1. Adidas Ultra Boost 21', '2. Brooks Ghost 14', '3. Nike Air Zoom Pegasus 38', '4. Saucony Ride 14', '5. New Balance Fresh Foam 1080v12']", "predict": "[''New Balance Fresh Foam 1080v12'']"}
+{"label": "['Dress C', 'Dress A', 'Dress D', 'Dress B']", "predict": "['Dress D', 'Dress A', 'Dress C', 'Dress B']"}
+{"label": "['5', '1', '2', '4', '3']", "predict": "['5', '1', '4', '2', '3']"}
+{"label": "['3', '1', '5', '2', '4']", "predict": "['3', '1', '2', '5', '4']"}
+{"label": "['2', '5', '3', '1', '4']", "predict": "['2', '3', '1', '5', '4']"}
+{"label": "['4', '1', '3', '2']", "predict": "['1', '3', '2', '4']"}
+{"label": "['1', '4', '3', '2', '5']", "predict": "['1', '4', '3', '5', '2']"}
+{"label": "['4', '1', '2', '5', '3']", "predict": "['4', '3', '1', '2', '5']"}
+{"label": "['2', '5', '3', '1', '4']", "predict": "['5', '2', '3', '4', '1']"}
+{"label": "['1', '3', '5', '4', '2']", "predict": "['1', '3', '5', '4', '2']"}
+{"label": "['2', '3', '1']", "predict": "[''1', '3', '2'']"}
+{"label": "['1', '2', '3', '4', '5']", "predict": "['1', '2', '3', '4', '5']"}
+{"label": "['1', '2', '3', '4']", "predict": "['1', '3', '4', '2']"}
+{"label": "['2', '5', '1', '4', '3']", "predict": "['5', '1', '3', '2', '4']"}
+{"label": "['2', '1', '3']", "predict": "['1', '2', '3']"}
+{"label": "['1', '5', '3', '2', '4']", "predict": "['3', '5', '1', '4', '2']"}
+{"label": "['3', '1', '2', '4']", "predict": "['3', '1', '4', '2']"}
+{"label": "['1', '2', '3', '4']", "predict": "['1', '2', '3', '4']"}
+{"label": "['5', '1', '4', '2', '3']", "predict": "['1', '4', '2', '5', '3']"}
+{"label": "['1', '2', '4', '3']", "predict": "['1', '2', '4', '3']"}
+{"label": "['4', '1', '3', '5', '2']", "predict": "['1', '3', '4', '5', '2']"}
+{"label": "['1', '3', '4', '5', '2']", "predict": "['1', '3', '4', '2', '5']"}
+{"label": "['1', '2', '3', '4', '5', '6']", "predict": "['4', '2', '5', '1', '3', '6']"}
+{"label": "['1', '4', '3', '2', '5']", "predict": "['1', '2', '3', '4', '5']"}
+{"label": "['Lightweight Sleeping Bag', 'Portable Solar Charger', 'Rechargeable Hand Warmer', 'Cast-Iron Skillet', 'Heavy-Duty Tent with Built-In Lights']", "predict": "['Portable Solar Charger', 'Heavy-Duty Tent with Built-In Lights', 'Rechargeable Hand Warmer', 'Cast-Iron Skillet', 'Lightweight Sleeping Bag']"}
+{"label": "['3', '5', '2', '4', '1']", "predict": "['5', '3', '2', '4', '1']"}
+{"label": "['2', '1', '3', '5', '4']", "predict": "['2', '5', '3', '4', '1']"}
+{"label": "['3', '1', '4', '5', '2']", "predict": "['3', '1', '5', '4', '2']"}
+{"label": "['4', '1', '3', '2', '5']", "predict": "['4', '3', '1', '2', '5']"}
+{"label": "['1', '4', '2', '3']", "predict": "['1', '2', '4', '3']"}
+{"label": "['2', '1', '3', '5', '4']", "predict": "['2', '1', '3', '4', '5']"}
+{"label": "['1', '3', '2']", "predict": "['1', '3', '2']"}
+{"label": "['4', '2', '1', '3', '5']", "predict": "['4', '2', '1', '3', '5']"}
+{"label": "['1', '4', '2', '3']", "predict": "['1', '2', '4', '3']"}
+{"label": "['Laptop A', 'Laptop B', 'Laptop C']", "predict": "['Laptop A', 'Laptop B', 'Laptop C']"}
+{"label": "['3', '5', '2', '4', '1']", "predict": "['3', '5', '4', '2', '1']"}
+{"label": "['1', '3', '5', '2', '4']", "predict": "['1', '3', '5', '2', '4']"}
+{"label": "['3', '2', '4', '1']", "predict": "['3', '1', '4', '2']"}
+{"label": "['4', '2', '3', '1']", "predict": "['2', '4', '3', '1']"}
+{"label": "['1', '5', '4', '2', '3']", "predict": "['1', '4', '5', '2', '3']"}
+{"label": "['4', '3', '1', '2']", "predict": "['1', '4', '2', '3']"}
+{"label": "['1', '4', '3', '2', '5']", "predict": "['4', '1', '3', '5', '2']"}
+{"label": "['3', '1', '2']", "predict": "['1', '3', '2']"}
+{"label": "['1', '2', '3']", "predict": "['1', '2', '3']"}
+{"label": "['3', '5', '2', '4', '1']", "predict": "['3', '5', '2', '4', '1']"}
+{"label": "['1', '2', '3', '4', '5']", "predict": "['3', '1', '2', '4', '5']"}
+{"label": "['Blender A', 'Blender B']", "predict": "['Blender A', 'Blender B']"}
+{"label": "['2', '4', '5', '1', '3']", "predict": "['2', '4', '5', '1', '3']"}
+{"label": "['3', '1', '4', '5', '2']", "predict": "['3', '1', '4', '2', '5']"}
+{"label": "['1', '2', '3', '5', '4']", "predict": "['1', '2', '3', '4', '5']"}
+{"label": "['4', '1', '2', '5', '3']", "predict": "['4', '1', '5', '3', '2']"}
+{"label": "['4', '3', '1', '5', '2']", "predict": "['1', '3', '2', '4', '5']"}
+{"label": "['4', '1', '5', '2', '3']", "predict": "['4', '1', '5', '2', '3']"}
+{"label": "['5', '1', '3', '2', '4']", "predict": "['1', '5', '3', '2', '4']"}
+{"label": "['2', '3', '1']", "predict": "['2', '1', '3']"}
+{"label": "['1', '3', '2', '4']", "predict": "['1', '3', '2', '4']"}
+{"label": "['3', '1', '5', '4', '2']", "predict": "['1', '3', '5', '4', '2']"}
+{"label": "['2', '4', '1', '5', '3']", "predict": "['1', '2', '4', '3', '5']"}
+{"label": "['3', '1', '2', '5', '4']", "predict": "['1', '2', '3', '5', '4']"}
+{"label": "['1', '4', '3', '2', '5']", "predict": "['1', '3', '2', '4', '5']"}
+{"label": "['5', '2', '1', '3', '4']", "predict": "['4', '2', '5', '3', '1']"}
+{"label": "['1', '2', '3']", "predict": "['1', '2', '3']"}
+{"label": "['1', '5', '7']", "predict": "['1', '5', '7']"}
+{"label": "['5', '1', '4', '2', '3']", "predict": "['5', '4', '2', '3', '1']"}
+{"label": "['1', '3', '2']", "predict": "['1', '3', '2']"}
+{"label": "['1', '4', '2', '5', '3']", "predict": "['2', '4', '5', '1', '3']"}
+{"label": "['1', '3', '2', '5', '4']", "predict": "['1', '2', '3', '4', '5']"}
+{"label": "['2', '5', '3', '1', '4']", "predict": "['1', '2', '3', '5', '4']"}
+{"label": "['4', '3', '2', '5', '1']", "predict": "['1', '3', '2', '4', '5']"}
+{"label": "['3', '1', '5', '2', '4']", "predict": "['3', '1', '5', '4', '2']"}
+{"label": "['3', '1', '2', '4']", "predict": "['3', '1', '2', '4']"}
+
+{"label": "['Apple iPhone 13 Pro Max', 'Samsung Galaxy S21 Ultra', 'Google Pixel 6 Pro', 'OnePlus 9 Pro', 'Huawei P40 Pro']", "predict": "['Samsung Galaxy S21 Ultra', 'Google Pixel 6 Pro', 'Apple iPhone 13 Pro Max', 'OnePlus 9 Pro', 'Huawei P40 Pro']"}
+{"label": "['3', '1', '2']", "predict": "['3', '1', '2']"}
+{"label": "['1', '2', '5', '4', '3']", "predict": "['1', '2', '5', '3', '4']"}
+{"label": "['1', '2', '3', '4', '5']", "predict": "['1', '2', '4', '3', '5']"}
+{"label": "['1', '3', '4', '2', '5']", "predict": "['3', '1', '4', '2', '5']"}
+{"label": "['4', '1', '5', '2', '3 ']", "predict": "['4', '1', '5', '2', '3']"}
+{"label": "['1. Lenovo ThinkPad2. MacBook Pro3. Dell XPS4. HP Spectre']", "predict": "['1. Lenovo ThinkPad2. MacBook Pro3. Dell XPS4. HP Spectre']"}
+{"label": "['2', '4', '3', '1', '6', '5', '7']", "predict": "['1', '2', '3', '4', '6', '5', '7']"}
+{"label": "['1', '2', '4', '3', '5']", "predict": "['1', '2', '3', '4', '5']"}
+{"label": "['1', '3', '4', '2']", "predict": "['3', '1', '4', '2']"}
+{"label": "['1', '2', '3', '5', '4']", "predict": "['1. Motor power2. Ease of cleaning3. Noise level4. Design aesthetics5. Durability']"}
+{"label": "['Blender A', 'Blender B', 'Blender C']", "predict": "['Blender A', 'Blender B', 'Blender C']"}
+{"label": "['Output: 1. Espresso Machine', '4. Coffee Beans Subscription', '2. Coffee Mug Set', '5. Coffee Table Book about Coffee', '3. Bluetooth Speaker']", "predict": "['1. Espresso Machine2. Coffee Mug Set3. Coffee Table Book about Coffee4. Coffee Beans Subscription5. Bluetooth Speaker']"}
+{"label": "['1. Fitbit Versa 3', '2. Garmin Forerunner 945', '3. Samsung Galaxy Watch4 Classic', '4. Apple Watch Series 7']", "predict": "['1', '2', '3', '4']"}
+{"label": "['1', '4', '3', '5', '2']", "predict": "['1', '4', '2', '5', '3']"}
+{"label": "['5', '1', '3', '2', '4']", "predict": "['5', '1', '3', '2', '4']"}
+{"label": "['2', '3', '1', '4', '5']", "predict": "['1', '5', '3', '2', '4']"}
+{"label": "['4', '2', '3', '1', '5']", "predict": "['1', '4', '2', '3', '5']"}
+{"label": "['1. Merrell Men's Moab 2 Vent Hiking Shoe 2. Patagonia Down With It Hooded Jacket 3. Oakley Holbrook Sunglasses 4. Garmin Forerunner 235 GPS Running Watch 5. Bose QuietComfort 35 Wireless Headphones II']", "predict": "['1', '4', '3', '5', '2']"}
+{"label": "['4', '1', '5', '2', '3']", "predict": "['4', '1', '2', '3', '5']"}
+{"label": "['1', '2', '3']", "predict": "['1', '2', '3']"}
+{"label": "['1. 12-cup coffee maker', '3. 8-cup coffee maker', '2. 4-cup coffee maker']", "predict": "['1', '3', '2']"}
+{"label": "['3', '1', '2', '5', '4']", "predict": "['1', '2', '3']"}
+{"label": "['1', '4', '5']", "predict": "['1', '5', '4']"}
+{"label": "['1', '5', '3', '2', '4']", "predict": "['1', '2', '3', '4', '5']"}
+{"label": "['1', '4', '2', '3']", "predict": "['1', '4', '2', '3']"}
+{"label": "['1. Model A', '2. Model C', '3. Model B']", "predict": "['1. ASUS ROG Zephyrus G142. Dell XPS 133. Apple MacBook Air']"}
+{"label": "['iPhone 12 Pro Max', 'Samsung Galaxy Note 20 Ultra', 'OnePlus 8T', 'Google Pixel 5']", "predict": "['1. Samsung Galaxy Note 20 Ultra2. iPhone 12 Pro Max3. Google Pixel 54. OnePlus 8T']"}
+{"label": "['1', '2', '3', '4']", "predict": "['1', '2', '3', '4']"}
+{"label": "['3', '1', '2']", "predict": "['3', '1', '2']"}
+{"label": "['1', '2', '3', '4', '5']", "predict": "['1', '2', '3', '4', '5']"}
+{"label": "['2', '1', '4', '3', '5']", "predict": "['2', '1', '3', '4', '5']"}
+{"label": "[''Phone A', 'Phone B', 'Phone C', 'Phone D'']", "predict": "['1', '2', '3', '4']"}
+{"label": "['2', '3', '1', '0']", "predict": "['0', '2', '1', '3']"}
+{"label": "['3', '1', '4', '2']", "predict": "['4', '3', '1', '2']"}
+{"label": "['Samsung Galaxy S21 Ultra', 'iPhone 12', 'Xiaomi Mi 11', 'Samsung Galaxy A12']", "predict": "['Samsung Galaxy S21 Ultra', 'iPhone 12', 'Xiaomi Mi 11', 'Samsung Galaxy A12']"}
+{"label": "['1', '3', '2', '4', '5']", "predict": "['Highest to Lowest5', '2', '3', '4', '1']"}
+{"label": "['1. Suction Power2. Weight and Maneuverability3. Noise Level4. Battery Life (for cordless models5. Accessories and Attachments']", "predict": "['1', '2', '3', '4', '5']"}
+{"label": "['2', '1', '3', '4', '5']", "predict": "['2', '1', '5', '3', '4']"}
+{"label": "['1', '3', '2', '4', '5']", "predict": "['1', '3', '2', '4', '5']"}
+{"label": "['3', '2', '5', '4', '1']", "predict": "['1. 42. 33. 24. 15. 5']"}
+{"label": "['1', '3', '2', '4']", "predict": "['1', '3', '2', '4']"}
+{"label": "['Rolex Submariner Watch', 'Apple MacBook Air M1', 'iPhone 13 Pro', 'Samsung Galaxy S21', 'Fitbit Charge 4']", "predict": "[''Rolex Submariner Watch'', ''iPhone 13 Pro'', ''Apple MacBook Air M1'', ''Samsung Galaxy S21'', ''Fitbit Charge 4'']"}
+{"label": "['iPhone 13 Pro Max', 'Samsung Galaxy S22 Ultra', 'Google Pixel 6 Pro', 'OnePlus 9RT']", "predict": "['iPhone 13 Pro Max', 'Samsung Galaxy S22 Ultra', 'Google Pixel 6 Pro', 'OnePlus 9RT']"}
+{"label": "['1', '3', '2', '4']", "predict": "['Model P5', 'Model T4', 'Model X1', 'Model L9']"}
+{"label": "['4', '2', '3', '1']", "predict": "['1. Refrigerator', '2. Blender', '3. Microwave', '4. Toaster']"}
+{"label": "['2', '1', '3']", "predict": "['1. Samsung Galaxy S21 Ultra 5G', '2. iPhone 13 Pro Max', '3. Google Pixel 6 Pro']"}
+{"label": "['4', '2', '1', '3']", "predict": "['4', '2', '3', '1']"}
+{"label": "['1', '2', '3', '4', '5']", "predict": "['1', '4', '2', '5', '3']"}
+{"label": "['1', '2', '3', '5', '4']", "predict": "['1', '2', '3', '5', '4']"}
+{"label": "['4', '2', '3', '1', '5']", "predict": "['2', '3', '1', '4', '5']"}
+{"label": "['3', '2', '4', '1']", "predict": "['3', '4', '1', '2']"}
+{"label": "['3', '1', '4', '5', '2']", "predict": "['3', '1', '4', '2', '5']"}
+{"label": "['Xiaomi Redmi Note 9', 'OnePlus 8', 'Samsung Galaxy S21', 'iPhone 12']", "predict": "['Xiaomi Redmi Note 9', 'OnePlus 8', 'iPhone 12', 'Samsung Galaxy S21']"}
+{"label": "['1234', '1213', '5678', '9101', '1415']", "predict": "['1234', '4.3', '4.8', '1213', '9101', '5678']"}
+{"label": "['1', '3', '2', '4']", "predict": "['1', '4', '3', '2']"}
+{"label": "['iPhone 13 Pro Max', 'Samsung Galaxy S22', 'Google Pixel 6', 'OnePlus 9']", "predict": "['iPhone 13 Pro Max', 'Samsung Galaxy S22', 'Google Pixel 6', 'OnePlus 9']"}
+{"label": "['1', '2', '3', '4']", "predict": "['1', '3', '2', '4']"}
+{"label": "['2', '3', '1']", "predict": "['2', '3', '1']"}
+{"label": "['3', '1', '4', '2', '5']", "predict": "['3', '1', '4', '2', '5']"}
+{"label": "['1 > 2 > 3 > 4']", "predict": "['1', '2', '3', '4']"}
+{"label": "[''4', '3', '2', '1'']", "predict": "['3', '4', '2', '1']"}
+{"label": "['3', '1', '2', '0']", "predict": "['3', '1', '2', '0']"}
+{"label": "['1', '4', '3', '5', '2']", "predict": "['1', '3', '5', '2', '4']"}
+{"label": "['1', '3', '4', '2', '5']", "predict": "['1', '4', '3', '2', '5']"}
+{"label": "['2', '1', '5', '4', '3']", "predict": "['2', '1', '5', '3', '4']"}
+{"label": "['2', '3', '1', '4']", "predict": "['1', '4', '3', '2']"}
+{"label": "['4', '2', '3', '1']", "predict": "['1', '2', '3', '4']"}
+{"label": "['Xiaomi Redmi Note 9', 'Google Pixel 5', 'Samsung Galaxy S21', 'Apple iPhone 12']", "predict": "['1. Xiaomi Redmi Note 9', '2. Google Pixel 5', '3. Apple iPhone 12', '4. Samsung Galaxy S21']"}
+{"label": "['1', '4', '2', '3']", "predict": "['1', '4', '2', '3']"}
+{"label": "['1. Model A', '2. Model B', '3. Model C']", "predict": "['1', '3', '2']"}
+{"label": "['1', '3', '2', '4', '5']", "predict": "['1', '3', '2', '4', '5']"}
+{"label": "['1. iPhone 12 Pro Max', '2. Samsung Galaxy S21 Ultra', '3. Huawei P40 Pro']", "predict": "['1', '2', '3']"}
+{"label": "['4', '2', '1', '5', '3']", "predict": "['4', '2', '5', '1', '3']"}
+{"label": "['1', '0', '2', '3']", "predict": "['1', '0', '2', '3']"}
+{"label": "[''diamond bracelet'', ''gold necklace'', ''silver ring'', ''plastic watch'']", "predict": "['1. diamond bracelet', '2. gold necklace', '3. silver ring', '4. plastic watch']"}
+{"label": "['2', '3', '4', '5', '1']", "predict": "['4', '2', '1', '5', '3']"}
+{"label": "['5', '3', '1', '4', '2.']", "predict": "['5', '3', '1', '4', '2']"}
+{"label": "['4', '2', '1', '3', '5']", "predict": "['4', '2', '3', '1', '5']"}
+{"label": "['4', '1', '2', '3']", "predict": "['4', '1', '2', '3']"}
+{"label": "['0', '3', '1', '2']", "predict": "['0', '3', '1', '2']"}
+{"label": "['5', '1', '4', '2', '3']", "predict": "['4', '1', '3', '2', '5']"}
+{"label": "['Review 1', 'Review 2', 'Review 3']", "predict": "['Review 1', 'Review 2', 'Review 3']"}
+{"label": "['2', '1', '4', '3']", "predict": "['2', '1', '4', '3']"}
+{"label": "['1', '2', '3', '4']", "predict": "['2', '4', '1', '3']"}
+{"label": "['smartwatch', 'tablet', 'laptop', 'desktop computer']", "predict": "['smartwatch', 'tablet', 'laptop', 'desktop computer']"}
+{"label": "['0', '3', '2', '1']", "predict": "['0', '2', '1', '3']"}
+{"label": "['3', '1', '2', '4']", "predict": "['1', '3', '2', '4']"}
+{"label": "['1', '2', '3', '4']", "predict": "['1', '2', '3', '4']"}
+{"label": "['3', '1', '4', '2']", "predict": "['1', '4', '2', '3']"}
+{"label": "['4', '2', '1', '3']", "predict": "['1', '4', '3', '2']"}
+{"label": "['1', '2', '4', '3', '5']", "predict": "['3', '1', '4', '2', '5']"}
+{"label": "['1', '3', '4', '2', '5']", "predict": "['1', '3', '4', '2', '5']"}
+{"label": "['1', '2', '3', '4', '5']", "predict": "['1. Google Pixel 62. Samsung Galaxy S213. Xiaomi Mi 114. iPhone 125. Huawei P40']"}
+{"label": "['2', '3', '1']", "predict": "['1', '2', '3']"}
+{"label": "['4', '3', '2', '1']", "predict": "['3', '4', '2', '1']"}
+{"label": "['4', '1', '2', '3', '5']", "predict": "['1', '4', '3', '2', '5']"}
+{"label": "['1', '2', '3', '4', '5']", "predict": "['1', '2', '3', '4', '5']"}
+{"label": "['5', '2', '4', '3', '1']", "predict": "['5', '1', '2', '4', '3']"}
+{"label": "['Google Pixel 5', 'Samsung Galaxy S21', 'Apple iPhone 12']", "predict": "['Google Pixel 5', 'Apple iPhone 12', 'Samsung Galaxy S21']"}
+{"label": "['5', '2', '1', '3', '4']", "predict": "['2', '4', '1', '3', '5']"}
+{"label": "['Apple Watch Series 6', 'Fitbit Versa 3', 'Samsung Galaxy Watch Active', 'Garmin Forerunner 45']", "predict": "['Apple Watch Series 6', 'Fitbit Versa 3', 'Garmin Forerunner 45', 'Samsung Galaxy Watch Active']"}
+{"label": "[''Apple iPhone 13'', ''Samsung Galaxy S21'', ''Google Pixel 6'', ''Xiaomi Redmi Note 10'']", "predict": "[''Apple iPhone 13'', ''Samsung Galaxy S21'', ''Google Pixel 6'', ''Xiaomi Redmi Note 10'']"}
+{"label": "['1', '4', '2', '3', '5']", "predict": "['1', '4', '2', '3', '5']"}
+{"label": "['Lenovo IdeaPad 3', 'ASUS TUF Gaming Laptop', 'HP Pavilion 15', 'Apple MacBook Air', 'Dell XPS 13']", "predict": "['5', '1', '3', '2', '4']"}
+{"label": "['1', '4', '2', '3']", "predict": "['4', '2', '1', '3']"}
+{"label": "['2', '5', '1', '4', '3']", "predict": "['2', '5', '1', '4', '3']"}
+{"label": "['1', '4', '2', '3', '5']", "predict": "['1', '4', '2', '5', '3']"}
+{"label": "['3', '1', '2', '4']", "predict": "['1', '3', '4', '2']"}
+{"label": "['generic kitchen towels', 'cotton T-shirt', 'Nike running shoes', 'iPhone 12']", "predict": "['cotton T-shirt', 'generic kitchen towels', 'Nike running shoes', 'iPhone 12']"}
+{"label": "['iPhone 12', 'Samsung Galaxy S21', 'Google Pixel 5', 'Huawei P40']", "predict": "['1. iPhone 12', '2. Samsung Galaxy S21', '3. Google Pixel 5', '4. Huawei P40']"}
+{"label": "['2', '1', '3', '4']", "predict": "['2', '1', '3', '4']"}
+{"label": "['0', '1', '3', '2']", "predict": "['0', '1', '2', '3']"}
+{"label": "['1', '2', '3']", "predict": "['2', '1', '3']"}
+{"label": "['1', '3', '2', '4']", "predict": "['1', '3', '2', '4']"}
+{"label": "['3 > 1 > 2 > 4']", "predict": "['Apple Watch Series 7', 'Samsung Galaxy Watch 4', 'Fitbit Versa 3', 'Moto 360']"}
+{"label": "['Laptop C', 'Laptop A', 'Laptop B', 'Laptop D']", "predict": "['Laptop C', 'Laptop A', 'Laptop B', 'Laptop D']"}
+{"label": "['4', '1', '2', '3', '5']", "predict": "['4', '1', '2', '3', '5']"}
+{"label": "['1', '3', '2', '5', '4']", "predict": "['1', '3', '4', '2', '5']"}
+{"label": "['5', '2', '1', '4', '3']", "predict": "['1', '2', '5', '4', '3']"}
+{"label": "['Product A', 'Product C', 'Product B', 'Product D']", "predict": "['Product A', 'Product C', 'Product B', 'Product D']"}
+{"label": "['1', '2', '0']", "predict": "['1. ASICS Gel-Kayano0. Nike Air Zoom Pegasus2. Adidas Ultraboost']"}
+{"label": "['2', '1', '0', '3']", "predict": "['2', '1', '0', '3']"}
+{"label": "['1', '2', '3']", "predict": "['1', '2', '3']"}
+{"label": "['3', '1', '4', '2', '5']", "predict": "['1', '3', '4', '2', '5']"}
+{"label": "['1', '3', '2', '4']", "predict": "['1', '2', '3', '4']"}
+{"label": "['iPhone 12', 'Samsung Galaxy S21', 'Google Pixel 5', 'OnePlus 8T']", "predict": "['iPhone 12', 'Samsung Galaxy S21', 'Google Pixel 5', 'OnePlus 8T']"}
+{"label": "['4', '1', '2', '3', '5']", "predict": "['1', '4', '2', '5', '3']"}
+{"label": "['1', '4', '2', '3']", "predict": "['2', '4', '1', '3']"}
+{"label": "['4', '5', '3', '2', '1']", "predict": "['4', '5', '3', '2', '1']"}
+{"label": "['3', '1', '2', '0']", "predict": "['3', '1', '0', '2']"}
+{"label": "['1', '2', '4', '3']", "predict": "['4', '1', '2', '3']"}
+{"label": "['Phone B', 'Phone A', 'Phone C', 'Phone D']", "predict": "['Phone A', 'Phone B', 'Phone C', 'Phone D']"}
+{"label": "['apple', 'car', 'diamond ring', 'gold bar']", "predict": "['1. Apple', '2. Gold bar', '3. Car', '4. Diamond ring']"}
+{"label": "['2. Tailored Suit', '4. Business Dress', '3. Casual Shirt', '1. Denim Jeans']", "predict": "['1. 22. 43. 34. 1']"}
+{"label": "['2', '1', '3']", "predict": "['1', '2', '3']"}
+{"label": "['4', '1', '2', '3']", "predict": "['1', '4', '2', '3']"}
+{"label": "['1. Samsung Galaxy Note 20 Ultra', '2. iPhone 12 Pro Max', '3. Google Pixel 5']", "predict": "['1', '2', '3']"}
+{"label": "['3', '2', '1']", "predict": "['1', '3', '2']"}
+{"label": "['1', '2', '3', '4']", "predict": "['1', '2', '3', '4']"}
+{"label": "['1. iPhone 12 Pro Max2. Samsung Galaxy S21 Ultra3. Google Pixel 6 Pro4. OnePlus 9']", "predict": "['1', '3', '2']"}
+{"label": "['1', '4', '3', '2']", "predict": "['1', '4', '3', '2']"}
+{"label": "['3', '1', '2']", "predict": "['1', '3', '2']"}
+{"label": "['1', '3', '2', '4']", "predict": "['1', '4', '3', '2']"}
+{"label": "['Bose SoundLink Revolve+ > JBL Flip 4 Portable Speaker > Anker Soundcore Bluetooth Speaker']", "predict": "[''Bose SoundLink Revolve+'', ''JBL Flip 4 Portable Speaker'', ''Anker Soundcore Bluetooth Speaker'']"}
+{"label": "['1', '2', '4', '3']", "predict": "['1', '2', '3', '4']"}
+{"label": "['1-Apple Watch Series 6', '2-Samsung Galaxy Watch Active 2', '3-Fitbit Versa 3', '4-Garmin Vivoactive 4', '5-Amazfit Bip U']", "predict": "['1. Apple Watch Series 6 - 4.7/5 rating2. Samsung Galaxy Watch Active 2 - 4.6/5 rating3. Fitbit Versa 3 - 4.5/5 rating4. Garmin Vivoactive 4 - 4.4/5 rating5. Amazfit Bip U - 4.3/5 rating']"}
+{"label": "['1', '2', '4', '3', '5']", "predict": "['2', '1', '4', '3', '5']"}
+{"label": "['5', '1', '3', '2', '4']", "predict": "['5', '3', '1', '2', '4']"}
+{"label": "['1 > 3 > 2 > 4']", "predict": "['1', '3', '2', '4']"}
+{"label": "['4', '2', '3', '1', '5']", "predict": "['4', '2', '1', '3', '5']"}
+{"label": "['3', '2', '5', '4', '1']", "predict": "['3', '2', '1', '4', '5']"}
+{"label": "['4', '2', '1', '3']", "predict": "['2', '1', '4', '3']"}
+{"label": "['Samsung Galaxy S21 Ultra', 'iPhone 12 Pro Max', 'Google Pixel 6', 'Motorola Moto G Power']", "predict": "['1', '3', '2']"}
+{"label": "['1', '0', '3', '2']", "predict": "['0', '3', '1', '2']"}
+{"label": "['3', '1', '5', '2', '4']", "predict": "['5', '3', '1', '2', '4']"}
+{"label": "['1', '2', '3', '4']", "predict": "['1', '2', '3', '4']"}
+{"label": "['1', '3', '5', '2', '4']", "predict": "['1', '3', '2', '5', '4']"}
+{"label": "['0 > 3 > 2 > 1']", "predict": "['0', '3', '2', '1']"}
+{"label": "['Samsung Galaxy S21', 'iPhone 12', 'Google Pixel 5']", "predict": "['1. Google Pixel 5', '2. Samsung Galaxy S21', '3. iPhone 12']"}
+{"label": "['2', '1', '4', '3']", "predict": "['2', '4', '1', '3']"}
+{"label": "['3', '1', '5', '2', '4']", "predict": "['1', '3', '2', '5', '4']"}
+{"label": "['Adidas Ultraboost', 'Asics Gel-Kayano 27', 'Nike Air Zoom Pegasus', 'New Balance 860v10']", "predict": "['2', '1', '0', '3']"}
+{"label": "['2', '3', '1']", "predict": "['1', '3', '2']"}
+{"label": "['3', '5', '1', '2', '4']", "predict": "['2', '4', '1', '5', '3']"}
+{"label": "['4', '2', '1', '3']", "predict": "['4', '1', '2', '3']"}
+{"label": "['4', '2', '0', '1', '3']", "predict": "['0', '4', '2', '1', '3']"}
+{"label": "['4', '2', '3', '1']", "predict": "['1. Huawei P402. Samsung Galaxy S213. Google Pixel 64. iPhone 12']"}
+{"label": "['1', '3', '2', '4', '5']", "predict": "['1', '3', '2', '4', '5']"}
+{"label": "['2', '5', '1', '4', '3']", "predict": "['2', '5', '1']"}
+{"label": "['1. Diamond Necklace', '3. Smart TV', '4. Pair of Running Shoes', '2. Cotton T-Shirt']", "predict": "['1', '3', '4', '2']"}
+{"label": "['4', '2', '3', '1']", "predict": "['4', '1', '3', '2']"}

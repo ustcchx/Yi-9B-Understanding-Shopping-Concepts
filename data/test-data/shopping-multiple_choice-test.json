@@ -1,0 +1,1370 @@
+[
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "A customer is searching for a product with the term 'wireless headphones with noise cancellation'. Which of the following products best matches their search? \n0. Wired Earbuds with Enhanced Bass\n1. Over-Ear Headphones with ANC Technology\n2. Bluetooth Speaker with Surround Sound\n3. Gaming Headset with Mic\n4. Portable FM Radio\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Based on the review \"I recently purchased a pair of running shoes and they have been comfortable and perfect for my daily jogs. I highly recommend them!\", what is the sentiment of the review?\n0. Negative\n1. Neutral\n2. Positive\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "What is the product category of 'Philips Sonicare ProtectiveClean 4100 Electric Rechargeable Toothbrush'? \n0. Clothing\n1. Electronics\n2. Beauty Tools\n3. Home Decor\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which category does the product 'Instant Pot DUO60 6 Qt 7-in-1 Multi-Use Pressure Cooker' belong to? Choose the most relevant option.\n0. Kitchen Appliances\n1. Electronics\n2. Beauty Products\n3. Sports Equipment\n4. Home Decor\nAnswer: ",
+        "output": "0\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following is NOT a typical feature of a smartwatch?\n0. GPS tracking\n1. Heart rate monitor\n2. Built-in MP3 player\n3. Mechanical winding\n4. Mobile payments\nAnswer: ",
+        "output": "3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Given the product review \"The shoes are comfortable and stylish, perfect for casual wear\", which aspect of the product is being praised?\n0. Comfort\n1. Style\n2. Durability\n3. Price\nOutput: ",
+        "output": "0, 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Choose the most suitable category for the following product description: \"This blender has a powerful motor for smooth blending, perfect for making creamy smoothies and purees.\"\nOptions: \nA) Kitchen Appliances\nB) Sports Equipment\nC) Electronics\nD) Gardening Tools\nAnswer: ",
+        "output": "A) Kitchen Appliances\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following product categories typically has the attribute 'waterproof'?\n0. dress\n1. umbrella\n2. book\n3. sofa\nAnswer: \n",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Based on the review, how would you rate the customer's satisfaction with the purchased vacuum cleaner? Choose from the options below.\nReview: I'm thoroughly impressed with the suction power and the ease of maneuvering this vacuum cleaner around furniture. However, the cord is a bit short for my larger rooms.\nOptions: \nA. Unsatisfied\nB. Somewhat Satisfied\nC. Moderately Satisfied\nD. Very Satisfied\nE. Extremely Satisfied\n",
+        "output": "D. Very Satisfied",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "What is the product category of the item 'Samsung T5 Portable SSD 1TB External Solid State Drive USB 3.1'?\n0. Internal Hard Drive\n1. External Hard Drive\n2. Flash Drive\n3. Internal SSD\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "What is the typical category of a product named 'Philips Sonicare ProtectiveClean 6100 Electric Toothbrush'?\n0. Dental Floss\n1. Toothpaste\n2. Electric Toothbrush\n3. Mouthwash\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Given the product category 'Home Theater Systems', which of the following products does NOT belong to this category?\n0. Bose SoundTouch 300 Soundbar\n1. Sony 5.1-Ch Home Theater System\n2. LG OLED CX Series 65-Inch TV\n3. Yamaha YHT-4950U 5.1-Channel Home Theater System\nAnswer:",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "For the product 'Eco-Friendly Reusable Silicone Food Storage Bags', which statement best describes its purpose? \n0. For single-use packaging\n1. To reduce plastic waste\n2. As a disposable option\n3. To increase plastic consumption\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "The product 'Samsung Galaxy S21 Ultra 5G Factory Unlocked Android Phone' is being reviewed. Does this phone support 5G connectivity?\n0. No\n1. Yes\n2. Information not provided\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple-Choice",
+        "instruction": "The product 'Organic Valley Half & Half, Ultra Pasteurized, Fat-Free, 32 Fluid Ounce' is listed on a grocery store website. Is this product gluten-free? \n0. Not Specified\n1. No\n2. Yes\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Given the product description \"Philips Sonicare ProtectiveClean 6100 Electric Toothbrush, White, HX6807/74\", which category does it belong to?\n0. Electronics\n1. Beauty\n2. Home Improvement\n3. Sports & Outdoors\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Based on the review, does the customer recommend the product? \nReview: The vacuum cleaner exceeded my expectations. It's powerful, easy to maneuver, and has excellent suction. \nOptions: \nA. Yes \nB. No",
+        "output": "A. Yes",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Select the product category that best fits the following description: \"This item is designed to keep food fresh and organized in the refrigerator.\"\nAnswer: ",
+        "output": "Home & Kitchen",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Why did PersonX buy the hiking boots?\n1. To go on a hike\n2. To wear in the office\n3. To participate in a fashion show\n4. To sleep in\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "A customer is looking for a noise-cancelling headset for working from home. Which of the following features would be most important?\n0. Long battery life\n1. Colorful design\n2. Built-in microphone\n3. Adjustable volume control\nAnswer: ",
+        "output": "0",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following product categories does the phrase \"Organic Cotton Baby Onesie\" belong to? Choose the most suitable category from the options.\nOptions: A) Clothing & Accessories B) Electronics C) Home Improvement D) Beauty & Personal Care",
+        "output": "A\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "After reading the product review \"This blender is amazing! It purees everything so smoothly and quickly, making smoothies a breeze.\", which of the following product categories does the review likely belong to?\n0. kitchen appliances\n1. clothing\n2. electronics\n3. beauty products\nAnswer: ",
+        "output": "0",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "The product description for 'Instant Pot DUO60 6 Qt 7-in-1 Multi-Use Pressure Cooker' mentions its versatility. How many functions does it have?\n0. 3\n1. 5\n2. 7\n3. 9\nAnswer: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "The product 'Organic Cotton Bath Towels - Soft and Absorbent, Set of 4, Eco-Friendly, Zero Twist, Hotel Quality, Quick Dry, Machine Washable, 27x54 Inches, White' is described. What color options are available?\n0. Only white\n1. Assorted colors\n2. Various shades of white\n3. It cannot be inferred.\nAnswer:",
+        "output": "0",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "The product 'Keurig K-Elite Single-Serve K-Cup Pod Coffee Maker' is being discussed. What is the brewing capacity of this coffee maker?\nOptions:\n0. Makes 4.25 cups\n1. Makes 12 cups\n2. Makes 1 cup\n3. Makes 8 cups\nAnswer: ",
+        "output": "3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "For the product 'Keurig K-Classic Coffee Maker, Single Serve K-Cup Pod Coffee Brewer, Programmable, 6, 8, 10 Oz. K-Cup Pods, Black', what color options are available?\n0. Red\n1. Silver\n2. Black\n3. It cannot be inferred from the information provided.\nAnswer: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following products would be most suitable for a person who wants a lightweight, compact camera for travel?\n0. DSLR Camera with Heavy Lens Kit\n1. Mirrorless Camera with Travel Lens\n2. Professional Camcorder\n3. Point-and-Shoot Camera with Optical Zoom\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following product categories does the product 'Philips Sonicare ProtectiveClean 6100 Electric Toothbrush' belong to?\n0. Kitchen Appliances\n1. Personal Care\n2. Home Decor\n3. Outdoor Tools\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Choose the correct product attribute for the following description: \"This blender has a powerful 1200-watt motor for efficient blending.\"\nOptions: \n0. low wattage\n1. high wattage\n2. compact size\n3. slow speed\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Based on the product title 'Organic Cotton Bath Towels - Soft and Absorbent Set of 4 - Eco-Friendly', which category does this product belong to? \n1. Bedding\n2. Bath\n3. Kitchen\n4. Clothing\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following product features is most important for a 'running shoes' category? \n1. Breathable Mesh Upper \n2. Leather Upper \n3. High Heel \n4. Waterproof Material\nAnswer:",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following is a positive review for a camera?\n0. The camera's battery life is terrible.\n1. The picture quality is stunning.\n2. The camera is too heavy to carry around.\n3. The software interface is confusing.\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Customers are comparing two smartphones, Model A and Model B. Model A has a higher resolution display, while Model B has a longer battery life. Which feature is Model A superior in compared to Model B?\n0. Battery Life\n1. Display Resolution\n2. Processor Speed\n3. Storage Capacity\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following product categories does the phrase \"Organic Cotton T-Shirt\" belong to? Choose the best fit from the options:\n1. Women's Clothing\n2. Men's Clothing\n3. Baby & Toddler Clothing\n4. Sports Apparel\n5. Home Textiles",
+        "output": "2. Men's Clothing\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "A customer is looking for a laptop with a minimum of 8GB RAM and a fast processor for video editing. Which of the following laptops meets their requirements?\n0. Laptop X: 4GB RAM, Intel Core i3\n1. Laptop Y: 16GB RAM, AMD Ryzen 5\n2. Laptop Z: 8GB RAM, Intel Pentium\n3. Laptop W: 12GB RAM, Intel Core i5\nAnswer: ",
+        "output": "1, 3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "What is the category of the product 'Philips HR2358/06 Viva Collection Blender'? Choose the most suitable option from the following:\nA) Cookware B) Small Kitchen Appliances C) Cutlery D) Tableware",
+        "output": "B\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following product categories typically includes the attribute 'sleeve length'?\n0. Women's Handbags\n1. Men's Shirts\n2. Outdoor Furniture\n3. Bicycle Accessories\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "For which product category would the attribute \"water resistance depth\" be relevant?\n0. Sunglasses\n1. Smartwatch\n2. Running Shoes\n3. T-Shirt\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following is a positive sentiment for a blender product review? \n0. \"It broke down after a week.\"\n1. \"The blades are too weak to blend ice.\"\n2. \"This blender is incredibly powerful and easy to clean.\"\n3. \"I dislike the color options available.\"\nAnswer: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Customer feedback: \"I love the soft texture and vibrant colors of this bedding set. It's perfect for my bedroom decor.\" Which aspect of the product is the customer praising?\n0. Durability\n1. Design\n2. Price\n3. Comfort\nAnswer:\n",
+        "output": "1, 3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Choose the correct option that best describes the purpose of a product review.\n0. To provide a personal experience\n1. To give detailed specifications\n2. To showcase the product's features\n3. To help other customers make informed decisions\nAnswer: ",
+        "output": "3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is NOT a type of coffee maker?\n0. Drip Coffee Maker\n1. French Press\n2. Toaster Oven\n3. Espresso Machine\nAnswer: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Task type: Multiple Choice - Choose the most suitable item for a hiking trip: A) a handbag, B) a backpack, C) a briefcase, D) a shopping bag.\nOutput: \nAnswer: ",
+        "output": "B) a backpack\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multi-choice",
+        "instruction": "Multiple Choice: Which of the following is a feature you would look for in a winter coat?\n0. UV Protection\n1. Insulation\n2. Water Resistance\n3. All of the above\nAnswer: ",
+        "output": "3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following is NOT a type of product mentioned in a home office supply store category?\nOptions:\nA. Desk\nB. Printer\nC. Gardening tools\nD. Computer\nAnswer: \n",
+        "output": "C. Gardening tools\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Based on the following descriptions, which item would be considered a better gift for a tech-savvy friend?\nItem A: A smartwatch that monitors health and fitness with multiple sports modes.\nItem B: A set of traditional, handcrafted wooden coasters.\nAnswer: ",
+        "output": "Item A",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is the most suitable size for a child's school backpack, according to standard recommendations?\n0. 16 inches\n1. 20 inches\n2. 24 inches\n3. 28 inches\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the correct size for a child's t-shirt based on the following age range and chest measurement: \nAge: 5-7 years\nChest: 26-28 inches\n0. Small\n1. Medium\n2. Large\n3. X-Large\nAnswer: ",
+        "output": "1\n\nPlease note that for the retrieval and ranking tasks, the output would typically include a list of items or a ranked list, respectively, but since the actual inventory or review scores are not provided, the output fields are left blank. The named entity recognition task for the search query would extract the brand ('Nike') and product type ('running shoes'), but as per the instructions, only the entities are to be listed without explanations. The generation task requires the model to create a persuasive description, which is left open-ended for the model to generate.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Multiple Choice: Which of the following is the most critical factor to consider when purchasing a laptop for graphic design?\n0. Processor Speed\n1. RAM Size\n2. Graphics Card\n3. Battery Life\nAnswer: ",
+        "output": "'2'",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following is NOT a feature of the 'TechPro 5000' wireless earbuds?\n1. Bluetooth 5.0\n2. Noise-cancellation\n3. 10-hour battery life\n4. Water-resistant\nAnswer: ",
+        "output": "3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is a feature of the product 'Apple AirTag'?\n0. Water-resistant\n1. Battery replaceable\n2. GPS tracking\n3. All of the above\nAnswer: ",
+        "output": "3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Choose the most appropriate item to include in a gift basket for a coffee lover: 0. A tea set, 1. A coffee grinder, 2. A set of wine glasses, 3. A box of gourmet coffee beans. Answer: \n",
+        "output": "3\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate category for a product that is described as 'Ergonomic office chair with mesh back, adjustable lumbar support, and swivel base'.\n1. Furniture\n2. Clothing\n3. Electronics\n4. Fitness Equipment\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "\"A customer is looking for a 'wireless Bluetooth earbud with noise cancellation'. Which of the following is the most suitable option for the customer?\"\nOptions:\nA. Sony WH-1000XM4 Wireless Over-Ear Headphones\nB. Apple AirPods Pro\nC. Bose QuietComfort Earbuds\nD. Samsung Galaxy Buds Live\nOutput: ",
+        "output": "\"C. Bose QuietComfort Earbuds\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "When searching for a new refrigerator, a consumer looks at a model with a 'Smart Cooling System'. What does this feature likely imply?\n0. The refrigerator uses AI to adapt to usage patterns.\n1. It has a built-in water filter.\n2. It helps to keep food fresh for a longer period.\n3. It is energy-efficient due to advanced temperature control.\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "When a customer searches for 'smart watch', which of the following products would be the least relevant to show in the search results?\n1. Apple Watch Series 6\n2. Fitbit Versa 3\n3. Samsung Galaxy Watch Active\n4. Timex Ironman Classic 30 Mid-Size Watch\nAnswer: ",
+        "output": "4",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Choose the most appropriate department in a supermarket for the following product: 'Organic Aloe Vera Gel'.\n0. Personal Care\n1. Health and Wellness\n2. Produce\n3. Beauty\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Task type: Multiple Choice. Choose the most appropriate gift for someone who loves cooking. \n0. A set of golf clubs\n1. A subscription to a cooking magazine\n2. A gourmet food basket\n3. A new pair of running shoes\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which attribute is most important when comparing two similar products, 'smartwatch' and 'fitness tracker'? \n0. price\n1. battery life\n2. features\n3. brand\nAnswer: ",
+        "output": "2\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Based on the following customer query, which of the following responses would be the most appropriate? \nQuery: 'I'm looking for a durable messenger bag that can withstand rough use.' \nResponses: \n0. 'Our leather handbags are stylish and elegant.'\n1. 'This nylon messenger bag is tough and water-resistant.'\n2. 'We have laptop backpacks that offer good padding.'\n3. 'You might like our canvas totes for a casual look.'\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate product category for a device that is used to measure blood pressure at home.\n0. Kitchen Appliances\n1. Health & Wellness\n2. Electronics\n3. Automotive Parts\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most suitable item from the list to complete the sentence: \"Before going camping, it is essential to pack a ______ that is both lightweight and durable.\" 0. Sleeping Bag, 1. Tent, 2. Backpack, 3. Flashlight. Answer:",
+        "output": "\"2\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Task type: Multiple Choice\nChoose the most appropriate product to gift someone who loves yoga, from the following options:\n0. Weightlifting belt\n1. Yoga mat\n2. Running shoes\n3. Protein powder\nAnswer: ",
+        "output": "1\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most suitable size of jeans for a person who is 5 feet 11 inches tall and weighs 180 pounds.\n1. Small\n2. Medium\n3. Large\n4. Extra Large\nAnswer: \n",
+        "output": "3. Large",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is the most appropriate category for a 'Wireless Charging Pad' on an e-commerce website?\n1. Electronics\n2. Home & Kitchen\n3. Automotive\n4. Office Supplies\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Task type: Multiple Choice. A customer is searching for a pair of running shoes with good arch support. Which of the following shoe models is most likely to have the desired feature?\n1. Nike Free RN 2020\n2. ASICS Gel-Kayano 27\n3. New Balance 860v11\n4. Adidas UltraBoost 21\nOutput: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following features is most important for a customer looking to buy a new microwave for a small kitchen?\n1. Compact size\n2. Turntable for even heating\n3. Multiple power levels\n4. Digital timer\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Multiple Choice: Why would a customer choose to buy a product with a warranty?\n0. They want to save money on future repairs.\n1. They prefer a product that is more durable.\n2. They want to ensure they can return the product if they are not satisfied.\n3. They want to receive free replacements parts.\nAnswer: ",
+        "output": "\"0\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is the most appropriate product to purchase for someone who is interested in both photography and hiking?\n1. Camera Lens Coffee Mug\n2. All-Weather Camera Backpack\n3. Hiking Boot Wine Opener Keychain\n4. Portable Solar Panel Phone Charger\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most suitable category for a product described as \"a stylish, water-resistant backpack with multiple compartments and a padded laptop sleeve.\"\n0. Clothing\n1. Electronics\n2. Luggage & Travel\n3. School Supplies\nAnswer: ",
+        "output": "2\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Choose the most appropriate product category for a 'Wireless Bluetooth Earbuds with Microphone, Noise Cancelling, IPX7 Waterproof, 24hr Playtime, for Workouts'.\nOptions:\n1. Electronics\n2. Clothing\n3. Sports & Fitness\n4. Jewelry\nOutput: ",
+        "output": "3. Sports & Fitness\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate department in a store where the following product would likely be found: \"Laptop Cooling Pad, RGB LED, Ultra-Slim, Aluminum Body\".\nOptions:\nA. Electronics\nB. Computers\nC. Home Goods\nD. Office Supplies\nAnswer: ",
+        "output": "B",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following attributes is most important when purchasing a winter coat for extreme cold?\n0. Style\n1. Insulation\n2. Water resistance\n3. Length\nAnswer: \n",
+        "output": "1\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is NOT a feature of the 'Fitbit Charge 4' fitness tracker?\n1. Heart rate monitoring\n2. Built-in GPS\n3. Contactless payments\n4. Cellular connectivity\nAnswer: ",
+        "output": "4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate product review title for the following review: 'I love this blender! It's powerful, quiet, and has a sleek design that fits perfectly on my kitchen counter. Highly recommend it to anyone looking for a quality blender.'\n0. 'Best Blender Ever!'\n1. 'Too Noisy and Weak'\n2. 'Average Blender, Nothing Special'\n3. 'Does Not Meet Expectations'\nAnswer: ",
+        "output": "0",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is not a valid product attribute when describing a laptop? Answer:\n1. Processor Speed\n2. Screen Size\n3. Battery Life\n4. Color of the Mouse\nOutput:",
+        "output": ": 4. Color of the Mouse",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following attributes best describes the material of a 'woolen coat'? Answer: \noptions: [lightweight, waterproof, warm, elastic]",
+        "output": "warm",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is NOT a common material used in making laptop cases?\n1. Nylon\n2. Polyester\n3. Aluminum\n4. Silicone\nAnswer: ",
+        "output": "3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Multiple Choice: Which of the following is the most suitable material for a winter coat to provide adequate warmth?\n0. Cotton\n1. Wool\n2. Polyester\n3. Down\nAnswer: ",
+        "output": "3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following attributes best describes the material of a 'Leather Office Desk Chair'?\n0. Plastic\n1. Metal\n2. Wood\n3. Leather\nAnswer: ",
+        "output": "3\n \n\nPlease note, for the tasks that require output, I have left the output fields blank, as the GPT model will be expected to complete these based on the input provided.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the correct product category for a 'Fire TV Stick' from the following options:\n0. Electronics\n1. Home Decor\n2. Personal Care\n3. Kitchen Appliances\nAnswer:",
+        "output": ": 0\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following products is recommended for a baby's sensitive skin? 0. Johnson's Baby Lotion, 1. Neutrogena Hand Cream, 2. Cetaphil Gentle Skin Cleanser, 3. Eucerin Baby Cream. Answer: ",
+        "output": "3\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate department in an online store for a 'Gourmet Coffee Gift Set'.\nChoices:\n1. Electronics\n2. Home & Kitchen\n3. Clothing\n4. Food & Beverages\nOutput: ",
+        "output": "4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is the best material for making a durable and water-resistant backpack?\n0. Cotton canvas\n1. Nylon\n2. Polyester\n3. Leather\nAnswer: ",
+        "output": "1\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the correct product category for the following item: \"Neck Pillow \u2013 Memory Foam with Cooling Gel\". \n0. Electronics\n1. Home & Kitchen\n2. Health & Personal Care\n3. Automotive\n4. Travel\nAnswer: ",
+        "output": "4",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple_choice",
+        "instruction": "Choose the most appropriate product category for a 'sun hat' that has the following features: wide brim, UV protection, packable, and water-resistant.\nOptions:\n1. Clothing\n2. Accessories\n3. Swimwear\n4. Outdoor Gear\nOutput: \n",
+        "output": "4. Outdoor Gear\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate product category for the following item:\nItem: 'Professional Hair Straightener with Tourmaline Ceramic Coating'\nOptions:\n1. Beauty & Personal Care\n2. Electronics\n3. Appliances\n4. Health & Wellness\nOutput:",
+        "output": "1\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Multiple Choice: Choose the most likely material used for the handles of kitchen knives that ensures a secure grip.\n0. Ceramic\n1. Metal\n2. Silicone\n3. Wood\nAnswer: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is not a feature of the \"SmartMesh Wi-Fi Router\" as described in the product specifications? 1. Mesh network technology, 2. High-speed internet connectivity, 3. Voice control integration, 4. Built-in firewall. Answer:",
+        "output": "3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following statements best describes a product's 'sale price'?\n1. The price at which the product was originally listed.\n2. The price offered to customers who buy in bulk.\n3. The price temporarily reduced for promotional purposes.\n4. The price at which the product is sold after all discounts have been applied.\nAnswer: ",
+        "output": "\"3.\"\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most suitable subtitle for a book that teaches how to save money while shopping online: \n1. \"Mastering the Art of Online Coupons\"\n2. \"Secrets of the Frugal Shopper\"\n3. \"Budgeting for Beginners\"\n4. \"The Digital Wallet Revolution\"\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate product category for the item described: \"A small, battery-powered device used to remove unwanted hair.\"\n0. Personal Care\n1. Kitchen Appliances\n2. Electronics\n3. Clothing Accessories\nAnswer: ",
+        "output": "0",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the option that best completes the following sentence: \"When shopping for a new laptop, it's important to consider the amount of RAM because it affects the laptop's ________.\"\n0. battery life\n1. size\n2. speed\n3. weight\nAnswer: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is a feature of the product 'Smartwatch, Fitness Tracker with Heart Rate Monitor, GPS, Waterproof, Compatible with Android and iOS'?\n0. It does not have a heart rate monitor.\n1. It is not compatible with iOS.\n2. It is waterproof.\n3. It lacks GPS functionality.\nAnswer: ",
+        "output": "2\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate product category for the item 'Rolex Submariner watch' from the following options:\n0. Fashion accessories\n1. Sports equipment\n2. Jewelry\n3. Timepieces\nAnswer: ",
+        "output": "3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is the most appropriate gift for a child's birthday? \n1. A video game console, 2. A board game, 3. An educational toy, 4. A pet.\nAnswer: ",
+        "output": "3. An educational toy",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Choose the best storage solution for a customer who needs to back up large video files.\n0. external hard drive\n1. cloud storage subscription\n2. USB flash drive\n3. memory card\nAnswer: ",
+        "output": "0",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which attribute best describes the material of 'Microfiber Cleaning Cloths'?\n0. Rough\n1. Absorbent\n2. Scratchy\n3. Smooth\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following product names suggests a set of two or more items?\n0. 'Single Serving Coffee Maker'\n1. 'Dual-Pack Running Shoes'\n2. 'Solo Travel Bag'\n3. 'Individualyl Wrapped Cookies'\nAnswer: ",
+        "output": "1\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "What is the most likely benefit a customer would seek when purchasing a 'wireless charging pad' compared to a 'charging cable'?\n0. Portability\n1. Convenience\n2. Speed\n3. Cost-effectiveness\nAnswer: ",
+        "output": "1\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multi-choice",
+        "instruction": "Multiple Choice: A customer is comparing two products, 'A' and 'B'. Product A has an average rating of 4.5 out of 5 based on 200 reviews, while product B has an average rating of 4.2 out of 5 based on 50 reviews. Which product should the customer consider purchasing if they prioritize product quality?\n0. Product A\n1. Product B\n2. It doesn't matter, both are similar in quality.\n3. Not enough information to decide.\nAnswer: ",
+        "output": "0",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate product feature for a laptop described as 'ideal for gaming and graphic design':\n0. Battery life\n1. Processor speed\n2. Graphics card\n3. Weight\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate product category for a 'Portable Electric Air Pump'.\n1. Automotive Accessories\n2. Sports Equipment\n3. Camping Gear\n4. Home Appliances\nOutput: ",
+        "output": "3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is the most likely feature of a product advertised as \"waterproof\"?\nA. It can repel water.\nB. It can absorb water but dries quickly.\nC. It is completely immune to water damage.\nD. It can float on water.\nAnswer: ",
+        "output": "A",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Task type: Multiple Choice. Which of the following is NOT a feature of the 'Smart Watch Pro X'?\n1. Heart Rate Monitor\n2. Sleep Tracking\n3. Cellular Connectivity\n4. Water Resistance up to 50 meters\nAnswer: ",
+        "output": "3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate department in an online store where the product 'Neutrogena Hydro Boost Water Gel' would be categorized.\n0. Electronics\n1. Beauty and Personal Care\n2. Health and Wellness\n3. Home and Kitchen\nAnswer: ",
+        "output": "1\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the option that best describes the feedback given in a product review: \"The battery life on this phone is incredible. I can use it for days without charging.\"\n0. Negative\n1. Positive\n2. Neutral\n3. Suggestive\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is a feature of the product described in the review? \"This microwave oven is amazing! It has a large capacity, multiple power levels, and an easy-to-use touch panel.\"\n0. Compact size\n1. Large capacity\n2. Manual controls\n3. Lack of power levels\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is a common attribute used to describe a high-quality pillow?\n0. Firmness\n1. Thread count\n2. Material type\n3. All of the above\nAnswer: ",
+        "output": "3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Choose the most appropriate product category for a 'Bean Bag Chair'.\n1. Furniture\n2. Clothing\n3. Appliances\n4. Toys\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate department in a supermarket for the following item: 'organic bamboo toothbrush'. Answer: ",
+        "output": "2\nChoices:\n1. Electronics\n2. Health and Beauty\n3. Home Goods\n4. Produce",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Multiple Choice: A customer is looking for a fast and reliable internet connection for their home. Which of the following products would be the best choice for this customer?\n1. A router with dual-band technology.\n2. A fiber optic cable subscription.\n3. An Ethernet cable.\n4. A Wi-Fi range extender.\n\nAnswer: ",
+        "output": "\"2\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is NOT a type of online shopping payment method?\nOptions:\n1. Credit/debit card\n2. Digital wallet\n3. Buy now, pay later service\n4. Cryptocurrency\n5. Gift receipt\nOutput:\nAnswer:",
+        "output": "5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Multiple Choice: Which of the following is NOT a feature of the 'Smartwatch Pro 5000'?\n1. Fitness tracking\n2. Sleep monitoring\n3. Video calling\n4. Satellite navigation\n5. Battery lasts up to 3 months\nAnswer: ",
+        "output": "5\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Choose the most appropriate product feature description for a smartwatch designed for hiking:\nA. Water-resistant with a sleek design\nB. Rugged build with a long-lasting battery\nC. Touchscreen with advanced fitness tracking\nD. Elegant and lightweight\nAnswer: ",
+        "output": "B",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most suitable size of a backpack for a high school student who needs to carry textbooks, binders, and a laptop.\n0. 20L\n1. 40L\n2. 60L\n3. 80L\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate product category for a 'wireless charging pad' from the following options.\n0. Computer Accessories\n1. Phone Accessories\n2. Home Decor\n3. Automotive Parts\nAnswer: ",
+        "output": "1\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Choose the most appropriate product description for a luxury handbag: \n0. \"Sturdy and roomy, great for camping.\"\n1. \"Elegant and stylish, perfect for special occasions.\"\n2. \"Durable and water-resistant, ideal for outdoor activities.\"\n3. \"Compact and versatile, suitable for everyday use.\"\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "When searching for a new pair of 'wireless noise-cancelling headphones', which of the following features would be most important to someone who frequently travels by plane?\n0. Battery life\n1. Sound quality\n2. Comfort\n3. Price\nAnswer: ",
+        "output": "0",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Task type: Multiple Choice. Which item from the following list is least likely to be found in a home office setting? \n1. Desk Lamp \n2. Printer \n3. Sofa \n4. File Cabinet \nAnswer: ",
+        "output": "\"3\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the option that best describes the shopping scenario where a customer would use a product comparison chart.\nA. When they want to buy a specific brand.\nB. When they are looking for the best deal.\nC. When they want to buy the cheapest item.\nD. When they need a product with specific features.\nAnswer: ",
+        "output": "B",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the product that is least likely to be found in the 'Electronics' category.\n0. Digital Camera\n1. Smart Thermostat\n2. Wooden Chair\n3. Bluetooth Speaker\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "A customer is looking for a new refrigerator with a specific capacity. Which of the following options is closest to a 17 cubic feet refrigerator?\n1. 15.6 cubic feet\n2. 17.2 cubic feet\n3. 16.8 cubic feet\n4. 14.5 cubic feet\nAnswer: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Multiple Choice: Which of the following is the most likely material used for a 'stainless steel water bottle'?\n0. Plastic\n1. Aluminum\n2. Glass\n3. Stainless Steel\nAnswer: ",
+        "output": "3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is the most suitable product for a gift for a coffee enthusiast?\n0. Keurig K-Caf\u00e9 Coffee Maker\n1. Instant Ramen Noodles\n2. Bluetooth Headphones\n3. Coffee Table Book about Coffee\nAnswer:",
+        "output": ": 0\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "A customer is looking for a new pair of running shoes. They have flat feet and require shoes with ample support. Which type of running shoe should they choose?\n0. Neutral running shoes\n1. Stability running shoes\n2. Minimalist running shoes\n3. Trail running shoes\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Task type: Multiple Choice. Choose the most appropriate department in a retail store where you would find the product 'Organic Aloe Vera Gel'.\n0. Skincare\n1. Health and Wellness\n2. Produce\n3. Pharmacy\nAnswer: ",
+        "output": "\"0\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the review snippet that best conveys 'satisfaction with the product quality'.\n0. \"The item arrived promptly but looks cheaper than expected.\"\n1. \"Despite the high price, the quality is top-notch and worth every penny.\"\n2. \"The product is okay, but I don't think I'll buy it again.\"\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is the most appropriate product category for an item described as \"a set of 4 colorful melamine plates with a whimsical unicorn design\"?\n0. Kitchen Appliances\n1. Tableware\n2. Children\u2019s Clothing\n3. Home Decor\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most suitable product category for an item described as 'a durable, waterproof watch with built-in GPS, heart rate monitor, and smart notifications'. \n0. Fashion Accessories\n1. Smartwatches\n2. Outdoor Gear\n3. Health & Fitness\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Multiple Choice: Which of the following is the most suitable gift for a fitness enthusiast? 0. Chocolate, 1. Gym Membership, 2. Book, 3. Massage Gift Card.\nAnswer: ",
+        "output": "\"1\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following attributes is most suitable for a product in the 'home decor' category?\n0. Waterproof\n1. Elegant\n2. Portable\n3. Battery-powered\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following attributes is most important when buying a laptop for gaming?\n0. Battery life\n1. Processor speed\n2. Graphics card\n3. Storage capacity\nAnswer: ",
+        "output": "2\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is NOT a benefit of shopping online?\n0. Convenience\n1. Larger product selection\n2. Time-saving\n3. Seeing the product in person\nAnswer: ",
+        "output": "3",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following attributes best describes the material used in 'Leather Handbag, Women's Designer Purse'?\n0. Cotton\n1. Faux leather\n2. Real leather\n3. Silk\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Based on the following product title, choose the correct department the product belongs in: 'Stainless Steel Toaster Oven'. \n0. Appliances \n1. Electronics \n2. Furniture \n3. Kitchenware \nAnswer:",
+        "output": "\"3\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is not a common material used in watch straps? 0. leather, 1. stainless steel, 2. silicone, 3. cotton. Answer: ",
+        "output": "3\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "When shopping for a new laptop, which of the following specifications is most important for gaming performance?\n1. Processor speed\n2. Graphics card\n3. RAM size\n4. Hard drive capacity\nAnswer: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate product category for the following item.\nItem: Portable Bluetooth Speaker\nOptions:\n1. Electronics\n2. Home Decor\n3. Clothing\n4. Personal Care\nOutput: ",
+        "output": "1. Electronics",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following statements would be most likely to appear in a review for a(n) digital camera that emphasizes the camera's zoom capabilities? \n0. 'The autofocus is incredibly fast.'\n1. 'I can clearly see the details of the moon with this camera's zoom feature.'\n2. 'It fits perfectly in my handbag.'\n3. 'Battery life is excellent for long photo sessions.'\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is the most appropriate product description for a 'smart bulb'?\n0. A compact fluorescent light bulb that uses less energy.\n1. A bulb that can be controlled with a smartphone app, offering various lighting effects.\n2. A traditional incandescent bulb that provides warm lighting.\n3. A bulb designed for use in photography, with consistent color output.\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following features is NOT included in the product 'Nintendo Switch'?\n0. Portable gaming console\n1. Detachable controllers\n2. 4K resolution support\n3. Multiplayer capability\nAnswer: \n",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is NOT a feature of the iPhone 12?\n0. Ceramic Shield front panel\n1. MagSafe wireless charging\n2. 5G network compatibility\n3. Foldable display\nAnswer: ",
+        "output": "3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is the most suitable product for a consumer looking to reduce their carbon footprint?\n0. Gasoline lawnmower\n1. Electric car\n2. Plastic water bottles\n3. Solar-powered calculator\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following products is best suited for a beginner yoga practitioner? \n0. Manduka PRO\u745c\u4f3d\u57ab\n1. Lululemon The Reversible Mat 3mm\n2. Jade Harmony Professional\u745c\u73c8\u57ab\n3. Hugger Mugger Standard \u745c\u4f3d\u57ab\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following is NOT a brand of athletic footwear?\nOptions: \n1. Nike\n2. Sony\n3. Adidas\n4. Puma\nAnswer: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is NOT a likely feature of a high-end digital camera?\n0. Large image sensor\n1. Weather sealing\n2. Wi-Fi connectivity\n3. Long battery life\nAnswer: ",
+        "output": "3\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following product titles suggests that the product is organic?\n1. 'Crispy Baked Potato Chips'\n2. 'Organic Dried Apple Slices'\n3. 'Sugar-Free Fruit Snacks'\n4. 'Veggie Sticks with Less Salt'\nAnswer: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "What is the most likely benefit of using a standing desk converter? 0. Increased productivity, 1. Improved posture, 2. Reduced eye strain, 3. Increased mobility. Answer:",
+        "output": ": 1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate department in an online store for a product described as 'stainless steel water bottle with a leak-proof design'.\nOptions:\n1. Kitchen & Dining\n2. Health & Personal Care\n3. Sports & Outdoors\n4. Home & Garden\nAnswer: ",
+        "output": "3. Sports & Outdoors",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate product category for a garlic press.\n1. Kitchen Appliances\n2. Gardening Tools\n3. Health & Beauty\n4. Automotive Parts\nAnswer: ",
+        "output": "1\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the correct size description for a 'King-Size Bed Pillow' that is listed as '20x36 inches' on an online store. \n0. Standard Size\n1. Queen Size\n2. King Size\n3. Pillow Case Size\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which attribute best describes the 'Nike Air Zoom Pegasus' running shoes?\n0. Style\n1. Comfort\n2. Durability\n3. Lightweight\nAnswer: ",
+        "output": "1\n\nNote: The rankings and choices provided in the output fields are based on general assumptions and may vary depending on specific contexts or user preferences.",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following attributes is most commonly associated with the product category 'smartphones'?\n0. Color\n1. Battery Life\n2. Screen Size\n3. Price\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate size description for a laptop with a 15.6-inch screen:\n0. Compact\n1. Mid-sized\n2. Large\n3. Enormous\nAnswer:",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following is the most likely reason for a customer to leave a negative review about a wireless router?\n1. The router frequently drops the connection.\n2. The router has an attractive design.\n3. The router is difficult to set up.\n4. The router's price is too high.\n\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Task type: Multiple Choice. Choose the most appropriate product category for the item 'Neutrogena Hydro Boost Gel-Cream'. \n1. Skincare\n2. Makeup\n3. Haircare\n4. Bodycare\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which of the following products is least likely to be found in a 'Gardening Tools' category? \nOptions: \n1. Hand Trowel \n2. Hose Reel \n3. Weed Puller \n4. Coffee Maker \nAnswer: ",
+        "output": "4",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Choose the most appropriate tag for a online listing of a vintage record player.\n0. modern\n1. antique\n2. collectible\n3. new\nAnswer: ",
+        "output": "2",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Instructions: Choose the most suitable product category for the following item.\nItem: 'Bamboo Charcoal Air Purifying Bag'\nChoices:\n1. Home Decor\n2. Health & Personal Care\n3. Automotive\n4. Cleaning Supplies\n5. Pet Supplies\nOutput:",
+        "output": "4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the most appropriate description for the following product based on its title.\nProduct Title: \"QuickDry Sports Towel\"\n0. absorbent and fast-drying\n1. stylish and compact\n2. soft and luxurious\n3. durable and versatile\nAnswer: \n",
+        "output": "0\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Task type: Multiple Choice. Choose the most appropriate item for a gift for a child's birthday party: 0. A gourmet chocolate set, 1. A large stuffed animal, 2. A video game for a console, 3. A board game. Answer: \n",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Multiple Choice: If a customer is searching for 'smart bulb smart plug', which of the following search queries would be most closely related?\n0. smart plug\n1. smart bulb\n2. home automation\n3. light bulb\nAnswer: ",
+        "output": "\"2\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "You are shopping for a new phone. Which of the following options is the most important feature for you?\nOptions:\n1. Battery Life\n2. Camera Quality\n3. Processing Speed\n4. Screen Size\nSelect the number that corresponds to your top choice. Output: \n",
+        "output": "[1]\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Multiple Choice: Which of the following is the best deal for buying a 12-pack of bottled water?\n0. 16 oz bottles for $12.99\n1. 20 oz bottles for $14.99\n2. 24 oz bottles for $17.99\n3. 12 oz bottles for $9.99\nAnswer: ",
+        "output": "\"2\"",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the product that is most likely to be sold in a sports equipment store.\n0. A golden necklace with a heart pendant.\n1. A pair of running shoes with shock absorption.\n2. A fancy dress with sequins and tulle.\n3. A digital photo frame with a wooden design.\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following is NOT a type of coffee machine?\n1. Drip coffee machine\n2. Espresso machine\n3. French press\n4. Blender\nAnswer: ",
+        "output": "4\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Task type: Multiple Choice. Which of the following product names indicates it is a 'wireless earbud'?\n1. SoundBlaster X7C Surround Sound Headset\n2. True Wireless Earbuds, Model A3\n3. Bluetooth Neckband Headphones, Model B2\n4. Wired In-Ear Headphones with Mic, Model I5\nAnswer: ",
+        "output": "2\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "Multiple Choice",
+        "instruction": "Which of the following is the most suitable description for a product that is 'waterproof'?\nChoices:\n1. Can be used in the rain.\n2. Repels water.\n3. Absorbs water quickly.\n4. Only for indoor use.\nOutput: ",
+        "output": "2\n\n",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Choose the best description for the product 'Nintendo Switch'.\n0. A gaming console that can be used as a portable device.\n1. A smartphone with advanced gaming features.\n2. A tablet with built-in controllers.\n3. A desktop computer for gaming.\nAnswer:",
+        "output": "0",
+        "input": "",
+        "system": "",
+        "history": ""
+    },
+    {
+        "task_type": "multiple-choice",
+        "instruction": "Which attribute is most important when choosing a laptop for gaming?\n0. Battery Life\n1. Graphics Card\n2. Processor Speed\n3. Storage Capacity\nAnswer: ",
+        "output": "1",
+        "input": "",
+        "system": "",
+        "history": ""
+    }
+]
