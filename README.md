@@ -23,13 +23,6 @@
 ### 3. 微调后模型性能与微调前的性能比较
 对于每一个任务，我们都会随机筛选出上百条数据进行在原模型和微调后模型上的测试。由于对于大模型的输出不能保证其格式的稳定性，所以在析取答案时采取基于规则式析取和人工析取，对于无法有效析取的输出采取最差指标进行标记。由于我们精力有限，在ranking测试集上的原模型输出格式过于繁杂、迷惑，所以这部分的指标采用'-'代替。最后我们在各类测试集上的测试结果以及指标如下表所示，可以看见经过post-pretrain与SFT后的模型表现显著优异于原模型。
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg"><thead>
   <tr>
