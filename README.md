@@ -70,4 +70,7 @@
 
 ### Huggingface
 我们的模型已经上传至huggingFace：
-[Model URL](https://huggingface.co/Daxuxu36/Yi-9B-Understanding-Shopping-Concepts)
+[Model URL](https://huggingface.co/Daxuxu36/Yi-9B-Understanding-Shopping-Concepts) 
+
+项目在github上：
+[Project URL](https://github.com/ustcchx/Yi-9B-Understanding-Shopping-Concepts)
